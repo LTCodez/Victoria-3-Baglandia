@@ -366,7 +366,11 @@ STATES = {
 	s:STATE_GUD_04 = {
 		create_state = {
 			country = c:GUD
-			owned_provinces = { "x78E9E7" "x4A82DE" "x51BEAC" "x5BAEE3" "x57C78E" "x7ABDFC" "x7ED29B" "x0369B8" "x5B9895" "x2C6BC3" "x7CCFFC" "x6C3AF2" "x2852FC" "x8CD784" "x4FE5FC" "x73EAFC" "x8B6BF3" "x8276BC" "x3DC6E6" }
+			owned_provinces = { "x0369B8" "x2C6BC3" "x4A82DE" "x4FE5FC" "x57C78E" "x5BAEE3" "x6C3AF2" "x73EAFC" "x7ABDFC" "x7CCFFC" "x8276BC" "x8B6BF3" }
+		}
+		create_state = {
+			country = c:JUD
+			owned_provinces = { "x2852FC" "x3DC6E6" "x51BEAC" "x5B9895" "x78E9E7" "x7ED29B" "x8CD784" }
 		}
 		add_homeland = cu:yankee
 	}
@@ -380,7 +384,11 @@ STATES = {
 	s:STATE_GUD_06 = {
 		create_state = {
 			country = c:GUD
-			owned_provinces = { "x0B35FC" "x426295" "x649AEC" "x047BB4" "x2FCFF8" "x036CF7" "x03CD8D" "x29CEB3" "x3E9A9F" "x1381D1" "x0C3CFC" "x557CFC" "x56A8FC" "x8633FC" "x70ADCC" "x177291" "x06C6FC" "x5277EF" "x4FB9DB" "x5FC9FC" "x908FEB" }
+			owned_provinces = { "x06C6FC" "x1381D1" "x177291" "x29CEB3" "x2FCFF8" "x557CFC" "x649AEC" }
+		}
+		create_state = {
+			country = c:JUD
+			owned_provinces = { "x036CF7" "x03CD8D" "x047BB4" "x0B35FC" "x0C3CFC" "x3E9A9F" "x426295" "x4FB9DB" "x5277EF" "x56A8FC" "x5FC9FC" "x70ADCC" "x8633FC" "x908FEB" }
 		}
 		add_homeland = cu:yankee
 	}
@@ -590,7 +598,11 @@ STATES = {
 	s:STATE_LOR_07 = {
 		create_state = {
 			country = c:LOR
-			owned_provinces = { "xFCA88A" "xAD6CB1" "xFC5921" "xDDA460" "xA21133" "xFC2087" "xFC7E63" "xFC7455" "xFC6E83" "xB41AB4" "xE109C1" "xC42BC0" "xFCB612" "xFC9D26" "xA8238B" "xFC27BC" "xFC5419" "xFC5530" "xFC3E6B" }
+			owned_provinces = { "xA21133" "xA8238B" "xAD6CB1" "xC42BC0" "xE109C1" "xFC2087" "xFC3E6B" "xFC5921" "xFC9D26" "xFCB612" }
+		}
+		create_state = {
+			country = c:NAU
+			owned_provinces = { "xB41AB4" "xDDA460" "xFC27BC" "xFC5419" "xFC5530" "xFC6E83" "xFC7455" "xFC7E63" "xFCA88A" }
 		}
 		add_homeland = cu:yankee
 	}
@@ -730,7 +742,11 @@ STATES = {
 	s:STATE_NAU_08 = {
 		create_state = {
 			country = c:NAU
-			owned_provinces = { "x710386" "x5403D5" "x552BB7" "x656AE1" "x6F0FE5" "x2F25FC" "x881CAD" "x9336FC" "x930398" "x6259FC" "x7026FC" "x34037B" "x650386" "x3C1EDA" "x2D226F" "x6203FC" "x9F0394" "xBC037A" }
+			owned_provinces = { "x2F25FC" "x34037B" "x3C1EDA" "x5403D5" "x6203FC" "x6259FC" "x650386" "x656AE1" "x6F0FE5" "x7026FC" "x710386" "x9336FC" "x9F0394" "xBC037A" }
+		}
+		create_state = {
+			country = c:LOR
+			owned_provinces = { "x2D226F" "x552BB7" "x881CAD" "x930398" }
 		}
 		add_homeland = cu:yankee
 	}
