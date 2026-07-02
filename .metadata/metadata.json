@@ -1,16 +1,16 @@
 {
-  "name" : "Baglandia",
-  "id" : "com.github.LTCodez.baglandia",
-  "version" : "0.1.0",
-  "game_id" : "victoria3",
-  "picture" : "thumbnail.png",
-  "supported_game_version" : "1.13.*",
-  "short_description" : "Baglandia - a custom map Victoria 3 mod.",
-  "tags" : [],
-  "relationships" : [],
-  "game_custom_data" : {
-    "multiplayer_synchronized" : true,
-    "replace_paths" : [
+  "name": "Baglandia",
+  "id": "com.github.LTCodez.baglandia",
+  "version": "0.1.0",
+  "game_id": "victoria3",
+  "picture": "thumbnail.png",
+  "supported_game_version": "1.13.*",
+  "short_description": "Baglandia - a custom map Victoria 3 mod.",
+  "tags": [],
+  "relationships": [],
+  "game_custom_data": {
+    "multiplayer_synchronized": true,
+    "replace_paths": [
       "common/achievements",
       "common/ai_strategies",
       "common/alert_types",
@@ -78,6 +78,8 @@
       "common/scripted_effects",
       "common/scripted_progress_bars",
       "common/scripted_triggers",
+      "common/ship_modification_slots",
+      "common/ship_modifications",
       "common/ship_name_definitions",
       "common/state_traits",
       "common/strait_definitions",
