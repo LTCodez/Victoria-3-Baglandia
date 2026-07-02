@@ -2,175 +2,175 @@ STATES = {
 	s:STATE_BUE = {
 		create_state = {
 			country = c:BUE
-			owned_provinces = { "x37F17B" }
+			owned_provinces = { "x37F17B" "x08F75A" "x66BC36" "x6FF771" "x11F7B0" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_ZAD = {
 		create_state = {
 			country = c:ZAD
-			owned_provinces = { "xE3B62E" }
+			owned_provinces = { "xE3B62E" "xF7DF14" "xC9923A" "xC5A60C" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_GAB = {
 		create_state = {
 			country = c:GAB
-			owned_provinces = { "x5761D4" }
+			owned_provinces = { "x5761D4" "x48A2E0" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_BRE = {
 		create_state = {
 			country = c:BRE
-			owned_provinces = { "xFF823E" }
+			owned_provinces = { "xFF823E" "xF74D7A" "xD25B1D" "xF7C52F" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_DUR = {
 		create_state = {
 			country = c:DUR
-			owned_provinces = { "x1EE0A0" }
+			owned_provinces = { "x1EE0A0" "x0AF77D" "x089B87" "x49F79E" "x0AF7B6" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_GOL = {
 		create_state = {
 			country = c:GOL
-			owned_provinces = { "xE8B02E" }
+			owned_provinces = { "xE8B02E" "xF7B830" "xC29C2A" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_PIN = {
 		create_state = {
 			country = c:PIN
-			owned_provinces = { "xD03EA8" }
+			owned_provinces = { "xD03EA8" "xD30F6A" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_JUD = {
 		create_state = {
 			country = c:JUD
-			owned_provinces = { "x41F472" }
+			owned_provinces = { "x41F472" "x08F76F" "x74F75E" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_CHA = {
 		create_state = {
 			country = c:CHA
-			owned_provinces = { "xB1EE58" }
+			owned_provinces = { "xB1EE58" "xECD151" "xE1F767" "x75F74C" "x90F754" "xE7B87F" "x7EEB4E" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_GUD = {
 		create_state = {
 			country = c:GUD
-			owned_provinces = { "x3292E1" }
+			owned_provinces = { "x3292E1" "x7252F7" "x08B6F7" "x306CF7" "x27B7E3" "x2962CB" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_SKJ = {
 		create_state = {
 			country = c:SKJ
-			owned_provinces = { "x35F0A5" }
+			owned_provinces = { "x35F0A5" "x73AFC3" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_LOR = {
 		create_state = {
 			country = c:LOR
-			owned_provinces = { "xFF586C" }
+			owned_provinces = { "xFF586C" "xD07166" "xE86555" "xF73B53" "xF75BAE" "xF72569" "xC67341" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_NAU = {
 		create_state = {
 			country = c:NAU
-			owned_provinces = { "x7B19CD" }
+			owned_provinces = { "x7B19CD" "xA354B3" "xB20897" "x9957B0" "x5508A5" "xBA589D" "x830FB0" "xAE4DA8" "xBD0AC6" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_KAI = {
 		create_state = {
 			country = c:KAI
-			owned_provinces = { "x6253C6" }
+			owned_provinces = { "x6253C6" "x2F46A5" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_MAS = {
 		create_state = {
 			country = c:MAS
-			owned_provinces = { "x1AD6B0" }
+			owned_provinces = { "x1AD6B0" "x1696DA" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_TAK = {
 		create_state = {
 			country = c:TAK
-			owned_provinces = { "x6A46B5" }
+			owned_provinces = { "x6A46B5" "x8148EB" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_SHI = {
 		create_state = {
 			country = c:SHI
-			owned_provinces = { "xDD3FA2" }
+			owned_provinces = { "xDD3FA2" "x9A7E60" "xD6289F" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_RIK = {
 		create_state = {
 			country = c:RIK
-			owned_provinces = { "x1AC3C6" }
+			owned_provinces = { "x1AC3C6" "x08BCA6" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_VES = {
 		create_state = {
 			country = c:VES
-			owned_provinces = { "x5662D4" }
+			owned_provinces = { "x5662D4" "x6986F7" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_CAR = {
 		create_state = {
 			country = c:CAR
-			owned_provinces = { "xF99932" }
+			owned_provinces = { "xF99932" "xF7B16D" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_BER = {
 		create_state = {
 			country = c:BER
-			owned_provinces = { "xFF8D37" }
+			owned_provinces = { "xFF8D37" "xF7BC5F" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_HUH = {
 		create_state = {
 			country = c:HUH
-			owned_provinces = { "x1CBCCD" }
+			owned_provinces = { "x1CBCCD" "x089ACD" "x5A90F7" "x0878F7" "x3CC4F7" "x588DF7" "x088BE0" "x08B0F0" "x3FEABD" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_MAC = {
 		create_state = {
 			country = c:MAC
-			owned_provinces = { "xD2CA34" }
+			owned_provinces = { "xD2CA34" "xB4CB36" "xA7D443" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_ABE = {
 		create_state = {
 			country = c:ABE
-			owned_provinces = { "xFF464F" }
+			owned_provinces = { "xFF464F" "xF71070" "xBB7A2C" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_ALS = {
 		create_state = {
 			country = c:ALS
-			owned_provinces = { "x2B65EC" }
+			owned_provinces = { "x2B65EC" "x0875D8" }
 		}
 		add_homeland = cu:yankee
 	}

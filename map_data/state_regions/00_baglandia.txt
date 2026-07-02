@@ -1,100 +1,100 @@
-STATE_BUE = {
+STATE_ABE = {
     id = 10
-    provinces = { "x37F17B" }
+    provinces = { "xFF464F" "xF71070" "xBB7A2C" }
 }
-STATE_ZAD = {
+STATE_ALS = {
     id = 11
-    provinces = { "xE3B62E" }
+    provinces = { "x2B65EC" "x0875D8" }
 }
-STATE_GAB = {
+STATE_BER = {
     id = 12
-    provinces = { "x5761D4" }
+    provinces = { "xFF8D37" "xF7BC5F" }
 }
 STATE_BRE = {
     id = 13
-    provinces = { "xFF823E" }
+    provinces = { "xFF823E" "xF74D7A" "xD25B1D" "xF7C52F" }
 }
-STATE_DUR = {
+STATE_BUE = {
     id = 14
-    provinces = { "x1EE0A0" }
+    provinces = { "x37F17B" "x08F75A" "x66BC36" "x6FF771" "x11F7B0" }
 }
-STATE_GOL = {
+STATE_CAR = {
     id = 15
-    provinces = { "xE8B02E" }
-}
-STATE_PIN = {
-    id = 16
-    provinces = { "xD03EA8" }
-}
-STATE_JUD = {
-    id = 17
-    provinces = { "x41F472" }
+    provinces = { "xF99932" "xF7B16D" }
 }
 STATE_CHA = {
+    id = 16
+    provinces = { "xB1EE58" "xECD151" "xE1F767" "x75F74C" "x90F754" "xE7B87F" "x7EEB4E" }
+}
+STATE_DUR = {
+    id = 17
+    provinces = { "x1EE0A0" "x0AF77D" "x089B87" "x49F79E" "x0AF7B6" }
+}
+STATE_GAB = {
     id = 18
-    provinces = { "xB1EE58" }
+    provinces = { "x5761D4" "x48A2E0" }
+}
+STATE_GOL = {
+    id = 19
+    provinces = { "xE8B02E" "xF7B830" "xC29C2A" }
 }
 STATE_GUD = {
-    id = 19
-    provinces = { "x3292E1" }
-}
-STATE_SKJ = {
     id = 20
-    provinces = { "x35F0A5" }
+    provinces = { "x3292E1" "x7252F7" "x08B6F7" "x306CF7" "x27B7E3" "x2962CB" }
 }
-STATE_LOR = {
+STATE_HUH = {
     id = 21
-    provinces = { "xFF586C" }
+    provinces = { "x1CBCCD" "x089ACD" "x5A90F7" "x0878F7" "x3CC4F7" "x588DF7" "x088BE0" "x08B0F0" "x3FEABD" }
 }
-STATE_NAU = {
+STATE_JUD = {
     id = 22
-    provinces = { "x7B19CD" }
+    provinces = { "x41F472" "x08F76F" "x74F75E" }
 }
 STATE_KAI = {
     id = 23
-    provinces = { "x6253C6" }
+    provinces = { "x6253C6" "x2F46A5" }
 }
-STATE_MAS = {
+STATE_LOR = {
     id = 24
-    provinces = { "x1AD6B0" }
-}
-STATE_TAK = {
-    id = 25
-    provinces = { "x6A46B5" }
-}
-STATE_SHI = {
-    id = 26
-    provinces = { "xDD3FA2" }
-}
-STATE_RIK = {
-    id = 28
-    provinces = { "x1AC3C6" }
-}
-STATE_VES = {
-    id = 29
-    provinces = { "x5662D4" }
-}
-STATE_CAR = {
-    id = 30
-    provinces = { "xF99932" }
-}
-STATE_BER = {
-    id = 31
-    provinces = { "xFF8D37" }
-}
-STATE_HUH = {
-    id = 32
-    provinces = { "x1CBCCD" }
+    provinces = { "xFF586C" "xD07166" "xE86555" "xF73B53" "xF75BAE" "xF72569" "xC67341" }
 }
 STATE_MAC = {
+    id = 25
+    provinces = { "xD2CA34" "xB4CB36" "xA7D443" }
+}
+STATE_MAS = {
+    id = 26
+    provinces = { "x1AD6B0" "x1696DA" }
+}
+STATE_NAU = {
+    id = 27
+    provinces = { "x7B19CD" "xA354B3" "xB20897" "x9957B0" "x5508A5" "xBA589D" "x830FB0" "xAE4DA8" "xBD0AC6" }
+}
+STATE_PIN = {
+    id = 28
+    provinces = { "xD03EA8" "xD30F6A" }
+}
+STATE_RIK = {
+    id = 29
+    provinces = { "x1AC3C6" "x08BCA6" }
+}
+STATE_SHI = {
+    id = 30
+    provinces = { "xDD3FA2" "x9A7E60" "xD6289F" }
+}
+STATE_SKJ = {
+    id = 31
+    provinces = { "x35F0A5" "x73AFC3" }
+}
+STATE_TAK = {
+    id = 32
+    provinces = { "x6A46B5" "x8148EB" }
+}
+STATE_VES = {
     id = 33
-    provinces = { "xD2CA34" }
+    provinces = { "x5662D4" "x6986F7" }
 }
-STATE_ABE = {
+STATE_ZAD = {
     id = 34
-    provinces = { "xFF464F" }
-}
-STATE_ALS = {
-    id = 36
-    provinces = { "x2B65EC" }
+    provinces = { "xE3B62E" "xF7DF14" "xC9923A" "xC5A60C" }
 }
