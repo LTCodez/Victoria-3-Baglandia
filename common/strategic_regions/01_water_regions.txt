@@ -1,3 +1,15 @@
-region_ocean_sea = {
-	states = { STATE_OCEAN_SEA }
+region_sea_01 = {
+	states = { STATE_SEA_04 STATE_SEA_06 STATE_SEA_13 STATE_SEA_27 }
+}
+region_sea_02 = {
+	states = { STATE_SEA_02 STATE_SEA_07 STATE_SEA_09 STATE_SEA_10 STATE_SEA_20 STATE_SEA_23 }
+}
+region_sea_03 = {
+	states = { STATE_SEA_14 STATE_SEA_15 STATE_SEA_16 STATE_SEA_19 STATE_SEA_24 }
+}
+region_sea_04 = {
+	states = { STATE_SEA_03 STATE_SEA_11 STATE_SEA_18 STATE_SEA_21 STATE_SEA_25 }
+}
+region_sea_05 = {
+	states = { STATE_SEA_01 STATE_SEA_05 STATE_SEA_08 STATE_SEA_12 STATE_SEA_17 STATE_SEA_22 STATE_SEA_26 STATE_SEA_28 }
 }

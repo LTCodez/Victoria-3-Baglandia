@@ -1,4 +1,4 @@
-STATE_WILDLANDS_01 = {
+﻿STATE_WILDLANDS_01 = {
     id = 5000
     provinces = { "x357B93" "x4D86B9" "x604972" "x0AB0B4" "x097CC1" "x0356AF" "x5825A3" "x068288" "x2AC835" "x3283B0" "x032AD4" "x77B956" "x286491" "x0D897F" "x607DAF" "x7C4795" "x038478" "x7E258E" "x036CD7" "x659B77" "x03CA7F" "x41DAE5" "x562E47" "x1DB473" "x91ACBB" "x3FD8E3" "x4CA2F1" "x6B725B" "x039A67" "x558F37" "x5D7652" "x6236F2" "x032379" "x7250E1" "x2B7E68" "x0322E8" "x68B5CD" "x42B0D1" "x59B9DC" "x7FCF99" }
     city = "x357B93"
@@ -7,7 +7,7 @@ STATE_WILDLANDS_01 = {
     mine = "x039A67"
     wood = "x3283B0"
     arable_land = 60
-    naval_exit_id = 3000
+    naval_exit_id = 3017
 }
 STATE_WILDLANDS_01_02 = {
     id = 5001
@@ -18,7 +18,7 @@ STATE_WILDLANDS_01_02 = {
     mine = "x6F8FC0"
     wood = "x644557"
     arable_land = 8
-    naval_exit_id = 3000
+    naval_exit_id = 3009
 }
 STATE_WILDLANDS_02 = {
     id = 5002
@@ -29,7 +29,7 @@ STATE_WILDLANDS_02 = {
     mine = "x40BEB4"
     wood = "x40BEB4"
     arable_land = 6
-    naval_exit_id = 3000
+    naval_exit_id = 3012
 }
 STATE_WILDLANDS_03 = {
     id = 5003
@@ -40,7 +40,7 @@ STATE_WILDLANDS_03 = {
     mine = "x74EA88"
     wood = "x74EA88"
     arable_land = 4
-    naval_exit_id = 3000
+    naval_exit_id = 3014
 }
 STATE_WILDLANDS_03_02 = {
     id = 5004
@@ -51,7 +51,7 @@ STATE_WILDLANDS_03_02 = {
     mine = "xC38C3B"
     wood = "xA9FC6D"
     arable_land = 60
-    naval_exit_id = 3000
+    naval_exit_id = 3026
 }
 STATE_WILDLANDS_03_03 = {
     id = 5005
@@ -62,7 +62,7 @@ STATE_WILDLANDS_03_03 = {
     mine = "x70D89E"
     wood = "x78B6E0"
     arable_land = 60
-    naval_exit_id = 3000
+    naval_exit_id = 3005
 }
 STATE_WILDLANDS_03_04 = {
     id = 5006
@@ -73,7 +73,7 @@ STATE_WILDLANDS_03_04 = {
     mine = "xAAB3E1"
     wood = "xAAB3E1"
     arable_land = 4
-    naval_exit_id = 3000
+    naval_exit_id = 3013
 }
 STATE_WILDLANDS_03_05 = {
     id = 5007
@@ -84,7 +84,7 @@ STATE_WILDLANDS_03_05 = {
     mine = "x9FF93B"
     wood = "x719CBE"
     arable_land = 60
-    naval_exit_id = 3000
+    naval_exit_id = 3012
 }
 STATE_WILDLANDS_04 = {
     id = 5008
@@ -95,7 +95,7 @@ STATE_WILDLANDS_04 = {
     mine = "x5C8ADE"
     wood = "x5C8ADE"
     arable_land = 6
-    naval_exit_id = 3000
+    naval_exit_id = 3010
 }
 STATE_WILDLANDS_05 = {
     id = 5009
@@ -124,7 +124,7 @@ STATE_WILDLANDS_05_03 = {
     mine = "xB6CF8B"
     wood = "x57B02F"
     arable_land = 28
-    naval_exit_id = 3000
+    naval_exit_id = 3010
 }
 STATE_WILDLANDS_05_04 = {
     id = 5012
@@ -135,7 +135,7 @@ STATE_WILDLANDS_05_04 = {
     mine = "x7DD8D2"
     wood = "xF24FB4"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3010
 }
 STATE_WILDLANDS_05_05 = {
     id = 5013
@@ -155,7 +155,7 @@ STATE_WILDLANDS_05_06 = {
     mine = "xD7BC5B"
     wood = "x56DDA7"
     arable_land = 40
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_07 = {
     id = 5015
@@ -184,7 +184,7 @@ STATE_WILDLANDS_05_09 = {
     mine = "x9EA99D"
     wood = "x5B8E7F"
     arable_land = 46
-    naval_exit_id = 3000
+    naval_exit_id = 3025
 }
 STATE_WILDLANDS_05_10 = {
     id = 5018
@@ -204,7 +204,7 @@ STATE_WILDLANDS_05_11 = {
     mine = "xB9E19A"
     wood = "x62A7A7"
     arable_land = 46
-    naval_exit_id = 3000
+    naval_exit_id = 3012
 }
 STATE_WILDLANDS_05_12 = {
     id = 5020
@@ -224,7 +224,7 @@ STATE_WILDLANDS_05_13 = {
     mine = "x71C980"
     wood = "xAB40C8"
     arable_land = 42
-    naval_exit_id = 3000
+    naval_exit_id = 3027
 }
 STATE_WILDLANDS_05_14 = {
     id = 5022
@@ -235,7 +235,7 @@ STATE_WILDLANDS_05_14 = {
     mine = "x90BF57"
     wood = "xC94D53"
     arable_land = 44
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_15 = {
     id = 5023
@@ -264,7 +264,7 @@ STATE_WILDLANDS_05_17 = {
     mine = "x6AEFA7"
     wood = "xEC384E"
     arable_land = 40
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_18 = {
     id = 5026
@@ -275,7 +275,7 @@ STATE_WILDLANDS_05_18 = {
     mine = "x8E5627"
     wood = "xD04471"
     arable_land = 40
-    naval_exit_id = 3000
+    naval_exit_id = 3016
 }
 STATE_WILDLANDS_05_19 = {
     id = 5027
@@ -295,7 +295,7 @@ STATE_WILDLANDS_05_20 = {
     mine = "xC74635"
     wood = "xA65F8A"
     arable_land = 42
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_21 = {
     id = 5029
@@ -351,7 +351,7 @@ STATE_WILDLANDS_05_26 = {
     mine = "xEBCD6D"
     wood = "xFC8542"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3016
 }
 STATE_WILDLANDS_05_27 = {
     id = 5035
@@ -380,7 +380,7 @@ STATE_WILDLANDS_05_29 = {
     mine = "x577A29"
     wood = "x7DAD50"
     arable_land = 40
-    naval_exit_id = 3000
+    naval_exit_id = 3012
 }
 STATE_WILDLANDS_05_30 = {
     id = 5038
@@ -391,7 +391,7 @@ STATE_WILDLANDS_05_30 = {
     mine = "xECC23D"
     wood = "x81C157"
     arable_land = 44
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_31 = {
     id = 5039
@@ -402,7 +402,7 @@ STATE_WILDLANDS_05_31 = {
     mine = "x5E6372"
     wood = "xBAC242"
     arable_land = 44
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_32 = {
     id = 5040
@@ -413,7 +413,7 @@ STATE_WILDLANDS_05_32 = {
     mine = "xC05480"
     wood = "xB88BC3"
     arable_land = 30
-    naval_exit_id = 3000
+    naval_exit_id = 3012
 }
 STATE_WILDLANDS_05_33 = {
     id = 5041
@@ -424,7 +424,7 @@ STATE_WILDLANDS_05_33 = {
     mine = "x69D1A1"
     wood = "x98864E"
     arable_land = 38
-    naval_exit_id = 3000
+    naval_exit_id = 3003
 }
 STATE_WILDLANDS_05_34 = {
     id = 5042
@@ -453,7 +453,7 @@ STATE_WILDLANDS_05_36 = {
     mine = "xE67E37"
     wood = "x9F3799"
     arable_land = 30
-    naval_exit_id = 3000
+    naval_exit_id = 3002
 }
 STATE_WILDLANDS_05_37 = {
     id = 5045
@@ -473,7 +473,7 @@ STATE_WILDLANDS_05_38 = {
     mine = "xFC9344"
     wood = "xFC8634"
     arable_land = 38
-    naval_exit_id = 3000
+    naval_exit_id = 3012
 }
 STATE_WILDLANDS_05_39 = {
     id = 5047
@@ -484,7 +484,7 @@ STATE_WILDLANDS_05_39 = {
     mine = "x816055"
     wood = "xD175A1"
     arable_land = 42
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_40 = {
     id = 5048
@@ -495,7 +495,7 @@ STATE_WILDLANDS_05_40 = {
     mine = "x5C8CBC"
     wood = "xCD7ACB"
     arable_land = 32
-    naval_exit_id = 3000
+    naval_exit_id = 3003
 }
 STATE_WILDLANDS_05_41 = {
     id = 5049
@@ -533,7 +533,7 @@ STATE_WILDLANDS_05_44 = {
     mine = "xDEEC96"
     wood = "xA53C7E"
     arable_land = 48
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_45 = {
     id = 5053
@@ -562,7 +562,7 @@ STATE_WILDLANDS_05_47 = {
     mine = "xA08654"
     wood = "xD8F05C"
     arable_land = 38
-    naval_exit_id = 3000
+    naval_exit_id = 3027
 }
 STATE_WILDLANDS_05_48 = {
     id = 5056
@@ -591,7 +591,7 @@ STATE_WILDLANDS_05_50 = {
     mine = "x56EB7B"
     wood = "x544D4F"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_51 = {
     id = 5059
@@ -602,7 +602,7 @@ STATE_WILDLANDS_05_51 = {
     mine = "x58BC84"
     wood = "x9C741F"
     arable_land = 38
-    naval_exit_id = 3000
+    naval_exit_id = 3025
 }
 STATE_WILDLANDS_05_52 = {
     id = 5060
@@ -622,7 +622,7 @@ STATE_WILDLANDS_05_53 = {
     mine = "xDAE5A4"
     wood = "x578E93"
     arable_land = 34
-    naval_exit_id = 3000
+    naval_exit_id = 3002
 }
 STATE_WILDLANDS_05_54 = {
     id = 5062
@@ -642,7 +642,7 @@ STATE_WILDLANDS_05_55 = {
     mine = "xAB8C45"
     wood = "xD5C987"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3010
 }
 STATE_WILDLANDS_05_56 = {
     id = 5064
@@ -698,7 +698,7 @@ STATE_WILDLANDS_05_61 = {
     mine = "xA88270"
     wood = "x6D41A1"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_62 = {
     id = 5070
@@ -709,7 +709,7 @@ STATE_WILDLANDS_05_62 = {
     mine = "x56DD1F"
     wood = "xC0E0CA"
     arable_land = 32
-    naval_exit_id = 3000
+    naval_exit_id = 3003
 }
 STATE_WILDLANDS_05_63 = {
     id = 5071
@@ -720,7 +720,7 @@ STATE_WILDLANDS_05_63 = {
     mine = "x634E84"
     wood = "xF5E98B"
     arable_land = 26
-    naval_exit_id = 3000
+    naval_exit_id = 3010
 }
 STATE_WILDLANDS_05_64 = {
     id = 5072
@@ -731,7 +731,7 @@ STATE_WILDLANDS_05_64 = {
     mine = "x987862"
     wood = "xCD83BC"
     arable_land = 46
-    naval_exit_id = 3000
+    naval_exit_id = 3016
 }
 STATE_WILDLANDS_05_65 = {
     id = 5073
@@ -742,7 +742,7 @@ STATE_WILDLANDS_05_65 = {
     mine = "xDED3D3"
     wood = "x974EBF"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3003
 }
 STATE_WILDLANDS_05_66 = {
     id = 5074
@@ -771,7 +771,7 @@ STATE_WILDLANDS_05_68 = {
     mine = "x9893A4"
     wood = "x6A4C94"
     arable_land = 28
-    naval_exit_id = 3000
+    naval_exit_id = 3025
 }
 STATE_WILDLANDS_05_69 = {
     id = 5077
@@ -782,7 +782,7 @@ STATE_WILDLANDS_05_69 = {
     mine = "xE53CBA"
     wood = "xDA329E"
     arable_land = 48
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_70 = {
     id = 5078
@@ -802,7 +802,7 @@ STATE_WILDLANDS_05_71 = {
     mine = "x6F34CC"
     wood = "x79D8A9"
     arable_land = 46
-    naval_exit_id = 3000
+    naval_exit_id = 3027
 }
 STATE_WILDLANDS_05_72 = {
     id = 5080
@@ -840,7 +840,7 @@ STATE_WILDLANDS_05_75 = {
     mine = "xFCDDC4"
     wood = "xB83434"
     arable_land = 44
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_76 = {
     id = 5084
@@ -860,7 +860,7 @@ STATE_WILDLANDS_05_77 = {
     mine = "xA060B7"
     wood = "xB69290"
     arable_land = 42
-    naval_exit_id = 3000
+    naval_exit_id = 3012
 }
 STATE_WILDLANDS_05_78 = {
     id = 5086
@@ -871,7 +871,7 @@ STATE_WILDLANDS_05_78 = {
     mine = "xF166A0"
     wood = "xDAAAB6"
     arable_land = 42
-    naval_exit_id = 3000
+    naval_exit_id = 3012
 }
 STATE_WILDLANDS_05_79 = {
     id = 5087
@@ -891,7 +891,7 @@ STATE_WILDLANDS_05_80 = {
     mine = "x85E259"
     wood = "xF480A8"
     arable_land = 30
-    naval_exit_id = 3000
+    naval_exit_id = 3025
 }
 STATE_WILDLANDS_05_81 = {
     id = 5089
@@ -902,7 +902,7 @@ STATE_WILDLANDS_05_81 = {
     mine = "xF6A154"
     wood = "xE03F7E"
     arable_land = 54
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_82 = {
     id = 5090
@@ -913,7 +913,7 @@ STATE_WILDLANDS_05_82 = {
     mine = "x87AE8F"
     wood = "xDFC544"
     arable_land = 32
-    naval_exit_id = 3000
+    naval_exit_id = 3002
 }
 STATE_WILDLANDS_05_83 = {
     id = 5091
@@ -924,7 +924,7 @@ STATE_WILDLANDS_05_83 = {
     mine = "x9CE8B7"
     wood = "x9DE936"
     arable_land = 24
-    naval_exit_id = 3000
+    naval_exit_id = 3002
 }
 STATE_WILDLANDS_05_84 = {
     id = 5092
@@ -935,7 +935,7 @@ STATE_WILDLANDS_05_84 = {
     mine = "xD3ACC2"
     wood = "xAC616F"
     arable_land = 24
-    naval_exit_id = 3000
+    naval_exit_id = 3026
 }
 STATE_WILDLANDS_05_85 = {
     id = 5093
@@ -982,7 +982,7 @@ STATE_WILDLANDS_05_89 = {
     mine = "xFCE29F"
     wood = "xDB8196"
     arable_land = 52
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_90 = {
     id = 5098
@@ -1029,7 +1029,7 @@ STATE_WILDLANDS_05_94 = {
     mine = "xD5868C"
     wood = "xDB8B3F"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_95 = {
     id = 5103
@@ -1058,7 +1058,7 @@ STATE_WILDLANDS_05_97 = {
     mine = "xFA74D0"
     wood = "x74688B"
     arable_land = 38
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_98 = {
     id = 5106
@@ -1069,7 +1069,7 @@ STATE_WILDLANDS_05_98 = {
     mine = "xAC6A22"
     wood = "x60BFB0"
     arable_land = 42
-    naval_exit_id = 3000
+    naval_exit_id = 3016
 }
 STATE_WILDLANDS_05_99 = {
     id = 5107
@@ -1098,7 +1098,7 @@ STATE_WILDLANDS_05_101 = {
     mine = "xFCD545"
     wood = "xD9B9C6"
     arable_land = 38
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_102 = {
     id = 5110
@@ -1127,7 +1127,7 @@ STATE_WILDLANDS_05_104 = {
     mine = "xF4A74E"
     wood = "x7B41AF"
     arable_land = 34
-    naval_exit_id = 3000
+    naval_exit_id = 3025
 }
 STATE_WILDLANDS_05_105 = {
     id = 5113
@@ -1138,7 +1138,7 @@ STATE_WILDLANDS_05_105 = {
     mine = "xFCD629"
     wood = "x9169D5"
     arable_land = 22
-    naval_exit_id = 3000
+    naval_exit_id = 3016
 }
 STATE_WILDLANDS_05_106 = {
     id = 5114
@@ -1149,7 +1149,7 @@ STATE_WILDLANDS_05_106 = {
     mine = "x5B6530"
     wood = "xFCD2BB"
     arable_land = 28
-    naval_exit_id = 3000
+    naval_exit_id = 3026
 }
 STATE_WILDLANDS_05_107 = {
     id = 5115
@@ -1169,7 +1169,7 @@ STATE_WILDLANDS_05_108 = {
     mine = "xD45AD3"
     wood = "x8890C7"
     arable_land = 44
-    naval_exit_id = 3000
+    naval_exit_id = 3016
 }
 STATE_WILDLANDS_05_109 = {
     id = 5117
@@ -1180,7 +1180,7 @@ STATE_WILDLANDS_05_109 = {
     mine = "x825D69"
     wood = "xA0C2C6"
     arable_land = 32
-    naval_exit_id = 3000
+    naval_exit_id = 3016
 }
 STATE_WILDLANDS_05_110 = {
     id = 5118
@@ -1191,7 +1191,7 @@ STATE_WILDLANDS_05_110 = {
     mine = "xA733D1"
     wood = "x935D75"
     arable_land = 22
-    naval_exit_id = 3000
+    naval_exit_id = 3016
 }
 STATE_WILDLANDS_05_111 = {
     id = 5119
@@ -1238,7 +1238,7 @@ STATE_WILDLANDS_05_115 = {
     mine = "xCF8386"
     wood = "xB33DB0"
     arable_land = 42
-    naval_exit_id = 3000
+    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_116 = {
     id = 5124
@@ -1267,7 +1267,7 @@ STATE_WILDLANDS_05_118 = {
     mine = "x5B9B53"
     wood = "x957DD2"
     arable_land = 46
-    naval_exit_id = 3000
+    naval_exit_id = 3010
 }
 STATE_WILDLANDS_05_119 = {
     id = 5127
@@ -1278,7 +1278,7 @@ STATE_WILDLANDS_05_119 = {
     mine = "x94BC31"
     wood = "x9ECE6F"
     arable_land = 34
-    naval_exit_id = 3000
+    naval_exit_id = 3003
 }
 STATE_WILDLANDS_05_120 = {
     id = 5128
@@ -1307,7 +1307,7 @@ STATE_WILDLANDS_05_122 = {
     mine = "xDCCD9C"
     wood = "x5BE9CF"
     arable_land = 26
-    naval_exit_id = 3000
+    naval_exit_id = 3003
 }
 STATE_WILDLANDS_05_123 = {
     id = 5131
@@ -1327,7 +1327,7 @@ STATE_WILDLANDS_05_124 = {
     mine = "x5CD02B"
     wood = "x609EAE"
     arable_land = 40
-    naval_exit_id = 3000
+    naval_exit_id = 3010
 }
 STATE_WILDLANDS_05_125 = {
     id = 5133
@@ -1365,5 +1365,5 @@ STATE_WILDLANDS_06 = {
     mine = "x78FCE1"
     wood = "xBF87C3"
     arable_land = 10
-    naval_exit_id = 3000
+    naval_exit_id = 3012
 }

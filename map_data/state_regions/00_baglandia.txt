@@ -1,4 +1,4 @@
-STATE_ABE = {
+﻿STATE_ABE = {
     id = 10
     provinces = { "xFF464F" "xC45348" "xFC7327" "xFC0A03" "xFC6539" "xD1800D" "xFC3E0B" "xFC3A45" "xFC7174" "xFC9303" "xFC0803" "xFC031C" "xCAA350" "xFC9019" "xA60350" "xFC1811" "xFC3284" "xFCA28B" "xFC9404" "xFC7E03" "xFC6D20" "xA93745" "xFC5FA0" "xB35622" }
     city = "xFF464F"
@@ -7,7 +7,7 @@ STATE_ABE = {
     mine = "xFC3284"
     wood = "xFC7E03"
     arable_land = 48
-    naval_exit_id = 3000
+    naval_exit_id = 3013
 }
 STATE_ABE_02 = {
     id = 11
@@ -18,7 +18,7 @@ STATE_ABE_02 = {
     mine = "xFC8096"
     wood = "xD90303"
     arable_land = 26
-    naval_exit_id = 3000
+    naval_exit_id = 3027
 }
 STATE_ABE_03 = {
     id = 12
@@ -29,7 +29,7 @@ STATE_ABE_03 = {
     mine = "xF41C8B"
     wood = "xEE7482"
     arable_land = 46
-    naval_exit_id = 3000
+    naval_exit_id = 3009
 }
 STATE_ABE_04 = {
     id = 13
@@ -40,7 +40,7 @@ STATE_ABE_04 = {
     mine = "xD4741B"
     wood = "xA6371C"
     arable_land = 46
-    naval_exit_id = 3000
+    naval_exit_id = 3013
 }
 STATE_ABE_05 = {
     id = 14
@@ -51,7 +51,7 @@ STATE_ABE_05 = {
     mine = "xD14D14"
     wood = "xFC0314"
     arable_land = 44
-    naval_exit_id = 3000
+    naval_exit_id = 3013
 }
 STATE_ALS = {
     id = 15
@@ -62,7 +62,7 @@ STATE_ALS = {
     mine = "x122AFC"
     wood = "x03A8FC"
     arable_land = 22
-    naval_exit_id = 3000
+    naval_exit_id = 3026
 }
 STATE_BER = {
     id = 16
@@ -82,7 +82,7 @@ STATE_BER_02 = {
     mine = "xD96903"
     wood = "xD8A533"
     arable_land = 58
-    naval_exit_id = 3000
+    naval_exit_id = 3012
 }
 STATE_BER_03 = {
     id = 18
@@ -93,7 +93,7 @@ STATE_BER_03 = {
     mine = "xFCC603"
     wood = "xEFCB64"
     arable_land = 44
-    naval_exit_id = 3000
+    naval_exit_id = 3012
 }
 STATE_BRE = {
     id = 19
@@ -113,7 +113,7 @@ STATE_BRE_02 = {
     mine = "xFC2396"
     wood = "xFCE063"
     arable_land = 46
-    naval_exit_id = 3000
+    naval_exit_id = 3017
 }
 STATE_BRE_03 = {
     id = 21
@@ -124,7 +124,7 @@ STATE_BRE_03 = {
     mine = "xFC2C44"
     wood = "xEB5203"
     arable_land = 40
-    naval_exit_id = 3000
+    naval_exit_id = 3014
 }
 STATE_BRE_04 = {
     id = 22
@@ -135,7 +135,7 @@ STATE_BRE_04 = {
     mine = "xE32319"
     wood = "xD86135"
     arable_land = 44
-    naval_exit_id = 3000
+    naval_exit_id = 3017
 }
 STATE_BRE_05 = {
     id = 23
@@ -164,7 +164,7 @@ STATE_BUE = {
     mine = "x64FC4D"
     wood = "x1DFC93"
     arable_land = 32
-    naval_exit_id = 3000
+    naval_exit_id = 3013
 }
 STATE_BUE_02 = {
     id = 26
@@ -175,7 +175,7 @@ STATE_BUE_02 = {
     mine = "x92FCAA"
     wood = "x65FC77"
     arable_land = 30
-    naval_exit_id = 3000
+    naval_exit_id = 3016
 }
 STATE_BUE_03 = {
     id = 27
@@ -186,7 +186,7 @@ STATE_BUE_03 = {
     mine = "x03F457"
     wood = "x52FC54"
     arable_land = 46
-    naval_exit_id = 3000
+    naval_exit_id = 3013
 }
 STATE_BUE_04 = {
     id = 28
@@ -197,7 +197,7 @@ STATE_BUE_04 = {
     mine = "x3DFC6D"
     wood = "x63FC1F"
     arable_land = 46
-    naval_exit_id = 3000
+    naval_exit_id = 3018
 }
 STATE_BUE_05 = {
     id = 29
@@ -208,7 +208,7 @@ STATE_BUE_05 = {
     mine = "x38EBC7"
     wood = "x1FA6A2"
     arable_land = 48
-    naval_exit_id = 3000
+    naval_exit_id = 3013
 }
 STATE_BUE_06 = {
     id = 30
@@ -219,7 +219,7 @@ STATE_BUE_06 = {
     mine = "x03FCBF"
     wood = "x03FC90"
     arable_land = 48
-    naval_exit_id = 3000
+    naval_exit_id = 3013
 }
 STATE_BUE_07 = {
     id = 31
@@ -230,7 +230,7 @@ STATE_BUE_07 = {
     mine = "x049C79"
     wood = "x24FC7F"
     arable_land = 48
-    naval_exit_id = 3000
+    naval_exit_id = 3018
 }
 STATE_CAR = {
     id = 32
@@ -241,7 +241,7 @@ STATE_CAR = {
     mine = "xAA6503"
     wood = "x9B6073"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3017
 }
 STATE_CAR_02 = {
     id = 33
@@ -252,7 +252,7 @@ STATE_CAR_02 = {
     mine = "xFCC92D"
     wood = "xFCF710"
     arable_land = 52
-    naval_exit_id = 3000
+    naval_exit_id = 3017
 }
 STATE_CHA = {
     id = 34
@@ -353,7 +353,7 @@ STATE_DUR = {
     mine = "x03E26A"
     wood = "x15D1FB"
     arable_land = 48
-    naval_exit_id = 3000
+    naval_exit_id = 3017
 }
 STATE_DUR_02 = {
     id = 45
@@ -382,7 +382,7 @@ STATE_DUR_04 = {
     mine = "x59C8DF"
     wood = "x73FCD9"
     arable_land = 42
-    naval_exit_id = 3000
+    naval_exit_id = 3017
 }
 STATE_DUR_05 = {
     id = 48
@@ -411,7 +411,7 @@ STATE_DUR_07 = {
     mine = "x38DA87"
     wood = "x45FCE6"
     arable_land = 44
-    naval_exit_id = 3000
+    naval_exit_id = 3017
 }
 STATE_GAB = {
     id = 51
@@ -422,7 +422,7 @@ STATE_GAB = {
     mine = "xA3638A"
     wood = "x3355FC"
     arable_land = 32
-    naval_exit_id = 3000
+    naval_exit_id = 3013
 }
 STATE_GAB_02 = {
     id = 52
@@ -433,7 +433,7 @@ STATE_GAB_02 = {
     mine = "x87B190"
     wood = "x8B507B"
     arable_land = 40
-    naval_exit_id = 3000
+    naval_exit_id = 3014
 }
 STATE_GAB_03 = {
     id = 53
@@ -444,7 +444,7 @@ STATE_GAB_03 = {
     mine = "x4E64FC"
     wood = "x9134BA"
     arable_land = 40
-    naval_exit_id = 3000
+    naval_exit_id = 3013
 }
 STATE_GAB_04 = {
     id = 54
@@ -473,7 +473,7 @@ STATE_GOL_02 = {
     mine = "xDB9303"
     wood = "x89FC14"
     arable_land = 42
-    naval_exit_id = 3000
+    naval_exit_id = 3017
 }
 STATE_GOL_03 = {
     id = 57
@@ -484,7 +484,7 @@ STATE_GOL_03 = {
     mine = "x9FF261"
     wood = "xCEC674"
     arable_land = 30
-    naval_exit_id = 3000
+    naval_exit_id = 3017
 }
 STATE_GOL_04 = {
     id = 58
@@ -513,7 +513,7 @@ STATE_GUD_02 = {
     mine = "x37A5D6"
     wood = "x0335FC"
     arable_land = 56
-    naval_exit_id = 3000
+    naval_exit_id = 3027
 }
 STATE_GUD_03 = {
     id = 61
@@ -524,7 +524,7 @@ STATE_GUD_03 = {
     mine = "x03E7FC"
     wood = "x03E8B5"
     arable_land = 22
-    naval_exit_id = 3000
+    naval_exit_id = 3013
 }
 STATE_GUD_04 = {
     id = 62
@@ -544,7 +544,7 @@ STATE_GUD_05 = {
     mine = "x879DAA"
     wood = "x03ABD3"
     arable_land = 42
-    naval_exit_id = 3000
+    naval_exit_id = 3013
 }
 STATE_GUD_06 = {
     id = 64
@@ -573,7 +573,7 @@ STATE_GUD_08 = {
     mine = "x29DEFC"
     wood = "x8759FC"
     arable_land = 44
-    naval_exit_id = 3000
+    naval_exit_id = 3013
 }
 STATE_GUD_09 = {
     id = 67
@@ -593,7 +593,7 @@ STATE_HUH = {
     mine = "x0DFCD9"
     wood = "x03F4FC"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3014
 }
 STATE_HUH_02 = {
     id = 69
@@ -613,7 +613,7 @@ STATE_HUH_03 = {
     mine = "x0DB4FC"
     wood = "x03FCB4"
     arable_land = 42
-    naval_exit_id = 3000
+    naval_exit_id = 3005
 }
 STATE_HUH_04 = {
     id = 71
@@ -624,7 +624,7 @@ STATE_HUH_04 = {
     mine = "x7271B1"
     wood = "x0374AB"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3005
 }
 STATE_HUH_05 = {
     id = 72
@@ -635,7 +635,7 @@ STATE_HUH_05 = {
     mine = "x0CFCFC"
     wood = "x03A0FC"
     arable_land = 32
-    naval_exit_id = 3000
+    naval_exit_id = 3014
 }
 STATE_HUH_06 = {
     id = 73
@@ -646,7 +646,7 @@ STATE_HUH_06 = {
     mine = "x03FCF3"
     wood = "x2576A2"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3005
 }
 STATE_HUH_07 = {
     id = 74
@@ -657,7 +657,7 @@ STATE_HUH_07 = {
     mine = "x03FCF2"
     wood = "x03FCEB"
     arable_land = 42
-    naval_exit_id = 3000
+    naval_exit_id = 3017
 }
 STATE_HUH_08 = {
     id = 75
@@ -677,7 +677,7 @@ STATE_HUH_09 = {
     mine = "x037B86"
     wood = "x137EB4"
     arable_land = 46
-    naval_exit_id = 3000
+    naval_exit_id = 3005
 }
 STATE_HUH_10 = {
     id = 77
@@ -688,7 +688,7 @@ STATE_HUH_10 = {
     mine = "x5AFC82"
     wood = "x69C992"
     arable_land = 40
-    naval_exit_id = 3000
+    naval_exit_id = 3005
 }
 STATE_HUH_11 = {
     id = 78
@@ -708,7 +708,7 @@ STATE_HUH_12 = {
     mine = "x5CAED5"
     wood = "x277678"
     arable_land = 40
-    naval_exit_id = 3000
+    naval_exit_id = 3005
 }
 STATE_HUH_13 = {
     id = 80
@@ -719,7 +719,7 @@ STATE_HUH_13 = {
     mine = "x2FD4A2"
     wood = "x57F3DC"
     arable_land = 38
-    naval_exit_id = 3000
+    naval_exit_id = 3005
 }
 STATE_HUH_14 = {
     id = 81
@@ -775,7 +775,7 @@ STATE_KAI = {
     mine = "x1318E2"
     wood = "x060DB9"
     arable_land = 32
-    naval_exit_id = 3000
+    naval_exit_id = 3017
 }
 STATE_KAI_02 = {
     id = 87
@@ -786,7 +786,7 @@ STATE_KAI_02 = {
     mine = "x90B06A"
     wood = "x2C18E1"
     arable_land = 34
-    naval_exit_id = 3000
+    naval_exit_id = 3017
 }
 STATE_LOR = {
     id = 88
@@ -797,7 +797,7 @@ STATE_LOR = {
     mine = "xD4038F"
     wood = "xD8420E"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3022
 }
 STATE_LOR_02 = {
     id = 89
@@ -817,7 +817,7 @@ STATE_LOR_03 = {
     mine = "xF31D84"
     wood = "xFC20A9"
     arable_land = 40
-    naval_exit_id = 3000
+    naval_exit_id = 3006
 }
 STATE_LOR_04 = {
     id = 91
@@ -828,7 +828,7 @@ STATE_LOR_04 = {
     mine = "xEF32B2"
     wood = "xA4409E"
     arable_land = 40
-    naval_exit_id = 3000
+    naval_exit_id = 3022
 }
 STATE_LOR_05 = {
     id = 92
@@ -875,7 +875,7 @@ STATE_LOR_09 = {
     mine = "xFC6468"
     wood = "xB9034A"
     arable_land = 44
-    naval_exit_id = 3000
+    naval_exit_id = 3022
 }
 STATE_LOR_10 = {
     id = 97
@@ -904,7 +904,7 @@ STATE_MAC = {
     mine = "xD5B02C"
     wood = "x9AD96F"
     arable_land = 48
-    naval_exit_id = 3000
+    naval_exit_id = 3012
 }
 STATE_MAC_02 = {
     id = 100
@@ -915,7 +915,7 @@ STATE_MAC_02 = {
     mine = "xBC6F03"
     wood = "xF9C591"
     arable_land = 42
-    naval_exit_id = 3000
+    naval_exit_id = 3012
 }
 STATE_MAC_03 = {
     id = 101
@@ -926,7 +926,7 @@ STATE_MAC_03 = {
     mine = "xBDB95F"
     wood = "x7CB650"
     arable_land = 38
-    naval_exit_id = 3000
+    naval_exit_id = 3012
 }
 STATE_MAC_04 = {
     id = 102
@@ -937,7 +937,7 @@ STATE_MAC_04 = {
     mine = "xE2A303"
     wood = "xD19283"
     arable_land = 32
-    naval_exit_id = 3000
+    naval_exit_id = 3012
 }
 STATE_MAC_05 = {
     id = 103
@@ -957,7 +957,7 @@ STATE_MAS = {
     mine = "x53A5D2"
     wood = "x2DDA8D"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3017
 }
 STATE_MAS_02 = {
     id = 105
@@ -968,7 +968,7 @@ STATE_MAS_02 = {
     mine = "x0387F8"
     wood = "x6DFCBD"
     arable_land = 38
-    naval_exit_id = 3000
+    naval_exit_id = 3024
 }
 STATE_MAS_03 = {
     id = 106
@@ -979,7 +979,7 @@ STATE_MAS_03 = {
     mine = "x3FB1B7"
     wood = "x03F59C"
     arable_land = 40
-    naval_exit_id = 3000
+    naval_exit_id = 3024
 }
 STATE_NAU = {
     id = 107
@@ -990,7 +990,7 @@ STATE_NAU = {
     mine = "xB403EE"
     wood = "x486890"
     arable_land = 22
-    naval_exit_id = 3000
+    naval_exit_id = 3025
 }
 STATE_NAU_02 = {
     id = 108
@@ -1001,7 +1001,7 @@ STATE_NAU_02 = {
     mine = "x6C03FC"
     wood = "xAE1AFC"
     arable_land = 52
-    naval_exit_id = 3000
+    naval_exit_id = 3006
 }
 STATE_NAU_03 = {
     id = 109
@@ -1012,7 +1012,7 @@ STATE_NAU_03 = {
     mine = "x3B3CDA"
     wood = "x7F549D"
     arable_land = 52
-    naval_exit_id = 3000
+    naval_exit_id = 3006
 }
 STATE_NAU_04 = {
     id = 110
@@ -1023,7 +1023,7 @@ STATE_NAU_04 = {
     mine = "x2303FC"
     wood = "x9B2FD7"
     arable_land = 48
-    naval_exit_id = 3000
+    naval_exit_id = 3009
 }
 STATE_NAU_05 = {
     id = 111
@@ -1043,7 +1043,7 @@ STATE_NAU_06 = {
     mine = "x72038D"
     wood = "x4A039E"
     arable_land = 48
-    naval_exit_id = 3000
+    naval_exit_id = 3009
 }
 STATE_NAU_07 = {
     id = 113
@@ -1054,7 +1054,7 @@ STATE_NAU_07 = {
     mine = "x6B1BFC"
     wood = "x506782"
     arable_land = 40
-    naval_exit_id = 3000
+    naval_exit_id = 3009
 }
 STATE_NAU_08 = {
     id = 114
@@ -1065,7 +1065,7 @@ STATE_NAU_08 = {
     mine = "x9336FC"
     wood = "x552BB7"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3006
 }
 STATE_NAU_09 = {
     id = 115
@@ -1076,7 +1076,7 @@ STATE_NAU_09 = {
     mine = "xBD0385"
     wood = "x6E2E8D"
     arable_land = 48
-    naval_exit_id = 3000
+    naval_exit_id = 3009
 }
 STATE_NAU_10 = {
     id = 116
@@ -1087,7 +1087,7 @@ STATE_NAU_10 = {
     mine = "x670F8D"
     wood = "x9D30FC"
     arable_land = 50
-    naval_exit_id = 3000
+    naval_exit_id = 3006
 }
 STATE_NAU_11 = {
     id = 117
@@ -1098,7 +1098,7 @@ STATE_NAU_11 = {
     mine = "xC01DDB"
     wood = "x5204C5"
     arable_land = 28
-    naval_exit_id = 3000
+    naval_exit_id = 3025
 }
 STATE_NAU_12 = {
     id = 118
@@ -1109,7 +1109,7 @@ STATE_NAU_12 = {
     mine = "x7E58BB"
     wood = "x5207CA"
     arable_land = 46
-    naval_exit_id = 3000
+    naval_exit_id = 3009
 }
 STATE_NAU_13 = {
     id = 119
@@ -1120,7 +1120,7 @@ STATE_NAU_13 = {
     mine = "x6C59C4"
     wood = "x9F7189"
     arable_land = 24
-    naval_exit_id = 3000
+    naval_exit_id = 3009
 }
 STATE_PIN = {
     id = 120
@@ -1131,7 +1131,7 @@ STATE_PIN = {
     mine = "xF764CE"
     wood = "xFC037D"
     arable_land = 40
-    naval_exit_id = 3000
+    naval_exit_id = 3022
 }
 STATE_PIN_02 = {
     id = 121
@@ -1151,7 +1151,7 @@ STATE_PIN_03 = {
     mine = "xF8809E"
     wood = "xFC0368"
     arable_land = 48
-    naval_exit_id = 3000
+    naval_exit_id = 3022
 }
 STATE_RIK = {
     id = 123
@@ -1162,7 +1162,7 @@ STATE_RIK = {
     mine = "x06FCD7"
     wood = "x097D8D"
     arable_land = 16
-    naval_exit_id = 3000
+    naval_exit_id = 3022
 }
 STATE_SHI = {
     id = 124
@@ -1173,7 +1173,7 @@ STATE_SHI = {
     mine = "xFC71F8"
     wood = "xFC5385"
     arable_land = 44
-    naval_exit_id = 3000
+    naval_exit_id = 3022
 }
 STATE_SHI_02 = {
     id = 125
@@ -1184,7 +1184,7 @@ STATE_SHI_02 = {
     mine = "xA85F8C"
     wood = "xE503C8"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3024
 }
 STATE_SHI_03 = {
     id = 126
@@ -1195,7 +1195,7 @@ STATE_SHI_03 = {
     mine = "xFC50E2"
     wood = "xD76AEB"
     arable_land = 44
-    naval_exit_id = 3000
+    naval_exit_id = 3022
 }
 STATE_SHI_04 = {
     id = 127
@@ -1206,7 +1206,7 @@ STATE_SHI_04 = {
     mine = "x8D03B5"
     wood = "xFC9CBF"
     arable_land = 48
-    naval_exit_id = 3000
+    naval_exit_id = 3024
 }
 STATE_SKJ = {
     id = 128
@@ -1226,7 +1226,7 @@ STATE_SKJ_02 = {
     mine = "x2B9BD6"
     wood = "x7BC77E"
     arable_land = 48
-    naval_exit_id = 3000
+    naval_exit_id = 3013
 }
 STATE_SKJ_03 = {
     id = 130
@@ -1237,7 +1237,7 @@ STATE_SKJ_03 = {
     mine = "x03C847"
     wood = "x71FC97"
     arable_land = 34
-    naval_exit_id = 3000
+    naval_exit_id = 3013
 }
 STATE_TAK = {
     id = 131
@@ -1248,7 +1248,7 @@ STATE_TAK = {
     mine = "x741B7E"
     wood = "xBD71E5"
     arable_land = 48
-    naval_exit_id = 3000
+    naval_exit_id = 3017
 }
 STATE_VES = {
     id = 132
@@ -1259,7 +1259,7 @@ STATE_VES = {
     mine = "x324EB2"
     wood = "x668CB6"
     arable_land = 42
-    naval_exit_id = 3000
+    naval_exit_id = 3017
 }
 STATE_ZAD = {
     id = 133
@@ -1279,7 +1279,7 @@ STATE_ZAD_02 = {
     mine = "x91E732"
     wood = "x999B41"
     arable_land = 44
-    naval_exit_id = 3000
+    naval_exit_id = 3014
 }
 STATE_ZAD_03 = {
     id = 135
@@ -1290,7 +1290,7 @@ STATE_ZAD_03 = {
     mine = "xFCBA14"
     wood = "xFC6E74"
     arable_land = 48
-    naval_exit_id = 3000
+    naval_exit_id = 3014
 }
 STATE_ZAD_04 = {
     id = 136
@@ -1301,7 +1301,7 @@ STATE_ZAD_04 = {
     mine = "xFC5E36"
     wood = "xCF7D3E"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3014
 }
 STATE_ZAD_05 = {
     id = 137
@@ -1312,7 +1312,7 @@ STATE_ZAD_05 = {
     mine = "xFC8103"
     wood = "xA7AC5F"
     arable_land = 36
-    naval_exit_id = 3000
+    naval_exit_id = 3014
 }
 STATE_ZAD_06 = {
     id = 138
@@ -1323,5 +1323,5 @@ STATE_ZAD_06 = {
     mine = "xECFC22"
     wood = "xFC9154"
     arable_land = 40
-    naval_exit_id = 3000
+    naval_exit_id = 3014
 }

@@ -1,4 +1,112 @@
-STATE_OCEAN_SEA = {
+STATE_SEA_01 = {
     id = 3000
-    provinces = { "x0A1A2A" }
+    provinces = { "x3A23A5" }
+}
+STATE_SEA_02 = {
+    id = 3001
+    provinces = { "x174A9D" }
+}
+STATE_SEA_03 = {
+    id = 3002
+    provinces = { "x195093" }
+}
+STATE_SEA_04 = {
+    id = 3003
+    provinces = { "x331EBA" }
+}
+STATE_SEA_05 = {
+    id = 3004
+    provinces = { "x3B3D99" }
+}
+STATE_SEA_06 = {
+    id = 3005
+    provinces = { "x0E1D85" }
+}
+STATE_SEA_07 = {
+    id = 3006
+    provinces = { "x2D2883" }
+}
+STATE_SEA_08 = {
+    id = 3007
+    provinces = { "x362CA9" }
+}
+STATE_SEA_09 = {
+    id = 3008
+    provinces = { "x121BAA" }
+}
+STATE_SEA_10 = {
+    id = 3009
+    provinces = { "x143E7A" }
+}
+STATE_SEA_11 = {
+    id = 3010
+    provinces = { "x1E4169" }
+}
+STATE_SEA_12 = {
+    id = 3011
+    provinces = { "x0C3869" }
+}
+STATE_SEA_13 = {
+    id = 3012
+    provinces = { "x0E349C" }
+}
+STATE_SEA_14 = {
+    id = 3013
+    provinces = { "x2A228F" }
+}
+STATE_SEA_15 = {
+    id = 3014
+    provinces = { "x214C69" }
+}
+STATE_SEA_16 = {
+    id = 3015
+    provinces = { "x2721C7" }
+}
+STATE_SEA_17 = {
+    id = 3016
+    provinces = { "x13516E" }
+}
+STATE_SEA_18 = {
+    id = 3017
+    provinces = { "x1126C0" }
+}
+STATE_SEA_19 = {
+    id = 3018
+    provinces = { "x26166C" }
+}
+STATE_SEA_20 = {
+    id = 3019
+    provinces = { "x192B65" }
+}
+STATE_SEA_21 = {
+    id = 3020
+    provinces = { "x313ABD" }
+}
+STATE_SEA_22 = {
+    id = 3021
+    provinces = { "x3B3374" }
+}
+STATE_SEA_23 = {
+    id = 3022
+    provinces = { "x2440CF" }
+}
+STATE_SEA_24 = {
+    id = 3023
+    provinces = { "x0943A1" }
+}
+STATE_SEA_25 = {
+    id = 3024
+    provinces = { "x0D53B0" }
+}
+STATE_SEA_26 = {
+    id = 3025
+    provinces = { "x0E3164" }
+}
+STATE_SEA_27 = {
+    id = 3026
+    provinces = { "x252D9E" }
+}
+STATE_SEA_28 = {
+    id = 3027
+    provinces = { "x302C5D" }
 }
