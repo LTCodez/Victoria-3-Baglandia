@@ -2,175 +2,175 @@ STATES = {
 	s:STATE_BUE = {
 		create_state = {
 			country = c:BUE
-			owned_provinces = { "x37F17B" "x08F75A" "x66BC36" "x6FF771" "x11F7B0" }
+			owned_provinces = { "x37F17B" "x3EB533" "x05B830" "x05FA62" "x0CCA3A" "x1DECAF" "x18BEBE" "x81FA2F" "x05D335" "x3CED70" "x8BD0BF" "x85FAC8" "x6FE7CD" "x05F229" "x44FA83" "x15A0B5" "x21FA70" "x72C054" "x11FA27" "x05FAC8" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_ZAD = {
 		create_state = {
 			country = c:ZAD
-			owned_provinces = { "xE3B62E" "xF7DF14" "xC9923A" "xC5A60C" }
+			owned_provinces = { "xE3B62E" "xFA6B0E" "x97C305" "xB3BA05" "xFAE505" "xF98005" "xFAFA05" "xFA651B" "xFAA80B" "xFADE22" "xDF8451" "xEB8B05" "xB8EA05" "xDBF367" "xDEE44E" "xFACC5C" "xE1FA05" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_GAB = {
 		create_state = {
 			country = c:GAB
-			owned_provinces = { "x5761D4" "x48A2E0" }
+			owned_provinces = { "x5761D4" "x5A45BC" "x6520AB" "x887EA9" "x166ACA" "x4510B8" "x2B34F4" "x263F9F" "x085D84" "x234AEB" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_BRE = {
 		create_state = {
 			country = c:BRE
-			owned_provinces = { "xFF823E" "xF74D7A" "xD25B1D" "xF7C52F" }
+			owned_provinces = { "xFF823E" "xFAA151" "xFAC750" "xFA2D63" "xFA9C77" "xFACB18" "xF33A3E" "xF53172" "xFA5A1C" "xB69C74" "xFA2F08" "xFA9E14" "xFA3F37" "xFAAE6B" "xBFD682" "xEB5A05" "xCA2F3F" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_DUR = {
 		create_state = {
 			country = c:DUR
-			owned_provinces = { "x1EE0A0" "x0AF77D" "x089B87" "x49F79E" "x0AF7B6" }
+			owned_provinces = { "x1EE0A0" "x4FCCA4" "x2AFAB3" "x05FAB4" "x4EDACA" "x17FAC0" "x68ED4D" "x46FA4E" "x05A79A" "x589D5B" "x05D55B" "x37FA6D" "x2EB6A9" "x1AFAE3" "x32E18E" "x4FFAB2" "x43FA67" "x05ACE4" "x62A4D2" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_GOL = {
 		create_state = {
 			country = c:GOL
-			owned_provinces = { "xE8B02E" "xF7B830" "xC29C2A" }
+			owned_provinces = { "xE8B02E" "xC2C758" "xD1B225" "xD5FA35" "xA28326" "xBDE705" "xFAAE6A" "xF07D52" "xB1D105" "xF37142" "xFA8B42" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_PIN = {
 		create_state = {
 			country = c:PIN
-			owned_provinces = { "xD03EA8" "xD30F6A" }
+			owned_provinces = { "xD03EA8" "xFA665D" "xD563A1" "xFA4383" "xCA3AB5" "xDD4F6D" "xCC5A60" "x8B405C" "x9E05B3" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_JUD = {
 		create_state = {
 			country = c:JUD
-			owned_provinces = { "x41F472" "x08F76F" "x74F75E" }
+			owned_provinces = { "x41F472" "x05C371" "x45D880" "x05A85A" "x05C598" "x07FAB6" "x6EFA3A" "x35C383" "x8FFA69" "x3FD342" "x05AB75" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_CHA = {
 		create_state = {
 			country = c:CHA
-			owned_provinces = { "xB1EE58" "xECD151" "xE1F767" "x75F74C" "x90F754" "xE7B87F" "x7EEB4E" }
+			owned_provinces = { "xB1EE58" "x779C05" "xD4FA2E" "x5DFA18" "xD499A9" "xFAFA49" "xDDC984" "xBFFA1F" "xD5F843" "xA2D808" "xAFFA06" "x66B0A3" "xB5C11F" "x9DFA1F" "xD3E346" "xF4BB66" "xF8FA2D" "xB6DF9B" "x8CAF7C" "xD6A96C" "xBCEA82" "x60FA47" "xBEFA24" "xEDFA5E" "xBBFA36" "x8ACCA0" "x84FA80" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_GUD = {
 		create_state = {
 			country = c:GUD
-			owned_provinces = { "x3292E1" "x7252F7" "x08B6F7" "x306CF7" "x27B7E3" "x2962CB" }
+			owned_provinces = { "x3292E1" "x7698FA" "x82E590" "x05DBFA" "x274593" "x05D7DE" "x61DDFA" "x0588FA" "x76D49A" "x2578FA" "x0648FA" "x2899F6" "x057FA1" "x85E0BB" "x1D469A" "x0556D3" "x6E97FA" "x0FB4C2" "x7289B8" "x55D8FA" "x05A8C4" "x0E60B7" "x05DDFA" "x7A89FA" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_SKJ = {
 		create_state = {
 			country = c:SKJ
-			owned_provinces = { "x35F0A5" "x73AFC3" }
+			owned_provinces = { "x35F0A5" "x05FAAB" "x41FA61" "x64FAAA" "x059C5E" "x05FA89" "x05F0B6" "x22BF82" "x7DA8D4" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_LOR = {
 		create_state = {
 			country = c:LOR
-			owned_provinces = { "xFF586C" "xD07166" "xE86555" "xF73B53" "xF75BAE" "xF72569" "xC67341" }
+			owned_provinces = { "xFF586C" "xD07B58" "xFA9769" "xE35BC0" "xCB388E" "xFA8538" "xDD2F53" "xFAA277" "xD52F84" "xDB653A" "xB0138A" "xFA9F60" "xFA08B2" "xB6AC38" "xFA4881" "xFA9E92" "xC56540" "xFA5788" "xAF0817" "xECA472" "xFA1ABF" "xB5572B" "xED677B" "xFAA797" "xC09248" "xED1F4E" "xF17A5A" "xFA0692" "xF97150" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_NAU = {
 		create_state = {
 			country = c:NAU
-			owned_provinces = { "x7B19CD" "xA354B3" "xB20897" "x9957B0" "x5508A5" "xBA589D" "x830FB0" "xAE4DA8" "xBD0AC6" }
+			owned_provinces = { "x7B19CD" "x511CB5" "x6205F8" "x3B3199" "x8D059B" "xAF55FA" "x5205FA" "x476CE3" "x5010D6" "x370579" "x341A82" "x710579" "x7A0FF4" "xCA06C1" "xBB66A6" "x760599" "x2C059F" "x7C467D" "x5605F0" "xA405FA" "xC20FFA" "xC061FA" "x6505D3" "x2A0F95" "xCB28FA" "x892EFA" "x9961B8" "xC708CC" "x5E63D8" "x8026F6" "x3A05AC" "x31057B" "x7E058A" "xB922FA" "x3C05AF" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_KAI = {
 		create_state = {
 			country = c:KAI
-			owned_provinces = { "x6253C6" "x2F46A5" }
+			owned_provinces = { "x6253C6" "xACA4E7" "x5F6ED2" "xB13F9A" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_MAS = {
 		create_state = {
 			country = c:MAS
-			owned_provinces = { "x1AD6B0" "x1696DA" }
+			owned_provinces = { "x1AD6B0" "x05BE71" "x53868A" "x56A367" "x24C0D0" "x6AFACB" "x51D8E4" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_TAK = {
 		create_state = {
 			country = c:TAK
-			owned_provinces = { "x6A46B5" "x8148EB" }
+			owned_provinces = { "x6A46B5" "x6B658D" "x54657F" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_SHI = {
 		create_state = {
 			country = c:SHI
-			owned_provinces = { "xDD3FA2" "x9A7E60" "xD6289F" }
+			owned_provinces = { "xDD3FA2" "xE585DE" "xA770CB" "xFA05CC" "xFA0559" "x9C545D" "xFA0573" "x9054EF" "x9917DF" "xC22D59" "xAF058F" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_RIK = {
 		create_state = {
 			country = c:RIK
-			owned_provinces = { "x1AC3C6" "x08BCA6" }
+			owned_provinces = { "x1AC3C6" "x05F6A7" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_VES = {
 		create_state = {
 			country = c:VES
-			owned_provinces = { "x5662D4" "x6986F7" }
+			owned_provinces = { "x5662D4" "x3618ED" "x8B9B8A" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_CAR = {
 		create_state = {
 			country = c:CAR
-			owned_provinces = { "xF99932" "xF7B16D" }
+			owned_provinces = { "xF99932" "xFAEE56" "xFA927B" "xEBC60B" "xA7AD7A" "xC1AD6D" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_BER = {
 		create_state = {
 			country = c:BER
-			owned_provinces = { "xFF8D37" "xF7BC5F" }
+			owned_provinces = { "xFF8D37" "xFA4607" "xE78E44" "xFA6B1D" "xFA7438" "xFA6A2D" "xFAB105" "xFA633A" "xF57B11" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_HUH = {
 		create_state = {
 			country = c:HUH
-			owned_provinces = { "x1CBCCD" "x089ACD" "x5A90F7" "x0878F7" "x3CC4F7" "x588DF7" "x088BE0" "x08B0F0" "x3FEABD" }
+			owned_provinces = { "x1CBCCD" "x32BFE7" "x6D698D" "x21FAED" "x2EAFA6" "x05D4CA" "x33FADC" "x059EA5" "x3F6FF5" "x058CE1" "x09CAFA" "x5DE5EE" "x35ABEE" "x37A1FA" "x5FF3BE" "x5AEFFA" "x05FAE7" "x056890" "x37FAA1" "x23DDAD" "x1EB1CF" "x0589BB" "x2AA381" "x05B580" "x55FAD6" "x1A9F90" "x6D82EF" "x6BE47C" "x46EDFA" "x3AE3CF" "x05D4FA" "x60E4C9" "x0575D3" "x25AEFA" "x0590B8" "x05BFCF" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_MAC = {
 		create_state = {
 			country = c:MAC
-			owned_provinces = { "xD2CA34" "xB4CB36" "xA7D443" }
+			owned_provinces = { "xD2CA34" "xC5E442" "x93D205" "xE6FA0B" "x8DDC59" "xCDC817" "xF3BD25" "xFAAF85" "x96810E" "xB8C748" "xC0CB70" "x99C435" "x84DE63" "xB0A520" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_ABE = {
 		create_state = {
 			country = c:ABE
-			owned_provinces = { "xFF464F" "xF71070" "xBB7A2C" }
+			owned_provinces = { "xFF464F" "xFA1F92" "xFA371A" "xB75C96" "xFA762E" "xDE297E" "xB44F6F" "xFA0597" "xAE5F0B" "xE1473F" "xEA669A" "xED9190" "xFA2640" "xC5365B" }
 		}
 		add_homeland = cu:yankee
 	}
 	s:STATE_ALS = {
 		create_state = {
 			country = c:ALS
-			owned_provinces = { "x2B65EC" "x0875D8" }
+			owned_provinces = { "x2B65EC" "x2978FA" }
 		}
 		add_homeland = cu:yankee
 	}
