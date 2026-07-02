@@ -1,0 +1,3 @@
+region_ocean_sea = {
+	states = { STATE_OCEAN_SEA }
+}

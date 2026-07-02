@@ -1,0 +1,4 @@
+STATE_OCEAN_SEA = {
+    id = 3000
+    provinces = { "x0A1A2A" }
+}

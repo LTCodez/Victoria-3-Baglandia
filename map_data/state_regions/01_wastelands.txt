@@ -1,0 +1,24 @@
+STATE_WILDLANDS_01 = {
+    id = 100
+    provinces = { "x357B93" }
+}
+STATE_WILDLANDS_02 = {
+    id = 101
+    provinces = { "x40BEB4" }
+}
+STATE_WILDLANDS_03 = {
+    id = 102
+    provinces = { "x74EA88" }
+}
+STATE_WILDLANDS_04 = {
+    id = 103
+    provinces = { "x7F65A9" }
+}
+STATE_WILDLANDS_05 = {
+    id = 104
+    provinces = { "xB3917D" }
+}
+STATE_WILDLANDS_06 = {
+    id = 105
+    provinces = { "xBED49E" }
+}

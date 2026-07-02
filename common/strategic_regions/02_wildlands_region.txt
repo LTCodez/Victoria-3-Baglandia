@@ -1,0 +1,6 @@
+region_wildlands = {
+	graphical_culture = "european"
+	capital_province = x357B93
+	map_color = { 0.4 0.4 0.3 }
+	states = { STATE_WILDLANDS_01 STATE_WILDLANDS_02 STATE_WILDLANDS_03 STATE_WILDLANDS_04 STATE_WILDLANDS_05 STATE_WILDLANDS_06 }
+}

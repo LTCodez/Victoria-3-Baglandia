@@ -1,0 +1,100 @@
+STATE_BUE = {
+    id = 10
+    provinces = { "x37F17B" }
+}
+STATE_ZAD = {
+    id = 11
+    provinces = { "xE3B62E" }
+}
+STATE_GAB = {
+    id = 12
+    provinces = { "x5761D4" }
+}
+STATE_BRE = {
+    id = 13
+    provinces = { "xFF823E" }
+}
+STATE_DUR = {
+    id = 14
+    provinces = { "x1EE0A0" }
+}
+STATE_GOL = {
+    id = 15
+    provinces = { "xE8B02E" }
+}
+STATE_PIN = {
+    id = 16
+    provinces = { "xD03EA8" }
+}
+STATE_JUD = {
+    id = 17
+    provinces = { "x41F472" }
+}
+STATE_CHA = {
+    id = 18
+    provinces = { "xB1EE58" }
+}
+STATE_GUD = {
+    id = 19
+    provinces = { "x3292E1" }
+}
+STATE_SKJ = {
+    id = 20
+    provinces = { "x35F0A5" }
+}
+STATE_LOR = {
+    id = 21
+    provinces = { "xFF586C" }
+}
+STATE_NAU = {
+    id = 22
+    provinces = { "x7B19CD" }
+}
+STATE_KAI = {
+    id = 23
+    provinces = { "x6253C6" }
+}
+STATE_MAS = {
+    id = 24
+    provinces = { "x1AD6B0" }
+}
+STATE_TAK = {
+    id = 25
+    provinces = { "x6A46B5" }
+}
+STATE_SHI = {
+    id = 26
+    provinces = { "xDD3FA2" }
+}
+STATE_RIK = {
+    id = 28
+    provinces = { "x1AC3C6" }
+}
+STATE_VES = {
+    id = 29
+    provinces = { "x5662D4" }
+}
+STATE_CAR = {
+    id = 30
+    provinces = { "xF99932" }
+}
+STATE_BER = {
+    id = 31
+    provinces = { "xFF8D37" }
+}
+STATE_HUH = {
+    id = 32
+    provinces = { "x1CBCCD" }
+}
+STATE_MAC = {
+    id = 33
+    provinces = { "xD2CA34" }
+}
+STATE_ABE = {
+    id = 34
+    provinces = { "xFF464F" }
+}
+STATE_ALS = {
+    id = 36
+    provinces = { "x2B65EC" }
+}

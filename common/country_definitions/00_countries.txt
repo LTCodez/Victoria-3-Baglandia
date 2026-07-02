@@ -1,0 +1,299 @@
+BUE = {
+	color = { 55 241 123 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_BUE
+}
+
+ZAD = {
+	color = { 227 182 46 }
+
+	country_type = recognized
+
+	tier = empire
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_ZAD
+}
+
+GAB = {
+	color = { 87 97 212 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_GAB
+}
+
+BRE = {
+	color = { 255 130 62 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_BRE
+}
+
+DUR = {
+	color = { 30 224 160 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_DUR
+}
+
+GOL = {
+	color = { 232 176 46 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_GOL
+}
+
+PIN = {
+	color = { 208 62 168 }
+
+	country_type = recognized
+
+	tier = duchy
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_PIN
+}
+
+JUD = {
+	color = { 65 244 114 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_JUD
+}
+
+CHA = {
+	color = { 177 238 88 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_CHA
+}
+
+GUD = {
+	color = { 50 146 225 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_GUD
+}
+
+SKJ = {
+	color = { 53 240 165 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_SKJ
+}
+
+LOR = {
+	color = { 255 88 108 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_LOR
+}
+
+NAU = {
+	color = { 123 25 205 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_NAU
+}
+
+KAI = {
+	color = { 98 83 198 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_KAI
+}
+
+MAS = {
+	color = { 26 214 176 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_MAS
+}
+
+TAK = {
+	color = { 106 70 181 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_TAK
+}
+
+SHI = {
+	color = { 221 63 162 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_SHI
+}
+
+RIK = {
+	color = { 26 195 198 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_RIK
+}
+
+VES = {
+	color = { 86 98 212 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_VES
+}
+
+CAR = {
+	color = { 249 153 50 }
+
+	country_type = recognized
+
+	tier = duchy
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_CAR
+}
+
+BER = {
+	color = { 255 141 55 }
+
+	country_type = recognized
+
+	tier = duchy
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_BER
+}
+
+HUH = {
+	color = { 28 188 205 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_HUH
+}
+
+MAC = {
+	color = { 210 202 52 }
+
+	country_type = recognized
+
+	tier = duchy
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_MAC
+}
+
+ABE = {
+	color = { 255 70 79 }
+
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_ABE
+}
+
+ALS = {
+	color = { 43 101 236 }
+
+	country_type = recognized
+
+	tier = empire
+
+	cultures = { yankee }
+	religion = protestant
+	capital = STATE_ALS
+}

@@ -1,0 +1,177 @@
+STATES = {
+	s:STATE_BUE = {
+		create_state = {
+			country = c:BUE
+			owned_provinces = { "x37F17B" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_ZAD = {
+		create_state = {
+			country = c:ZAD
+			owned_provinces = { "xE3B62E" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_GAB = {
+		create_state = {
+			country = c:GAB
+			owned_provinces = { "x5761D4" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_BRE = {
+		create_state = {
+			country = c:BRE
+			owned_provinces = { "xFF823E" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_DUR = {
+		create_state = {
+			country = c:DUR
+			owned_provinces = { "x1EE0A0" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_GOL = {
+		create_state = {
+			country = c:GOL
+			owned_provinces = { "xE8B02E" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_PIN = {
+		create_state = {
+			country = c:PIN
+			owned_provinces = { "xD03EA8" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_JUD = {
+		create_state = {
+			country = c:JUD
+			owned_provinces = { "x41F472" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_CHA = {
+		create_state = {
+			country = c:CHA
+			owned_provinces = { "xB1EE58" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_GUD = {
+		create_state = {
+			country = c:GUD
+			owned_provinces = { "x3292E1" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_SKJ = {
+		create_state = {
+			country = c:SKJ
+			owned_provinces = { "x35F0A5" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_LOR = {
+		create_state = {
+			country = c:LOR
+			owned_provinces = { "xFF586C" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_NAU = {
+		create_state = {
+			country = c:NAU
+			owned_provinces = { "x7B19CD" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_KAI = {
+		create_state = {
+			country = c:KAI
+			owned_provinces = { "x6253C6" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_MAS = {
+		create_state = {
+			country = c:MAS
+			owned_provinces = { "x1AD6B0" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_TAK = {
+		create_state = {
+			country = c:TAK
+			owned_provinces = { "x6A46B5" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_SHI = {
+		create_state = {
+			country = c:SHI
+			owned_provinces = { "xDD3FA2" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_RIK = {
+		create_state = {
+			country = c:RIK
+			owned_provinces = { "x1AC3C6" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_VES = {
+		create_state = {
+			country = c:VES
+			owned_provinces = { "x5662D4" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_CAR = {
+		create_state = {
+			country = c:CAR
+			owned_provinces = { "xF99932" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_BER = {
+		create_state = {
+			country = c:BER
+			owned_provinces = { "xFF8D37" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_HUH = {
+		create_state = {
+			country = c:HUH
+			owned_provinces = { "x1CBCCD" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_MAC = {
+		create_state = {
+			country = c:MAC
+			owned_provinces = { "xD2CA34" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_ABE = {
+		create_state = {
+			country = c:ABE
+			owned_provinces = { "xFF464F" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_ALS = {
+		create_state = {
+			country = c:ALS
+			owned_provinces = { "x2B65EC" }
+		}
+		add_homeland = cu:yankee
+	}
+}
