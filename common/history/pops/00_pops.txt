@@ -2,7 +2,7 @@ POPS = {
 	s:STATE_ABE = {
 		region_state:ABE = {
 			create_pop = {
-				culture = yankee
+				culture = aberesi
 				size = 480000
 			}
 		}
@@ -10,7 +10,7 @@ POPS = {
 	s:STATE_ABE_02 = {
 		region_state:ABE = {
 			create_pop = {
-				culture = yankee
+				culture = aberesi
 				size = 260000
 			}
 		}
@@ -18,7 +18,7 @@ POPS = {
 	s:STATE_ABE_03 = {
 		region_state:ABE = {
 			create_pop = {
-				culture = yankee
+				culture = aberesi
 				size = 460000
 			}
 		}
@@ -26,7 +26,7 @@ POPS = {
 	s:STATE_ABE_04 = {
 		region_state:ABE = {
 			create_pop = {
-				culture = yankee
+				culture = aberesi
 				size = 460000
 			}
 		}
@@ -34,7 +34,7 @@ POPS = {
 	s:STATE_ABE_05 = {
 		region_state:ABE = {
 			create_pop = {
-				culture = yankee
+				culture = aberesi
 				size = 440000
 			}
 		}
@@ -42,7 +42,7 @@ POPS = {
 	s:STATE_ALS = {
 		region_state:ALS = {
 			create_pop = {
-				culture = yankee
+				culture = alsemian
 				size = 220000
 			}
 		}
@@ -50,7 +50,7 @@ POPS = {
 	s:STATE_BER = {
 		region_state:BER = {
 			create_pop = {
-				culture = yankee
+				culture = berhambian
 				size = 340000
 			}
 		}
@@ -58,7 +58,7 @@ POPS = {
 	s:STATE_BER_02 = {
 		region_state:BER = {
 			create_pop = {
-				culture = yankee
+				culture = berhambian
 				size = 580000
 			}
 		}
@@ -66,7 +66,7 @@ POPS = {
 	s:STATE_BER_03 = {
 		region_state:BER = {
 			create_pop = {
-				culture = yankee
+				culture = berhambian
 				size = 440000
 			}
 		}
@@ -74,7 +74,7 @@ POPS = {
 	s:STATE_BRE = {
 		region_state:BRE = {
 			create_pop = {
-				culture = yankee
+				culture = brevantian
 				size = 380000
 			}
 		}
@@ -82,7 +82,7 @@ POPS = {
 	s:STATE_BRE_02 = {
 		region_state:BRE = {
 			create_pop = {
-				culture = yankee
+				culture = brevantian
 				size = 460000
 			}
 		}
@@ -90,7 +90,7 @@ POPS = {
 	s:STATE_BRE_03 = {
 		region_state:BRE = {
 			create_pop = {
-				culture = yankee
+				culture = brevantian
 				size = 400000
 			}
 		}
@@ -98,7 +98,7 @@ POPS = {
 	s:STATE_BRE_04 = {
 		region_state:BRE = {
 			create_pop = {
-				culture = yankee
+				culture = brevantian
 				size = 440000
 			}
 		}
@@ -106,7 +106,7 @@ POPS = {
 	s:STATE_BRE_05 = {
 		region_state:BRE = {
 			create_pop = {
-				culture = yankee
+				culture = brevantian
 				size = 400000
 			}
 		}
@@ -114,7 +114,7 @@ POPS = {
 	s:STATE_BRE_06 = {
 		region_state:BRE = {
 			create_pop = {
-				culture = yankee
+				culture = brevantian
 				size = 460000
 			}
 		}
@@ -122,7 +122,7 @@ POPS = {
 	s:STATE_BUE = {
 		region_state:BUE = {
 			create_pop = {
-				culture = yankee
+				culture = buenish
 				size = 320000
 			}
 		}
@@ -130,7 +130,7 @@ POPS = {
 	s:STATE_BUE_02 = {
 		region_state:BUE = {
 			create_pop = {
-				culture = yankee
+				culture = buenish
 				size = 300000
 			}
 		}
@@ -138,7 +138,7 @@ POPS = {
 	s:STATE_BUE_03 = {
 		region_state:BUE = {
 			create_pop = {
-				culture = yankee
+				culture = buenish
 				size = 460000
 			}
 		}
@@ -146,7 +146,7 @@ POPS = {
 	s:STATE_BUE_04 = {
 		region_state:BUE = {
 			create_pop = {
-				culture = yankee
+				culture = buenish
 				size = 460000
 			}
 		}
@@ -154,7 +154,7 @@ POPS = {
 	s:STATE_BUE_05 = {
 		region_state:BUE = {
 			create_pop = {
-				culture = yankee
+				culture = buenish
 				size = 480000
 			}
 		}
@@ -162,7 +162,7 @@ POPS = {
 	s:STATE_BUE_06 = {
 		region_state:BUE = {
 			create_pop = {
-				culture = yankee
+				culture = buenish
 				size = 480000
 			}
 		}
@@ -170,7 +170,7 @@ POPS = {
 	s:STATE_BUE_07 = {
 		region_state:BUE = {
 			create_pop = {
-				culture = yankee
+				culture = buenish
 				size = 480000
 			}
 		}
@@ -178,7 +178,7 @@ POPS = {
 	s:STATE_CAR = {
 		region_state:CAR = {
 			create_pop = {
-				culture = yankee
+				culture = carian
 				size = 360000
 			}
 		}
@@ -186,7 +186,7 @@ POPS = {
 	s:STATE_CAR_02 = {
 		region_state:CAR = {
 			create_pop = {
-				culture = yankee
+				culture = carian
 				size = 520000
 			}
 		}
@@ -194,7 +194,7 @@ POPS = {
 	s:STATE_CHA = {
 		region_state:CHA = {
 			create_pop = {
-				culture = yankee
+				culture = charsian
 				size = 440000
 			}
 		}
@@ -202,7 +202,7 @@ POPS = {
 	s:STATE_CHA_02 = {
 		region_state:CHA = {
 			create_pop = {
-				culture = yankee
+				culture = charsian
 				size = 460000
 			}
 		}
@@ -210,7 +210,7 @@ POPS = {
 	s:STATE_CHA_03 = {
 		region_state:CHA = {
 			create_pop = {
-				culture = yankee
+				culture = charsian
 				size = 420000
 			}
 		}
@@ -218,7 +218,7 @@ POPS = {
 	s:STATE_CHA_04 = {
 		region_state:CHA = {
 			create_pop = {
-				culture = yankee
+				culture = charsian
 				size = 420000
 			}
 		}
@@ -226,7 +226,7 @@ POPS = {
 	s:STATE_CHA_05 = {
 		region_state:CHA = {
 			create_pop = {
-				culture = yankee
+				culture = charsian
 				size = 400000
 			}
 		}
@@ -234,7 +234,7 @@ POPS = {
 	s:STATE_CHA_06 = {
 		region_state:CHA = {
 			create_pop = {
-				culture = yankee
+				culture = charsian
 				size = 320000
 			}
 		}
@@ -242,7 +242,7 @@ POPS = {
 	s:STATE_CHA_07 = {
 		region_state:CHA = {
 			create_pop = {
-				culture = yankee
+				culture = charsian
 				size = 360000
 			}
 		}
@@ -250,7 +250,7 @@ POPS = {
 	s:STATE_CHA_08 = {
 		region_state:CHA = {
 			create_pop = {
-				culture = yankee
+				culture = charsian
 				size = 400000
 			}
 		}
@@ -258,7 +258,7 @@ POPS = {
 	s:STATE_CHA_09 = {
 		region_state:CHA = {
 			create_pop = {
-				culture = yankee
+				culture = charsian
 				size = 320000
 			}
 		}
@@ -266,7 +266,7 @@ POPS = {
 	s:STATE_CHA_10 = {
 		region_state:CHA = {
 			create_pop = {
-				culture = yankee
+				culture = charsian
 				size = 440000
 			}
 		}
@@ -274,7 +274,7 @@ POPS = {
 	s:STATE_DUR = {
 		region_state:DUR = {
 			create_pop = {
-				culture = yankee
+				culture = durmaran
 				size = 480000
 			}
 		}
@@ -282,7 +282,7 @@ POPS = {
 	s:STATE_DUR_02 = {
 		region_state:DUR = {
 			create_pop = {
-				culture = yankee
+				culture = durmaran
 				size = 340000
 			}
 		}
@@ -290,7 +290,7 @@ POPS = {
 	s:STATE_DUR_03 = {
 		region_state:DUR = {
 			create_pop = {
-				culture = yankee
+				culture = durmaran
 				size = 300000
 			}
 		}
@@ -298,7 +298,7 @@ POPS = {
 	s:STATE_DUR_04 = {
 		region_state:DUR = {
 			create_pop = {
-				culture = yankee
+				culture = durmaran
 				size = 420000
 			}
 		}
@@ -306,7 +306,7 @@ POPS = {
 	s:STATE_DUR_05 = {
 		region_state:DUR = {
 			create_pop = {
-				culture = yankee
+				culture = durmaran
 				size = 360000
 			}
 		}
@@ -314,7 +314,7 @@ POPS = {
 	s:STATE_DUR_06 = {
 		region_state:DUR = {
 			create_pop = {
-				culture = yankee
+				culture = durmaran
 				size = 420000
 			}
 		}
@@ -322,7 +322,7 @@ POPS = {
 	s:STATE_DUR_07 = {
 		region_state:DUR = {
 			create_pop = {
-				culture = yankee
+				culture = durmaran
 				size = 440000
 			}
 		}
@@ -330,7 +330,7 @@ POPS = {
 	s:STATE_GAB = {
 		region_state:GAB = {
 			create_pop = {
-				culture = yankee
+				culture = gabijan
 				size = 320000
 			}
 		}
@@ -338,7 +338,7 @@ POPS = {
 	s:STATE_GAB_02 = {
 		region_state:GAB = {
 			create_pop = {
-				culture = yankee
+				culture = gabijan
 				size = 400000
 			}
 		}
@@ -346,7 +346,7 @@ POPS = {
 	s:STATE_GAB_03 = {
 		region_state:GAB = {
 			create_pop = {
-				culture = yankee
+				culture = gabijan
 				size = 400000
 			}
 		}
@@ -354,7 +354,7 @@ POPS = {
 	s:STATE_GAB_04 = {
 		region_state:GAB = {
 			create_pop = {
-				culture = yankee
+				culture = gabijan
 				size = 320000
 			}
 		}
@@ -362,7 +362,7 @@ POPS = {
 	s:STATE_GOL = {
 		region_state:GOL = {
 			create_pop = {
-				culture = yankee
+				culture = goldish
 				size = 420000
 			}
 		}
@@ -370,7 +370,7 @@ POPS = {
 	s:STATE_GOL_02 = {
 		region_state:GOL = {
 			create_pop = {
-				culture = yankee
+				culture = goldish
 				size = 420000
 			}
 		}
@@ -378,7 +378,7 @@ POPS = {
 	s:STATE_GOL_03 = {
 		region_state:GOL = {
 			create_pop = {
-				culture = yankee
+				culture = goldish
 				size = 300000
 			}
 		}
@@ -386,7 +386,7 @@ POPS = {
 	s:STATE_GOL_04 = {
 		region_state:GOL = {
 			create_pop = {
-				culture = yankee
+				culture = goldish
 				size = 460000
 			}
 		}
@@ -394,7 +394,7 @@ POPS = {
 	s:STATE_GUD = {
 		region_state:GUD = {
 			create_pop = {
-				culture = yankee
+				culture = gudenish
 				size = 380000
 			}
 		}
@@ -402,7 +402,7 @@ POPS = {
 	s:STATE_GUD_02 = {
 		region_state:GUD = {
 			create_pop = {
-				culture = yankee
+				culture = gudenish
 				size = 560000
 			}
 		}
@@ -410,7 +410,7 @@ POPS = {
 	s:STATE_GUD_03 = {
 		region_state:GUD = {
 			create_pop = {
-				culture = yankee
+				culture = gudenish
 				size = 220000
 			}
 		}
@@ -418,13 +418,13 @@ POPS = {
 	s:STATE_GUD_04 = {
 		region_state:GUD = {
 			create_pop = {
-				culture = yankee
+				culture = gudenish
 				size = 240000
 			}
 		}
 		region_state:JUD = {
 			create_pop = {
-				culture = yankee
+				culture = judean
 				size = 140000
 			}
 		}
@@ -432,7 +432,7 @@ POPS = {
 	s:STATE_GUD_05 = {
 		region_state:GUD = {
 			create_pop = {
-				culture = yankee
+				culture = gudenish
 				size = 420000
 			}
 		}
@@ -440,13 +440,13 @@ POPS = {
 	s:STATE_GUD_06 = {
 		region_state:GUD = {
 			create_pop = {
-				culture = yankee
+				culture = gudenish
 				size = 140000
 			}
 		}
 		region_state:JUD = {
 			create_pop = {
-				culture = yankee
+				culture = judean
 				size = 280000
 			}
 		}
@@ -454,7 +454,7 @@ POPS = {
 	s:STATE_GUD_07 = {
 		region_state:GUD = {
 			create_pop = {
-				culture = yankee
+				culture = gudenish
 				size = 300000
 			}
 		}
@@ -462,7 +462,7 @@ POPS = {
 	s:STATE_GUD_08 = {
 		region_state:GUD = {
 			create_pop = {
-				culture = yankee
+				culture = gudenish
 				size = 440000
 			}
 		}
@@ -470,7 +470,7 @@ POPS = {
 	s:STATE_GUD_09 = {
 		region_state:GUD = {
 			create_pop = {
-				culture = yankee
+				culture = gudenish
 				size = 420000
 			}
 		}
@@ -478,7 +478,7 @@ POPS = {
 	s:STATE_HUH = {
 		region_state:HUH = {
 			create_pop = {
-				culture = yankee
+				culture = huhnish
 				size = 360000
 			}
 		}
@@ -486,7 +486,7 @@ POPS = {
 	s:STATE_HUH_02 = {
 		region_state:HUH = {
 			create_pop = {
-				culture = yankee
+				culture = huhnish
 				size = 360000
 			}
 		}
@@ -494,7 +494,7 @@ POPS = {
 	s:STATE_HUH_03 = {
 		region_state:HUH = {
 			create_pop = {
-				culture = yankee
+				culture = huhnish
 				size = 420000
 			}
 		}
@@ -502,7 +502,7 @@ POPS = {
 	s:STATE_HUH_04 = {
 		region_state:HUH = {
 			create_pop = {
-				culture = yankee
+				culture = huhnish
 				size = 360000
 			}
 		}
@@ -510,7 +510,7 @@ POPS = {
 	s:STATE_HUH_05 = {
 		region_state:HUH = {
 			create_pop = {
-				culture = yankee
+				culture = huhnish
 				size = 320000
 			}
 		}
@@ -518,7 +518,7 @@ POPS = {
 	s:STATE_HUH_06 = {
 		region_state:HUH = {
 			create_pop = {
-				culture = yankee
+				culture = huhnish
 				size = 360000
 			}
 		}
@@ -526,7 +526,7 @@ POPS = {
 	s:STATE_HUH_07 = {
 		region_state:HUH = {
 			create_pop = {
-				culture = yankee
+				culture = huhnish
 				size = 420000
 			}
 		}
@@ -534,7 +534,7 @@ POPS = {
 	s:STATE_HUH_08 = {
 		region_state:HUH = {
 			create_pop = {
-				culture = yankee
+				culture = huhnish
 				size = 400000
 			}
 		}
@@ -542,7 +542,7 @@ POPS = {
 	s:STATE_HUH_09 = {
 		region_state:HUH = {
 			create_pop = {
-				culture = yankee
+				culture = huhnish
 				size = 460000
 			}
 		}
@@ -550,7 +550,7 @@ POPS = {
 	s:STATE_HUH_10 = {
 		region_state:HUH = {
 			create_pop = {
-				culture = yankee
+				culture = huhnish
 				size = 400000
 			}
 		}
@@ -558,7 +558,7 @@ POPS = {
 	s:STATE_HUH_11 = {
 		region_state:HUH = {
 			create_pop = {
-				culture = yankee
+				culture = huhnish
 				size = 380000
 			}
 		}
@@ -566,7 +566,7 @@ POPS = {
 	s:STATE_HUH_12 = {
 		region_state:HUH = {
 			create_pop = {
-				culture = yankee
+				culture = huhnish
 				size = 400000
 			}
 		}
@@ -574,7 +574,7 @@ POPS = {
 	s:STATE_HUH_13 = {
 		region_state:HUH = {
 			create_pop = {
-				culture = yankee
+				culture = huhnish
 				size = 380000
 			}
 		}
@@ -582,7 +582,7 @@ POPS = {
 	s:STATE_HUH_14 = {
 		region_state:HUH = {
 			create_pop = {
-				culture = yankee
+				culture = huhnish
 				size = 460000
 			}
 		}
@@ -590,7 +590,7 @@ POPS = {
 	s:STATE_JUD = {
 		region_state:JUD = {
 			create_pop = {
-				culture = yankee
+				culture = judean
 				size = 400000
 			}
 		}
@@ -598,7 +598,7 @@ POPS = {
 	s:STATE_JUD_02 = {
 		region_state:JUD = {
 			create_pop = {
-				culture = yankee
+				culture = judean
 				size = 360000
 			}
 		}
@@ -606,7 +606,7 @@ POPS = {
 	s:STATE_JUD_03 = {
 		region_state:JUD = {
 			create_pop = {
-				culture = yankee
+				culture = judean
 				size = 420000
 			}
 		}
@@ -614,7 +614,7 @@ POPS = {
 	s:STATE_JUD_04 = {
 		region_state:JUD = {
 			create_pop = {
-				culture = yankee
+				culture = judean
 				size = 480000
 			}
 		}
@@ -622,7 +622,7 @@ POPS = {
 	s:STATE_KAI = {
 		region_state:KAI = {
 			create_pop = {
-				culture = yankee
+				culture = kaikoshi
 				size = 320000
 			}
 		}
@@ -630,7 +630,7 @@ POPS = {
 	s:STATE_KAI_02 = {
 		region_state:KAI = {
 			create_pop = {
-				culture = yankee
+				culture = kaikoshi
 				size = 340000
 			}
 		}
@@ -638,7 +638,7 @@ POPS = {
 	s:STATE_LOR = {
 		region_state:LOR = {
 			create_pop = {
-				culture = yankee
+				culture = lorrevalian
 				size = 360000
 			}
 		}
@@ -646,7 +646,7 @@ POPS = {
 	s:STATE_LOR_02 = {
 		region_state:LOR = {
 			create_pop = {
-				culture = yankee
+				culture = lorrevalian
 				size = 360000
 			}
 		}
@@ -654,7 +654,7 @@ POPS = {
 	s:STATE_LOR_03 = {
 		region_state:LOR = {
 			create_pop = {
-				culture = yankee
+				culture = lorrevalian
 				size = 400000
 			}
 		}
@@ -662,7 +662,7 @@ POPS = {
 	s:STATE_LOR_04 = {
 		region_state:LOR = {
 			create_pop = {
-				culture = yankee
+				culture = lorrevalian
 				size = 400000
 			}
 		}
@@ -670,7 +670,7 @@ POPS = {
 	s:STATE_LOR_05 = {
 		region_state:LOR = {
 			create_pop = {
-				culture = yankee
+				culture = lorrevalian
 				size = 500000
 			}
 		}
@@ -678,7 +678,7 @@ POPS = {
 	s:STATE_LOR_06 = {
 		region_state:LOR = {
 			create_pop = {
-				culture = yankee
+				culture = lorrevalian
 				size = 340000
 			}
 		}
@@ -686,13 +686,13 @@ POPS = {
 	s:STATE_LOR_07 = {
 		region_state:LOR = {
 			create_pop = {
-				culture = yankee
+				culture = lorrevalian
 				size = 200000
 			}
 		}
 		region_state:NAU = {
 			create_pop = {
-				culture = yankee
+				culture = nauerthi
 				size = 180000
 			}
 		}
@@ -700,7 +700,7 @@ POPS = {
 	s:STATE_LOR_08 = {
 		region_state:LOR = {
 			create_pop = {
-				culture = yankee
+				culture = lorrevalian
 				size = 360000
 			}
 		}
@@ -708,7 +708,7 @@ POPS = {
 	s:STATE_LOR_09 = {
 		region_state:LOR = {
 			create_pop = {
-				culture = yankee
+				culture = lorrevalian
 				size = 440000
 			}
 		}
@@ -716,7 +716,7 @@ POPS = {
 	s:STATE_LOR_10 = {
 		region_state:LOR = {
 			create_pop = {
-				culture = yankee
+				culture = lorrevalian
 				size = 400000
 			}
 		}
@@ -724,7 +724,7 @@ POPS = {
 	s:STATE_LOR_11 = {
 		region_state:LOR = {
 			create_pop = {
-				culture = yankee
+				culture = lorrevalian
 				size = 380000
 			}
 		}
@@ -732,7 +732,7 @@ POPS = {
 	s:STATE_MAC = {
 		region_state:MAC = {
 			create_pop = {
-				culture = yankee
+				culture = mackingian
 				size = 480000
 			}
 		}
@@ -740,7 +740,7 @@ POPS = {
 	s:STATE_MAC_02 = {
 		region_state:MAC = {
 			create_pop = {
-				culture = yankee
+				culture = mackingian
 				size = 420000
 			}
 		}
@@ -748,7 +748,7 @@ POPS = {
 	s:STATE_MAC_03 = {
 		region_state:MAC = {
 			create_pop = {
-				culture = yankee
+				culture = mackingian
 				size = 380000
 			}
 		}
@@ -756,7 +756,7 @@ POPS = {
 	s:STATE_MAC_04 = {
 		region_state:MAC = {
 			create_pop = {
-				culture = yankee
+				culture = mackingian
 				size = 320000
 			}
 		}
@@ -764,7 +764,7 @@ POPS = {
 	s:STATE_MAC_05 = {
 		region_state:MAC = {
 			create_pop = {
-				culture = yankee
+				culture = mackingian
 				size = 460000
 			}
 		}
@@ -772,7 +772,7 @@ POPS = {
 	s:STATE_MAS = {
 		region_state:MAS = {
 			create_pop = {
-				culture = yankee
+				culture = masayoshan
 				size = 360000
 			}
 		}
@@ -780,7 +780,7 @@ POPS = {
 	s:STATE_MAS_02 = {
 		region_state:MAS = {
 			create_pop = {
-				culture = yankee
+				culture = masayoshan
 				size = 380000
 			}
 		}
@@ -788,7 +788,7 @@ POPS = {
 	s:STATE_MAS_03 = {
 		region_state:MAS = {
 			create_pop = {
-				culture = yankee
+				culture = masayoshan
 				size = 400000
 			}
 		}
@@ -796,7 +796,7 @@ POPS = {
 	s:STATE_NAU = {
 		region_state:NAU = {
 			create_pop = {
-				culture = yankee
+				culture = nauerthi
 				size = 220000
 			}
 		}
@@ -804,7 +804,7 @@ POPS = {
 	s:STATE_NAU_02 = {
 		region_state:NAU = {
 			create_pop = {
-				culture = yankee
+				culture = nauerthi
 				size = 520000
 			}
 		}
@@ -812,7 +812,7 @@ POPS = {
 	s:STATE_NAU_03 = {
 		region_state:NAU = {
 			create_pop = {
-				culture = yankee
+				culture = nauerthi
 				size = 520000
 			}
 		}
@@ -820,7 +820,7 @@ POPS = {
 	s:STATE_NAU_04 = {
 		region_state:NAU = {
 			create_pop = {
-				culture = yankee
+				culture = nauerthi
 				size = 480000
 			}
 		}
@@ -828,7 +828,7 @@ POPS = {
 	s:STATE_NAU_05 = {
 		region_state:NAU = {
 			create_pop = {
-				culture = yankee
+				culture = nauerthi
 				size = 380000
 			}
 		}
@@ -836,7 +836,7 @@ POPS = {
 	s:STATE_NAU_06 = {
 		region_state:NAU = {
 			create_pop = {
-				culture = yankee
+				culture = nauerthi
 				size = 480000
 			}
 		}
@@ -844,7 +844,7 @@ POPS = {
 	s:STATE_NAU_07 = {
 		region_state:NAU = {
 			create_pop = {
-				culture = yankee
+				culture = nauerthi
 				size = 400000
 			}
 		}
@@ -852,13 +852,13 @@ POPS = {
 	s:STATE_NAU_08 = {
 		region_state:NAU = {
 			create_pop = {
-				culture = yankee
+				culture = nauerthi
 				size = 280000
 			}
 		}
 		region_state:LOR = {
 			create_pop = {
-				culture = yankee
+				culture = lorrevalian
 				size = 80000
 			}
 		}
@@ -866,7 +866,7 @@ POPS = {
 	s:STATE_NAU_09 = {
 		region_state:NAU = {
 			create_pop = {
-				culture = yankee
+				culture = nauerthi
 				size = 480000
 			}
 		}
@@ -874,7 +874,7 @@ POPS = {
 	s:STATE_NAU_10 = {
 		region_state:NAU = {
 			create_pop = {
-				culture = yankee
+				culture = nauerthi
 				size = 500000
 			}
 		}
@@ -882,7 +882,7 @@ POPS = {
 	s:STATE_NAU_11 = {
 		region_state:NAU = {
 			create_pop = {
-				culture = yankee
+				culture = nauerthi
 				size = 280000
 			}
 		}
@@ -890,7 +890,7 @@ POPS = {
 	s:STATE_NAU_12 = {
 		region_state:NAU = {
 			create_pop = {
-				culture = yankee
+				culture = nauerthi
 				size = 460000
 			}
 		}
@@ -898,7 +898,7 @@ POPS = {
 	s:STATE_NAU_13 = {
 		region_state:NAU = {
 			create_pop = {
-				culture = yankee
+				culture = nauerthi
 				size = 240000
 			}
 		}
@@ -906,7 +906,7 @@ POPS = {
 	s:STATE_PIN = {
 		region_state:PIN = {
 			create_pop = {
-				culture = yankee
+				culture = pinker
 				size = 400000
 			}
 		}
@@ -914,7 +914,7 @@ POPS = {
 	s:STATE_PIN_02 = {
 		region_state:PIN = {
 			create_pop = {
-				culture = yankee
+				culture = pinker
 				size = 500000
 			}
 		}
@@ -922,7 +922,7 @@ POPS = {
 	s:STATE_PIN_03 = {
 		region_state:PIN = {
 			create_pop = {
-				culture = yankee
+				culture = pinker
 				size = 480000
 			}
 		}
@@ -930,7 +930,7 @@ POPS = {
 	s:STATE_RIK = {
 		region_state:RIK = {
 			create_pop = {
-				culture = yankee
+				culture = rikujan
 				size = 160000
 			}
 		}
@@ -938,7 +938,7 @@ POPS = {
 	s:STATE_SHI = {
 		region_state:SHI = {
 			create_pop = {
-				culture = yankee
+				culture = shinigawan
 				size = 440000
 			}
 		}
@@ -946,7 +946,7 @@ POPS = {
 	s:STATE_SHI_02 = {
 		region_state:SHI = {
 			create_pop = {
-				culture = yankee
+				culture = shinigawan
 				size = 360000
 			}
 		}
@@ -954,7 +954,7 @@ POPS = {
 	s:STATE_SHI_03 = {
 		region_state:SHI = {
 			create_pop = {
-				culture = yankee
+				culture = shinigawan
 				size = 440000
 			}
 		}
@@ -962,7 +962,7 @@ POPS = {
 	s:STATE_SHI_04 = {
 		region_state:SHI = {
 			create_pop = {
-				culture = yankee
+				culture = shinigawan
 				size = 480000
 			}
 		}
@@ -970,7 +970,7 @@ POPS = {
 	s:STATE_SKJ = {
 		region_state:SKJ = {
 			create_pop = {
-				culture = yankee
+				culture = skjoldish
 				size = 460000
 			}
 		}
@@ -978,7 +978,7 @@ POPS = {
 	s:STATE_SKJ_02 = {
 		region_state:SKJ = {
 			create_pop = {
-				culture = yankee
+				culture = skjoldish
 				size = 480000
 			}
 		}
@@ -986,7 +986,7 @@ POPS = {
 	s:STATE_SKJ_03 = {
 		region_state:SKJ = {
 			create_pop = {
-				culture = yankee
+				culture = skjoldish
 				size = 340000
 			}
 		}
@@ -994,7 +994,7 @@ POPS = {
 	s:STATE_TAK = {
 		region_state:TAK = {
 			create_pop = {
-				culture = yankee
+				culture = takaichan
 				size = 480000
 			}
 		}
@@ -1002,7 +1002,7 @@ POPS = {
 	s:STATE_VES = {
 		region_state:VES = {
 			create_pop = {
-				culture = yankee
+				culture = veselian
 				size = 420000
 			}
 		}
@@ -1010,7 +1010,7 @@ POPS = {
 	s:STATE_ZAD = {
 		region_state:ZAD = {
 			create_pop = {
-				culture = yankee
+				culture = zadarine
 				size = 480000
 			}
 		}
@@ -1018,7 +1018,7 @@ POPS = {
 	s:STATE_ZAD_02 = {
 		region_state:ZAD = {
 			create_pop = {
-				culture = yankee
+				culture = zadarine
 				size = 440000
 			}
 		}
@@ -1026,7 +1026,7 @@ POPS = {
 	s:STATE_ZAD_03 = {
 		region_state:ZAD = {
 			create_pop = {
-				culture = yankee
+				culture = zadarine
 				size = 480000
 			}
 		}
@@ -1034,7 +1034,7 @@ POPS = {
 	s:STATE_ZAD_04 = {
 		region_state:ZAD = {
 			create_pop = {
-				culture = yankee
+				culture = zadarine
 				size = 360000
 			}
 		}
@@ -1042,7 +1042,7 @@ POPS = {
 	s:STATE_ZAD_05 = {
 		region_state:ZAD = {
 			create_pop = {
-				culture = yankee
+				culture = zadarine
 				size = 360000
 			}
 		}
@@ -1050,7 +1050,7 @@ POPS = {
 	s:STATE_ZAD_06 = {
 		region_state:ZAD = {
 			create_pop = {
-				culture = yankee
+				culture = zadarine
 				size = 400000
 			}
 		}
