@@ -922,4 +922,963 @@ STATES = {
 		}
 		add_homeland = cu:zadarine
 	}
+	s:STATE_WILDLANDS_01 = {
+		create_state = {
+			country = c:W01
+			owned_provinces = { "x357B93" "x4D86B9" "x604972" "x0AB0B4" "x097CC1" "x0356AF" "x5825A3" "x068288" "x2AC835" "x3283B0" "x032AD4" "x77B956" "x286491" "x0D897F" "x607DAF" "x7C4795" "x038478" "x7E258E" "x036CD7" "x659B77" "x03CA7F" "x41DAE5" "x562E47" "x1DB473" "x91ACBB" "x3FD8E3" "x4CA2F1" "x6B725B" "x039A67" "x558F37" "x5D7652" "x6236F2" "x032379" "x7250E1" "x2B7E68" "x0322E8" "x68B5CD" "x42B0D1" "x59B9DC" "x7FCF99" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_01_02 = {
+		create_state = {
+			country = c:W01
+			owned_provinces = { "x53B2BA" "x6F8FC0" "x644557" "x03A492" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_02 = {
+		create_state = {
+			country = c:W02
+			owned_provinces = { "x40BEB4" "x6EB783" "x03FC80" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_03 = {
+		create_state = {
+			country = c:W03
+			owned_provinces = { "x74EA88" "xBBFCDC" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_03_02 = {
+		create_state = {
+			country = c:W03
+			owned_provinces = { "x94FC89" "x52E08D" "x75B58A" "x6FFCD7" "x33FCE1" "xB8D3DF" "x50A749" "xA4F799" "x3BFC86" "x3CB0E3" "xB4FC92" "x92B8DC" "x50E483" "xABE692" "x38FCBC" "x2AAE32" "x88FCE3" "x35FCD1" "xC38C3B" "x61B3CA" "x6CF8B2" "xB1AAAB" "x41FC37" "xB9FC97" "xCDFC6A" "x788DAA" "xA0F969" "x20FC67" "x84BBA0" "x6DF9DC" "xA9FC6D" "xAACF94" "x6DFC66" "x54C3A9" "xC8FCE3" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_03_03 = {
+		create_state = {
+			country = c:W03
+			owned_provinces = { "x92FCAC" "x1CFC8C" "xC7E0DF" "xADFC90" "x8FFCBA" "xB1C571" "xB3FC88" "x17FC95" "x5CAED1" "x87FC54" "x70D89E" "x83C543" "x5A99B7" "x5D9783" "x20FCCE" "x63E792" "xC8FCC1" "x39FCA0" "x3AB449" "x4DD9CC" "x5EFC79" "x78B6E0" "x85FC39" "x77F1AC" "x24D5A1" "xC1D5CF" "x7093E2" "x25A45C" "xA0948B" "x72FC35" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_03_04 = {
+		create_state = {
+			country = c:W03
+			owned_provinces = { "x21E5D8" "xAAB3E1" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_03_05 = {
+		create_state = {
+			country = c:W03
+			owned_provinces = { "x8BD7E0" "x1FA768" "x26FC3F" "x32C5C0" "x8DE97B" "xB4FC52" "x73FCA2" "x719CBE" "xC6FC8C" "x91AF42" "x52FC9E" "x9FF93B" "x23A756" "x60DCDB" "x59FCAE" "x44FCD2" "x9893A0" "x57FCDA" "x21E7DB" "x60D238" "x77FB52" "x2E8EDC" "xBEFC42" "xBFADC3" "x26FC5F" "x1DFC7C" "xAFFC30" "xA5FC42" "x51FB82" "xC7FC6F" "xC9CB50" "x8CC8B5" "xCEB98D" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_04 = {
+		create_state = {
+			country = c:W04
+			owned_provinces = { "x7F65A9" "x5C8ADE" "x824AFC" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xB3917D" "xDED641" "xE1B841" "xF99CBE" "xFBCE3B" "x93A2B2" "xB19C7C" "xD18D1E" "x6BCA3B" "xBB3756" "x5CC790" "x8C7D3F" "xC03659" "x59D7B6" "xCCD534" "xFC403A" "xF19FB2" "xC283B9" "x693523" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_02 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xCAB944" "xBD4370" "x5E8260" "xFCD98E" "xE3D289" "xD0AD35" "xA268B3" "xF7A547" "xD9B9C3" "xA6AC8C" "x5C93CD" "x7FEB46" "xFC9980" "x8C47AA" "xAE632A" "xFCB65C" "x99D7A0" "x8F569A" "xEF84DB" "xFC8527" "xE4A476" "x8A56A1" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_03 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xD5DF2C" "x6E8CC9" "xB6CF8B" "xD93696" "xD27DC3" "x57B02F" "x5BA7D2" "x559E84" "x7A92C1" "x879BCC" "xEEE220" "x76C3A9" "xD084D1" "xE48820" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_04 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x89822B" "x824331" "x6B6D32" "xFC68BB" "xA0B723" "x7CC29A" "xFC7D40" "xECAB66" "xB2CE80" "x7DD8D2" "xFCD06B" "xD5E5A5" "x79DEBD" "x9DB756" "xB8A9B0" "xF24FB4" "xDD67B6" "xC6E9CE" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_05 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xED8E90" "xC45B20" "x946EC4" "x799390" "x85E2DB" "xFCE24F" "x9486AB" "x626696" "x79C89B" "x9C8827" "x677E23" "x99AD9D" "xFC7B56" "x9D35CE" "xCD5049" "x8CB885" "xF57BA3" "xA9DF4D" "xE1ECD9" "x7936CC" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_06 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFC3C32" "x56DDA7" "xEF43C1" "xFC3FA1" "xFA9688" "xD7BC5B" "x64D78C" "x9F476B" "x8C529A" "x836CB9" "x5FCBD0" "x85D7AC" "xF27A69" "xD53FCB" "xFCB9DC" "xAEAD60" "xFC9E9B" "x9DB288" "x6E496D" "xCDC636" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_07 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xE095BA" "xAA3BCB" "x5C5CC7" "xCB643E" "xA7BC5A" "x5B8527" "x7E5988" "xFC4B6F" "xFC86BC" "x69614A" "xCDA640" "xECA7CB" "xBA703F" "xDAD2C6" "xB67E49" "xF2B044" "x6576AF" "xBCC3B9" "x7E7396" "xFC59D9" "x6845D1" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_08 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xD25C78" "x64C1C9" "xB59D3B" "xE6E16F" "xD43634" "xC787C3" "xBBE2DB" "x7A4D45" "xC8AB3D" "xB76B9E" "x715565" "xFC9ADC" "xFCDA84" "x78D325" "x585F46" "xA845C6" "xF89B45" "xB8EB62" "xD23F9A" "x6FCC4D" "xAA8588" "x823DC7" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_09 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x5881AF" "xD97EC4" "x7148DC" "x5B8E7F" "x97B0C6" "x656EB3" "xC2BFA5" "x69E648" "x63ADCA" "x879085" "x85464A" "xDE9169" "x6834B2" "x6CE2D9" "x94684C" "xAEEA81" "x904DCF" "xB1495A" "x823E2F" "xD05265" "x99D721" "xF55C8F" "x9EA99D" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_10 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xC3D04F" "xFC4EBB" "xFCEF8C" "xE68C29" "x93B3BD" "xF34453" "xA7B790" "xF837A5" "x694AD5" "xD197A6" "xF5DB1E" "x63B098" "xDEAAA5" "x665DCD" "x6159B0" "x907754" "x7167DA" "xBE6561" "x953A32" "x68B57E" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_11 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFCA063" "xB550C8" "xD9B940" "x99B853" "x9EC7D5" "x9484A4" "x8146AA" "xE6D743" "xB9E19A" "xF4338B" "xEAB584" "xEB865F" "xDA829A" "xB3C4BB" "x62A7A7" "x7EC0BB" "xB45C7F" "xBE6486" "xAA7DDA" "xFCBF4A" "xA9412C" "xF17D3E" "x6E7439" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_12 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xAB39D8" "xFA6720" "x71CB55" "x5C4F70" "xB0A14D" "xFCC932" "x58C891" "x97CFBE" "xFCBDD0" "xA68323" "xC96E28" "x57EA95" "xB83BC1" "x54B095" "xAF995E" "xCB6CC4" "xAF51A4" "x61808C" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_13 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x6E9B61" "xAB40C8" "x67B0CF" "xFCEFAA" "xF65D5F" "xFCB298" "xE5BA81" "xAE5B3D" "x71C980" "xFCCF86" "xB1A489" "xBAAEA2" "xFCB460" "xF4BF2F" "xAED623" "xB6A138" "xFA78CD" "xE64A91" "xE4917C" "xB9833A" "xFC3740" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_14 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xCAD265" "xEEADBA" "xEE78D1" "x7572B0" "xADE0AF" "x9C48CC" "xC94D53" "x835ED6" "x84A95F" "x883389" "x7BBD75" "xE965AA" "x97EABE" "xADCF22" "xE9D599" "xF6C953" "xC83F29" "xE69C3F" "x90BF57" "xD638AE" "x86AF37" "xF89AB0" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_15 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x6A58AE" "x7B95B9" "xFC944A" "x9DC4C9" "x8DB86F" "x64EF2A" "xFC4B9C" "xD8B9D3" "xFC5C81" "xF94354" "x7A44C9" "xE8AF4B" "xDA9941" "x56AC2D" "x934326" "xB5F0C3" "x8538BB" "xDE7023" "x7C40AD" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_16 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xA493D0" "x70E4D2" "xFCAB84" "x7D944F" "xB8E799" "xDD4675" "x834FA6" "x589F8F" "xA3B728" "xD9C45F" "xFB9A6C" "xEC4477" "xFC6339" "x9D5B6F" "x5AC54E" "xA884BB" "x6CD6A8" "x95439B" "x966E8E" "xFA8A75" "xF54B88" "xD1EB80" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_17 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x64A15F" "xBB78BB" "xEC384E" "xDA7270" "xDA5CA4" "xC0863D" "xBDDA26" "x707C50" "x9DC1C4" "xAC7D81" "x91D34A" "x806C8A" "xA47E59" "xB47170" "xBD7B39" "xFC5758" "xC8E44D" "x6AEFA7" "xC0B227" "xFCA66E" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_18 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xCBB995" "xCABC5D" "xB89ED3" "x77EAC3" "xB073C1" "xD04471" "xC9618D" "x84DA6B" "xAD3D7F" "x7EBE9E" "xBCAB33" "x8E5627" "xB2B849" "x6CC1A1" "x54D8A7" "xB24BDB" "xFC9238" "xC98560" "x91E879" "xE353AA" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_19 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xB1AC1E" "xD14174" "xF66DB0" "xFC895F" "xD1A16A" "xBEC34C" "x8D9E9A" "x63BC8B" "xDF9E6C" "x86E374" "x6D73D8" "xCF5B5F" "x816D40" "xC756B3" "xE9E95B" "xE45E1E" "x91D776" "xFCDBC3" "xF547C3" "xA1DBCA" "x666741" "x9F9194" "xF7A75E" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_20 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x8BF09D" "xEF8328" "xA07A84" "xCAE14E" "x8E9434" "xE9643F" "xD4C082" "xFCA167" "xF46A23" "x85CD3C" "xC74635" "x95E9C3" "xA2C5B9" "x918689" "xFC64AA" "x62B1D5" "xEE53CF" "x563BC3" "x5CE16E" "xA65F8A" "xC7A07B" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_21 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFCC07F" "xEF4C2D" "x9F349B" "xB64C3B" "xFCCA60" "xEBE578" "xDD3E7E" "xBF99C2" "x75E9CA" "xDCEF78" "xBBD49F" "xC67145" "xD655B0" "x7F95B0" "xF0E5CE" "x883E68" "x7A56C4" "x93BAB9" "xA73A2E" "xC7E8D0" "x5655C6" "x8C977F" "xA5B0DB" "x81B837" "xFCE576" "xFC9AD5" "x60E881" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_22 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xCDB1CA" "xD83775" "xC89D1E" "xF0EC93" "xB839AB" "xA750B4" "xFC6A90" "x55DAA8" "xF5D9D1" "xC5551E" "xFC6973" "xB27574" "x54B82D" "xFC3B4B" "xFCA032" "xAB73A0" "xFC735E" "x5E4DC2" "x68C03B" "xC5A177" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_23 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFC3C5B" "xC789B0" "xF5638C" "x70501E" "x8670D2" "xF7BE76" "x57D520" "xEB8B9A" "xFC4C9D" "xDDDFAA" "xB58D44" "x83DFC9" "x6EAE28" "xDF377A" "x606742" "x5CAF46" "xBC70C6" "xC0AB4B" "xF73E49" "xF864A4" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_24 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xAA4E30" "xF2D361" "xA29080" "x6ABE25" "x9635C8" "xC99F30" "x883AAE" "xEF9343" "xE7C16D" "xFC72A1" "xDBD853" "x927DB8" "x80DEA1" "xE83EA4" "xBA8A98" "x94A58A" "xB16A55" "xF99855" "xDA5476" "x78BE59" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_25 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x7C8F7A" "x7F8478" "x5D5FD1" "xE357C2" "xAF8C3F" "xBC8AD2" "x833B3B" "x6CD088" "xF6D9C8" "xFC364C" "xA69DAA" "x85D14D" "xD7EEC8" "xD83327" "xE7883C" "xDEAA9A" "xFCAD61" "xD7B278" "x8C4AA3" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_26 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFCB7C4" "x707D45" "xD1B791" "x6AB5CE" "xEBCD6D" "xF2ED4A" "x75973B" "xA73324" "x965677" "xA8B671" "xFCD650" "x62A086" "xB84322" "x7173D3" "xED65B6" "x74C994" "xFC8542" "xFC8C36" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_27 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xD6CE8B" "x58BF2E" "x9444BE" "x6372CD" "x923A60" "x74AD7F" "x678529" "xFCB5A0" "xD8EE2C" "xE7C06B" "xDCCBB6" "xF259D2" "xAC55AF" "x57E046" "x569535" "x81DD89" "xDE37A9" "x65B8BD" "x9C48A2" "x84499B" "x937EB8" "xCD52A5" "xCF71CE" "x94CBCC" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_28 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x90D393" "x734B5A" "x6735A4" "xE689AA" "xBACAAB" "xEFBF5E" "x8C5E2D" "x61E45E" "x6C823A" "xD191A4" "x648661" "x544B94" "x81C06B" "xA53561" "xD866A0" "xFCAE6C" "x759CD2" "xC15F85" "x799469" "x7A5243" "xDC7F40" "x9CD72E" "xA9593F" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_29 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x69A78C" "x959C99" "xEBE6B5" "x9A8584" "xF18D57" "x7DAD50" "xB84330" "xE97071" "x586560" "x9B8643" "xE3E6A2" "x577A29" "x6ADB34" "xAA8D50" "xFC53D2" "x6E43CA" "x82AA54" "x697332" "xFC8C46" "x796D75" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_30 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x5F60B6" "xCA5CA9" "x8CD320" "xD793B2" "xFC8A59" "xCB7B4E" "xE03FB0" "xA3C6D7" "x78D139" "x86AEC4" "x9B6A4F" "xFC5A34" "x6AAE56" "x6DB294" "xECC23D" "x7337B7" "xF1A5A1" "x81C157" "xDE6FC3" "x9B9B26" "x95E063" "x66441F" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_31 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x91471E" "xFC389E" "x5E6372" "x5A8ED7" "x8D8169" "xBAC242" "x868CC9" "xFCD35A" "x799F4B" "xD98764" "xFC5F99" "xFC86A9" "xA5EA9F" "xCEA153" "xFCEB90" "xCCDFCA" "xF5DB9B" "xF9B599" "xFC5F75" "xFCB1CE" "x5FC3A4" "x5EDF87" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_32 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x5CE2A6" "x9BD292" "xBC8CDB" "xDA33A6" "xAB9F7A" "xB93C64" "xB88BC3" "xD83837" "x67A251" "x73B531" "xAE4E3E" "xA7D4BD" "xC05480" "x81567B" "xA153CC" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_33 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x65E2B2" "x5FC33D" "x58D089" "xBF8384" "xB0BF3B" "x81C42F" "xFCA56E" "xFCA4C5" "xDAD2A8" "x7F9572" "xCE4F44" "xD77DB9" "x9A8E8D" "xD4BFBD" "xA4EF73" "x568935" "xFC494E" "x69D1A1" "x98864E" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_34 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x5FCEC9" "xE39445" "xFCE4AF" "x7DD0C9" "xF8EF2A" "xEC95AB" "x938D86" "xAC3C82" "x8889CA" "x98DB79" "x7A86B4" "x89B3A5" "x6B5361" "x63EB77" "x54E370" "x8E9764" "xCC6CD9" "xE7C687" "x789497" "xA64952" "xE1892E" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_35 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFC575B" "x7EAE50" "x86A8D7" "xC37262" "xFCEAB3" "xA13CA2" "xDF4C62" "x97DFC5" "xD45BC5" "x6D46C9" "x86E552" "xF84053" "x807DD8" "x98BC64" "xFCEB72" "xFC5490" "xEECA3A" "xD5C032" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_36 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xEE3F67" "xFC55C6" "xD2499F" "x9F3799" "x9A8EAC" "x9685DA" "xA682A2" "x72895D" "xE67E37" "x6AEEDB" "xED6B5A" "xF5EED2" "xA04C2C" "xFCDD8E" "xDB3720" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_37 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFC32A9" "x96EE9B" "xFC387A" "xC735B7" "x56DE5D" "xF75886" "x72D6A0" "x72EFAC" "x8DE849" "xFC5D6A" "xFC3498" "xFCA1A0" "x8C3C7D" "x89BA6A" "xD57D29" "xDBCF1F" "xAB3347" "xE3BCA5" "xFC9EA5" "xC4419F" "xE3CA70" "xA4BF2E" "xFC6B55" "x79E533" "xE9D0D6" "xD73F3F" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_38 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x737F7A" "xFC88CD" "xFC9344" "xEB97BE" "xBFC681" "xEC5B9C" "xFB90D1" "xE2C754" "xD26334" "xE765CA" "xF4405A" "x9C5923" "xF5A1B3" "xAAA357" "xFC8634" "xD47B86" "xAD6F3E" "x829551" "x6C7998" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_39 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x7496A0" "xB0A046" "xC13DD6" "xFC87B3" "x7D3675" "xA06DD8" "xB53337" "x70B45A" "xD175A1" "x816055" "x9AB698" "x8BBD92" "xB4B9AF" "x98B6D2" "xFC9D20" "xC5E4CC" "x85E2CB" "x994F2C" "x9138D1" "x5C4B55" "xBB73B5" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_40 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x8B648A" "xFC452F" "xDB9C9B" "xF4877E" "xEB8A6B" "x99D84B" "xCD7ACB" "xD88DAC" "xEF9A23" "xFCC04F" "x72B05E" "x72468A" "x5C8CBC" "x70C3C0" "x995A96" "x80518B" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_41 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x5A373F" "xECCA2C" "xC845B5" "xEBADCE" "xAC9288" "xFC7A83" "x8EC7A5" "x5F59DB" "xE1B122" "xF259BA" "xFB348B" "x7CC8D0" "xD48D92" "xDFBAD7" "xDC4558" "x757D2E" "x7B3CA7" "xC5CB8D" "xB53243" "xF2934B" "xD7D4C8" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_42 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x6B885F" "x906D22" "xAEDE5A" "xCE5E37" "xB8699C" "x6FA386" "xC8C534" "xDCEC9A" "x92A344" "xD2E18D" "xEEB1A4" "xB7EFD9" "x58E3D5" "xFC5BD1" "x7C5165" "x70B07E" "xF35EB3" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_43 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x63D6C5" "x8DB540" "x936D6C" "xC6B857" "xC9981F" "x659262" "xB259B7" "xDED535" "xEEDE7A" "x70C323" "x72CF3E" "xE2DAC2" "x74BF73" "xE6E774" "x6B586F" "xD385DC" "x8A7F21" "xFC6A1E" "xCB8DD9" "xC881C3" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_44 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xB3ED8C" "xFCD735" "xB140CF" "xC5BE2A" "xDEEC96" "x7DB34C" "xE59030" "xA53C7E" "xA74074" "x8B4927" "xFAC5A2" "xF575A2" "x68EDA6" "xAA6D7E" "xFC7FB0" "xFC9EC3" "xB24F4B" "x946FC4" "xCD6EBB" "x773C3D" "xDF9642" "x658952" "xC080C1" "x5DC368" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_45 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFBE66E" "xD482D9" "xFC5441" "x7ADD68" "x564A82" "xFC441E" "xC873BA" "x935257" "xF2868A" "xFCE233" "x5BB58C" "x7088D0" "xFC48B0" "xD9C2C2" "xECBABD" "xFCB1C3" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_46 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xA444C2" "xBD62C4" "xE79952" "xAFEA37" "x589325" "xE4C042" "x7189CF" "x826738" "x59A8C5" "x6AEF55" "xF5A0D7" "xD74429" "xAF435F" "x98C5A1" "xC799A8" "xB9E451" "x5DECB7" "x5AD8BF" "xAED2D5" "xC56D30" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_47 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x74675D" "x76B7AB" "x588373" "x8F4CB3" "x7A89D3" "x826298" "xFA3897" "x6A6B75" "x929739" "xD8F05C" "xE07760" "xD3B39D" "x68CE21" "x586132" "xFC955B" "xA08654" "xB2BCD7" "x937428" "xB18136" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_48 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x5D4095" "x67837A" "xFCBC25" "x6EC692" "xD19965" "xE8CA8B" "x54931F" "x7FDC8D" "xFCA9A0" "xFCAD57" "xD832C6" "xEF97A7" "x8AD724" "x675276" "xDDD19B" "xB6B648" "x55D9BB" "xABDE66" "xCAE37D" "x5832D6" "xF26957" "x62B548" "xCEC396" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_49 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xE1B19B" "xC2B3AC" "xC39131" "x87CC9A" "xA43C53" "x564D38" "xBFB87B" "xA168A3" "x9AC949" "xB7C2A7" "x75354D" "x659462" "x909FD4" "xA7B95E" "xD088DB" "xAD3CCA" "xCB665E" "xFCACB7" "x787243" "xF0828A" "x86DFA9" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_50 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFC43BB" "x9C978A" "xBD9DC9" "xFC3C90" "xFCBDBE" "xC0D8C1" "xFC359B" "x544D4F" "x84DD7A" "x603DA2" "x56EB7B" "x847D82" "x84CC75" "x57B66A" "xFC9C61" "xFAD5CB" "xD4C480" "xB3C55C" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_51 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xE59E61" "xFC367E" "xF14521" "x67ABA3" "xBD4EA3" "xC0F07A" "x73A367" "xAEB33D" "x955B93" "x9C741F" "x83CAA3" "x9E6356" "xFC405C" "xAEEE5D" "xA891A4" "xB76F4A" "x94DC4D" "xD25D64" "x58BC84" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_52 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xAAB67F" "xAEE590" "x716FC1" "xBFCD3B" "xFB6F99" "x65971F" "x9A94D8" "xCD6B69" "xC73677" "x72E5CF" "x597682" "xDD74B3" "xAFC240" "xC492A2" "x764B77" "xD3BF74" "xD88C41" "xA0B26C" "x91E237" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_53 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x8976DA" "xDAE5A4" "x5AE677" "xFCBBAB" "x5A8AB0" "xC3A85B" "x62C26D" "xBE6085" "xFC41AB" "x6D35BC" "x653BBF" "xA5E0BA" "x86B497" "xAF636C" "x578E93" "xEC72CA" "xBFCC84" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_54 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xA94B53" "xAAEC42" "xFC8837" "x72A8C7" "x86EF53" "xB956DA" "xC339A3" "xF8B4C6" "xA6A06D" "xBA3460" "xD6BE6C" "x96D041" "x7C9EAB" "x623263" "xA06E65" "xF33A58" "xFC97C3" "x7D80C8" "xB6DDA6" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_55 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xB3A23F" "x6353BC" "xE4D3AA" "x888F65" "xB6C086" "x8C5234" "xAFCF58" "x8EB453" "xAB8C45" "xB178D4" "x565665" "x7D8F77" "xD5C987" "x9CA374" "x60603B" "xB96124" "xC9724B" "xE54221" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_56 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x7BC48B" "xF67CC7" "x68B688" "xFCD069" "xAFAD31" "x57E2C6" "xD592A5" "xECC767" "xF54AD7" "x7BDFCA" "x697546" "x6C33C1" "x65584D" "xFCA854" "x9D6ED6" "xB7AB4B" "x63487E" "x93E2AC" "xC7735B" "xEA3FD0" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_57 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xC7AFA4" "x845B33" "x9B6641" "x81B22A" "x78395C" "x7BA736" "xDB6751" "x9B79BA" "xDAC275" "x8AC96A" "xF2DAB6" "x759150" "xCEF028" "xFCE790" "x7C4557" "xF9A84E" "xECF043" "x7A6FC9" "xB24A63" "x639A56" "xB2C45B" "x6EDE2C" "xBE7CBC" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_58 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xA34BA2" "xFB3DA0" "x8146D0" "xD3701E" "x8161A6" "x78945C" "x9D3F61" "xCA8943" "x61AA4E" "x8B8B33" "xA0DF40" "x8B4892" "x9F9BCA" "x6C819C" "xDA8CD1" "x6D6769" "xA7D523" "x5AD7BC" "xAFC549" "x6EC5D3" "xBD59CA" "xFC9951" "xFCC12C" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_59 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xB6AE76" "xFCB3D2" "xA1BE35" "xD745B0" "xDD82D0" "x743C5A" "xE9948F" "x6FCF52" "xAFC09F" "xE45851" "xD96A2D" "x9EB763" "x90891E" "xD48722" "x6E34AE" "x8A6385" "xE034A9" "xFAC9A0" "xE098DC" "xFC9547" "xB45B50" "xE9DD5F" "xFC4754" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_60 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x62E4AD" "xFCAC6F" "xAA63B7" "xEBA24F" "xC1B16C" "x647146" "xD3428F" "xC299B7" "x98D5B2" "x7BBFB6" "xC29B9B" "xF7A75C" "xD997AC" "xC3D399" "xE773C6" "x90C8AD" "xFC8166" "xD5A45D" "x6FE7A1" "x9372A1" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_61 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x9FEF5D" "xFC40C4" "xBEAEBE" "x8DBE34" "xA59DAD" "xA88270" "x6D41A1" "x6054BC" "x9D815C" "xFB88D2" "xFC3CB8" "xE6B165" "xFC6D36" "x5E67C6" "x745326" "x6243AA" "xEFC32F" "xBB8CB3" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_62 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x713BBF" "x56DD1F" "xAEB477" "xC0E0CA" "xBA80B3" "xDBCE36" "x9C6F8B" "xFCBD3C" "xC4B690" "x8CC1AE" "x80ED37" "xC457A4" "xFC7291" "x885174" "xF9C69B" "xD04F4C" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_63 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xA96753" "xD2BBAF" "x634E84" "x819BD5" "xE8EF42" "xD97299" "x8A8CBF" "xF5E98B" "x969650" "xFCE528" "xA0D3B2" "x5E7CD3" "x62E529" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_64 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFCBF27" "xF7C421" "x738642" "xB54DBA" "xFC3BCF" "x987862" "xFCCAD8" "x62D730" "x63D273" "x83E9A1" "xA7A555" "x6C4C3A" "xA7DEA2" "x69CA3C" "xCD83BC" "x5BD9CC" "xDD377E" "xABA458" "xAD6ABF" "xBA72D6" "xFB7AD0" "x776BD0" "xFCB1B5" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_65 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x82D134" "xFC666F" "xF0D37F" "xD0BAB2" "xCA85C4" "xC18F51" "xB3428D" "x9577B7" "xBC351E" "xE09F98" "xB15B26" "xCA378A" "x62AFA9" "x8A5D35" "x974EBF" "x745B32" "xB8E5A6" "xDED3D3" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_66 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xA75B65" "xE7D476" "x62CCD0" "x65509C" "xBA4C2D" "xC8CE59" "xF73CBC" "xFC7FB8" "xD65AC8" "xA36EB2" "xC36C90" "x6C33C0" "x9F85A0" "x84A1C8" "x95BE4D" "x6E374A" "x60BE9F" "x8E98A1" "xD7EF50" "x9F4FC4" "x8B7D8B" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_67 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x8FA78A" "xAB9F1E" "xEB42A2" "xEDB594" "xDF9788" "xFCAD44" "x6EDABC" "xAE8E4D" "xB47564" "x8BB4DC" "x714087" "xFCEF8D" "xF8C6C0" "xCB98C8" "xFCB580" "x7397BF" "xF6E26E" "xFC80AB" "x60402C" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_68 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x85A460" "x9893A4" "x573F9D" "x61B5B2" "xD14C75" "xB6A350" "x6A4C94" "xF359C0" "xADA036" "xFCCB3C" "xAE3AA3" "xD0C2DB" "xF4D32A" "xBA69D8" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_69 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x9D3849" "x7CDE58" "x68ACBA" "xDA329E" "xE150D8" "xFCB14A" "xB5E541" "xE9C8DB" "xE0532E" "x786F26" "xA95B75" "xCA8A2D" "x709444" "xF9DB5D" "xA2A7CB" "x9F5473" "xEFB89D" "xB47EC0" "xE6BD42" "xE53CBA" "xFC6D32" "x69C9D0" "x8F94B9" "x5D5975" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_70 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x7465A8" "xA7914A" "xFC718F" "x57E029" "x82A735" "x9A36D1" "x55BD65" "xCE5797" "xF9DE21" "xF3EC91" "xF893D6" "xBEC98F" "x8C5721" "xCFE4A8" "xDD4957" "xB46FC1" "xF5EC5C" "xA08B49" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_71 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x91CF24" "xFC47D5" "xFC4865" "x79D8A9" "x893BC6" "x76D245" "xDA6046" "xC3B36A" "x6F34CC" "x58D39E" "xD4ED89" "xBA8999" "x696E98" "xA36CA2" "xD96C45" "xDD4424" "x65C390" "xFCE777" "x949042" "xBE6497" "xEECF2E" "x728321" "xCE9A3D" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_72 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFC848C" "xF47DD7" "x694282" "x818765" "xE648A1" "xF5425E" "xFCF0BA" "x5C9233" "xEC4F2F" "xD03454" "xF49B8E" "x6E33A3" "xAC4A68" "xCD69BC" "x5B4A62" "x9C6D54" "x63D134" "xE2BB2C" "xE4807E" "xD1BA80" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_73 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFCA92F" "xA4982F" "x66C3C5" "xBCA7B6" "x737673" "xA2342C" "x82354D" "x719AAA" "x6A3A9B" "xA7C16D" "xBFC0AF" "x6D695F" "x8B6258" "x59A8A9" "xAF58B2" "xA16642" "xFC4351" "xB1659A" "xE1409F" "xA9BACA" "x875DB8" "xF13691" "xB3AC5D" "xBA3656" "x69EFCC" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_74 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x6646DC" "xF57FA4" "xEB7732" "x6EEC35" "x5A938B" "xFCAFD3" "xD2C2B7" "xBDABB0" "xD990B0" "x5A7967" "xA8409E" "x94322E" "x9FA533" "xBCAA30" "xC2E5A7" "xBE9144" "xFC8D3B" "xB9A268" "xA49948" "x7F70A2" "xFCAF20" "x96EE98" "x9A8D7D" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_75 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xE3AF85" "xCDA13B" "xFC5EC9" "x8C61AB" "xD98B33" "xD8AD55" "xB83434" "xBED641" "xA9406C" "xD79995" "xE7825E" "xFC4182" "x7EB697" "xD58054" "x8EAA42" "x96BD46" "xB53375" "xA66173" "xB59AAE" "xE56B32" "x723A8C" "xFCDDC4" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_76 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xCF3249" "xFCC97E" "xB0EB4D" "x7ED5A8" "xFA6650" "xE085CE" "xF45D1E" "xCC5897" "x869DB6" "x84A45A" "xFC74BF" "xFCC8A2" "xFC67A7" "xDEE41F" "x5D7372" "x8BA577" "xD839B2" "x5AC9A0" "xD252D1" "xFC354E" "x8E59A2" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_77 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xE5EC81" "xC45F48" "xFA93AE" "x6E623F" "xA060B7" "xFACF7C" "x65BAAA" "x6F9FCC" "xFC5F36" "xFCA9DA" "xA63231" "xDC4656" "x989DB8" "x5CAE77" "xA7BA73" "xB69290" "x7AE19D" "x686948" "x979DA6" "x5B84B5" "x71A86A" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_78 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x95A62C" "xF166A0" "x6A49B1" "xF9D9C9" "xF235AA" "x62EE32" "x86C936" "xFC9772" "xD34B93" "xFC34B2" "x7DE770" "xA0D27E" "xDAAAB6" "x54783B" "xBAD155" "x927374" "xB5D45E" "xA2664D" "x66AE98" "x555951" "x5D80C5" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_79 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFCCBB6" "xFC7FD5" "xFC732D" "xC8A484" "xDA93C7" "xFC4CDC" "x94532C" "x8E698C" "xE58A5D" "xBC6E6F" "xA4E57C" "xD5C7CF" "xB7C6D3" "x91ACC7" "xBEA2DB" "xC4C253" "x674F47" "xFCC661" "xD1CF97" "xF39F5C" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_80 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xB79CD1" "xF480A8" "xF342D2" "xE57943" "x82DD5A" "xFCB5AE" "x695F65" "xBCDD32" "xACB133" "x68AC3B" "xB287DA" "x85E259" "x7B6AB7" "xF19242" "xE5D924" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_81 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFC5276" "xE03F7E" "x68B877" "xC461C6" "xFCCCBD" "xBCA932" "xD59522" "x59EFA9" "xFC78B8" "xD79543" "x8847CA" "x7CEE28" "xB1B781" "xF2E4A8" "xC94065" "xBBBC43" "xA360A4" "xAADA48" "xD88332" "xF6A154" "x7C4C2B" "x9394D7" "x57C47E" "xD16050" "x978DD0" "xFCABD1" "xABD9BA" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_82 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xE73CBB" "x71AA90" "x915556" "xDFC544" "x77CC67" "x9D538B" "x87AE8F" "x944E61" "x8BC0B1" "xFB8E42" "x61BDC9" "x8F5E3A" "x74886A" "xB4E1C4" "x746F8F" "xD1385D" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_83 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFC5B22" "x9CE8B7" "x91BFCC" "xC6D5D4" "xEF767B" "x5E555A" "xA8E62F" "x9DE936" "x7A628D" "xDD5378" "x743E5F" "x77E026" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_84 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xAAB97D" "xFCE02D" "xD3ACC2" "x6C3651" "xB98ED8" "x8054CE" "xFC9B81" "xA95F6B" "xB7BCAF" "xAC616F" "xFC6CC4" "xCA4828" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_85 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xC64245" "x62794C" "x9AD43A" "xD6ED3B" "x6F5950" "x627837" "xA67124" "x9939BB" "xD970D2" "xEC5579" "xB1B1D4" "xEC4AC0" "x97A45E" "x95E3A9" "x606A34" "xF6B880" "x9C9561" "xA4625D" "x884E70" "xF63DBF" "xB0CC79" "xFC6926" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_86 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x91DC82" "x56EE2C" "xD14EA9" "xF8E972" "x9FAC7F" "xED97D1" "xE64CD7" "xC2D6DC" "xFC4F9C" "x58BD4E" "xB29349" "xA93CAE" "xA7A9B2" "xECC627" "xD4334C" "xD4CF4B" "x7F7DC0" "x82806C" "xEBAC48" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_87 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xD8A8A0" "x70E221" "xA5B131" "xC1835C" "xFCCAD5" "xFC55D6" "xAF3988" "xFC4ED5" "xB24085" "x56614E" "x8745AF" "x82CEA1" "xA79E76" "xFC3A63" "xFB8A9D" "xAC8A37" "xBE7F45" "x7BCB99" "xD5DAC4" "x929D36" "xC585A2" "xFC8C1F" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_88 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xE03B34" "xA36ABB" "x9A8899" "xC79EB8" "x64BD65" "x7BD0A6" "xDB4E34" "xD78AB2" "x91A698" "x88A147" "xB28FBF" "xFCE795" "xFCDDD0" "xE16859" "xD96847" "x72D9C4" "xB2B667" "xA295D5" "xF7561E" "xBAA2AC" "x9C7DD7" "x9E32C1" "x5B4FDB" "xEFDF3B" "xF4A081" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_89 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x8764A0" "x65A54F" "x97D6AF" "xFC799E" "xB796A6" "x907D43" "xC99A40" "x5C5B44" "xFCAB56" "xCA89CE" "xA64D35" "xF5C14F" "xFCCD36" "xC1CBDB" "xFC69CF" "x8AC221" "xD079D6" "x934127" "x99979D" "xFC3A8B" "xFCE29F" "xAB3CA1" "xDB8196" "x95A8BC" "xC656AE" "xF4E583" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_90 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x79AEAB" "xC5A0A0" "xDC6370" "x68A038" "x58812B" "xF9A53B" "x8D6D39" "xFCB839" "xF0BEBA" "xCA67A0" "x9E8AB4" "xF5A0D9" "xB69B62" "x896D80" "x653BB9" "x85E154" "xB569C8" "xB23CAC" "xD03EB7" "xE4EF92" "x85A8B4" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_91 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xB85ECE" "xEA5A74" "x9A7E61" "xFCE186" "x58C44C" "xFBE529" "x80DC67" "x8F5888" "x836954" "xBA5081" "x61544D" "xBDDE75" "xB86986" "x7D3DBE" "xFC9D8F" "xBA49D8" "x86B39A" "xCCEEB5" "xC7A896" "xFC4541" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_92 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xF43D61" "x9B7ACA" "x986EA2" "xFCB6DC" "xF4E1DB" "xFC3CDC" "x8857A7" "xFC8C3C" "xB8607C" "x6F8029" "xC09543" "xD3669E" "xE4B97D" "xC476C0" "xFA9293" "x659998" "xE1C820" "x835342" "x81906C" "x87846F" "xAFDAA7" "xF677AD" "x80DFBB" "xA398AD" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_93 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x5D8865" "xFC97B9" "xC2475D" "xFCD961" "xBF5B4A" "x61C7A7" "xDEDD2A" "xCBEACC" "xE1ED53" "x61D13B" "xEF6CA2" "x87ED73" "xF9C54B" "xB0B8D6" "xD4942A" "x6A956E" "x6D47C0" "x9C9B90" "x9D49D3" "x60CCBD" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_94 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xD6DD5B" "xCE57CF" "x80A432" "xE194D8" "xDB8B3F" "x75EE5B" "xB4A789" "xD5868C" "xA8B834" "xFC4F63" "xD17D95" "xEA703E" "x98EA54" "xB33922" "x729D46" "xBBA343" "x63A194" "x63673B" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_95 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xA1B728" "x54C74D" "xD260D1" "xBB7E51" "xE6733C" "x8F46B3" "x94DCD5" "xA1E935" "x97E35C" "x6B5F86" "xD8EA47" "xFC9679" "xA289CD" "xFA9837" "xA9B8C6" "xA2E35F" "xBECB94" "xA548CA" "xC68057" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_96 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFC7192" "x60D07F" "xF75B26" "x7FC1C3" "x769DCA" "x8EE19F" "xD18739" "x654F97" "x695A49" "x608937" "xA082AF" "xB75C75" "xE28896" "x67D250" "x5BD8C5" "x9E763D" "x5A872C" "xF8DB73" "xFC9F65" "x60B455" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_97 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x56355D" "xFCE1CA" "x8AE482" "xE8442E" "xB9C654" "x5B73C2" "xF1404F" "x6B3F93" "x87BE52" "xCD4161" "xB4D3A7" "xFA74D0" "xFCE269" "x66E941" "x93DE65" "xE8C58A" "x7E5879" "x74688B" "xFC3266" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_98 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xF49FB2" "xABD0DA" "xAB3BB9" "x60BFB0" "x86504A" "xACA286" "xBBEE78" "x875C26" "xDCE465" "xBEC18E" "x63D2CF" "xC3E452" "xBBC287" "x616C42" "xAF75A5" "xBA6485" "x636023" "xC4B85D" "x6E775E" "xAC6A22" "x9DD66F" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_99 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xE446C9" "xA6AB96" "x67EA8E" "xE7D42E" "xFC5AC8" "x557399" "xF5B66E" "xE6B65E" "x7CC0CE" "x57B29F" "xCC3FAC" "x95A896" "x8BCB43" "x8FC235" "xAC792F" "xDD3533" "x93A125" "x81BEBC" "xCDC577" "xA25A7F" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_100 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFC36A6" "xC4E8AF" "xC5BBD3" "xFC6981" "xFC5B30" "xEFE5CC" "x91493F" "xC9835B" "x61B04B" "xFC7D3E" "xABD624" "x7FE6DC" "x77B0D4" "xC3A398" "xCD5A45" "xFC3F36" "xA59DBF" "x70D52D" "xF35026" "xEC6A5D" "x769B29" "xE65025" "x8F8CAB" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_101 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xD3D361" "xDEBE5E" "x935CCC" "x795F4C" "x92CD7A" "xFC65B5" "x727269" "xFCD545" "xB83EDA" "xFC7634" "xCA8160" "xD9B9C6" "x6EC6B1" "xB463CE" "x5E7168" "xF2C735" "x6ABC9D" "xC94AC8" "xFCE255" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_102 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xE66049" "x64BCA1" "x8CA13C" "xF99444" "x609337" "xCE9647" "x5D738A" "x98DB93" "xD1BB67" "xE55869" "xD2D3D6" "xA9AB23" "xFC841E" "xC0D8AD" "xD0C974" "xFC6F66" "xE14F3B" "xA7D775" "xCEEFAA" "x85B3B8" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_103 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x93D694" "xC7C74C" "x76AF21" "xFC69A5" "xB2C1C9" "x98DBB9" "xD5B5A9" "xE87F61" "xDDBE47" "xBB7E8E" "x7340BE" "xC547C9" "x7F5EC3" "xC56DCB" "x7B7391" "xE47F4D" "x8A97B4" "xFC9C3F" "xE3C54C" "x9CF0CF" "xF6CA1F" "x835B70" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_104 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xD0C452" "x7B41AF" "xF58429" "x545187" "x95BD9D" "x723ED5" "xC77755" "x9345AA" "x844AD3" "x77737C" "xE586B5" "x898A97" "x9C3E9F" "xC9771F" "xF4A74E" "x935590" "x58565C" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_105 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFCAFB4" "x5CEA2D" "x7EAEB5" "xB8BF7E" "x9169D5" "xD87B86" "xCCCFB4" "x8096B7" "xA7C2BB" "xA3EBA7" "xFCD629" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_106 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xF53F9F" "x5E408F" "xD9509F" "xFCD2BB" "xF44883" "xFC9047" "xEE4549" "x85974A" "xFC3DD5" "xBD7223" "xFCC435" "x5B6530" "xA4EA3D" "xEDAE85" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_107 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x629B88" "xAEB4DC" "x7FEDD8" "x699FA6" "x68CDBA" "xFC40AB" "x7C5A8C" "xFCA725" "xE17FD3" "x95B931" "x5E4B67" "x5CD8B7" "x745ECB" "xBC412C" "xFA89BE" "xC9C241" "x96B88B" "xFC45A6" "xA7A2C2" "x99394D" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_108 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x635684" "xFCCC8B" "x7FC275" "x589442" "xDA33C6" "x788AC1" "x8890C7" "xFC7F65" "x819297" "xD45AD3" "xFC633B" "x75DD92" "xE79B63" "x9236C2" "x76582D" "xE57A7E" "x97C4CB" "xEAC4D2" "xE7A893" "xED7240" "xFCAD7E" "xBECDA3" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_109 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x8240B1" "xD3EF55" "x5DBB4E" "x806CBC" "x675CD0" "x903877" "x9AADD4" "x97374E" "xC0B69A" "xA0C2C6" "xE6D9C8" "xC1B871" "x7B6CD8" "x6E8EC0" "x825D69" "xC77286" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_110 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x84A57E" "x563488" "xA733D1" "x675EB6" "x86A3A0" "x9B5BBE" "x8FDE87" "xCEAF63" "x935D75" "x87659F" "xC9383C" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_111 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xF1B923" "x6E5828" "xFB5127" "xA6DB33" "xFCCB30" "xC8AAAD" "xE17F77" "x60CB8F" "xD06E78" "xF5EE4D" "xFC3E77" "xC34AA2" "xDACDC9" "xFCB140" "x72C66D" "xD4D1BC" "x8DF07F" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_112 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xB69F5E" "xBB7E25" "x7F4F3B" "x973A42" "xEC9980" "xC04ECA" "x59D624" "x6AE08A" "xE2AB8F" "x837070" "xF5D854" "xEE7ADA" "x5649A1" "x5DE81E" "xFC75B6" "x69339C" "x7AD7D0" "xBB53BA" "xCBDB5D" "xE7D886" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_113 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xC834A1" "xFCCF92" "xF25EA5" "xEEE79C" "xFCC9C9" "x91B96E" "x6D6162" "xE49247" "xB28036" "x61702C" "x65852D" "xDE9894" "x61A131" "xFB5E66" "xEE4233" "x95E181" "xA8E7D1" "xC39CD9" "xFC5A6F" "x6C9393" "x75CC3D" "xCCB925" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_114 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x6B94A6" "x8AC34F" "x79E483" "x906EAC" "x9A946C" "x9DCF3C" "xF95733" "xAF622E" "x9770AE" "x73E892" "xAFBF83" "xD69E3B" "x88AB26" "xFC47A7" "xB39C55" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_115 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x905FDB" "xB84761" "xB8616C" "xFC5383" "xD0633C" "xFC9BB7" "xA580BF" "x787D56" "xBA7A7F" "xFCC78F" "xF53B50" "x6F5964" "x7AD535" "x8545B3" "xFC5A24" "xC6BBAC" "xCF8386" "xFCCEB5" "xF357C3" "xB33DB0" "xD57751" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_116 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFC8AB8" "x56D454" "xA54F30" "x78A79F" "xC75B68" "xE1A524" "x837C29" "xE3BBC5" "x8A4D5C" "x65D7C0" "x63905D" "xFC6866" "xEA468C" "x70924F" "x6FC671" "x6F4F8B" "x84D9C8" "xD0593C" "xB49FB4" "xF67B88" "x8E51D9" "xE151D2" "xEB54BB" "x9B65C4" "xE2E138" "x7E78B2" "xF0B55E" "x8B4CA2" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_117 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x9FCA32" "x9D3D4A" "xFB6992" "x6383CF" "x6A68BA" "x7BD949" "xC8862D" "x634B1F" "x98D16A" "xE17C83" "x774AD4" "xFCDD6F" "xFC6149" "xC68A38" "xE27B93" "xD48142" "xFAE1C8" "x8DC0CD" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_118 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x768FBD" "xBFB99C" "xC565BB" "xE9C4A6" "x957DD2" "xC56AA1" "xED368A" "x6E8741" "x7291BF" "x6ED067" "x5B9B53" "x97B7CB" "xE28839" "xF2AEB6" "xD09630" "x9DE14D" "x93C55A" "x588322" "x706298" "xF0E13E" "xFC943C" "xB05A51" "xE4A7D1" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_119 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xC5EC47" "x54EAA5" "x94BC31" "x6C603D" "x9ECE6F" "xEEBAA3" "x91B389" "x65AFB0" "x98C040" "xD6E3DA" "xEAB0C6" "x6B8CA7" "xE7E320" "xCF4289" "xE2A79C" "xBA5D3B" "xF5B67A" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_120 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xC93D41" "xC1D4DB" "x5744C8" "xFC3ACF" "xD76A7A" "x563557" "xF96F7C" "x68923A" "xCA599D" "x62E38F" "x6952A9" "xFC6020" "xAA4B39" "x7C916E" "xA598B6" "xA8582A" "xFC69D3" "x973CB5" "x58E662" "x717B50" "xFCE821" "xA5D0C5" "xC83F92" "x979928" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_121 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xDF857A" "x9C3D96" "xA5DA7E" "xC13BBD" "x54CF99" "x823365" "xFC36C2" "xE88AAF" "x91C529" "xFCA34B" "xAEEB86" "x6CBFAD" "x70A696" "x56AC79" "x5F456A" "xEDB2AE" "x7141BA" "xD0ED8E" "xED3C83" "xFC8769" "xFCCEAD" "x8FA623" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_122 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x837196" "xB174B0" "x6CC5B8" "xFCED55" "x6392D1" "xEC62B4" "x5BE9CF" "x6D9727" "x6A965B" "xC2DAC9" "xDCCD9C" "xEFC3C4" "xEDB99E" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_123 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFC8279" "xF09621" "x8CD280" "xE8DE57" "xAA79D6" "x62B387" "xC7EBD0" "x8FBB74" "x609399" "x708BB0" "xFCAD76" "xF7596B" "xFC6F36" "xF5BD74" "xFC6BD3" "xE1C23A" "xD45BA4" "xFC5F53" "xFCAB4C" "xD2ECD2" "x79938E" "x7C8BBE" "xFC3F38" "x56B876" "xC7EC9F" "x58E3CA" "x7F9DC3" "xA250DB" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_124 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xC0B397" "x6BB47C" "xEDAE34" "x609EAE" "xDD8AC9" "xC6A154" "x5CD02B" "x55AC82" "x9A7D8C" "xB24367" "xDA8088" "x8C877C" "xDD919F" "xA44438" "xE6E59C" "xC85998" "x84893B" "xBC6374" "xF77A35" "x969F7B" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_125 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xC7DBA7" "xC09EDB" "x79EE82" "xFCB387" "xD9C961" "xA7E24D" "x74554E" "xCFBCA6" "xFCCA87" "x949CDB" "x6CA5C1" "xED643E" "xFC4BB1" "x904A4B" "x7BED8B" "x91838B" "x838525" "xFB4339" "xFCAA80" "xCD7659" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_126 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "xFC85A8" "xECDC9B" "xACC472" "x7AAC84" "xC75235" "xDEAE2D" "xA8E796" "x88C385" "x7D73BC" "xEECD91" "xDCC495" "xFC57A2" "xD1B841" "xFC97A3" "xFCA04A" "xCD88D7" "x9B3EA2" "xFC3F39" "xC05B6E" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_05_127 = {
+		create_state = {
+			country = c:W05
+			owned_provinces = { "x6FB279" "xD36847" "x6545D7" "xA186C4" "xC66A78" "xA85958" "xF4DD59" "xFCCBB2" "xB8C7B0" "xFCE423" "x835C93" "x917ECD" "xD26A92" "xE38F62" "xF9CE7A" "xDA9F54" "x723962" "x79E875" "x568191" "xC7EDC7" "x72A031" "xA2D623" "xC2DBDA" }
+		}
+		add_homeland = cu:yankee
+	}
+	s:STATE_WILDLANDS_06 = {
+		create_state = {
+			country = c:W06
+			owned_provinces = { "xBED49E" "xDDFC4E" "x78FCE1" "xA0FC4B" "xBF87C3" }
+		}
+		add_homeland = cu:yankee
+	}
 }

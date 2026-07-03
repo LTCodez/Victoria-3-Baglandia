@@ -1055,4 +1055,1100 @@ POPS = {
 			}
 		}
 	}
+	s:STATE_WILDLANDS_01 = {
+		region_state:W01 = {
+			create_pop = {
+				culture = yankee
+				size = 160000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_01_02 = {
+		region_state:W01 = {
+			create_pop = {
+				culture = yankee
+				size = 16000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_02 = {
+		region_state:W02 = {
+			create_pop = {
+				culture = yankee
+				size = 12000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_03 = {
+		region_state:W03 = {
+			create_pop = {
+				culture = yankee
+				size = 8000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_03_02 = {
+		region_state:W03 = {
+			create_pop = {
+				culture = yankee
+				size = 140000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_03_03 = {
+		region_state:W03 = {
+			create_pop = {
+				culture = yankee
+				size = 120000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_03_04 = {
+		region_state:W03 = {
+			create_pop = {
+				culture = yankee
+				size = 8000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_03_05 = {
+		region_state:W03 = {
+			create_pop = {
+				culture = yankee
+				size = 132000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_04 = {
+		region_state:W04 = {
+			create_pop = {
+				culture = yankee
+				size = 12000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 76000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_02 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 88000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_03 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 56000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_04 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 72000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_05 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_06 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_07 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 84000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_08 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 88000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_09 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 92000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_10 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_11 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 92000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_12 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 72000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_13 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 84000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_14 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 88000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_15 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 76000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_16 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 88000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_17 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_18 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_19 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 92000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_20 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 84000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_21 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 108000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_22 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_23 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_24 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_25 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 76000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_26 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 72000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_27 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 96000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_28 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 92000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_29 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_30 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 88000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_31 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 88000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_32 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 60000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_33 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 76000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_34 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 84000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_35 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 72000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_36 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 60000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_37 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 104000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_38 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 76000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_39 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 84000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_40 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 64000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_41 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 84000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_42 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 68000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_43 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_44 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 96000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_45 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 64000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_46 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_47 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 76000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_48 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 92000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_49 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 84000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_50 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 72000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_51 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 76000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_52 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 76000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_53 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 68000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_54 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 76000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_55 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 72000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_56 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_57 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 92000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_58 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 92000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_59 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 92000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_60 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_61 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 72000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_62 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 64000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_63 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 52000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_64 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 92000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_65 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 72000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_66 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 84000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_67 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 76000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_68 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 56000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_69 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 96000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_70 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 72000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_71 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 92000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_72 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_73 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 100000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_74 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 92000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_75 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 88000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_76 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 84000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_77 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 84000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_78 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 84000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_79 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_80 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 60000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_81 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 108000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_82 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 64000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_83 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 48000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_84 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 48000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_85 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 88000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_86 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 76000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_87 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 88000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_88 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 100000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_89 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 104000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_90 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 84000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_91 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_92 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 96000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_93 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_94 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 72000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_95 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 76000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_96 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_97 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 76000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_98 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 84000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_99 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_100 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 92000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_101 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 76000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_102 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_103 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 88000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_104 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 68000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_105 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 44000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_106 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 56000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_107 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_108 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 88000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_109 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 64000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_110 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 44000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_111 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 68000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_112 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_113 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 88000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_114 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 60000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_115 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 84000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_116 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 112000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_117 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 72000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_118 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 92000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_119 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 68000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_120 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 96000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_121 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 88000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_122 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 52000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_123 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 112000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_124 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_125 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 80000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_126 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 76000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_05_127 = {
+		region_state:W05 = {
+			create_pop = {
+				culture = yankee
+				size = 92000
+			}
+		}
+	}
+	s:STATE_WILDLANDS_06 = {
+		region_state:W06 = {
+			create_pop = {
+				culture = yankee
+				size = 20000
+			}
+		}
+	}
 }

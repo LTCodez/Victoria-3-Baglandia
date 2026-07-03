@@ -297,3 +297,69 @@ ALS = {
 	religion = catholic
 	capital = STATE_ALS
 }
+
+W01 = {
+	color = { 150 140 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { yankee }
+	capital = STATE_WILDLANDS_01
+}
+
+W02 = {
+	color = { 120 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { yankee }
+	capital = STATE_WILDLANDS_02
+}
+
+W03 = {
+	color = { 140 120 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { yankee }
+	capital = STATE_WILDLANDS_03
+}
+
+W04 = {
+	color = { 150 130 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { yankee }
+	capital = STATE_WILDLANDS_04
+}
+
+W05 = {
+	color = { 120 140 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { yankee }
+	capital = STATE_WILDLANDS_05
+}
+
+W06 = {
+	color = { 140 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { yankee }
+	capital = STATE_WILDLANDS_06
+}
