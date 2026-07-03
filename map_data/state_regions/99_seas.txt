@@ -1,4 +1,4 @@
-STATE_SEA_01 = {
+﻿STATE_SEA_01 = {
     id = 3000
     provinces = { "x3A23A5" }
 }
@@ -109,4 +109,3 @@ STATE_SEA_27 = {
 STATE_SEA_28 = {
     id = 3027
     provinces = { "x302C5D" }
-}
