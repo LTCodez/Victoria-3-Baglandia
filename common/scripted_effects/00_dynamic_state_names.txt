@@ -1,0 +1,13 @@
+# Baglandia override of vanilla dynamic state naming.
+# The vanilla version (and its _asia/_europe/... companions) rename state hubs based on
+# geographic_regions and specific sr:STATE_ references that do not exist on this custom map.
+# It runs on every on_state_created, so those invalid references crash the game
+# (Invalid right side during comparison 'sr' -> ExistsInternal assert).
+# These two effects are the only entry points (called from on_actions/00_code_on_actions.txt);
+# we make them no-ops so states simply keep their own defined names.
+
+evaluate_and_assign_state_hub_dynamic_names = {
+}
+
+assign_state_hub_dynamic_names = {
+}
