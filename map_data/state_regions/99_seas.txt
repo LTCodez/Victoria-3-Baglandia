@@ -110,3 +110,7 @@ STATE_SEA_28 = {
     id = 3027
     provinces = { "x302C5D" }
 }
+STATE_LAKE_GHOE = {
+    id = 3100
+    provinces = { "x143C64" }
+}

@@ -13,3 +13,6 @@ region_sea_04 = {
 region_sea_05 = {
 	states = { STATE_SEA_01 STATE_SEA_05 STATE_SEA_08 STATE_SEA_12 STATE_SEA_17 STATE_SEA_22 STATE_SEA_26 STATE_SEA_28 }
 }
+region_lake_ghoe = {
+	states = { STATE_LAKE_GHOE }
+}
