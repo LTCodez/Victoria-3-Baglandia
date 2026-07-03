@@ -31,7 +31,6 @@
       "common/dynamic_country_names",
       "common/dynamic_treaty_names",
       "common/flag_definitions",
-      "common/geographic_regions",
       "common/harvest_condition_types",
       "common/history",
       "common/history/ai",
