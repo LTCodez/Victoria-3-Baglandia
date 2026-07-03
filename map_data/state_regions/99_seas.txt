@@ -109,3 +109,4 @@ STATE_SEA_27 = {
 STATE_SEA_28 = {
     id = 3027
     provinces = { "x302C5D" }
+}
