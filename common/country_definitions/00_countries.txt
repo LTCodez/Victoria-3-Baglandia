@@ -282,6 +282,7 @@ QAA = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_02
 }
 QAB = {
@@ -292,6 +293,7 @@ QAB = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_04
 }
 QAC = {
@@ -302,6 +304,7 @@ QAC = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_41
 }
 QAD = {
@@ -312,6 +315,7 @@ QAD = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_07
 }
 QAE = {
@@ -322,6 +326,7 @@ QAE = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_14
 }
 QAF = {
@@ -332,6 +337,7 @@ QAF = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_19
 }
 QAG = {
@@ -342,6 +348,7 @@ QAG = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_28
 }
 QAH = {
@@ -352,6 +359,7 @@ QAH = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_63
 }
 QAI = {
@@ -362,6 +370,7 @@ QAI = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W02
 }
 QAJ = {
@@ -372,6 +381,7 @@ QAJ = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_05
 }
 QAK = {
@@ -382,6 +392,7 @@ QAK = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_09
 }
 QAL = {
@@ -392,6 +403,7 @@ QAL = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_35
 }
 QAM = {
@@ -402,6 +414,7 @@ QAM = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_43
 }
 QAN = {
@@ -412,6 +425,7 @@ QAN = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_59
 }
 QAO = {
@@ -422,6 +436,7 @@ QAO = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_60
 }
 QAP = {
@@ -432,6 +447,7 @@ QAP = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_115
 }
 QAQ = {
@@ -442,6 +458,7 @@ QAQ = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_116
 }
 QAR = {
@@ -452,6 +469,7 @@ QAR = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_120
 }
 QAS = {
@@ -462,6 +480,7 @@ QAS = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_03
 }
 QAT = {
@@ -472,6 +491,7 @@ QAT = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_06
 }
 QAU = {
@@ -482,6 +502,7 @@ QAU = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_10
 }
 QAV = {
@@ -492,6 +513,7 @@ QAV = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_12
 }
 QAW = {
@@ -502,6 +524,7 @@ QAW = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_15
 }
 QAX = {
@@ -512,6 +535,7 @@ QAX = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_16
 }
 QAY = {
@@ -522,6 +546,7 @@ QAY = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_26
 }
 QAZ = {
@@ -532,6 +557,7 @@ QAZ = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_32
 }
 QBA = {
@@ -542,6 +568,7 @@ QBA = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_48
 }
 QBB = {
@@ -552,6 +579,7 @@ QBB = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_49
 }
 QBC = {
@@ -562,6 +590,7 @@ QBC = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_57
 }
 QBD = {
@@ -572,6 +601,7 @@ QBD = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_67
 }
 QBE = {
@@ -582,6 +612,7 @@ QBE = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_72
 }
 QBF = {
@@ -592,6 +623,7 @@ QBF = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_85
 }
 QBG = {
@@ -602,6 +634,7 @@ QBG = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_93
 }
 QBH = {
@@ -612,6 +645,7 @@ QBH = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_99
 }
 QBI = {
@@ -622,6 +656,7 @@ QBI = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_137
 }
 QBJ = {
@@ -632,6 +667,7 @@ QBJ = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_11
 }
 QBK = {
@@ -642,6 +678,7 @@ QBK = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_13
 }
 QBL = {
@@ -652,6 +689,7 @@ QBL = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_18
 }
 QBM = {
@@ -662,6 +700,7 @@ QBM = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_25
 }
 QBN = {
@@ -672,6 +711,7 @@ QBN = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_27
 }
 QBO = {
@@ -682,6 +722,7 @@ QBO = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_30
 }
 QBP = {
@@ -692,6 +733,7 @@ QBP = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_31
 }
 QBQ = {
@@ -702,6 +744,7 @@ QBQ = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_34
 }
 QBR = {
@@ -712,6 +755,7 @@ QBR = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_36
 }
 QBS = {
@@ -722,6 +766,7 @@ QBS = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_40
 }
 QBT = {
@@ -732,6 +777,7 @@ QBT = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_58
 }
 QBU = {
@@ -742,6 +788,7 @@ QBU = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_69
 }
 QBV = {
@@ -752,6 +799,7 @@ QBV = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_70
 }
 QBW = {
@@ -762,6 +810,7 @@ QBW = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_74
 }
 QBX = {
@@ -772,6 +821,7 @@ QBX = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_91
 }
 QBY = {
@@ -782,6 +832,7 @@ QBY = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_94
 }
 QBZ = {
@@ -792,6 +843,7 @@ QBZ = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_192
 }
 QCA = {
@@ -802,6 +854,7 @@ QCA = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01
 }
 QCB = {
@@ -812,6 +865,7 @@ QCB = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_22
 }
 QCC = {
@@ -822,6 +876,7 @@ QCC = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_29
 }
 QCD = {
@@ -832,6 +887,7 @@ QCD = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_33
 }
 QCE = {
@@ -842,6 +898,7 @@ QCE = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_44
 }
 QCF = {
@@ -852,6 +909,7 @@ QCF = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_45
 }
 QCG = {
@@ -862,6 +920,7 @@ QCG = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_47
 }
 QCH = {
@@ -872,6 +931,7 @@ QCH = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_51
 }
 QCI = {
@@ -882,6 +942,7 @@ QCI = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_52
 }
 QCJ = {
@@ -892,6 +953,7 @@ QCJ = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_62
 }
 QCK = {
@@ -902,6 +964,7 @@ QCK = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_73
 }
 QCL = {
@@ -912,6 +975,7 @@ QCL = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_101
 }
 QCM = {
@@ -922,6 +986,7 @@ QCM = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_129
 }
 QCN = {
@@ -932,6 +997,7 @@ QCN = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_148
 }
 QCO = {
@@ -942,6 +1008,7 @@ QCO = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_150
 }
 QCP = {
@@ -952,6 +1019,7 @@ QCP = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_177
 }
 QCQ = {
@@ -962,6 +1030,7 @@ QCQ = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W02_05
 }
 QCR = {
@@ -972,6 +1041,7 @@ QCR = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_08
 }
 QCS = {
@@ -982,6 +1052,7 @@ QCS = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_20
 }
 QCT = {
@@ -992,6 +1063,7 @@ QCT = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_21
 }
 QCU = {
@@ -1002,6 +1074,7 @@ QCU = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_84
 }
 QCV = {
@@ -1012,6 +1085,7 @@ QCV = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_96
 }
 QCW = {
@@ -1022,6 +1096,7 @@ QCW = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_222
 }
 QCX = {
@@ -1032,6 +1107,7 @@ QCX = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_256
 }
 QCY = {
@@ -1042,6 +1118,7 @@ QCY = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W02_02
 }
 QCZ = {
@@ -1052,6 +1129,7 @@ QCZ = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W02_12
 }
 QDA = {
@@ -1062,6 +1140,7 @@ QDA = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W03_06
 }
 QDB = {
@@ -1072,6 +1151,7 @@ QDB = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W01_223
 }
 QDC = {
@@ -1082,6 +1162,7 @@ QDC = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W02_04
 }
 QDD = {
@@ -1092,6 +1173,7 @@ QDD = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W02_10
 }
 QDE = {
@@ -1102,6 +1184,7 @@ QDE = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W02_13
 }
 QDF = {
@@ -1112,6 +1195,7 @@ QDF = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W03
 }
 QDG = {
@@ -1122,6 +1206,7 @@ QDG = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W03_02
 }
 QDH = {
@@ -1132,6 +1217,7 @@ QDH = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W03_03
 }
 QDI = {
@@ -1142,6 +1228,7 @@ QDI = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W03_04
 }
 QDJ = {
@@ -1152,6 +1239,7 @@ QDJ = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W03_05
 }
 QDK = {
@@ -1162,6 +1250,7 @@ QDK = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W03_07
 }
 QDL = {
@@ -1172,5 +1261,6 @@ QDL = {
 	tier = principality
 
 	cultures = { wildlander }
+	religion = protestant
 	capital = STATE_W05
 }
