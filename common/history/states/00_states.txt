@@ -884,6 +884,7 @@ STATES = {
 	s:STATE_W01_02 = {
 		create_state = {
 			country = c:QAA
+			state_type = unincorporated
 			owned_provinces = { "xC95EF1" "xBA87C4" "x28DFCB" "x95CEDF" "x7DDE8F" "x36F0C4" "xCE78D6" }
 		}
 		add_homeland = cu:wildlander
@@ -891,6 +892,7 @@ STATES = {
 	s:STATE_W01_17 = {
 		create_state = {
 			country = c:QAA
+			state_type = unincorporated
 			owned_provinces = { "x467066" "x7B8AA9" "x5B996D" "x44D868" "x6991D3" "x30A2F4" }
 		}
 		add_homeland = cu:wildlander
@@ -898,6 +900,7 @@ STATES = {
 	s:STATE_W01_153 = {
 		create_state = {
 			country = c:QAA
+			state_type = unincorporated
 			owned_provinces = { "x2382B0" "x5A4DF3" "xAD91EA" "x9542FC" "x6859B8" "x5DBE6B" }
 		}
 		add_homeland = cu:wildlander
@@ -905,6 +908,7 @@ STATES = {
 	s:STATE_W01_232 = {
 		create_state = {
 			country = c:QAA
+			state_type = unincorporated
 			owned_provinces = { "x6E9AEB" "xBD8366" "x67CE91" "xCFDFDD" "xADA6CF" "xBB9A7D" }
 		}
 		add_homeland = cu:wildlander
@@ -912,6 +916,7 @@ STATES = {
 	s:STATE_W01_240 = {
 		create_state = {
 			country = c:QAA
+			state_type = unincorporated
 			owned_provinces = { "xC2E294" "xCB80C9" "xDE6CD7" "x90D9E4" "x67CCE4" "x52F066" }
 		}
 		add_homeland = cu:wildlander
@@ -919,6 +924,7 @@ STATES = {
 	s:STATE_W01_242 = {
 		create_state = {
 			country = c:QAA
+			state_type = unincorporated
 			owned_provinces = { "x5FEC85" "x6B6065" "x269589" "x7949FC" "x8CC7FC" }
 		}
 		add_homeland = cu:wildlander
@@ -926,6 +932,7 @@ STATES = {
 	s:STATE_W01_321 = {
 		create_state = {
 			country = c:QAA
+			state_type = unincorporated
 			owned_provinces = { "x40D2EF" "xB0AB9F" "x8D5DE0" "x65CDFC" "x254FE6" "xB792D2" "xB07E60" }
 		}
 		add_homeland = cu:wildlander
@@ -933,6 +940,7 @@ STATES = {
 	s:STATE_W01_375 = {
 		create_state = {
 			country = c:QAA
+			state_type = unincorporated
 			owned_provinces = { "x69F0A9" "xA04AF7" "x7E4DE3" "x57A6F2" "x7D8094" "x90EA7E" }
 		}
 		add_homeland = cu:wildlander
@@ -940,6 +948,7 @@ STATES = {
 	s:STATE_W01_395 = {
 		create_state = {
 			country = c:QAA
+			state_type = unincorporated
 			owned_provinces = { "x696AFC" "x779EE6" "x66D87D" "x2578FC" "x61DE8E" "xD2A7B0" }
 		}
 		add_homeland = cu:wildlander
@@ -947,6 +956,7 @@ STATES = {
 	s:STATE_W01_04 = {
 		create_state = {
 			country = c:QAB
+			state_type = unincorporated
 			owned_provinces = { "x989196" "x2D9DAF" "x8F6BC8" "x8FB5C0" "x276780" "xA6CF8A" }
 		}
 		add_homeland = cu:wildlander
@@ -954,6 +964,7 @@ STATES = {
 	s:STATE_W01_42 = {
 		create_state = {
 			country = c:QAB
+			state_type = unincorporated
 			owned_provinces = { "x55FCFC" "x25BC68" "x6AEBC8" "x5E8899" "x25747A" "x93C6B4" }
 		}
 		add_homeland = cu:wildlander
@@ -961,6 +972,7 @@ STATES = {
 	s:STATE_W01_112 = {
 		create_state = {
 			country = c:QAB
+			state_type = unincorporated
 			owned_provinces = { "x47CE65" "x7398E8" "xC490D0" "x9A70B7" "x30CBF9" }
 		}
 		add_homeland = cu:wildlander
@@ -968,6 +980,7 @@ STATES = {
 	s:STATE_W01_121 = {
 		create_state = {
 			country = c:QAB
+			state_type = unincorporated
 			owned_provinces = { "x6EE182" "x38E9A4" "x2BD6AD" "xD8D2FC" "xDB98CC" "x3FE4FC" }
 		}
 		add_homeland = cu:wildlander
@@ -975,6 +988,7 @@ STATES = {
 	s:STATE_W01_141 = {
 		create_state = {
 			country = c:QAB
+			state_type = unincorporated
 			owned_provinces = { "xE1F0B3" "x2BF58E" "xCDB2B3" "x7D9FD3" "x6AC5F5" "xCABED8" "x396CD3" }
 		}
 		add_homeland = cu:wildlander
@@ -982,6 +996,7 @@ STATES = {
 	s:STATE_W01_176 = {
 		create_state = {
 			country = c:QAB
+			state_type = unincorporated
 			owned_provinces = { "x41CBB1" "xBEA69C" "x3C76FC" "xBF89BF" "xD399DF" "xC2D5F4" }
 		}
 		add_homeland = cu:wildlander
@@ -989,6 +1004,7 @@ STATES = {
 	s:STATE_W01_274 = {
 		create_state = {
 			country = c:QAB
+			state_type = unincorporated
 			owned_provinces = { "xC975A4" "x6A4598" "xE1FAB8" "x6E82FC" "x98848B" "x4858DB" "xDC91A2" }
 		}
 		add_homeland = cu:wildlander
@@ -996,6 +1012,7 @@ STATES = {
 	s:STATE_W01_301 = {
 		create_state = {
 			country = c:QAB
+			state_type = unincorporated
 			owned_provinces = { "x2B63A4" "x7E94D6" "x2655B1" "xCC4FFC" "xAE52C3" }
 		}
 		add_homeland = cu:wildlander
@@ -1003,6 +1020,7 @@ STATES = {
 	s:STATE_W01_389 = {
 		create_state = {
 			country = c:QAB
+			state_type = unincorporated
 			owned_provinces = { "x4DB178" "x7BACFA" "x6DF6FC" "xD5ECE8" "x3A7DE8" "xB1FCA8" }
 		}
 		add_homeland = cu:wildlander
@@ -1010,6 +1028,7 @@ STATES = {
 	s:STATE_W01_41 = {
 		create_state = {
 			country = c:QAC
+			state_type = unincorporated
 			owned_provinces = { "xD75C5F" "x4B97A2" "x496C96" "x7A96DC" "xBF77FC" "xC444FC" "x56ECE8" }
 		}
 		add_homeland = cu:wildlander
@@ -1017,6 +1036,7 @@ STATES = {
 	s:STATE_W01_83 = {
 		create_state = {
 			country = c:QAC
+			state_type = unincorporated
 			owned_provinces = { "x3044EC" "x694AC0" "x4FD9E4" "xD66EFC" "x648084" "x87EEA6" "xB84983" }
 		}
 		add_homeland = cu:wildlander
@@ -1024,6 +1044,7 @@ STATES = {
 	s:STATE_W01_106 = {
 		create_state = {
 			country = c:QAC
+			state_type = unincorporated
 			owned_provinces = { "x8E50FC" "xCA44DF" "xC0D0A0" "x8D83DB" "xABE8A6" "x58CFDC" "x348676" }
 		}
 		add_homeland = cu:wildlander
@@ -1031,6 +1052,7 @@ STATES = {
 	s:STATE_W01_172 = {
 		create_state = {
 			country = c:QAC
+			state_type = unincorporated
 			owned_provinces = { "xDBCA8D" "x5DFC84" "x3CC46B" "x72F8BE" "x57FCFC" "xD4C6BC" }
 		}
 		add_homeland = cu:wildlander
@@ -1038,6 +1060,7 @@ STATES = {
 	s:STATE_W01_251 = {
 		create_state = {
 			country = c:QAC
+			state_type = unincorporated
 			owned_provinces = { "xD6FA66" "x2FEA71" "x8BB4ED" "xD1B767" "x44D1A7" "x39D47D" "x7357A2" }
 		}
 		add_homeland = cu:wildlander
@@ -1045,6 +1068,7 @@ STATES = {
 	s:STATE_W01_280 = {
 		create_state = {
 			country = c:QAC
+			state_type = unincorporated
 			owned_provinces = { "x45F272" "x83FC8D" "x40C4DD" "x90B7FB" "x9046D2" "x97CEFC" "xB64361" }
 		}
 		add_homeland = cu:wildlander
@@ -1052,6 +1076,7 @@ STATES = {
 	s:STATE_W01_286 = {
 		create_state = {
 			country = c:QAC
+			state_type = unincorporated
 			owned_provinces = { "x837862" "xBD5FDE" "xD3D4BA" "x65D894" "x9ED692" "xB3BEFC" }
 		}
 		add_homeland = cu:wildlander
@@ -1059,6 +1084,7 @@ STATES = {
 	s:STATE_W01_299 = {
 		create_state = {
 			country = c:QAC
+			state_type = unincorporated
 			owned_provinces = { "xACAAFC" "x2CC580" "xD1CAAA" "x84D7FC" "x3C5BFC" "x49CAEA" "xA9F9A6" }
 		}
 		add_homeland = cu:wildlander
@@ -1066,6 +1092,7 @@ STATES = {
 	s:STATE_W01_335 = {
 		create_state = {
 			country = c:QAC
+			state_type = unincorporated
 			owned_provinces = { "xDE43EA" "xAC9CFC" "x85EDB6" "xAE97C3" "xCD607D" "xB9FCD7" }
 		}
 		add_homeland = cu:wildlander
@@ -1073,6 +1100,7 @@ STATES = {
 	s:STATE_W01_07 = {
 		create_state = {
 			country = c:QAD
+			state_type = unincorporated
 			owned_provinces = { "x32C9C0" "xA86966" "x24CBAD" "xAAD9FC" "x875A6B" "xC6F5D6" "x5E5B88" }
 		}
 		add_homeland = cu:wildlander
@@ -1080,6 +1108,7 @@ STATES = {
 	s:STATE_W01_88 = {
 		create_state = {
 			country = c:QAD
+			state_type = unincorporated
 			owned_provinces = { "xA34D8A" "xAFE9F1" "x2DC16C" "xBA78D4" "x324ED0" "x35717B" "x8473F1" "x3372FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1087,6 +1116,7 @@ STATES = {
 	s:STATE_W01_110 = {
 		create_state = {
 			country = c:QAD
+			state_type = unincorporated
 			owned_provinces = { "x9BD7DF" "x85F960" "x3AC77E" "x707D95" "xD8DDE5" "xB27A72" "x4CF684" }
 		}
 		add_homeland = cu:wildlander
@@ -1094,6 +1124,7 @@ STATES = {
 	s:STATE_W01_127 = {
 		create_state = {
 			country = c:QAD
+			state_type = unincorporated
 			owned_provinces = { "xC456FC" "xB5DCF7" "x76C29C" "x3BC962" "x94EFFC" "xB8D774" "xB9B49D" }
 		}
 		add_homeland = cu:wildlander
@@ -1101,6 +1132,7 @@ STATES = {
 	s:STATE_W01_175 = {
 		create_state = {
 			country = c:QAD
+			state_type = unincorporated
 			owned_provinces = { "x68E45F" "x2F52FC" "x53BE88" "x3F42FC" "x4B9DFC" "x78BF7B" "x5671FC" "x99D5C9" }
 		}
 		add_homeland = cu:wildlander
@@ -1108,6 +1140,7 @@ STATES = {
 	s:STATE_W01_200 = {
 		create_state = {
 			country = c:QAD
+			state_type = unincorporated
 			owned_provinces = { "x30E9B4" "x708ACF" "xA16E9E" "x564AFC" "x5591F0" "xAED9B1" }
 		}
 		add_homeland = cu:wildlander
@@ -1115,6 +1148,7 @@ STATES = {
 	s:STATE_W01_207 = {
 		create_state = {
 			country = c:QAD
+			state_type = unincorporated
 			owned_provinces = { "x88E3F3" "x547DC1" "x99FC8F" "xC397F6" "x5FB3DB" "x515F90" "x5346B8" }
 		}
 		add_homeland = cu:wildlander
@@ -1122,6 +1156,7 @@ STATES = {
 	s:STATE_W01_262 = {
 		create_state = {
 			country = c:QAD
+			state_type = unincorporated
 			owned_provinces = { "x78CE85" "x595A94" "x38E36C" "x4BA092" "x9B56F6" "x4F536B" "x816F8C" }
 		}
 		add_homeland = cu:wildlander
@@ -1129,6 +1164,7 @@ STATES = {
 	s:STATE_W01_14 = {
 		create_state = {
 			country = c:QAE
+			state_type = unincorporated
 			owned_provinces = { "xCE557E" "x36DDD2" "x52FCAB" "x26A3F2" "x8AA3C9" }
 		}
 		add_homeland = cu:wildlander
@@ -1136,6 +1172,7 @@ STATES = {
 	s:STATE_W01_89 = {
 		create_state = {
 			country = c:QAE
+			state_type = unincorporated
 			owned_provinces = { "x5188C5" "x59547A" "x887CE4" "x5AA19B" "x61B56F" "x9F6F6F" }
 		}
 		add_homeland = cu:wildlander
@@ -1143,6 +1180,7 @@ STATES = {
 	s:STATE_W01_187 = {
 		create_state = {
 			country = c:QAE
+			state_type = unincorporated
 			owned_provinces = { "xC7B7FC" "xD2D063" "xCCED8F" "xD68161" "x656E94" "x8268E0" "x3751FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1150,6 +1188,7 @@ STATES = {
 	s:STATE_W01_259 = {
 		create_state = {
 			country = c:QAE
+			state_type = unincorporated
 			owned_provinces = { "x82F190" "x36A19D" "xA2E0FC" "x3EF57E" "x7946B4" "x5FF4FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1157,6 +1196,7 @@ STATES = {
 	s:STATE_W01_265 = {
 		create_state = {
 			country = c:QAE
+			state_type = unincorporated
 			owned_provinces = { "xAD50C1" "x2361D7" "xC3F891" "xA6A0EC" "xB1BE89" "xB542FC" "x53E0EB" }
 		}
 		add_homeland = cu:wildlander
@@ -1164,6 +1204,7 @@ STATES = {
 	s:STATE_W01_329 = {
 		create_state = {
 			country = c:QAE
+			state_type = unincorporated
 			owned_provinces = { "x8A95FC" "x7BEAFC" "x9D80F2" }
 		}
 		add_homeland = cu:wildlander
@@ -1171,6 +1212,7 @@ STATES = {
 	s:STATE_W01_373 = {
 		create_state = {
 			country = c:QAE
+			state_type = unincorporated
 			owned_provinces = { "xD2F693" "x3BEC7A" "x989AAA" "x59EEAA" "xDCA670" "x2E49FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1178,6 +1220,7 @@ STATES = {
 	s:STATE_W01_388 = {
 		create_state = {
 			country = c:QAE
+			state_type = unincorporated
 			owned_provinces = { "x2AAF97" "xA7ABDD" "x6DD5E6" "x8BCDAD" "x7C8BBD" "x91DAB7" "xBB9D75" }
 		}
 		add_homeland = cu:wildlander
@@ -1185,6 +1228,7 @@ STATES = {
 	s:STATE_W01_19 = {
 		create_state = {
 			country = c:QAF
+			state_type = unincorporated
 			owned_provinces = { "xD452E7" "x25C6BE" "x515075" "x974DCD" "xAB8072" "xDAAF70" }
 		}
 		add_homeland = cu:wildlander
@@ -1192,6 +1236,7 @@ STATES = {
 	s:STATE_W01_54 = {
 		create_state = {
 			country = c:QAF
+			state_type = unincorporated
 			owned_provinces = { "xC36FD1" "x7171A9" "x50D4B1" "x5D66A5" "xC063A6" "xD5CFC2" "x8CDFFC" "x904688" }
 		}
 		add_homeland = cu:wildlander
@@ -1199,6 +1244,7 @@ STATES = {
 	s:STATE_W01_78 = {
 		create_state = {
 			country = c:QAF
+			state_type = unincorporated
 			owned_provinces = { "x8FEE6B" "xC6FB67" "x28D59B" "x5CFCAF" "x607E79" "x6DBDE5" "x71E2AE" }
 		}
 		add_homeland = cu:wildlander
@@ -1206,6 +1252,7 @@ STATES = {
 	s:STATE_W01_98 = {
 		create_state = {
 			country = c:QAF
+			state_type = unincorporated
 			owned_provinces = { "x26EFBF" "xB68E68" "x67B160" "x5C7661" "x4C709D" "x93E9D7" "x8F4AFB" }
 		}
 		add_homeland = cu:wildlander
@@ -1213,6 +1260,7 @@ STATES = {
 	s:STATE_W01_293 = {
 		create_state = {
 			country = c:QAF
+			state_type = unincorporated
 			owned_provinces = { "x74C19F" "x445CF1" "xB36AF7" "xC687A5" "xA29ED3" "x4B4773" }
 		}
 		add_homeland = cu:wildlander
@@ -1220,6 +1268,7 @@ STATES = {
 	s:STATE_W01_330 = {
 		create_state = {
 			country = c:QAF
+			state_type = unincorporated
 			owned_provinces = { "x7AD7FC" "x85A3AA" "x28C27A" "x4F8DFC" "x25C4A4" "xA3B795" "xBD51FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1227,6 +1276,7 @@ STATES = {
 	s:STATE_W01_364 = {
 		create_state = {
 			country = c:QAF
+			state_type = unincorporated
 			owned_provinces = { "xDBDC94" "x82F17F" "x529D63" "xA9F875" "x767E96" "xA542E8" }
 		}
 		add_homeland = cu:wildlander
@@ -1234,6 +1284,7 @@ STATES = {
 	s:STATE_W01_391 = {
 		create_state = {
 			country = c:QAF
+			state_type = unincorporated
 			owned_provinces = { "x2A67CC" "x3E58F0" "xBB43FC" "x7282C9" "x3A7BF9" "xD774E3" "x58D7FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1241,6 +1292,7 @@ STATES = {
 	s:STATE_W01_28 = {
 		create_state = {
 			country = c:QAG
+			state_type = unincorporated
 			owned_provinces = { "xA889DE" "x64B162" "xDE54FC" "xB958FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1248,6 +1300,7 @@ STATES = {
 	s:STATE_W01_140 = {
 		create_state = {
 			country = c:QAG
+			state_type = unincorporated
 			owned_provinces = { "xB1E7FC" "xA582D2" "xC1AEFB" "x49A874" }
 		}
 		add_homeland = cu:wildlander
@@ -1255,6 +1308,7 @@ STATES = {
 	s:STATE_W01_185 = {
 		create_state = {
 			country = c:QAG
+			state_type = unincorporated
 			owned_provinces = { "x7069EC" "x91B9FC" "xDBD4F8" "x715C76" "xAE5ED9" }
 		}
 		add_homeland = cu:wildlander
@@ -1262,6 +1316,7 @@ STATES = {
 	s:STATE_W01_191 = {
 		create_state = {
 			country = c:QAG
+			state_type = unincorporated
 			owned_provinces = { "xA26C69" "xBD7872" "xDCD7CF" "xBC49DD" }
 		}
 		add_homeland = cu:wildlander
@@ -1269,6 +1324,7 @@ STATES = {
 	s:STATE_W01_197 = {
 		create_state = {
 			country = c:QAG
+			state_type = unincorporated
 			owned_provinces = { "xAAB4E4" "x80C083" "x27E7E2" "x9F7B8D" }
 		}
 		add_homeland = cu:wildlander
@@ -1276,6 +1332,7 @@ STATES = {
 	s:STATE_W01_269 = {
 		create_state = {
 			country = c:QAG
+			state_type = unincorporated
 			owned_provinces = { "xC8B7FC" "x29F286" "x6BF291" "xDA41FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1283,6 +1340,7 @@ STATES = {
 	s:STATE_W01_304 = {
 		create_state = {
 			country = c:QAG
+			state_type = unincorporated
 			owned_provinces = { "x8899A4" "xC09FB5" "x8DFCCE" "xCCFCFC" "x9D98DB" }
 		}
 		add_homeland = cu:wildlander
@@ -1290,6 +1348,7 @@ STATES = {
 	s:STATE_W01_338 = {
 		create_state = {
 			country = c:QAG
+			state_type = unincorporated
 			owned_provinces = { "x47A8B3" "xD971FC" "x2FD67C" "xDF9DDC" }
 		}
 		add_homeland = cu:wildlander
@@ -1297,6 +1356,7 @@ STATES = {
 	s:STATE_W01_63 = {
 		create_state = {
 			country = c:QAH
+			state_type = unincorporated
 			owned_provinces = { "x647695" "x7FE876" "xDDE5A3" "xB4D4BB" "xBDCBEC" "x6665FC" "xB1C4D0" }
 		}
 		add_homeland = cu:wildlander
@@ -1304,6 +1364,7 @@ STATES = {
 	s:STATE_W01_119 = {
 		create_state = {
 			country = c:QAH
+			state_type = unincorporated
 			owned_provinces = { "x7474BB" "x6596EB" "x5BCBCF" "x9CB8FC" "x9E6F80" "x9C6CBE" }
 		}
 		add_homeland = cu:wildlander
@@ -1311,6 +1372,7 @@ STATES = {
 	s:STATE_W01_193 = {
 		create_state = {
 			country = c:QAH
+			state_type = unincorporated
 			owned_provinces = { "x98936F" "x97C482" "xC35FA4" "xC251DA" "xD5C183" "x55B8DB" }
 		}
 		add_homeland = cu:wildlander
@@ -1318,6 +1380,7 @@ STATES = {
 	s:STATE_W01_252 = {
 		create_state = {
 			country = c:QAH
+			state_type = unincorporated
 			owned_provinces = { "x5366CD" "xA8D0FC" "xA7FAFC" "x57B9C8" "x73C888" "x628489" }
 		}
 		add_homeland = cu:wildlander
@@ -1325,6 +1388,7 @@ STATES = {
 	s:STATE_W01_253 = {
 		create_state = {
 			country = c:QAH
+			state_type = unincorporated
 			owned_provinces = { "xB89D9B" "x6BACFC" "x6FB784" "xD694CF" "x68C1B4" "xD259B9" "x4846EE" }
 		}
 		add_homeland = cu:wildlander
@@ -1332,6 +1396,7 @@ STATES = {
 	s:STATE_W01_307 = {
 		create_state = {
 			country = c:QAH
+			state_type = unincorporated
 			owned_provinces = { "x594BC2" "xA274A1" "x9E98E3" "xBFBAE3" "xA098A5" "x76DCE0" }
 		}
 		add_homeland = cu:wildlander
@@ -1339,6 +1404,7 @@ STATES = {
 	s:STATE_W01_365 = {
 		create_state = {
 			country = c:QAH
+			state_type = unincorporated
 			owned_provinces = { "x7E59B1" "xD7E4AD" "xA641D7" "x7CE164" "x4A6AD5" }
 		}
 		add_homeland = cu:wildlander
@@ -1346,6 +1412,7 @@ STATES = {
 	s:STATE_W01_390 = {
 		create_state = {
 			country = c:QAH
+			state_type = unincorporated
 			owned_provinces = { "x6EEE8A" "x2978C2" "x8BCB9D" "xAFAB71" "x6BFCE3" "x779FAB" "x8E7060" }
 		}
 		add_homeland = cu:wildlander
@@ -1353,6 +1420,7 @@ STATES = {
 	s:STATE_W02 = {
 		create_state = {
 			country = c:QAI
+			state_type = unincorporated
 			owned_provinces = { "x51392B" "x70481E" "xA10744" "x708507" "x088F3E" "x87364E" "x57345B" "x98603D" }
 		}
 		add_homeland = cu:wildlander
@@ -1360,6 +1428,7 @@ STATES = {
 	s:STATE_W02_03 = {
 		create_state = {
 			country = c:QAI
+			state_type = unincorporated
 			owned_provinces = { "x332408" "x958957" "x900309" "xA34A03" "xA23D83" "x545212" "x6A8C5C" "x0F0378" }
 		}
 		add_homeland = cu:wildlander
@@ -1367,6 +1436,7 @@ STATES = {
 	s:STATE_W02_06 = {
 		create_state = {
 			country = c:QAI
+			state_type = unincorporated
 			owned_provinces = { "xA32603" "x470303" "x035B03" "x6E0334" "x253158" "x5D4803" "x283C82" "x240683" }
 		}
 		add_homeland = cu:wildlander
@@ -1374,6 +1444,7 @@ STATES = {
 	s:STATE_W02_07 = {
 		create_state = {
 			country = c:QAI
+			state_type = unincorporated
 			owned_provinces = { "x9D0303" "x030735" "x033003" "xA6033A" "x042E56" "x0F1788" "x060F56" }
 		}
 		add_homeland = cu:wildlander
@@ -1381,6 +1452,7 @@ STATES = {
 	s:STATE_W02_08 = {
 		create_state = {
 			country = c:QAI
+			state_type = unincorporated
 			owned_provinces = { "x2B031B" "x8B3E7B" "x460359" "x86036C" "x185B03" "x62030B" "xAC1177" }
 		}
 		add_homeland = cu:wildlander
@@ -1388,6 +1460,7 @@ STATES = {
 	s:STATE_W02_09 = {
 		create_state = {
 			country = c:QAI
+			state_type = unincorporated
 			owned_provinces = { "x504F2C" "x1A6103" "x8F4E76" "x9F746D" "xA91152" "x59034D" "x5E5840" "x6C037B" }
 		}
 		add_homeland = cu:wildlander
@@ -1395,6 +1468,7 @@ STATES = {
 	s:STATE_W02_16 = {
 		create_state = {
 			country = c:QAI
+			state_type = unincorporated
 			owned_provinces = { "x461946" "x03247A" "x73813C" "xA98D44" "x033603" "x275C16" "x2E5C6E" "x4E5882" }
 		}
 		add_homeland = cu:wildlander
@@ -1402,6 +1476,7 @@ STATES = {
 	s:STATE_W02_17 = {
 		create_state = {
 			country = c:QAI
+			state_type = unincorporated
 			owned_provinces = { "x970333" "x877A03" "xA60303" "x312503" "x76036A" "x845A10" "x886429" "x890417" }
 		}
 		add_homeland = cu:wildlander
@@ -1409,6 +1484,7 @@ STATES = {
 	s:STATE_W01_05 = {
 		create_state = {
 			country = c:QAJ
+			state_type = unincorporated
 			owned_provinces = { "x40A5E1" "xBC95FC" "x9782FC" "xDEB7A1" "x627A6C" "x38E785" }
 		}
 		add_homeland = cu:wildlander
@@ -1416,6 +1492,7 @@ STATES = {
 	s:STATE_W01_79 = {
 		create_state = {
 			country = c:QAJ
+			state_type = unincorporated
 			owned_provinces = { "xD871D7" "xD87EAD" "xC9D1B5" "xA29D93" "xC18965" "x6A9D60" }
 		}
 		add_homeland = cu:wildlander
@@ -1423,6 +1500,7 @@ STATES = {
 	s:STATE_W01_100 = {
 		create_state = {
 			country = c:QAJ
+			state_type = unincorporated
 			owned_provinces = { "xBB6486" "xD067FC" "x3F5DBF" "x2FBEAD" }
 		}
 		add_homeland = cu:wildlander
@@ -1430,6 +1508,7 @@ STATES = {
 	s:STATE_W01_122 = {
 		create_state = {
 			country = c:QAJ
+			state_type = unincorporated
 			owned_provinces = { "x36EBFC" "x37E1BD" "xB9D09E" "x92BCFC" "x70C4FC" "x269A83" "xD4A1FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1437,6 +1516,7 @@ STATES = {
 	s:STATE_W01_145 = {
 		create_state = {
 			country = c:QAJ
+			state_type = unincorporated
 			owned_provinces = { "x998BE1" "x26EDD0" "x2DD76A" "x70D475" "x26ADA8" "x335B7C" }
 		}
 		add_homeland = cu:wildlander
@@ -1444,6 +1524,7 @@ STATES = {
 	s:STATE_W01_322 = {
 		create_state = {
 			country = c:QAJ
+			state_type = unincorporated
 			owned_provinces = { "x63C5FC" "x96B362" "xB0B6FC" "x777CFA" "x49C3FC" "xBC766C" "x2BE469" }
 		}
 		add_homeland = cu:wildlander
@@ -1451,6 +1532,7 @@ STATES = {
 	s:STATE_W01_349 = {
 		create_state = {
 			country = c:QAJ
+			state_type = unincorporated
 			owned_provinces = { "xAA4D7B" "x9777DF" "x29A7BB" "x41CBF3" "x70B6FC" "x554ACF" }
 		}
 		add_homeland = cu:wildlander
@@ -1458,6 +1540,7 @@ STATES = {
 	s:STATE_W01_09 = {
 		create_state = {
 			country = c:QAK
+			state_type = unincorporated
 			owned_provinces = { "x8A9D63" "x3CC9FC" "x61F5F8" "x65B6A8" "x2466FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1465,6 +1548,7 @@ STATES = {
 	s:STATE_W01_133 = {
 		create_state = {
 			country = c:QAK
+			state_type = unincorporated
 			owned_provinces = { "x9C609B" "x84767A" "xB4FBF7" "x926BA9" "xC9A6D1" "x7DFC79" }
 		}
 		add_homeland = cu:wildlander
@@ -1472,6 +1556,7 @@ STATES = {
 	s:STATE_W01_162 = {
 		create_state = {
 			country = c:QAK
+			state_type = unincorporated
 			owned_provinces = { "x4458F3" "x7A92CC" "x66D6A0" "x75CDAB" "x5170F5" }
 		}
 		add_homeland = cu:wildlander
@@ -1479,6 +1564,7 @@ STATES = {
 	s:STATE_W01_243 = {
 		create_state = {
 			country = c:QAK
+			state_type = unincorporated
 			owned_provinces = { "xC1EAF9" "x288F77" "x5A56E9" "x5852A6" "x6986C4" }
 		}
 		add_homeland = cu:wildlander
@@ -1486,6 +1572,7 @@ STATES = {
 	s:STATE_W01_281 = {
 		create_state = {
 			country = c:QAK
+			state_type = unincorporated
 			owned_provinces = { "xCDF7BF" "x6DBDD9" "x51F792" "x2669A6" "x2E46A8" }
 		}
 		add_homeland = cu:wildlander
@@ -1493,6 +1580,7 @@ STATES = {
 	s:STATE_W01_310 = {
 		create_state = {
 			country = c:QAK
+			state_type = unincorporated
 			owned_provinces = { "x358AFC" "xAE6C69" "x47ABAC" "x56BB70" "xBEFC6D" }
 		}
 		add_homeland = cu:wildlander
@@ -1500,6 +1588,7 @@ STATES = {
 	s:STATE_W01_371 = {
 		create_state = {
 			country = c:QAK
+			state_type = unincorporated
 			owned_provinces = { "x9791FC" "xCFE8C2" "x74D8CA" "xC4B1F2" "xA9A063" "x536AFC" }
 		}
 		add_homeland = cu:wildlander
@@ -1507,6 +1596,7 @@ STATES = {
 	s:STATE_W01_35 = {
 		create_state = {
 			country = c:QAL
+			state_type = unincorporated
 			owned_provinces = { "x5AE3D9" "xC8739C" "x468CEA" "x9BA9D8" "xB544FC" "xE068FC" "x6FBE8E" "x727AAD" }
 		}
 		add_homeland = cu:wildlander
@@ -1514,6 +1604,7 @@ STATES = {
 	s:STATE_W01_143 = {
 		create_state = {
 			country = c:QAL
+			state_type = unincorporated
 			owned_provinces = { "x5EA18C" "x52B5B4" "x58E4FC" "x62DDAA" "x5A507F" "xC86FFC" "x7BCCC0" }
 		}
 		add_homeland = cu:wildlander
@@ -1521,6 +1612,7 @@ STATES = {
 	s:STATE_W01_144 = {
 		create_state = {
 			country = c:QAL
+			state_type = unincorporated
 			owned_provinces = { "xBA5368" "xD474E3" "x6689FC" "xAF9C8F" "x8EAAD6" "x2A8D99" "x9FA7BA" "x69F78F" }
 		}
 		add_homeland = cu:wildlander
@@ -1528,6 +1620,7 @@ STATES = {
 	s:STATE_W01_220 = {
 		create_state = {
 			country = c:QAL
+			state_type = unincorporated
 			owned_provinces = { "x95D589" "xBB5EBD" "x4D888C" "xD8D3D3" "x309F84" "x4FD3E1" "xB8AFE4" "xC5B5B4" }
 		}
 		add_homeland = cu:wildlander
@@ -1535,6 +1628,7 @@ STATES = {
 	s:STATE_W01_273 = {
 		create_state = {
 			country = c:QAL
+			state_type = unincorporated
 			owned_provinces = { "x959E72" "x3BC5D0" "x7887BE" "x9D9368" "x65B8FC" "x4952F3" }
 		}
 		add_homeland = cu:wildlander
@@ -1542,6 +1636,7 @@ STATES = {
 	s:STATE_W01_298 = {
 		create_state = {
 			country = c:QAL
+			state_type = unincorporated
 			owned_provinces = { "xD4907E" "x3E6FCC" "x3CEC93" "x99F0C0" "xD298D7" "x6DB894" "x9289FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1549,6 +1644,7 @@ STATES = {
 	s:STATE_W01_313 = {
 		create_state = {
 			country = c:QAL
+			state_type = unincorporated
 			owned_provinces = { "x6084FC" "xD7E0FC" "x7AF2B7" "x63C9A5" "x2EFAFC" "x6FBF93" "xDBB8FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1556,6 +1652,7 @@ STATES = {
 	s:STATE_W01_43 = {
 		create_state = {
 			country = c:QAM
+			state_type = unincorporated
 			owned_provinces = { "xA198C2" "x75FCFC" "x64F86D" "xD449FC" "xCB4871" "x987BEC" }
 		}
 		add_homeland = cu:wildlander
@@ -1563,6 +1660,7 @@ STATES = {
 	s:STATE_W01_56 = {
 		create_state = {
 			country = c:QAM
+			state_type = unincorporated
 			owned_provinces = { "xD3C7AE" "xA48EFC" "x2C5BFC" "x4458AB" "xD29689" "x9278FC" "xC4DDBC" }
 		}
 		add_homeland = cu:wildlander
@@ -1570,6 +1668,7 @@ STATES = {
 	s:STATE_W01_86 = {
 		create_state = {
 			country = c:QAM
+			state_type = unincorporated
 			owned_provinces = { "x47B183" "x4AFCB4" "x5E4FD7" "x7C9DFC" "xA65590" "x8FB2FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1577,6 +1676,7 @@ STATES = {
 	s:STATE_W01_95 = {
 		create_state = {
 			country = c:QAM
+			state_type = unincorporated
 			owned_provinces = { "x9DBE6E" "xD3DEF6" "xC9CAC2" "x3C61D7" "x9C95FC" "x608EE3" }
 		}
 		add_homeland = cu:wildlander
@@ -1584,6 +1684,7 @@ STATES = {
 	s:STATE_W01_103 = {
 		create_state = {
 			country = c:QAM
+			state_type = unincorporated
 			owned_provinces = { "x3DF8CE" "x6F6C67" "xBB9EB8" "x646F9F" "xBAAA62" "xAF9AC3" }
 		}
 		add_homeland = cu:wildlander
@@ -1591,6 +1692,7 @@ STATES = {
 	s:STATE_W01_209 = {
 		create_state = {
 			country = c:QAM
+			state_type = unincorporated
 			owned_provinces = { "x7AC3FC" "xDA86E9" "x97EB6D" "x92BEFC" "x50B07E" "xD39F70" "x80B581" }
 		}
 		add_homeland = cu:wildlander
@@ -1598,6 +1700,7 @@ STATES = {
 	s:STATE_W01_314 = {
 		create_state = {
 			country = c:QAM
+			state_type = unincorporated
 			owned_provinces = { "x4795FC" "xC85BD4" "xAE4C8C" "x97457F" "x9C91DF" "x2DCFA9" }
 		}
 		add_homeland = cu:wildlander
@@ -1605,6 +1708,7 @@ STATES = {
 	s:STATE_W01_59 = {
 		create_state = {
 			country = c:QAN
+			state_type = unincorporated
 			owned_provinces = { "x6CD38B" "x4D7EFC" "x6A8FD4" "xCDDE6A" "x45BF6C" "xC94F94" "xC181FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1612,6 +1716,7 @@ STATES = {
 	s:STATE_W01_114 = {
 		create_state = {
 			country = c:QAN
+			state_type = unincorporated
 			owned_provinces = { "xD355F5" "x7C8ED1" "xB65F60" "x3E839C" "x416FFC" "xBBA7E7" "x4E65E9" }
 		}
 		add_homeland = cu:wildlander
@@ -1619,6 +1724,7 @@ STATES = {
 	s:STATE_W01_134 = {
 		create_state = {
 			country = c:QAN
+			state_type = unincorporated
 			owned_provinces = { "x8A99D6" "x38B3F2" "x6DE4BF" "x8FBCC6" "xD5C4DF" "x74DCFC" "x5676E9" }
 		}
 		add_homeland = cu:wildlander
@@ -1626,6 +1732,7 @@ STATES = {
 	s:STATE_W01_157 = {
 		create_state = {
 			country = c:QAN
+			state_type = unincorporated
 			owned_provinces = { "x699D71" "x4597AA" "x37785F" "x84A3FC" "x55E58E" "xA0EAFC" "x28B4F0" }
 		}
 		add_homeland = cu:wildlander
@@ -1633,6 +1740,7 @@ STATES = {
 	s:STATE_W01_229 = {
 		create_state = {
 			country = c:QAN
+			state_type = unincorporated
 			owned_provinces = { "xA97C6C" "x368C9B" "x6A49DC" "x68738D" "x9D9994" "xAF87A8" "x24B777" }
 		}
 		add_homeland = cu:wildlander
@@ -1640,6 +1748,7 @@ STATES = {
 	s:STATE_W01_230 = {
 		create_state = {
 			country = c:QAN
+			state_type = unincorporated
 			owned_provinces = { "x26A5F5" "x6ADE90" "xC0E3E8" "x3B5D81" "xBABBFC" "xB895FC" "xB6DDFC" }
 		}
 		add_homeland = cu:wildlander
@@ -1647,6 +1756,7 @@ STATES = {
 	s:STATE_W01_360 = {
 		create_state = {
 			country = c:QAN
+			state_type = unincorporated
 			owned_provinces = { "x6BCBAF" "x62607D" "xC183B5" "xB761BA" "x504FCF" "xBEF0FC" "xA641AB" }
 		}
 		add_homeland = cu:wildlander
@@ -1654,6 +1764,7 @@ STATES = {
 	s:STATE_W01_60 = {
 		create_state = {
 			country = c:QAO
+			state_type = unincorporated
 			owned_provinces = { "xBDD0BE" "x7C6373" "xC84D82" "xCEDAF5" "xB5DADF" "x77FC98" }
 		}
 		add_homeland = cu:wildlander
@@ -1661,6 +1772,7 @@ STATES = {
 	s:STATE_W01_77 = {
 		create_state = {
 			country = c:QAO
+			state_type = unincorporated
 			owned_provinces = { "x57ED78" "x38A3DA" "xD25BDC" "x246AAF" "xC4B7C7" "x8EC5B0" }
 		}
 		add_homeland = cu:wildlander
@@ -1668,6 +1780,7 @@ STATES = {
 	s:STATE_W01_135 = {
 		create_state = {
 			country = c:QAO
+			state_type = unincorporated
 			owned_provinces = { "x809EAD" "xCCC9ED" "x9756FC" "x6787AD" "xC18C88" "x45E571" "xB2C29D" }
 		}
 		add_homeland = cu:wildlander
@@ -1675,6 +1788,7 @@ STATES = {
 	s:STATE_W01_213 = {
 		create_state = {
 			country = c:QAO
+			state_type = unincorporated
 			owned_provinces = { "x6C59FC" "x7744BB" "x8D4D6B" "x5B79DD" "x65B268" "x5F7492" }
 		}
 		add_homeland = cu:wildlander
@@ -1682,6 +1796,7 @@ STATES = {
 	s:STATE_W01_244 = {
 		create_state = {
 			country = c:QAO
+			state_type = unincorporated
 			owned_provinces = { "x83DF6A" "xBCC1F1" "x78ABD5" "x778477" "xA26FF8" }
 		}
 		add_homeland = cu:wildlander
@@ -1689,6 +1804,7 @@ STATES = {
 	s:STATE_W01_361 = {
 		create_state = {
 			country = c:QAO
+			state_type = unincorporated
 			owned_provinces = { "xA6F3BC" "x82AEE7" "x4BF7D3" "xA8A869" "xDE72FC" "xDCCAD7" }
 		}
 		add_homeland = cu:wildlander
@@ -1696,6 +1812,7 @@ STATES = {
 	s:STATE_W01_400 = {
 		create_state = {
 			country = c:QAO
+			state_type = unincorporated
 			owned_provinces = { "xD972E7" "xAE49FC" "x41D2FC" "x80D1C9" "x3B41AB" "xB5F4C2" "xC99361" }
 		}
 		add_homeland = cu:wildlander
@@ -1703,6 +1820,7 @@ STATES = {
 	s:STATE_W01_115 = {
 		create_state = {
 			country = c:QAP
+			state_type = unincorporated
 			owned_provinces = { "x7D499C" "xB946D4" }
 		}
 		add_homeland = cu:wildlander
@@ -1710,6 +1828,7 @@ STATES = {
 	s:STATE_W01_164 = {
 		create_state = {
 			country = c:QAP
+			state_type = unincorporated
 			owned_provinces = { "x73CEE3" "xB0A798" "x31B4DF" "xA851CA" "x9ED4C7" "x9B50DC" }
 		}
 		add_homeland = cu:wildlander
@@ -1717,6 +1836,7 @@ STATES = {
 	s:STATE_W01_231 = {
 		create_state = {
 			country = c:QAP
+			state_type = unincorporated
 			owned_provinces = { "x7CFCFC" "xB0BECA" "x79B8A5" "xA25D94" "x2B84DA" }
 		}
 		add_homeland = cu:wildlander
@@ -1724,6 +1844,7 @@ STATES = {
 	s:STATE_W01_245 = {
 		create_state = {
 			country = c:QAP
+			state_type = unincorporated
 			owned_provinces = { "x53D769" "x7C4CCE" "x364BFC" "xC47EFC" "xCBE9CE" }
 		}
 		add_homeland = cu:wildlander
@@ -1731,6 +1852,7 @@ STATES = {
 	s:STATE_W01_317 = {
 		create_state = {
 			country = c:QAP
+			state_type = unincorporated
 			owned_provinces = { "xBCE478" "x2E9CE5" "xC584C6" "x7668FC" "x56C382" "x53F0CE" "xDC9A74" }
 		}
 		add_homeland = cu:wildlander
@@ -1738,6 +1860,7 @@ STATES = {
 	s:STATE_W04 = {
 		create_state = {
 			country = c:QAP
+			state_type = unincorporated
 			owned_provinces = { "xB73395" "x834071" "xFC05B8" "x988B63" "xB324A8" }
 		}
 		add_homeland = cu:wildlander
@@ -1745,6 +1868,7 @@ STATES = {
 	s:STATE_W06 = {
 		create_state = {
 			country = c:QAP
+			state_type = unincorporated
 			owned_provinces = { "x552D37" "x6D6796" "x654C96" }
 		}
 		add_homeland = cu:wildlander
@@ -1752,6 +1876,7 @@ STATES = {
 	s:STATE_W01_116 = {
 		create_state = {
 			country = c:QAQ
+			state_type = unincorporated
 			owned_provinces = { "xB057D6" "x5573D6" "x714C7C" "xA0F36A" "xB164CB" "x3BB260" }
 		}
 		add_homeland = cu:wildlander
@@ -1759,6 +1884,7 @@ STATES = {
 	s:STATE_W01_154 = {
 		create_state = {
 			country = c:QAQ
+			state_type = unincorporated
 			owned_provinces = { "xBFAC84" "x6E6A67" "xC4C4BB" "x7FB7FC" "x51E5F0" "x81EAC1" "xAD7CD6" }
 		}
 		add_homeland = cu:wildlander
@@ -1766,6 +1892,7 @@ STATES = {
 	s:STATE_W01_198 = {
 		create_state = {
 			country = c:QAQ
+			state_type = unincorporated
 			owned_provinces = { "x7982AF" "x32E0F9" "x255896" "x95B583" "x39AB98" "xB877AE" "xC8D8FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1773,6 +1900,7 @@ STATES = {
 	s:STATE_W01_246 = {
 		create_state = {
 			country = c:QAQ
+			state_type = unincorporated
 			owned_provinces = { "x896268" "x4B62EC" "x236388" "xBAB48C" "x739CE4" "x7146D7" }
 		}
 		add_homeland = cu:wildlander
@@ -1780,6 +1908,7 @@ STATES = {
 	s:STATE_W01_270 = {
 		create_state = {
 			country = c:QAQ
+			state_type = unincorporated
 			owned_provinces = { "x4F65D3" "x5288FC" "x3D9AE9" "xC985E1" "x8A96EA" "x946DA0" "x4A9FA9" }
 		}
 		add_homeland = cu:wildlander
@@ -1787,6 +1916,7 @@ STATES = {
 	s:STATE_W01_291 = {
 		create_state = {
 			country = c:QAQ
+			state_type = unincorporated
 			owned_provinces = { "xCFD0BA" "xC75FFC" "x3C56AE" "x5AABD2" "xCB529B" "x734BBA" }
 		}
 		add_homeland = cu:wildlander
@@ -1794,6 +1924,7 @@ STATES = {
 	s:STATE_W01_370 = {
 		create_state = {
 			country = c:QAQ
+			state_type = unincorporated
 			owned_provinces = { "x50A8D6" "x4B68ED" "x947F90" "x9A6D90" "x404EFC" "x8FDA72" }
 		}
 		add_homeland = cu:wildlander
@@ -1801,6 +1932,7 @@ STATES = {
 	s:STATE_W01_120 = {
 		create_state = {
 			country = c:QAR
+			state_type = unincorporated
 			owned_provinces = { "x35E36A" "x39BFFA" "x738BF1" "x59EFFC" "xCE7563" "xD0C3D1" }
 		}
 		add_homeland = cu:wildlander
@@ -1808,6 +1940,7 @@ STATES = {
 	s:STATE_W01_138 = {
 		create_state = {
 			country = c:QAR
+			state_type = unincorporated
 			owned_provinces = { "xBD6D79" "xC6B4CC" "x2DECFC" "x64E5AB" "xDC6BB0" }
 		}
 		add_homeland = cu:wildlander
@@ -1815,6 +1948,7 @@ STATES = {
 	s:STATE_W01_211 = {
 		create_state = {
 			country = c:QAR
+			state_type = unincorporated
 			owned_provinces = { "xBEE9EF" "xB2F9FA" "x6D786F" "x46BDCB" }
 		}
 		add_homeland = cu:wildlander
@@ -1822,6 +1956,7 @@ STATES = {
 	s:STATE_W01_228 = {
 		create_state = {
 			country = c:QAR
+			state_type = unincorporated
 			owned_provinces = { "x7ACBC1" "x8A69FC" "x9E8DA5" "x68D0FC" "x5FF7B3" }
 		}
 		add_homeland = cu:wildlander
@@ -1829,6 +1964,7 @@ STATES = {
 	s:STATE_W01_316 = {
 		create_state = {
 			country = c:QAR
+			state_type = unincorporated
 			owned_provinces = { "x2D666A" "x855D6F" "xCBC0FC" "x9DE4EA" "x584B87" "x42F0E9" }
 		}
 		add_homeland = cu:wildlander
@@ -1836,6 +1972,7 @@ STATES = {
 	s:STATE_W01_331 = {
 		create_state = {
 			country = c:QAR
+			state_type = unincorporated
 			owned_provinces = { "xD8CD9F" "x866ACB" "xDB456D" "x73D8C0" "xD9837F" "xE09D93" }
 		}
 		add_homeland = cu:wildlander
@@ -1843,6 +1980,7 @@ STATES = {
 	s:STATE_W01_385 = {
 		create_state = {
 			country = c:QAR
+			state_type = unincorporated
 			owned_provinces = { "x265DD8" "x95C783" "x8EA286" "xC0C5A4" "x8BC7FC" "x869E83" }
 		}
 		add_homeland = cu:wildlander
@@ -1850,6 +1988,7 @@ STATES = {
 	s:STATE_W01_03 = {
 		create_state = {
 			country = c:QAS
+			state_type = unincorporated
 			owned_provinces = { "x84D18C" "x424167" "x4DC29C" "x75BFCF" "x3C77FC" "x289AFC" }
 		}
 		add_homeland = cu:wildlander
@@ -1857,6 +1996,7 @@ STATES = {
 	s:STATE_W01_181 = {
 		create_state = {
 			country = c:QAS
+			state_type = unincorporated
 			owned_provinces = { "x2F48FC" "x82EE8A" "x4EB5E7" "x51C0FC" "xBA5ABF" "x5EDDD6" "x398E7C" "xD5A0FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1864,6 +2004,7 @@ STATES = {
 	s:STATE_W01_234 = {
 		create_state = {
 			country = c:QAS
+			state_type = unincorporated
 			owned_provinces = { "x96BBC0" "x588CD7" "xDE8F93" "x84DFA7" "x80A8E0" "xB1D56B" }
 		}
 		add_homeland = cu:wildlander
@@ -1871,6 +2012,7 @@ STATES = {
 	s:STATE_W01_236 = {
 		create_state = {
 			country = c:QAS
+			state_type = unincorporated
 			owned_provinces = { "x89EECB" "x94B0FC" "xB6DABB" "x27C6D0" "xD0A47D" "xD865DA" "x9A7FFC" }
 		}
 		add_homeland = cu:wildlander
@@ -1878,6 +2020,7 @@ STATES = {
 	s:STATE_W01_309 = {
 		create_state = {
 			country = c:QAS
+			state_type = unincorporated
 			owned_provinces = { "x8D9B82" "x3462BD" "x71A3F6" "x9046A6" "xC467E7" "xB17DFC" }
 		}
 		add_homeland = cu:wildlander
@@ -1885,6 +2028,7 @@ STATES = {
 	s:STATE_W01_382 = {
 		create_state = {
 			country = c:QAS
+			state_type = unincorporated
 			owned_provinces = { "x76448E" "xC845A7" "x594AF1" "xC062AA" "xB07DDE" "xBD756F" "x318F9F" "x5DFCFC" }
 		}
 		add_homeland = cu:wildlander
@@ -1892,6 +2036,7 @@ STATES = {
 	s:STATE_W01_06 = {
 		create_state = {
 			country = c:QAT
+			state_type = unincorporated
 			owned_provinces = { "xDEDDC7" "xB3D7FC" "x7587D3" "x6B5160" "x50D981" "x9A78EC" }
 		}
 		add_homeland = cu:wildlander
@@ -1899,6 +2044,7 @@ STATES = {
 	s:STATE_W01_23 = {
 		create_state = {
 			country = c:QAT
+			state_type = unincorporated
 			owned_provinces = { "x88AEFC" "x93A9D3" "x854360" "xDA94A7" "x2EEDE3" }
 		}
 		add_homeland = cu:wildlander
@@ -1906,6 +2052,7 @@ STATES = {
 	s:STATE_W01_61 = {
 		create_state = {
 			country = c:QAT
+			state_type = unincorporated
 			owned_provinces = { "x634BC7" "xD56C6A" "x76C3FC" "xC0C1ED" "x354FA5" "x77C7C2" }
 		}
 		add_homeland = cu:wildlander
@@ -1913,6 +2060,7 @@ STATES = {
 	s:STATE_W01_303 = {
 		create_state = {
 			country = c:QAT
+			state_type = unincorporated
 			owned_provinces = { "x6AEFF4" "x249CFC" "x3C64FC" "xB6C7F5" "x91BBBF" "xA6ECF2" }
 		}
 		add_homeland = cu:wildlander
@@ -1920,6 +2068,7 @@ STATES = {
 	s:STATE_W01_320 = {
 		create_state = {
 			country = c:QAT
+			state_type = unincorporated
 			owned_provinces = { "xE0E488" "x92A973" "x675064" "x8398C6" "x47DDFC" "xDE6965" }
 		}
 		add_homeland = cu:wildlander
@@ -1927,6 +2076,7 @@ STATES = {
 	s:STATE_W01_380 = {
 		create_state = {
 			country = c:QAT
+			state_type = unincorporated
 			owned_provinces = { "x9FE2BD" "xA86BEC" "x79C1FC" "x484D82" "x44C6E3" }
 		}
 		add_homeland = cu:wildlander
@@ -1934,6 +2084,7 @@ STATES = {
 	s:STATE_W01_10 = {
 		create_state = {
 			country = c:QAU
+			state_type = unincorporated
 			owned_provinces = { "xCF5AA2" "xC2946D" "x4D70E3" "x87D3FC" "x9486FC" "x6865FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1941,6 +2092,7 @@ STATES = {
 	s:STATE_W01_139 = {
 		create_state = {
 			country = c:QAU
+			state_type = unincorporated
 			owned_provinces = { "xA3F983" "x4164F4" "x4474A0" "x3BAD8D" "xCDAF94" "xDBBFEC" "xA57E76" }
 		}
 		add_homeland = cu:wildlander
@@ -1948,6 +2100,7 @@ STATES = {
 	s:STATE_W01_152 = {
 		create_state = {
 			country = c:QAU
+			state_type = unincorporated
 			owned_provinces = { "xC581C3" "xADF286" "x759090" "x4FBAFC" "x836EFC" "x309BC3" "x9B82BF" }
 		}
 		add_homeland = cu:wildlander
@@ -1955,6 +2108,7 @@ STATES = {
 	s:STATE_W01_334 = {
 		create_state = {
 			country = c:QAU
+			state_type = unincorporated
 			owned_provinces = { "x69B573" "xCD9EA7" "xB4C2CE" "xB3DECF" "x5797B8" "x2761BF" "xCDA4CD" "x40F8FC" }
 		}
 		add_homeland = cu:wildlander
@@ -1962,6 +2116,7 @@ STATES = {
 	s:STATE_W01_358 = {
 		create_state = {
 			country = c:QAU
+			state_type = unincorporated
 			owned_provinces = { "x4860C2" "x736995" "xA664FC" "x2EC18A" "x968AB3" "x8A9E80" "x54C2BF" }
 		}
 		add_homeland = cu:wildlander
@@ -1969,6 +2124,7 @@ STATES = {
 	s:STATE_W01_396 = {
 		create_state = {
 			country = c:QAU
+			state_type = unincorporated
 			owned_provinces = { "x48A4DF" "xAC8188" "x6DBBA7" "xB052F3" "xCA80EC" "x6E786E" "x98FC78" }
 		}
 		add_homeland = cu:wildlander
@@ -1976,6 +2132,7 @@ STATES = {
 	s:STATE_W01_12 = {
 		create_state = {
 			country = c:QAV
+			state_type = unincorporated
 			owned_provinces = { "x83908A" "x7BC16B" "x4DF4F7" "x804A6C" "x4D42A4" "x2FC6A7" }
 		}
 		add_homeland = cu:wildlander
@@ -1983,6 +2140,7 @@ STATES = {
 	s:STATE_W01_128 = {
 		create_state = {
 			country = c:QAV
+			state_type = unincorporated
 			owned_provinces = { "xC56BCF" "xC898FC" "x60BDCE" "x25B9FC" "x7DC598" "x358AEC" "x9197FC" "x37C6E9" }
 		}
 		add_homeland = cu:wildlander
@@ -1990,6 +2148,7 @@ STATES = {
 	s:STATE_W01_167 = {
 		create_state = {
 			country = c:QAV
+			state_type = unincorporated
 			owned_provinces = { "x6DECA7" "x658AA3" "xAD63F0" "x79BCFC" "x7252D9" "x63B19E" "x8C6CCA" }
 		}
 		add_homeland = cu:wildlander
@@ -1997,6 +2156,7 @@ STATES = {
 	s:STATE_W01_189 = {
 		create_state = {
 			country = c:QAV
+			state_type = unincorporated
 			owned_provinces = { "x47A4FC" "x69ACC6" "x2A4EFC" "x8C5E83" "x2F87CC" "x90D5C9" }
 		}
 		add_homeland = cu:wildlander
@@ -2004,6 +2164,7 @@ STATES = {
 	s:STATE_W01_345 = {
 		create_state = {
 			country = c:QAV
+			state_type = unincorporated
 			owned_provinces = { "xA2D5FB" "x44B0A0" "x98BCA3" "x5BE969" "x614888" "x50659B" "x7AB698" "xA3ABCD" }
 		}
 		add_homeland = cu:wildlander
@@ -2011,6 +2172,7 @@ STATES = {
 	s:STATE_W01_368 = {
 		create_state = {
 			country = c:QAV
+			state_type = unincorporated
 			owned_provinces = { "xA35E9A" "xCD57DC" "x59E568" "xDBDAF9" "x896DFC" "x60ED7E" "xA9B9A9" }
 		}
 		add_homeland = cu:wildlander
@@ -2018,6 +2180,7 @@ STATES = {
 	s:STATE_W01_15 = {
 		create_state = {
 			country = c:QAW
+			state_type = unincorporated
 			owned_provinces = { "x5D86C1" "x697593" "x8641FC" "x9FDBD4" "x4FE0FC" "x38EA99" }
 		}
 		add_homeland = cu:wildlander
@@ -2025,6 +2188,7 @@ STATES = {
 	s:STATE_W01_151 = {
 		create_state = {
 			country = c:QAW
+			state_type = unincorporated
 			owned_provinces = { "x8F6CBE" "x28BFB6" "x62C689" "xBCABB1" "xA6D5C5" }
 		}
 		add_homeland = cu:wildlander
@@ -2032,6 +2196,7 @@ STATES = {
 	s:STATE_W01_296 = {
 		create_state = {
 			country = c:QAW
+			state_type = unincorporated
 			owned_provinces = { "x97F8DC" "x7E75CB" "x8DCDF2" "xC69AF0" "x4FD2AE" }
 		}
 		add_homeland = cu:wildlander
@@ -2039,6 +2204,7 @@ STATES = {
 	s:STATE_W01_318 = {
 		create_state = {
 			country = c:QAW
+			state_type = unincorporated
 			owned_provinces = { "x6DBAE6" "x3CE87F" "xA151BF" "xAD727D" "x6FA9D2" }
 		}
 		add_homeland = cu:wildlander
@@ -2046,6 +2212,7 @@ STATES = {
 	s:STATE_W01_326 = {
 		create_state = {
 			country = c:QAW
+			state_type = unincorporated
 			owned_provinces = { "x5CBCFC" "x5E6D79" "x3F4780" "x7A90FC" "x2A9F9E" }
 		}
 		add_homeland = cu:wildlander
@@ -2053,6 +2220,7 @@ STATES = {
 	s:STATE_W01_344 = {
 		create_state = {
 			country = c:QAW
+			state_type = unincorporated
 			owned_provinces = { "xD9CCF7" "xBAFC83" "x9F4885" "x61DBFC" "xC644FC" "x5F51C7" }
 		}
 		add_homeland = cu:wildlander
@@ -2060,6 +2228,7 @@ STATES = {
 	s:STATE_W01_16 = {
 		create_state = {
 			country = c:QAX
+			state_type = unincorporated
 			owned_provinces = { "x7FD873" "x89439C" "x32C765" "xBCB47D" "xA3FCE8" "x4362AD" "xD2E4BD" }
 		}
 		add_homeland = cu:wildlander
@@ -2067,6 +2236,7 @@ STATES = {
 	s:STATE_W01_39 = {
 		create_state = {
 			country = c:QAX
+			state_type = unincorporated
 			owned_provinces = { "x4BCAD9" "x7391D8" "x9F84FC" "xB2C9B0" "x5FD5CB" "x74427A" "xDD50C4" "x62DBCC" }
 		}
 		add_homeland = cu:wildlander
@@ -2074,6 +2244,7 @@ STATES = {
 	s:STATE_W01_104 = {
 		create_state = {
 			country = c:QAX
+			state_type = unincorporated
 			owned_provinces = { "x8AF8DB" "xBC90FC" "x42E7C5" "x5C7B81" "xCE8470" "x7D8B81" "xD7A5A0" }
 		}
 		add_homeland = cu:wildlander
@@ -2081,6 +2252,7 @@ STATES = {
 	s:STATE_W01_267 = {
 		create_state = {
 			country = c:QAX
+			state_type = unincorporated
 			owned_provinces = { "x8E957C" "xBEE0FC" "xAA7DC8" "x9F81FC" "x328D95" "xDF94CE" "x2552A7" }
 		}
 		add_homeland = cu:wildlander
@@ -2088,6 +2260,7 @@ STATES = {
 	s:STATE_W01_377 = {
 		create_state = {
 			country = c:QAX
+			state_type = unincorporated
 			owned_provinces = { "xA26FA8" "x64D4CE" "xAF6CD0" "xDFA6FC" "x949BFC" "xDF45F6" "x50A96F" "x65ADB6" }
 		}
 		add_homeland = cu:wildlander
@@ -2095,6 +2268,7 @@ STATES = {
 	s:STATE_W01_383 = {
 		create_state = {
 			country = c:QAX
+			state_type = unincorporated
 			owned_provinces = { "x80B7AA" "xB97CC2" "x9CEC6D" "x8686C0" "xC4AC72" "x4C86FC" "xAC7767" }
 		}
 		add_homeland = cu:wildlander
@@ -2102,6 +2276,7 @@ STATES = {
 	s:STATE_W01_26 = {
 		create_state = {
 			country = c:QAY
+			state_type = unincorporated
 			owned_provinces = { "x26EEE2" "xCB617B" "xC441C3" "x86CAEB" "x6AA783" "x91CF65" "x6EB187" }
 		}
 		add_homeland = cu:wildlander
@@ -2109,6 +2284,7 @@ STATES = {
 	s:STATE_W01_126 = {
 		create_state = {
 			country = c:QAY
+			state_type = unincorporated
 			owned_provinces = { "xA9689A" "xCC46A5" "x5E4487" "x3483FC" "xB4E8DD" "x307BFC" "xB5B395" "x7B49A6" }
 		}
 		add_homeland = cu:wildlander
@@ -2116,6 +2292,7 @@ STATES = {
 	s:STATE_W01_300 = {
 		create_state = {
 			country = c:QAY
+			state_type = unincorporated
 			owned_provinces = { "x2E7EFB" "x4AA5F3" "xA8D2AB" "x704265" "x408E73" "x8EFCFC" "x237DEC" "xA2E2BC" }
 		}
 		add_homeland = cu:wildlander
@@ -2123,6 +2300,7 @@ STATES = {
 	s:STATE_W01_324 = {
 		create_state = {
 			country = c:QAY
+			state_type = unincorporated
 			owned_provinces = { "x457D9F" "x2E8FBE" "xAA54F7" "x8D70DE" "x8CA7FC" "x80CECC" "x575A73" }
 		}
 		add_homeland = cu:wildlander
@@ -2130,6 +2308,7 @@ STATES = {
 	s:STATE_W01_337 = {
 		create_state = {
 			country = c:QAY
+			state_type = unincorporated
 			owned_provinces = { "x6A4F6A" "xB381C0" "xA9E2FC" "xA75CBA" "x52A86F" "xDF9EFC" "x7AE9B9" }
 		}
 		add_homeland = cu:wildlander
@@ -2137,6 +2316,7 @@ STATES = {
 	s:STATE_W01_355 = {
 		create_state = {
 			country = c:QAY
+			state_type = unincorporated
 			owned_provinces = { "x7CE9D5" "x87C2F8" "xB5B4C4" "x9950FC" "x697DE9" "x5199B2" "xBC6F8D" }
 		}
 		add_homeland = cu:wildlander
@@ -2144,6 +2324,7 @@ STATES = {
 	s:STATE_W01_32 = {
 		create_state = {
 			country = c:QAZ
+			state_type = unincorporated
 			owned_provinces = { "xB168B4" "xB6C6FC" "x4C9FDC" "x2B41FC" "x3C4C87" "x817ACE" }
 		}
 		add_homeland = cu:wildlander
@@ -2151,6 +2332,7 @@ STATES = {
 	s:STATE_W01_55 = {
 		create_state = {
 			country = c:QAZ
+			state_type = unincorporated
 			owned_provinces = { "x8845FC" "x69C8FC" "xAACDE4" "xC270B8" "x8B457E" "xB35265" "x90F7D6" }
 		}
 		add_homeland = cu:wildlander
@@ -2158,6 +2340,7 @@ STATES = {
 	s:STATE_W01_102 = {
 		create_state = {
 			country = c:QAZ
+			state_type = unincorporated
 			owned_provinces = { "x74968D" "x8DDFB7" "x7E8DFC" "x46EDFC" "xB588A6" "x2D44FC" }
 		}
 		add_homeland = cu:wildlander
@@ -2165,6 +2348,7 @@ STATES = {
 	s:STATE_W01_239 = {
 		create_state = {
 			country = c:QAZ
+			state_type = unincorporated
 			owned_provinces = { "x50A0B4" "x94486B" "x28ECFC" "xB38B8C" "xC1F366" "x5CC16C" }
 		}
 		add_homeland = cu:wildlander
@@ -2172,6 +2356,7 @@ STATES = {
 	s:STATE_W01_261 = {
 		create_state = {
 			country = c:QAZ
+			state_type = unincorporated
 			owned_provinces = { "x62C1D8" "x29BDE2" "x3B9FFC" "x8493FC" "x4EEAEA" "x327FD0" }
 		}
 		add_homeland = cu:wildlander
@@ -2179,6 +2364,7 @@ STATES = {
 	s:STATE_W01_285 = {
 		create_state = {
 			country = c:QAZ
+			state_type = unincorporated
 			owned_provinces = { "x8FB5FA" "xD7D6FC" "xA5F277" "xBA71FC" "xBF7AFC" "xA059B9" }
 		}
 		add_homeland = cu:wildlander
@@ -2186,6 +2372,7 @@ STATES = {
 	s:STATE_W01_48 = {
 		create_state = {
 			country = c:QBA
+			state_type = unincorporated
 			owned_provinces = { "xABD38A" "x68C0A2" "x247DA0" "xA7E4AA" "x5CB1D9" "x4EDC8A" "x624F86" }
 		}
 		add_homeland = cu:wildlander
@@ -2193,6 +2380,7 @@ STATES = {
 	s:STATE_W01_66 = {
 		create_state = {
 			country = c:QBA
+			state_type = unincorporated
 			owned_provinces = { "x54E9C4" "x39FCF4" "x6CB8CA" "xA9CEA1" "x7EFCC5" "x8099F5" "x806ED6" "xC3B2CE" }
 		}
 		add_homeland = cu:wildlander
@@ -2200,6 +2388,7 @@ STATES = {
 	s:STATE_W01_68 = {
 		create_state = {
 			country = c:QBA
+			state_type = unincorporated
 			owned_provinces = { "x5590DF" "x6CD164" "x27B3EB" "x76706A" "xC3DDBC" "x39B7FC" "x3F6BBC" }
 		}
 		add_homeland = cu:wildlander
@@ -2207,6 +2396,7 @@ STATES = {
 	s:STATE_W01_131 = {
 		create_state = {
 			country = c:QBA
+			state_type = unincorporated
 			owned_provinces = { "x50B57B" "xDEA66A" "x6F6785" "xDCB7A5" "x59F1E3" "x9064FC" "x65E2C9" }
 		}
 		add_homeland = cu:wildlander
@@ -2214,6 +2404,7 @@ STATES = {
 	s:STATE_W01_339 = {
 		create_state = {
 			country = c:QBA
+			state_type = unincorporated
 			owned_provinces = { "x8C6F70" "x41CA6C" "xC15FF3" "x839ADA" "x52C4CC" "x5DF5DB" "xB6BE66" "xC9989A" }
 		}
 		add_homeland = cu:wildlander
@@ -2221,6 +2412,7 @@ STATES = {
 	s:STATE_W01_369 = {
 		create_state = {
 			country = c:QBA
+			state_type = unincorporated
 			owned_provinces = { "x3ACBA0" "xE1807E" "xDBA268" "x4B61E1" "x8C94B8" "xA3A9C1" "x77547D" }
 		}
 		add_homeland = cu:wildlander
@@ -2228,6 +2420,7 @@ STATES = {
 	s:STATE_W01_49 = {
 		create_state = {
 			country = c:QBB
+			state_type = unincorporated
 			owned_provinces = { "x54ACFC" "x277FB2" "x3F79BC" "xBABDA7" "xE1FC7D" "xCDFAFC" }
 		}
 		add_homeland = cu:wildlander
@@ -2235,6 +2428,7 @@ STATES = {
 	s:STATE_W01_75 = {
 		create_state = {
 			country = c:QBB
+			state_type = unincorporated
 			owned_provinces = { "x7B5FFC" "x7EBE7D" "x5CF0FC" "x7CE5BA" "x5CD6C9" "x417C6D" "xAF64EA" }
 		}
 		add_homeland = cu:wildlander
@@ -2242,6 +2436,7 @@ STATES = {
 	s:STATE_W01_257 = {
 		create_state = {
 			country = c:QBB
+			state_type = unincorporated
 			owned_provinces = { "xC3E9D9" "xC583F0" "xD4EB7B" "x2E44DD" "x6E8768" "xBF89A1" }
 		}
 		add_homeland = cu:wildlander
@@ -2249,6 +2444,7 @@ STATES = {
 	s:STATE_W01_305 = {
 		create_state = {
 			country = c:QBB
+			state_type = unincorporated
 			owned_provinces = { "x254DA2" "x5CCDFC" "x44435F" "xE0B5CE" "xB8E9AD" "xD566FC" "xDBD161" }
 		}
 		add_homeland = cu:wildlander
@@ -2256,6 +2452,7 @@ STATES = {
 	s:STATE_W01_378 = {
 		create_state = {
 			country = c:QBB
+			state_type = unincorporated
 			owned_provinces = { "x2A6CA1" "xD74DDC" "xBD7088" "xCB8E8E" "x6957D8" "xB44FC5" }
 		}
 		add_homeland = cu:wildlander
@@ -2263,6 +2460,7 @@ STATES = {
 	s:STATE_W01_393 = {
 		create_state = {
 			country = c:QBB
+			state_type = unincorporated
 			owned_provinces = { "xD1D9C0" "x8899CF" "xAE8070" "xD0E3D0" "x5072EA" "xDBDC8C" "x56F9FC" }
 		}
 		add_homeland = cu:wildlander
@@ -2270,6 +2468,7 @@ STATES = {
 	s:STATE_W01_57 = {
 		create_state = {
 			country = c:QBC
+			state_type = unincorporated
 			owned_provinces = { "x5BB1E3" "x5D99A4" "xDCAF90" "xD1A1FC" "xD4D4D3" "x44F3DF" "xA8E9C9" }
 		}
 		add_homeland = cu:wildlander
@@ -2277,6 +2476,7 @@ STATES = {
 	s:STATE_W01_158 = {
 		create_state = {
 			country = c:QBC
+			state_type = unincorporated
 			owned_provinces = { "xD674FC" "x90F09F" "x6154FC" "xCFE293" "x27EA9C" "x914C87" "x835991" }
 		}
 		add_homeland = cu:wildlander
@@ -2284,6 +2484,7 @@ STATES = {
 	s:STATE_W01_268 = {
 		create_state = {
 			country = c:QBC
+			state_type = unincorporated
 			owned_provinces = { "xB250A0" "x3BC0EC" "xDFD89B" "x2782C7" "x3AF699" "x7D52CF" "x5FFC92" "x4E6587" }
 		}
 		add_homeland = cu:wildlander
@@ -2291,6 +2492,7 @@ STATES = {
 	s:STATE_W01_336 = {
 		create_state = {
 			country = c:QBC
+			state_type = unincorporated
 			owned_provinces = { "xA3D8C8" "xACF1FC" "x5C987A" "x8FCCEC" "x9AABFC" "x31F072" "xA64F90" "x3745A3" }
 		}
 		add_homeland = cu:wildlander
@@ -2298,6 +2500,7 @@ STATES = {
 	s:STATE_W01_359 = {
 		create_state = {
 			country = c:QBC
+			state_type = unincorporated
 			owned_provinces = { "x2897D9" "xAE6BCF" "x7FA1A0" "x5869FC" "x4FD6C8" "x8BDEFC" "x49D2FC" "xADFCFC" }
 		}
 		add_homeland = cu:wildlander
@@ -2305,6 +2508,7 @@ STATES = {
 	s:STATE_W01_376 = {
 		create_state = {
 			country = c:QBC
+			state_type = unincorporated
 			owned_provinces = { "x7BD06F" "xDFD0FC" "xA6B984" "xB49DFC" "x5B43FC" "xC44AE4" }
 		}
 		add_homeland = cu:wildlander
@@ -2312,6 +2516,7 @@ STATES = {
 	s:STATE_W01_67 = {
 		create_state = {
 			country = c:QBD
+			state_type = unincorporated
 			owned_provinces = { "x89FCEB" "xDA63FC" "x2778F9" "xD29BE5" "x3EF190" "x905FB7" "x6846B3" }
 		}
 		add_homeland = cu:wildlander
@@ -2319,6 +2524,7 @@ STATES = {
 	s:STATE_W01_87 = {
 		create_state = {
 			country = c:QBD
+			state_type = unincorporated
 			owned_provinces = { "x4572F0" "x31A8B1" "x9388CA" "x58C7DB" "x6EC8FC" "xC748EC" "xB79A8A" "xB94CFC" }
 		}
 		add_homeland = cu:wildlander
@@ -2326,6 +2532,7 @@ STATES = {
 	s:STATE_W01_149 = {
 		create_state = {
 			country = c:QBD
+			state_type = unincorporated
 			owned_provinces = { "xA3A8DD" "xB466B1" "x328284" "x8597ED" "xB656F7" "xD4F0E4" "x80CC82" "x39AAFC" }
 		}
 		add_homeland = cu:wildlander
@@ -2333,6 +2540,7 @@ STATES = {
 	s:STATE_W01_284 = {
 		create_state = {
 			country = c:QBD
+			state_type = unincorporated
 			owned_provinces = { "xA1E0F1" "x537EF1" "xC4A97D" "x87D8B1" "x97E39F" "x6CE8E8" }
 		}
 		add_homeland = cu:wildlander
@@ -2340,6 +2548,7 @@ STATES = {
 	s:STATE_W01_312 = {
 		create_state = {
 			country = c:QBD
+			state_type = unincorporated
 			owned_provinces = { "xB26BB7" "x9EEDFC" "xCFCEFC" "xD0EBFC" "xCC44C9" "x54B8B7" }
 		}
 		add_homeland = cu:wildlander
@@ -2347,6 +2556,7 @@ STATES = {
 	s:STATE_W01_381 = {
 		create_state = {
 			country = c:QBD
+			state_type = unincorporated
 			owned_provinces = { "x5F7C7E" "x2351F5" "x66E2EE" "x549C8E" "x9375FC" "xC08E8D" "x745A77" }
 		}
 		add_homeland = cu:wildlander
@@ -2354,6 +2564,7 @@ STATES = {
 	s:STATE_W01_72 = {
 		create_state = {
 			country = c:QBE
+			state_type = unincorporated
 			owned_provinces = { "x309CB1" "xB075D0" "x5492B1" "x4AC0EA" "x977FC7" "x4AE5E6" }
 		}
 		add_homeland = cu:wildlander
@@ -2361,6 +2572,7 @@ STATES = {
 	s:STATE_W01_81 = {
 		create_state = {
 			country = c:QBE
+			state_type = unincorporated
 			owned_provinces = { "x75DEC2" "x537C6F" "xCCD8F5" "x8CAEB9" "x67B6FC" "x5477ED" }
 		}
 		add_homeland = cu:wildlander
@@ -2368,6 +2580,7 @@ STATES = {
 	s:STATE_W01_195 = {
 		create_state = {
 			country = c:QBE
+			state_type = unincorporated
 			owned_provinces = { "x97DEA0" "x716DE6" "x6086A1" "x457FC5" "xAAF66C" }
 		}
 		add_homeland = cu:wildlander
@@ -2375,6 +2588,7 @@ STATES = {
 	s:STATE_W01_225 = {
 		create_state = {
 			country = c:QBE
+			state_type = unincorporated
 			owned_provinces = { "x8D48F7" "x72D5B1" "x765690" "x64B897" "x914C6C" }
 		}
 		add_homeland = cu:wildlander
@@ -2382,6 +2596,7 @@ STATES = {
 	s:STATE_W01_327 = {
 		create_state = {
 			country = c:QBE
+			state_type = unincorporated
 			owned_provinces = { "x5897C4" "x714996" "xA4E3A9" "xABA5A3" "x35FCF3" "xC985E9" "x9CD3FC" }
 		}
 		add_homeland = cu:wildlander
@@ -2389,6 +2604,7 @@ STATES = {
 	s:STATE_W01_362 = {
 		create_state = {
 			country = c:QBE
+			state_type = unincorporated
 			owned_provinces = { "x8D72D2" "x9C57B4" "x87F26C" "x924DFC" "x9FE3C3" "xBFF488" }
 		}
 		add_homeland = cu:wildlander
@@ -2396,6 +2612,7 @@ STATES = {
 	s:STATE_W01_85 = {
 		create_state = {
 			country = c:QBF
+			state_type = unincorporated
 			owned_provinces = { "xA599A3" "x7E7265" "x63EECC" "xB66DFC" "x8681A1" }
 		}
 		add_homeland = cu:wildlander
@@ -2403,6 +2620,7 @@ STATES = {
 	s:STATE_W01_97 = {
 		create_state = {
 			country = c:QBF
+			state_type = unincorporated
 			owned_provinces = { "xB3D86F" "xCF4CC5" "x4771F6" "x2F7B93" "x87F29E" }
 		}
 		add_homeland = cu:wildlander
@@ -2410,6 +2628,7 @@ STATES = {
 	s:STATE_W01_237 = {
 		create_state = {
 			country = c:QBF
+			state_type = unincorporated
 			owned_provinces = { "x5DABDC" "xD1F6FC" "x8D8AFC" "x40D0EC" "x627CFC" "x7498FC" }
 		}
 		add_homeland = cu:wildlander
@@ -2417,6 +2636,7 @@ STATES = {
 	s:STATE_W01_266 = {
 		create_state = {
 			country = c:QBF
+			state_type = unincorporated
 			owned_provinces = { "x389871" "x7981F9" "xBE43C9" "xBE5C8D" "x5DB8E1" "x5EB967" }
 		}
 		add_homeland = cu:wildlander
@@ -2424,6 +2644,7 @@ STATES = {
 	s:STATE_W01_328 = {
 		create_state = {
 			country = c:QBF
+			state_type = unincorporated
 			owned_provinces = { "x5494CC" "xBFA7BB" "x525765" "x908BFC" "x23F891" "x617A70" }
 		}
 		add_homeland = cu:wildlander
@@ -2431,6 +2652,7 @@ STATES = {
 	s:STATE_W01_399 = {
 		create_state = {
 			country = c:QBF
+			state_type = unincorporated
 			owned_provinces = { "x71CCC9" "x85ADD7" "x2A7283" "x634A7B" "x8D4AD6" "xC54293" }
 		}
 		add_homeland = cu:wildlander
@@ -2438,6 +2660,7 @@ STATES = {
 	s:STATE_W01_93 = {
 		create_state = {
 			country = c:QBG
+			state_type = unincorporated
 			owned_provinces = { "xB4B8BF" "x716CFC" "x516EAB" "x705E8A" "x83A5FC" "x7FEFFC" "xAF7BAD" }
 		}
 		add_homeland = cu:wildlander
@@ -2445,6 +2668,7 @@ STATES = {
 	s:STATE_W01_107 = {
 		create_state = {
 			country = c:QBG
+			state_type = unincorporated
 			owned_provinces = { "x424EFC" "x7FD89E" "xDC58A7" "x6EC6CA" "x53B7FC" "x2DE4EA" }
 		}
 		add_homeland = cu:wildlander
@@ -2452,6 +2676,7 @@ STATES = {
 	s:STATE_W01_208 = {
 		create_state = {
 			country = c:QBG
+			state_type = unincorporated
 			owned_provinces = { "x8784BD" "xA55ABB" "x3C5AFC" "x82E7E5" "xA59BFC" }
 		}
 		add_homeland = cu:wildlander
@@ -2459,6 +2684,7 @@ STATES = {
 	s:STATE_W01_247 = {
 		create_state = {
 			country = c:QBG
+			state_type = unincorporated
 			owned_provinces = { "x558596" "x5FE9F5" "x578B93" "x9673B1" "x74F7FC" "x249CEB" }
 		}
 		add_homeland = cu:wildlander
@@ -2466,6 +2692,7 @@ STATES = {
 	s:STATE_W01_311 = {
 		create_state = {
 			country = c:QBG
+			state_type = unincorporated
 			owned_provinces = { "x918AFC" "xC8BBD0" "x2CE8B5" "xDA7780" "x9492B9" "x64D2C3" }
 		}
 		add_homeland = cu:wildlander
@@ -2473,6 +2700,7 @@ STATES = {
 	s:STATE_W01_325 = {
 		create_state = {
 			country = c:QBG
+			state_type = unincorporated
 			owned_provinces = { "x40C18A" "xC58861" "x38CDB2" "xC7A3AA" "xC04998" "x387C7E" "x4AD093" }
 		}
 		add_homeland = cu:wildlander
@@ -2480,6 +2708,7 @@ STATES = {
 	s:STATE_W01_99 = {
 		create_state = {
 			country = c:QBH
+			state_type = unincorporated
 			owned_provinces = { "x78AFC0" "x249F84" "x6244AC" "x5A94D1" "xB080EE" "xBE885F" "xB1D798" }
 		}
 		add_homeland = cu:wildlander
@@ -2487,6 +2716,7 @@ STATES = {
 	s:STATE_W01_108 = {
 		create_state = {
 			country = c:QBH
+			state_type = unincorporated
 			owned_provinces = { "x99CCFC" "xD9478F" "x539FB6" "x4642EF" "xCCEDBD" "x7C8DFC" "x5D96AA" "xCFA2FC" }
 		}
 		add_homeland = cu:wildlander
@@ -2494,6 +2724,7 @@ STATES = {
 	s:STATE_W01_203 = {
 		create_state = {
 			country = c:QBH
+			state_type = unincorporated
 			owned_provinces = { "xB4CD85" "x839CC3" "xB28DFC" "x8CE17F" "x4379E5" "x97E88A" "x2E4FAC" }
 		}
 		add_homeland = cu:wildlander
@@ -2501,6 +2732,7 @@ STATES = {
 	s:STATE_W01_288 = {
 		create_state = {
 			country = c:QBH
+			state_type = unincorporated
 			owned_provinces = { "xB1FC91" "xB8ACDB" "x805CFC" "x329D6D" "x9A51FC" "x26DB62" "x3ED17A" }
 		}
 		add_homeland = cu:wildlander
@@ -2508,6 +2740,7 @@ STATES = {
 	s:STATE_W01_290 = {
 		create_state = {
 			country = c:QBH
+			state_type = unincorporated
 			owned_provinces = { "x585E63" "x36FC95" "x23F293" "x5FBDCD" "x7FE0D1" "xAC9C8B" "x62D3B7" }
 		}
 		add_homeland = cu:wildlander
@@ -2515,6 +2748,7 @@ STATES = {
 	s:STATE_W01_292 = {
 		create_state = {
 			country = c:QBH
+			state_type = unincorporated
 			owned_provinces = { "xD5A4EC" "xDC69FC" "x9A418E" "x5186C8" "x8EFB80" "xD48E70" "xD0EEAE" "x83C0FC" }
 		}
 		add_homeland = cu:wildlander
@@ -2522,6 +2756,7 @@ STATES = {
 	s:STATE_W01_137 = {
 		create_state = {
 			country = c:QBI
+			state_type = unincorporated
 			owned_provinces = { "x555AF9" "x77E9E9" "x4B6FA7" "x964969" "x8C937B" "x9C87A2" "x6073F8" }
 		}
 		add_homeland = cu:wildlander
@@ -2529,6 +2764,7 @@ STATES = {
 	s:STATE_W01_160 = {
 		create_state = {
 			country = c:QBI
+			state_type = unincorporated
 			owned_provinces = { "x5AA870" "xD96E8F" "x23ADFC" "xC4DC9E" "xA6E281" "x63B196" }
 		}
 		add_homeland = cu:wildlander
@@ -2536,6 +2772,7 @@ STATES = {
 	s:STATE_W01_215 = {
 		create_state = {
 			country = c:QBI
+			state_type = unincorporated
 			owned_provinces = { "xD24DE2" "xAAE8FC" "xABDEF3" "x717171" "x6587FC" }
 		}
 		add_homeland = cu:wildlander
@@ -2543,6 +2780,7 @@ STATES = {
 	s:STATE_W01_295 = {
 		create_state = {
 			country = c:QBI
+			state_type = unincorporated
 			owned_provinces = { "xD16FAC" "xB6D3FC" "xB2C7B1" "x6EBD73" "x81BFFA" "x499C8B" }
 		}
 		add_homeland = cu:wildlander
@@ -2550,6 +2788,7 @@ STATES = {
 	s:STATE_W01_366 = {
 		create_state = {
 			country = c:QBI
+			state_type = unincorporated
 			owned_provinces = { "x9D547E" "xB193F7" "x4D49D9" "xB85F5F" "x65AFFC" "x9795C0" }
 		}
 		add_homeland = cu:wildlander
@@ -2557,6 +2796,7 @@ STATES = {
 	s:STATE_W01_386 = {
 		create_state = {
 			country = c:QBI
+			state_type = unincorporated
 			owned_provinces = { "x85B5FC" "x6854FC" "x50B6FC" "x8984E5" "x71656E" }
 		}
 		add_homeland = cu:wildlander
@@ -2564,6 +2804,7 @@ STATES = {
 	s:STATE_W01_11 = {
 		create_state = {
 			country = c:QBJ
+			state_type = unincorporated
 			owned_provinces = { "x84BE5F" "x94CA7F" "xCFABF6" "xA6ECFC" "x49EDDF" "x8B88D7" "x909B95" }
 		}
 		add_homeland = cu:wildlander
@@ -2571,6 +2812,7 @@ STATES = {
 	s:STATE_W01_24 = {
 		create_state = {
 			country = c:QBJ
+			state_type = unincorporated
 			owned_provinces = { "xD2B97B" "x44E9B5" "x5A6BFC" "xABE692" "x83B69A" "xB96166" "x807E98" "xD373FC" }
 		}
 		add_homeland = cu:wildlander
@@ -2578,6 +2820,7 @@ STATES = {
 	s:STATE_W01_71 = {
 		create_state = {
 			country = c:QBJ
+			state_type = unincorporated
 			owned_provinces = { "xA1BE98" "x40B3A7" "xCADEFC" "x9186E8" "xC4679B" "x9D4AD9" "x38CBFC" "x91A4C9" }
 		}
 		add_homeland = cu:wildlander
@@ -2585,6 +2828,7 @@ STATES = {
 	s:STATE_W01_170 = {
 		create_state = {
 			country = c:QBJ
+			state_type = unincorporated
 			owned_provinces = { "xA8DCD6" "xC3DFBF" "x98A960" "xCDA4E5" "xC79A64" "x3D9EE0" "x51D074" "xD04E68" }
 		}
 		add_homeland = cu:wildlander
@@ -2592,6 +2836,7 @@ STATES = {
 	s:STATE_W01_183 = {
 		create_state = {
 			country = c:QBJ
+			state_type = unincorporated
 			owned_provinces = { "xCAA96F" "xBBD9FC" "x6BBBF4" "xBE8291" "x93C892" "xA8D8C9" "x948F70" }
 		}
 		add_homeland = cu:wildlander
@@ -2599,6 +2844,7 @@ STATES = {
 	s:STATE_W01_13 = {
 		create_state = {
 			country = c:QBK
+			state_type = unincorporated
 			owned_provinces = { "xD6EDF1" "x2BE6C3" "xDC82A8" "xA74FCD" "x256BD5" "x29C4AC" "x39FB77" "x95BAFC" }
 		}
 		add_homeland = cu:wildlander
@@ -2606,6 +2852,7 @@ STATES = {
 	s:STATE_W01_37 = {
 		create_state = {
 			country = c:QBK
+			state_type = unincorporated
 			owned_provinces = { "xBDD673" "xAA8CE5" "x52E977" "xD4BCE8" "x6564C2" "xAC9BB7" "xAB7E93" "x5FC2C2" }
 		}
 		add_homeland = cu:wildlander
@@ -2613,6 +2860,7 @@ STATES = {
 	s:STATE_W01_117 = {
 		create_state = {
 			country = c:QBK
+			state_type = unincorporated
 			owned_provinces = { "xCB5CFC" "xDEAAD6" "x62DB8F" "xC153AB" "xBE6BEE" "xCCDC64" "x4C4967" }
 		}
 		add_homeland = cu:wildlander
@@ -2620,6 +2868,7 @@ STATES = {
 	s:STATE_W01_227 = {
 		create_state = {
 			country = c:QBK
+			state_type = unincorporated
 			owned_provinces = { "xDAA5C1" "x7A549C" "x3AA5C1" "x377C81" "x8461D1" "x93C69B" "x64B6E8" }
 		}
 		add_homeland = cu:wildlander
@@ -2627,6 +2876,7 @@ STATES = {
 	s:STATE_W01_347 = {
 		create_state = {
 			country = c:QBK
+			state_type = unincorporated
 			owned_provinces = { "xDD63FC" "x525D8B" "xB946CA" "x3EA17D" "x8361E4" "x59ABB8" "x616CE2" }
 		}
 		add_homeland = cu:wildlander
@@ -2634,6 +2884,7 @@ STATES = {
 	s:STATE_W01_18 = {
 		create_state = {
 			country = c:QBL
+			state_type = unincorporated
 			owned_provinces = { "x378DFC" "x54C7DB" "x5767FC" "xABFCF1" "xD351CB" "xA74BA9" "x237D70" }
 		}
 		add_homeland = cu:wildlander
@@ -2641,6 +2892,7 @@ STATES = {
 	s:STATE_W01_76 = {
 		create_state = {
 			country = c:QBL
+			state_type = unincorporated
 			owned_provinces = { "x25E5FC" "xDD5FDF" "xD6BBA6" "x5460B2" "x445AA0" "x61A18C" "x64BAFB" }
 		}
 		add_homeland = cu:wildlander
@@ -2648,6 +2900,7 @@ STATES = {
 	s:STATE_W01_90 = {
 		create_state = {
 			country = c:QBL
+			state_type = unincorporated
 			owned_provinces = { "x576DFC" "x43F4E1" "xC59389" "x5BF899" "x5A90A6" "x3C5467" "x7CFCD2" }
 		}
 		add_homeland = cu:wildlander
@@ -2655,6 +2908,7 @@ STATES = {
 	s:STATE_W01_346 = {
 		create_state = {
 			country = c:QBL
+			state_type = unincorporated
 			owned_provinces = { "x567EFC" "x468788" "x329E8F" "xD44672" "x9BCCB3" "xA97598" "xB152AC" }
 		}
 		add_homeland = cu:wildlander
@@ -2662,6 +2916,7 @@ STATES = {
 	s:STATE_W01_350 = {
 		create_state = {
 			country = c:QBL
+			state_type = unincorporated
 			owned_provinces = { "x5BCB9C" "x9FA0D9" "x66658F" "xBD4AFC" "x6748FC" "x747C83" "xB49684" }
 		}
 		add_homeland = cu:wildlander
@@ -2669,6 +2924,7 @@ STATES = {
 	s:STATE_W01_25 = {
 		create_state = {
 			country = c:QBM
+			state_type = unincorporated
 			owned_provinces = { "x3150D4" "xD9F697" "xD084F7" "x5F8F98" "x5D67CF" "x9DB374" "x7EEBDB" "x7F7E89" }
 		}
 		add_homeland = cu:wildlander
@@ -2676,6 +2932,7 @@ STATES = {
 	s:STATE_W01_80 = {
 		create_state = {
 			country = c:QBM
+			state_type = unincorporated
 			owned_provinces = { "xACD8E3" "x35F06C" "x7CACEF" "x418195" "xDD79FC" "xBF79C8" "x66509E" "xD6CD61" }
 		}
 		add_homeland = cu:wildlander
@@ -2683,6 +2940,7 @@ STATES = {
 	s:STATE_W01_173 = {
 		create_state = {
 			country = c:QBM
+			state_type = unincorporated
 			owned_provinces = { "x52D6FC" "x53B883" "x30FB66" "x805D68" "x4FFCFC" "x636AF7" "x777C98" }
 		}
 		add_homeland = cu:wildlander
@@ -2690,6 +2948,7 @@ STATES = {
 	s:STATE_W01_289 = {
 		create_state = {
 			country = c:QBM
+			state_type = unincorporated
 			owned_provinces = { "x42E8F4" "x2971FC" "x86ABFC" "x82EDB5" "xA476DD" "x9E5C93" "x3D69D6" }
 		}
 		add_homeland = cu:wildlander
@@ -2697,6 +2956,7 @@ STATES = {
 	s:STATE_W01_306 = {
 		create_state = {
 			country = c:QBM
+			state_type = unincorporated
 			owned_provinces = { "xB98A72" "x7552BC" "x46A566" "xADB17E" "xB2D5FC" "x3C79FC" "x99BCB2" }
 		}
 		add_homeland = cu:wildlander
@@ -2704,6 +2964,7 @@ STATES = {
 	s:STATE_W01_27 = {
 		create_state = {
 			country = c:QBN
+			state_type = unincorporated
 			owned_provinces = { "x9DC7ED" "xD6E0F9" "xA1F286" "x87C5F7" "x4AFCDF" "x5EC7C4" }
 		}
 		add_homeland = cu:wildlander
@@ -2711,6 +2972,7 @@ STATES = {
 	s:STATE_W01_65 = {
 		create_state = {
 			country = c:QBN
+			state_type = unincorporated
 			owned_provinces = { "xB3B5FC" "xDC6680" "x36998B" "x8596C7" "x35C067" "xCA5DDE" }
 		}
 		add_homeland = cu:wildlander
@@ -2718,6 +2980,7 @@ STATES = {
 	s:STATE_W01_123 = {
 		create_state = {
 			country = c:QBN
+			state_type = unincorporated
 			owned_provinces = { "xB7F5F5" "x97617B" "x5AC5D6" "x2C7984" "x239887" "x3BBBF7" }
 		}
 		add_homeland = cu:wildlander
@@ -2725,6 +2988,7 @@ STATES = {
 	s:STATE_W01_241 = {
 		create_state = {
 			country = c:QBN
+			state_type = unincorporated
 			owned_provinces = { "x69DF78" "x7A5FF1" "x774294" "x6573F9" "x3B63FC" "x3D6FC1" "xA7D5E0" }
 		}
 		add_homeland = cu:wildlander
@@ -2732,6 +2996,7 @@ STATES = {
 	s:STATE_W01_333 = {
 		create_state = {
 			country = c:QBN
+			state_type = unincorporated
 			owned_provinces = { "x274ADB" "x6E5C8F" "x9B8B73" "xD074A1" "x789DFC" "x6A48D0" }
 		}
 		add_homeland = cu:wildlander
@@ -2739,6 +3004,7 @@ STATES = {
 	s:STATE_W01_30 = {
 		create_state = {
 			country = c:QBO
+			state_type = unincorporated
 			owned_provinces = { "x53EFD0" "x8EE58D" "xA6DCFC" "x2F90B0" "x23536F" "xBC9EFC" "x2E4D8D" }
 		}
 		add_homeland = cu:wildlander
@@ -2746,6 +3012,7 @@ STATES = {
 	s:STATE_W01_53 = {
 		create_state = {
 			country = c:QBO
+			state_type = unincorporated
 			owned_provinces = { "xAB4686" "x8AFC9E" "x62AEEA" "x7287B9" "xA1A4FC" "xA1A9FC" "xC2938A" }
 		}
 		add_homeland = cu:wildlander
@@ -2753,6 +3020,7 @@ STATES = {
 	s:STATE_W01_206 = {
 		create_state = {
 			country = c:QBO
+			state_type = unincorporated
 			owned_provinces = { "x78A9B5" "x2CC4FC" "xCA8EFC" "xB949F6" "xCB65E1" }
 		}
 		add_homeland = cu:wildlander
@@ -2760,6 +3028,7 @@ STATES = {
 	s:STATE_W01_249 = {
 		create_state = {
 			country = c:QBO
+			state_type = unincorporated
 			owned_provinces = { "x4E7FB2" "x97BDFC" "xAEFCC2" "xDC8D96" "x5BC7C4" "x52CA83" "x6A86FC" }
 		}
 		add_homeland = cu:wildlander
@@ -2767,6 +3036,7 @@ STATES = {
 	s:STATE_W01_294 = {
 		create_state = {
 			country = c:QBO
+			state_type = unincorporated
 			owned_provinces = { "x36BC80" "xCECCE3" "x6E67C0" "xA7F1FC" "x31A7F3" "x24FC96" "xCC8FCE" }
 		}
 		add_homeland = cu:wildlander
@@ -2774,6 +3044,7 @@ STATES = {
 	s:STATE_W01_31 = {
 		create_state = {
 			country = c:QBP
+			state_type = unincorporated
 			owned_provinces = { "x6E76FC" "xD143CA" "x7ADEFC" "x59E1CE" "x6F64EE" "xBF9379" "xAC66FC" }
 		}
 		add_homeland = cu:wildlander
@@ -2781,6 +3052,7 @@ STATES = {
 	s:STATE_W01_168 = {
 		create_state = {
 			country = c:QBP
+			state_type = unincorporated
 			owned_provinces = { "x7649D4" "xB18DC6" "x998DEE" "x56669E" "xADB795" "x8BE58B" "x99F8D0" "x8C5195" "xBAB669" }
 		}
 		add_homeland = cu:wildlander
@@ -2788,6 +3060,7 @@ STATES = {
 	s:STATE_W01_184 = {
 		create_state = {
 			country = c:QBP
+			state_type = unincorporated
 			owned_provinces = { "x34B664" "x3CBB7F" "x62D7AD" "x9165FC" "x5B52A2" "xB2D97B" "x6771A0" }
 		}
 		add_homeland = cu:wildlander
@@ -2795,6 +3068,7 @@ STATES = {
 	s:STATE_W01_235 = {
 		create_state = {
 			country = c:QBP
+			state_type = unincorporated
 			owned_provinces = { "x8C68BD" "xD99CFC" "x3A5DA5" "xDAE582" "x9C41FC" "xD2D9C3" "xCA84E4" "x656E85" "xBC5DFC" }
 		}
 		add_homeland = cu:wildlander
@@ -2802,6 +3076,7 @@ STATES = {
 	s:STATE_W01_255 = {
 		create_state = {
 			country = c:QBP
+			state_type = unincorporated
 			owned_provinces = { "xD38F81" "xAABCC8" "x44E586" "x28D98E" "x2C64B5" "xC66484" "x7A81AF" }
 		}
 		add_homeland = cu:wildlander
@@ -2809,6 +3084,7 @@ STATES = {
 	s:STATE_W01_34 = {
 		create_state = {
 			country = c:QBQ
+			state_type = unincorporated
 			owned_provinces = { "x3C5E76" "x7EFC95" "x7BCACB" "xDE64FA" "xD6D0C8" "xCF58D0" "xD3E661" }
 		}
 		add_homeland = cu:wildlander
@@ -2816,6 +3092,7 @@ STATES = {
 	s:STATE_W01_82 = {
 		create_state = {
 			country = c:QBQ
+			state_type = unincorporated
 			owned_provinces = { "xD586AA" "xCF45DE" "xAEE4FC" "xAA7FF1" "x9880FC" "x43E4B7" }
 		}
 		add_homeland = cu:wildlander
@@ -2823,6 +3100,7 @@ STATES = {
 	s:STATE_W01_216 = {
 		create_state = {
 			country = c:QBQ
+			state_type = unincorporated
 			owned_provinces = { "x8C5CA9" "x659BFC" "x5489AD" "xCB8FA1" "x5C9C7F" "xDD6698" }
 		}
 		add_homeland = cu:wildlander
@@ -2830,6 +3108,7 @@ STATES = {
 	s:STATE_W01_217 = {
 		create_state = {
 			country = c:QBQ
+			state_type = unincorporated
 			owned_provinces = { "x779968" "x6D54BA" "x599CE0" "x3AFCFC" "x4DDEA8" "x327CF9" }
 		}
 		add_homeland = cu:wildlander
@@ -2837,6 +3116,7 @@ STATES = {
 	s:STATE_W01_398 = {
 		create_state = {
 			country = c:QBQ
+			state_type = unincorporated
 			owned_provinces = { "xD64C86" "xDBFABC" "xDCF1F0" "xD8F3FC" "xB5AD81" "x8FBF95" "x56E671" }
 		}
 		add_homeland = cu:wildlander
@@ -2844,6 +3124,7 @@ STATES = {
 	s:STATE_W01_36 = {
 		create_state = {
 			country = c:QBR
+			state_type = unincorporated
 			owned_provinces = { "x40A8B4" "xC6F7D3" "x8CBC6D" "x98DAFC" "xB463FB" "xA373F7" "x668BE2" }
 		}
 		add_homeland = cu:wildlander
@@ -2851,6 +3132,7 @@ STATES = {
 	s:STATE_W01_201 = {
 		create_state = {
 			country = c:QBR
+			state_type = unincorporated
 			owned_provinces = { "x4B6E79" "x95968A" "x87808C" "xDE73C0" "x684CFC" "x88B4FC" }
 		}
 		add_homeland = cu:wildlander
@@ -2858,6 +3140,7 @@ STATES = {
 	s:STATE_W01_264 = {
 		create_state = {
 			country = c:QBR
+			state_type = unincorporated
 			owned_provinces = { "xBBA88E" "x63E4C6" "xA4836C" "xD0C979" "xAD996C" "x586C80" "x62DCD0" }
 		}
 		add_homeland = cu:wildlander
@@ -2865,6 +3148,7 @@ STATES = {
 	s:STATE_W01_323 = {
 		create_state = {
 			country = c:QBR
+			state_type = unincorporated
 			owned_provinces = { "xD3919F" "xBBDF67" "xC16194" "x7E67D8" "xB58C8D" "x859280" "x35C3FC" }
 		}
 		add_homeland = cu:wildlander
@@ -2872,6 +3156,7 @@ STATES = {
 	s:STATE_W01_343 = {
 		create_state = {
 			country = c:QBR
+			state_type = unincorporated
 			owned_provinces = { "x546CD7" "x9877E6" "x96C087" "xA5C695" "x4EFC7C" "x46CED2" }
 		}
 		add_homeland = cu:wildlander
@@ -2879,6 +3164,7 @@ STATES = {
 	s:STATE_W01_40 = {
 		create_state = {
 			country = c:QBS
+			state_type = unincorporated
 			owned_provinces = { "xC455FB" "x71B76C" "xC6F5EB" "xA3E971" "x548EFC" "xD9F2B8" "x7557B0" }
 		}
 		add_homeland = cu:wildlander
@@ -2886,6 +3172,7 @@ STATES = {
 	s:STATE_W01_46 = {
 		create_state = {
 			country = c:QBS
+			state_type = unincorporated
 			owned_provinces = { "xB15360" "x88EBDF" "x25B0CE" "x5E6DC1" "x6488A9" "x5DE8AF" "x4B8CFC" }
 		}
 		add_homeland = cu:wildlander
@@ -2893,6 +3180,7 @@ STATES = {
 	s:STATE_W01_124 = {
 		create_state = {
 			country = c:QBS
+			state_type = unincorporated
 			owned_provinces = { "x7155FC" "x9EA5F3" "xA15AFC" "x308CFC" "x2949A9" "x4CC5FC" "x51C7D1" }
 		}
 		add_homeland = cu:wildlander
@@ -2900,6 +3188,7 @@ STATES = {
 	s:STATE_W01_277 = {
 		create_state = {
 			country = c:QBS
+			state_type = unincorporated
 			owned_provinces = { "xA98A95" "xAFDBA3" "x7678CA" "x92A3D0" "x92EA5F" "xAB7C71" "x46C67B" }
 		}
 		add_homeland = cu:wildlander
@@ -2907,6 +3196,7 @@ STATES = {
 	s:STATE_W01_278 = {
 		create_state = {
 			country = c:QBS
+			state_type = unincorporated
 			owned_provinces = { "x907979" "x5F6BAA" "xBD87EC" "x7FDBFA" "x59BEFC" "x43899E" "xC84791" }
 		}
 		add_homeland = cu:wildlander
@@ -2914,6 +3204,7 @@ STATES = {
 	s:STATE_W01_58 = {
 		create_state = {
 			country = c:QBT
+			state_type = unincorporated
 			owned_provinces = { "x3D8287" "xB7D4C0" "x5E657F" "xBABDBD" "x4F6CBF" "xB7DCFC" }
 		}
 		add_homeland = cu:wildlander
@@ -2921,6 +3212,7 @@ STATES = {
 	s:STATE_W01_179 = {
 		create_state = {
 			country = c:QBT
+			state_type = unincorporated
 			owned_provinces = { "x5145FC" "xA389F3" "x38AFFB" "x94BFBE" "xC682FC" "x8AC999" }
 		}
 		add_homeland = cu:wildlander
@@ -2928,6 +3220,7 @@ STATES = {
 	s:STATE_W01_180 = {
 		create_state = {
 			country = c:QBT
+			state_type = unincorporated
 			owned_provinces = { "xCE8FFC" "x856392" "xCE64D8" "xD35079" "xD6938D" "xCDD8D0" }
 		}
 		add_homeland = cu:wildlander
@@ -2935,6 +3228,7 @@ STATES = {
 	s:STATE_W01_226 = {
 		create_state = {
 			country = c:QBT
+			state_type = unincorporated
 			owned_provinces = { "xA9695F" "x68B7DC" "x7ADDA0" "x57CCBD" "xAA7495" }
 		}
 		add_homeland = cu:wildlander
@@ -2942,6 +3236,7 @@ STATES = {
 	s:STATE_W01_394 = {
 		create_state = {
 			country = c:QBT
+			state_type = unincorporated
 			owned_provinces = { "xD947FC" "xAF81EE" "xABD5CB" "x7CF6F2" "x6A6CA5" "x854BFC" }
 		}
 		add_homeland = cu:wildlander
@@ -2949,6 +3244,7 @@ STATES = {
 	s:STATE_W01_69 = {
 		create_state = {
 			country = c:QBU
+			state_type = unincorporated
 			owned_provinces = { "xE1D1CA" "xCE52A9" "x526A99" "x5EA69F" "xAAEA93" "xB646EA" "x4E9AFC" }
 		}
 		add_homeland = cu:wildlander
@@ -2956,6 +3252,7 @@ STATES = {
 	s:STATE_W01_136 = {
 		create_state = {
 			country = c:QBU
+			state_type = unincorporated
 			owned_provinces = { "xD9F1AF" "xB741F6" "x4BC1A3" "xD4CAFC" "xBB91FA" "x2AE5FC" }
 		}
 		add_homeland = cu:wildlander
@@ -2963,6 +3260,7 @@ STATES = {
 	s:STATE_W01_210 = {
 		create_state = {
 			country = c:QBU
+			state_type = unincorporated
 			owned_provinces = { "xC3D5FC" "xBD586B" "x394E79" "x4989F4" "xD2FC95" "x3BABD1" "xA9DA63" }
 		}
 		add_homeland = cu:wildlander
@@ -2970,6 +3268,7 @@ STATES = {
 	s:STATE_W01_212 = {
 		create_state = {
 			country = c:QBU
+			state_type = unincorporated
 			owned_provinces = { "x61A776" "x2FF2BB" "x756BE9" "x9B49BF" "x6CE283" "x3244FC" "x327B62" "x5F8AFC" }
 		}
 		add_homeland = cu:wildlander
@@ -2977,6 +3276,7 @@ STATES = {
 	s:STATE_W01_342 = {
 		create_state = {
 			country = c:QBU
+			state_type = unincorporated
 			owned_provinces = { "xDE65B6" "xC37C6F" "xB76EFC" "xA169E2" "xCA9567" "xACDEA1" }
 		}
 		add_homeland = cu:wildlander
@@ -2984,6 +3284,7 @@ STATES = {
 	s:STATE_W01_70 = {
 		create_state = {
 			country = c:QBV
+			state_type = unincorporated
 			owned_provinces = { "x26C573" "xA9C2B1" "xC2D9FC" "xC5BE83" "x4754FC" "x6AB6C9" "xD77B9F" }
 		}
 		add_homeland = cu:wildlander
@@ -2991,6 +3292,7 @@ STATES = {
 	s:STATE_W01_118 = {
 		create_state = {
 			country = c:QBV
+			state_type = unincorporated
 			owned_provinces = { "x73F264" "x4E67ED" "x46B3E9" "xB36CE3" "x769C76" "x7C4E65" "x73C0CE" }
 		}
 		add_homeland = cu:wildlander
@@ -2998,6 +3300,7 @@ STATES = {
 	s:STATE_W01_190 = {
 		create_state = {
 			country = c:QBV
+			state_type = unincorporated
 			owned_provinces = { "x4AB6DC" "x7C4882" "x6568FC" "xB7DDC0" "xA1426D" "x5B87FC" "x3175CC" }
 		}
 		add_homeland = cu:wildlander
@@ -3005,6 +3308,7 @@ STATES = {
 	s:STATE_W01_263 = {
 		create_state = {
 			country = c:QBV
+			state_type = unincorporated
 			owned_provinces = { "xAB5483" "xCB7AFC" "xCE6CC8" "x595F85" "x8A90FC" "x2B69CA" "x5F76FC" }
 		}
 		add_homeland = cu:wildlander
@@ -3012,6 +3316,7 @@ STATES = {
 	s:STATE_W01_348 = {
 		create_state = {
 			country = c:QBV
+			state_type = unincorporated
 			owned_provinces = { "x4DE1FC" "x7F64C3" "x9F5161" "x7BAEFC" "xAA7EF3" "x80569D" "x659082" "x2F7961" }
 		}
 		add_homeland = cu:wildlander
@@ -3019,6 +3324,7 @@ STATES = {
 	s:STATE_W01_74 = {
 		create_state = {
 			country = c:QBW
+			state_type = unincorporated
 			owned_provinces = { "x5757C3" "x2AD2FC" "x4B6AFA" "x56D7FC" "xB965FC" "xB0A2F0" "xD7C2FC" }
 		}
 		add_homeland = cu:wildlander
@@ -3026,6 +3332,7 @@ STATES = {
 	s:STATE_W01_92 = {
 		create_state = {
 			country = c:QBW
+			state_type = unincorporated
 			owned_provinces = { "x596BF6" "x7FAAFC" "x3E7E65" "xDEA6FC" "x83A4F7" "x688192" }
 		}
 		add_homeland = cu:wildlander
@@ -3033,6 +3340,7 @@ STATES = {
 	s:STATE_W01_238 = {
 		create_state = {
 			country = c:QBW
+			state_type = unincorporated
 			owned_provinces = { "xC170B4" "x949FFC" "x5D53FC" "x6FA6C3" "xA147F2" "x82845F" "xD1A289" }
 		}
 		add_homeland = cu:wildlander
@@ -3040,6 +3348,7 @@ STATES = {
 	s:STATE_W01_272 = {
 		create_state = {
 			country = c:QBW
+			state_type = unincorporated
 			owned_provinces = { "xA3A0FC" "xAF8CA5" "x80F087" "x77FCE5" "x6F77BE" "xA298FC" "x7E5FDC" }
 		}
 		add_homeland = cu:wildlander
@@ -3047,6 +3356,7 @@ STATES = {
 	s:STATE_W01_340 = {
 		create_state = {
 			country = c:QBW
+			state_type = unincorporated
 			owned_provinces = { "x88F1D0" "x23A460" "x5880EE" "x71B368" "x9DBCF9" "x7856A8" "x3FB7FC" }
 		}
 		add_homeland = cu:wildlander
@@ -3054,6 +3364,7 @@ STATES = {
 	s:STATE_W01_91 = {
 		create_state = {
 			country = c:QBX
+			state_type = unincorporated
 			owned_provinces = { "x3DD0EA" "xA473B0" "x81F398" "x8BD7D4" "xC0CA9D" "x7181BE" "xBD41E8" "x4060FC" }
 		}
 		add_homeland = cu:wildlander
@@ -3061,6 +3372,7 @@ STATES = {
 	s:STATE_W01_130 = {
 		create_state = {
 			country = c:QBX
+			state_type = unincorporated
 			owned_provinces = { "x5B726D" "x82E894" "xC45F79" "x32E2CC" "x9A82FC" "xB879A5" "xA24474" "x58F8D9" }
 		}
 		add_homeland = cu:wildlander
@@ -3068,6 +3380,7 @@ STATES = {
 	s:STATE_W01_169 = {
 		create_state = {
 			country = c:QBX
+			state_type = unincorporated
 			owned_provinces = { "x64FC81" "x8778C1" "x37A674" "x4ABBF3" "xC981CC" "x2C4EE0" "xAEDFE0" }
 		}
 		add_homeland = cu:wildlander
@@ -3075,6 +3388,7 @@ STATES = {
 	s:STATE_W01_287 = {
 		create_state = {
 			country = c:QBX
+			state_type = unincorporated
 			owned_provinces = { "x9D8FFC" "xA989F4" "xDED8A4" "x2E7CD2" "x8F5AAE" "xC4F285" }
 		}
 		add_homeland = cu:wildlander
@@ -3082,6 +3396,7 @@ STATES = {
 	s:STATE_W01_397 = {
 		create_state = {
 			country = c:QBX
+			state_type = unincorporated
 			owned_provinces = { "x3A5AC5" "xB1DE68" "xD577DA" "xAFFAC2" "x9EAEFC" "x3C48FC" "xE15682" }
 		}
 		add_homeland = cu:wildlander
@@ -3089,6 +3404,7 @@ STATES = {
 	s:STATE_W01_94 = {
 		create_state = {
 			country = c:QBY
+			state_type = unincorporated
 			owned_provinces = { "x32508B" "xBAE166" "xDD9BFC" "x73A6FC" "x2EA38A" "x9DE9FC" "x65877E" }
 		}
 		add_homeland = cu:wildlander
@@ -3096,6 +3412,7 @@ STATES = {
 	s:STATE_W01_125 = {
 		create_state = {
 			country = c:QBY
+			state_type = unincorporated
 			owned_provinces = { "xAE8CFC" "xB559FC" "xA77AA6" "x4B58DA" "xC590E2" "x47EFFC" "x708BA2" "xCE566D" }
 		}
 		add_homeland = cu:wildlander
@@ -3103,6 +3420,7 @@ STATES = {
 	s:STATE_W01_315 = {
 		create_state = {
 			country = c:QBY
+			state_type = unincorporated
 			owned_provinces = { "x78D3A6" "x5D6F6E" "x2681FC" "x75D6CD" "x2C5BD1" "x8ACFE8" "xBC75CB" }
 		}
 		add_homeland = cu:wildlander
@@ -3110,6 +3428,7 @@ STATES = {
 	s:STATE_W01_351 = {
 		create_state = {
 			country = c:QBY
+			state_type = unincorporated
 			owned_provinces = { "x639889" "x296C99" "x2E8C70" "x93A8C4" "x2C4772" "xC58967" "x249CA0" }
 		}
 		add_homeland = cu:wildlander
@@ -3117,6 +3436,7 @@ STATES = {
 	s:STATE_W01_374 = {
 		create_state = {
 			country = c:QBY
+			state_type = unincorporated
 			owned_provinces = { "x6A59FC" "xB1CA68" "xB991C9" "xB572F4" "xA666FC" "xC5DE8B" "x6E47FC" "xD8D9FC" }
 		}
 		add_homeland = cu:wildlander
@@ -3124,6 +3444,7 @@ STATES = {
 	s:STATE_W01_192 = {
 		create_state = {
 			country = c:QBZ
+			state_type = unincorporated
 			owned_provinces = { "x6E93E4" "xCDBAFC" "xAAE5CA" "x46AFEA" }
 		}
 		add_homeland = cu:wildlander
@@ -3131,6 +3452,7 @@ STATES = {
 	s:STATE_W01_196 = {
 		create_state = {
 			country = c:QBZ
+			state_type = unincorporated
 			owned_provinces = { "x947A6F" "x2FA0BB" "x3BA6B7" "xC68EB7" "x41C8FC" }
 		}
 		add_homeland = cu:wildlander
@@ -3138,6 +3460,7 @@ STATES = {
 	s:STATE_W01_218 = {
 		create_state = {
 			country = c:QBZ
+			state_type = unincorporated
 			owned_provinces = { "xDC61A1" "x3658C4" "x35EAFC" "x5E5488" }
 		}
 		add_homeland = cu:wildlander
@@ -3145,6 +3468,7 @@ STATES = {
 	s:STATE_W01_276 = {
 		create_state = {
 			country = c:QBZ
+			state_type = unincorporated
 			owned_provinces = { "xC3E2F9" "x3F8869" "xDEF281" "x254EEF" "x98C7E9" }
 		}
 		add_homeland = cu:wildlander
@@ -3152,6 +3476,7 @@ STATES = {
 	s:STATE_W01_357 = {
 		create_state = {
 			country = c:QBZ
+			state_type = unincorporated
 			owned_provinces = { "x2BCBA5" "x7FC2FC" "xA8EDBA" "xA1888D" "xDDF381" }
 		}
 		add_homeland = cu:wildlander
@@ -3159,6 +3484,7 @@ STATES = {
 	s:STATE_W01 = {
 		create_state = {
 			country = c:QCA
+			state_type = unincorporated
 			owned_provinces = { "x82A0BE" "x7DEC91" "x3D436F" "xA797FC" "xD87BF1" "x69F378" "x4356FC" }
 		}
 		add_homeland = cu:wildlander
@@ -3166,6 +3492,7 @@ STATES = {
 	s:STATE_W01_132 = {
 		create_state = {
 			country = c:QCA
+			state_type = unincorporated
 			owned_provinces = { "x88CFFC" "xC9D1AE" "xB7AFFC" "x7D7FF9" "x7AB069" "xB0708F" "xA8FB98" }
 		}
 		add_homeland = cu:wildlander
@@ -3173,6 +3500,7 @@ STATES = {
 	s:STATE_W01_248 = {
 		create_state = {
 			country = c:QCA
+			state_type = unincorporated
 			owned_provinces = { "x718A95" "xC54AFC" "xA0C08A" "x7D4D91" "x7D6AE2" "x54E2F3" "xDC9BBC" }
 		}
 		add_homeland = cu:wildlander
@@ -3180,6 +3508,7 @@ STATES = {
 	s:STATE_W01_392 = {
 		create_state = {
 			country = c:QCA
+			state_type = unincorporated
 			owned_provinces = { "x8ED493" "xDE6AD7" "x89C2FC" "xC6D58C" "xDD88D8" "x61DB65" "x7CF8BE" }
 		}
 		add_homeland = cu:wildlander
@@ -3187,6 +3516,7 @@ STATES = {
 	s:STATE_W01_22 = {
 		create_state = {
 			country = c:QCB
+			state_type = unincorporated
 			owned_provinces = { "x334B92" "x92AED6" "x7A6769" "x50C2FC" "xB0F27B" "xB2CAC5" "x9FB4FC" }
 		}
 		add_homeland = cu:wildlander
@@ -3194,6 +3524,7 @@ STATES = {
 	s:STATE_W01_159 = {
 		create_state = {
 			country = c:QCB
+			state_type = unincorporated
 			owned_provinces = { "xD855D7" "xE173FC" "x825EAF" "x709783" "xB6EB87" "x6AEC73" }
 		}
 		add_homeland = cu:wildlander
@@ -3201,6 +3532,7 @@ STATES = {
 	s:STATE_W01_178 = {
 		create_state = {
 			country = c:QCB
+			state_type = unincorporated
 			owned_provinces = { "xA444AD" "x46EA75" "xA2A9D5" "x59FC99" "x757DE6" "x80C68B" "x808CB1" "x80ADF0" }
 		}
 		add_homeland = cu:wildlander
@@ -3208,6 +3540,7 @@ STATES = {
 	s:STATE_W01_233 = {
 		create_state = {
 			country = c:QCB
+			state_type = unincorporated
 			owned_provinces = { "x7AA5A7" "x729EFC" "x6EAF66" "x56CECE" "xDCC8DD" }
 		}
 		add_homeland = cu:wildlander
@@ -3215,6 +3548,7 @@ STATES = {
 	s:STATE_W01_29 = {
 		create_state = {
 			country = c:QCC
+			state_type = unincorporated
 			owned_provinces = { "x767BB2" "xC494BD" "x3873F9" "x9188F6" "xDC9D86" "x64E66E" }
 		}
 		add_homeland = cu:wildlander
@@ -3222,6 +3556,7 @@ STATES = {
 	s:STATE_W01_250 = {
 		create_state = {
 			country = c:QCC
+			state_type = unincorporated
 			owned_provinces = { "xA28F78" "xB64EAD" "x938A83" "xBD88A4" "x4AE0FC" "xB29791" "x6BE8D4" }
 		}
 		add_homeland = cu:wildlander
@@ -3229,6 +3564,7 @@ STATES = {
 	s:STATE_W01_341 = {
 		create_state = {
 			country = c:QCC
+			state_type = unincorporated
 			owned_provinces = { "xAB8AFC" "x9197A4" "x998F67" "x6765E0" "x95E7D2" }
 		}
 		add_homeland = cu:wildlander
@@ -3236,6 +3572,7 @@ STATES = {
 	s:STATE_W01_367 = {
 		create_state = {
 			country = c:QCC
+			state_type = unincorporated
 			owned_provinces = { "xDA48FC" "xD789C3" "xCDC5F2" "xABF460" "xD8A060" "xB9439C" "xB456AF" }
 		}
 		add_homeland = cu:wildlander
@@ -3243,6 +3580,7 @@ STATES = {
 	s:STATE_W01_33 = {
 		create_state = {
 			country = c:QCD
+			state_type = unincorporated
 			owned_provinces = { "x25B9DD" "xD94B61" "x66A68F" "x4551D0" "x6C8187" "x5E578A" "x6E5BA2" }
 		}
 		add_homeland = cu:wildlander
@@ -3250,6 +3588,7 @@ STATES = {
 	s:STATE_W01_182 = {
 		create_state = {
 			country = c:QCD
+			state_type = unincorporated
 			owned_provinces = { "x90FAFC" "x6BE2FC" "x23F1D1" "x93CAFC" "xCD8B92" "xBC85D4" "xAAA9FC" "x835EF0" }
 		}
 		add_homeland = cu:wildlander
@@ -3257,6 +3596,7 @@ STATES = {
 	s:STATE_W01_283 = {
 		create_state = {
 			country = c:QCD
+			state_type = unincorporated
 			owned_provinces = { "x7494FC" "xCEE9FC" "x70D9FC" "xB8A067" "xD29CFC" "x476291" "x8DF064" }
 		}
 		add_homeland = cu:wildlander
@@ -3264,6 +3604,7 @@ STATES = {
 	s:STATE_W01_356 = {
 		create_state = {
 			country = c:QCD
+			state_type = unincorporated
 			owned_provinces = { "x7070FC" "x4172AE" "xD0BCD9" "x69FCDE" "xA26BC9" "xB88EFC" "x2F6BD9" }
 		}
 		add_homeland = cu:wildlander
@@ -3271,6 +3612,7 @@ STATES = {
 	s:STATE_W01_44 = {
 		create_state = {
 			country = c:QCE
+			state_type = unincorporated
 			owned_provinces = { "x88DCD0" "x385FF0" "x2F4DA6" "xA884A1" "x31A0DB" "x359CFC" "x396C6A" }
 		}
 		add_homeland = cu:wildlander
@@ -3278,6 +3620,7 @@ STATES = {
 	s:STATE_W01_147 = {
 		create_state = {
 			country = c:QCE
+			state_type = unincorporated
 			owned_provinces = { "x265561" "x9FB09C" "xCCE2D3" "xD169DE" "x2995DE" "x23BF6D" "xD7BACB" }
 		}
 		add_homeland = cu:wildlander
@@ -3285,6 +3628,7 @@ STATES = {
 	s:STATE_W01_155 = {
 		create_state = {
 			country = c:QCE
+			state_type = unincorporated
 			owned_provinces = { "x6A9CDF" "x7265FC" "xA4DBD8" "xA6946A" "x4E49E8" "xD9E8B0" "xBAE7BB" }
 		}
 		add_homeland = cu:wildlander
@@ -3292,6 +3636,7 @@ STATES = {
 	s:STATE_W01_372 = {
 		create_state = {
 			country = c:QCE
+			state_type = unincorporated
 			owned_provinces = { "x85CA98" "x3295C5" "x97C665" "x94596A" "xC785E0" }
 		}
 		add_homeland = cu:wildlander
@@ -3299,6 +3644,7 @@ STATES = {
 	s:STATE_W01_45 = {
 		create_state = {
 			country = c:QCF
+			state_type = unincorporated
 			owned_provinces = { "x4EC983" "xC6787A" "x26CD75" "xC49CFC" "xA26AB5" "x4ED7DF" }
 		}
 		add_homeland = cu:wildlander
@@ -3306,6 +3652,7 @@ STATES = {
 	s:STATE_W01_302 = {
 		create_state = {
 			country = c:QCF
+			state_type = unincorporated
 			owned_provinces = { "x5C67BC" "x76999B" "xCA6AFC" "x9A845F" "x5DDAFC" "xE15072" "x4371E8" }
 		}
 		add_homeland = cu:wildlander
@@ -3313,6 +3660,7 @@ STATES = {
 	s:STATE_W01_354 = {
 		create_state = {
 			country = c:QCF
+			state_type = unincorporated
 			owned_provinces = { "xC75DA3" "xCD53B7" "x9880C8" "x9AB6AE" "x66BDDC" "x457BC8" }
 		}
 		add_homeland = cu:wildlander
@@ -3320,6 +3668,7 @@ STATES = {
 	s:STATE_W01_384 = {
 		create_state = {
 			country = c:QCF
+			state_type = unincorporated
 			owned_provinces = { "xCD6765" "x5E8A60" "xBDABBF" "x5CA5EA" "x73C863" "xA84CF3" }
 		}
 		add_homeland = cu:wildlander
@@ -3327,6 +3676,7 @@ STATES = {
 	s:STATE_W01_47 = {
 		create_state = {
 			country = c:QCG
+			state_type = unincorporated
 			owned_provinces = { "x8AFCE4" "x9B74C5" "xA2DE6A" "x3CB86F" "x6DA166" "xB78A7A" "xCA66B8" }
 		}
 		add_homeland = cu:wildlander
@@ -3334,6 +3684,7 @@ STATES = {
 	s:STATE_W01_50 = {
 		create_state = {
 			country = c:QCG
+			state_type = unincorporated
 			owned_provinces = { "x2549B6" "x85DC66" "x3358D0" "xA5ED99" "xD3E3FC" "x2FF2A4" "x6BE7A4" }
 		}
 		add_homeland = cu:wildlander
@@ -3341,6 +3692,7 @@ STATES = {
 	s:STATE_W01_166 = {
 		create_state = {
 			country = c:QCG
+			state_type = unincorporated
 			owned_provinces = { "x527B63" "x5DCBE4" "xA195F1" "x8CF7FC" "x35B2FC" "xB5C9FC" }
 		}
 		add_homeland = cu:wildlander
@@ -3348,6 +3700,7 @@ STATES = {
 	s:STATE_W01_352 = {
 		create_state = {
 			country = c:QCG
+			state_type = unincorporated
 			owned_provinces = { "xCC4E7A" "xD5DEC4" "xA286FC" "x4B93D3" "x4BD5D1" "xBBD190" "xAFBAFC" }
 		}
 		add_homeland = cu:wildlander
@@ -3355,6 +3708,7 @@ STATES = {
 	s:STATE_W01_51 = {
 		create_state = {
 			country = c:QCH
+			state_type = unincorporated
 			owned_provinces = { "x6EEDB1" "xD3DEFC" "xCFE8A3" "x55D0D7" "x8590FC" "x62CBFC" "x41E1A0" "xE0C07C" }
 		}
 		add_homeland = cu:wildlander
@@ -3362,6 +3716,7 @@ STATES = {
 	s:STATE_W01_64 = {
 		create_state = {
 			country = c:QCH
+			state_type = unincorporated
 			owned_provinces = { "x8D81B5" "x5F86FC" "x7981D2" "xC9E9FC" "xD5DCF5" "x3C6996" }
 		}
 		add_homeland = cu:wildlander
@@ -3369,6 +3724,7 @@ STATES = {
 	s:STATE_W01_113 = {
 		create_state = {
 			country = c:QCH
+			state_type = unincorporated
 			owned_provinces = { "x74A17A" "x8AB4A0" "x649BD9" "x5888FC" "x2DF1FC" "x498D9B" }
 		}
 		add_homeland = cu:wildlander
@@ -3376,6 +3732,7 @@ STATES = {
 	s:STATE_W01_363 = {
 		create_state = {
 			country = c:QCH
+			state_type = unincorporated
 			owned_provinces = { "xA0FCA6" "x59A1FC" "xC576DD" "x4FFC84" "x699794" "x42B967" }
 		}
 		add_homeland = cu:wildlander
@@ -3383,6 +3740,7 @@ STATES = {
 	s:STATE_W01_52 = {
 		create_state = {
 			country = c:QCI
+			state_type = unincorporated
 			owned_provinces = { "xCFD7FC" "xA370D5" "xCAD6B1" "xC0CB8C" "x9CC27B" "x98A9BE" "x9A90FC" }
 		}
 		add_homeland = cu:wildlander
@@ -3390,6 +3748,7 @@ STATES = {
 	s:STATE_W01_142 = {
 		create_state = {
 			country = c:QCI
+			state_type = unincorporated
 			owned_provinces = { "x6C6ABE" "xA2D1EC" "x7DC9BB" "x719461" "xD95DFC" "x3C536B" "x5DA0D9" }
 		}
 		add_homeland = cu:wildlander
@@ -3397,6 +3756,7 @@ STATES = {
 	s:STATE_W01_161 = {
 		create_state = {
 			country = c:QCI
+			state_type = unincorporated
 			owned_provinces = { "x29A4FC" "x3F817D" "x6695FC" "x885494" "x3C6860" "x53CDA0" "x75ABD0" }
 		}
 		add_homeland = cu:wildlander
@@ -3404,6 +3764,7 @@ STATES = {
 	s:STATE_W01_174 = {
 		create_state = {
 			country = c:QCI
+			state_type = unincorporated
 			owned_provinces = { "x2562D7" "x9CEEEC" "x65C47F" "x9CECDB" "x66CC70" "x8FEBEC" "x82FB60" }
 		}
 		add_homeland = cu:wildlander
@@ -3411,6 +3772,7 @@ STATES = {
 	s:STATE_W01_62 = {
 		create_state = {
 			country = c:QCJ
+			state_type = unincorporated
 			owned_provinces = { "x8A9FF9" "x345EFC" "x3AFB61" "x7CBBA7" "x40BEF5" "x26E2B3" "x93C7FC" }
 		}
 		add_homeland = cu:wildlander
@@ -3418,6 +3780,7 @@ STATES = {
 	s:STATE_W01_105 = {
 		create_state = {
 			country = c:QCJ
+			state_type = unincorporated
 			owned_provinces = { "x7F5EFC" "xB69F73" "x975CC8" "xC0C3F2" "x25EE7F" "x6A9DFC" "x9BA6E6" "xB749C9" }
 		}
 		add_homeland = cu:wildlander
@@ -3425,6 +3788,7 @@ STATES = {
 	s:STATE_W01_214 = {
 		create_state = {
 			country = c:QCJ
+			state_type = unincorporated
 			owned_provinces = { "x68AF69" "x40E966" "x7DF4FC" "xADDCAE" "x278FFC" "xA86CFC" "xDB6FEF" }
 		}
 		add_homeland = cu:wildlander
@@ -3432,6 +3796,7 @@ STATES = {
 	s:STATE_W01_275 = {
 		create_state = {
 			country = c:QCJ
+			state_type = unincorporated
 			owned_provinces = { "xD7D7C0" "x4BEAA7" "x53C6AF" "x396481" "x41E974" "x826A9D" "x3AC88E" }
 		}
 		add_homeland = cu:wildlander
@@ -3439,6 +3804,7 @@ STATES = {
 	s:STATE_W01_73 = {
 		create_state = {
 			country = c:QCK
+			state_type = unincorporated
 			owned_provinces = { "x2D7DFC" "x805A9D" "xD46D5F" "x6670C2" "xE1FC67" "x41C16C" }
 		}
 		add_homeland = cu:wildlander
@@ -3446,6 +3812,7 @@ STATES = {
 	s:STATE_W01_109 = {
 		create_state = {
 			country = c:QCK
+			state_type = unincorporated
 			owned_provinces = { "x584AAF" "xB0FCE0" "xA4ECE1" "x9D49FC" "x39DFFC" "x6BF7FA" }
 		}
 		add_homeland = cu:wildlander
@@ -3453,6 +3820,7 @@ STATES = {
 	s:STATE_W01_146 = {
 		create_state = {
 			country = c:QCK
+			state_type = unincorporated
 			owned_provinces = { "x38FBF1" "x8F6BB9" "x7FFCFC" "x98CE70" "xDC7C99" "x356EC3" }
 		}
 		add_homeland = cu:wildlander
@@ -3460,6 +3828,7 @@ STATES = {
 	s:STATE_W01_202 = {
 		create_state = {
 			country = c:QCK
+			state_type = unincorporated
 			owned_provinces = { "x29BEFC" "x99ABD1" "xD482AE" "x98D77B" "x9EC6FC" "xAC65E0" "xA799FB" }
 		}
 		add_homeland = cu:wildlander
@@ -3467,6 +3836,7 @@ STATES = {
 	s:STATE_W01_101 = {
 		create_state = {
 			country = c:QCL
+			state_type = unincorporated
 			owned_provinces = { "x6F5DA8" "xA4C4CC" "xB4FCEC" "x5DC976" "x26A1FC" "xC35AFC" "x71B896" }
 		}
 		add_homeland = cu:wildlander
@@ -3474,6 +3844,7 @@ STATES = {
 	s:STATE_W01_204 = {
 		create_state = {
 			country = c:QCL
+			state_type = unincorporated
 			owned_provinces = { "x66D7DE" "x8E73D7" "xC6E5CD" "xB046CC" "x7BFBC9" "xCDAC75" }
 		}
 		add_homeland = cu:wildlander
@@ -3481,6 +3852,7 @@ STATES = {
 	s:STATE_W01_258 = {
 		create_state = {
 			country = c:QCL
+			state_type = unincorporated
 			owned_provinces = { "x959EBC" "x8161A0" "xC18483" "x60E1C7" "x4E57A5" }
 		}
 		add_homeland = cu:wildlander
@@ -3488,6 +3860,7 @@ STATES = {
 	s:STATE_W01_379 = {
 		create_state = {
 			country = c:QCL
+			state_type = unincorporated
 			owned_provinces = { "x604EDB" "x3B5B91" "x29C5FC" "x8784FC" "xDE49D2" "xC691CE" }
 		}
 		add_homeland = cu:wildlander
@@ -3495,6 +3868,7 @@ STATES = {
 	s:STATE_W01_129 = {
 		create_state = {
 			country = c:QCM
+			state_type = unincorporated
 			owned_provinces = { "xA3C8EC" "x319999" "x31D7FC" "x2A7889" "xAAEE87" }
 		}
 		add_homeland = cu:wildlander
@@ -3502,6 +3876,7 @@ STATES = {
 	s:STATE_W01_165 = {
 		create_state = {
 			country = c:QCM
+			state_type = unincorporated
 			owned_provinces = { "x30B4A4" "xAADAB5" "x35588D" "x588F7D" "x7E80C3" "x4AC1FC" }
 		}
 		add_homeland = cu:wildlander
@@ -3509,6 +3884,7 @@ STATES = {
 	s:STATE_W01_221 = {
 		create_state = {
 			country = c:QCM
+			state_type = unincorporated
 			owned_provinces = { "xA179C9" "x60F3CD" "xCAD8EE" "x72D7E2" "x28E965" "x7F70A8" }
 		}
 		add_homeland = cu:wildlander
@@ -3516,6 +3892,7 @@ STATES = {
 	s:STATE_W01_260 = {
 		create_state = {
 			country = c:QCM
+			state_type = unincorporated
 			owned_provinces = { "x83F4D6" "x2586EB" "x71FC97" "x30FBE3" "xA199FC" "x4D68E5" "xD26E73" }
 		}
 		add_homeland = cu:wildlander
@@ -3523,6 +3900,7 @@ STATES = {
 	s:STATE_W01_148 = {
 		create_state = {
 			country = c:QCN
+			state_type = unincorporated
 			owned_provinces = { "x3CBA95" "x7F7A7F" "xB3D6F5" }
 		}
 		add_homeland = cu:wildlander
@@ -3530,6 +3908,7 @@ STATES = {
 	s:STATE_W01_156 = {
 		create_state = {
 			country = c:QCN
+			state_type = unincorporated
 			owned_provinces = { "x5F7AC4" "xC6CBAA" "xA8F8E8" "x5B4B6C" "x3F5DFC" "x7BBCA6" }
 		}
 		add_homeland = cu:wildlander
@@ -3537,6 +3916,7 @@ STATES = {
 	s:STATE_W01_186 = {
 		create_state = {
 			country = c:QCN
+			state_type = unincorporated
 			owned_provinces = { "xCA69FC" "x936D82" "x375196" "x4CFBFC" "x23C2FC" "x9170B8" }
 		}
 		add_homeland = cu:wildlander
@@ -3544,6 +3924,7 @@ STATES = {
 	s:STATE_W01_297 = {
 		create_state = {
 			country = c:QCN
+			state_type = unincorporated
 			owned_provinces = { "x71D6C2" "x9987A9" "x79A5FC" "xB7C1DA" }
 		}
 		add_homeland = cu:wildlander
@@ -3551,6 +3932,7 @@ STATES = {
 	s:STATE_W01_150 = {
 		create_state = {
 			country = c:QCO
+			state_type = unincorporated
 			owned_provinces = { "x9F7AA0" "x6BA496" "xB2ADE6" "x44B8FC" "x79778B" "x6EDB89" }
 		}
 		add_homeland = cu:wildlander
@@ -3558,6 +3940,7 @@ STATES = {
 	s:STATE_W01_199 = {
 		create_state = {
 			country = c:QCO
+			state_type = unincorporated
 			owned_provinces = { "x4A9DE2" "x69CF7F" "xA66FF2" "xC39E8D" "xB2B6DF" "xB44FED" "xCC76D1" }
 		}
 		add_homeland = cu:wildlander
@@ -3565,6 +3948,7 @@ STATES = {
 	s:STATE_W01_219 = {
 		create_state = {
 			country = c:QCO
+			state_type = unincorporated
 			owned_provinces = { "x74D5B8" "x77E0B2" "x524884" "x92C0FC" "xCCEFFC" }
 		}
 		add_homeland = cu:wildlander
@@ -3572,6 +3956,7 @@ STATES = {
 	s:STATE_W01_224 = {
 		create_state = {
 			country = c:QCO
+			state_type = unincorporated
 			owned_provinces = { "x2DCEF1" "x84D679" "x6E4BFA" "x55EAFC" "xD6C196" }
 		}
 		add_homeland = cu:wildlander
@@ -3579,6 +3964,7 @@ STATES = {
 	s:STATE_W01_177 = {
 		create_state = {
 			country = c:QCP
+			state_type = unincorporated
 			owned_provinces = { "x799B76" "xC65FFC" "x817BAA" "x3675AA" "xE06AFC" "xAD4478" "x874177" "x4FA0C6" "xDD5BFC" }
 		}
 		add_homeland = cu:wildlander
@@ -3586,6 +3972,7 @@ STATES = {
 	s:STATE_W01_254 = {
 		create_state = {
 			country = c:QCP
+			state_type = unincorporated
 			owned_provinces = { "xC4927C" "x67B7AC" "xE1F7AA" "x9547FC" "x78CC65" "xB496D1" "x97FC63" "x32DAF9" }
 		}
 		add_homeland = cu:wildlander
@@ -3593,6 +3980,7 @@ STATES = {
 	s:STATE_W01_271 = {
 		create_state = {
 			country = c:QCP
+			state_type = unincorporated
 			owned_provinces = { "xBF5F67" "x2674FC" "x6B7EFC" "xD1979E" }
 		}
 		add_homeland = cu:wildlander
@@ -3600,6 +3988,7 @@ STATES = {
 	s:STATE_W01_279 = {
 		create_state = {
 			country = c:QCP
+			state_type = unincorporated
 			owned_provinces = { "xD25C72" "x70CD8C" "xA0E57B" "x56456B" "x705985" "x3FAA6A" "x6C94B1" }
 		}
 		add_homeland = cu:wildlander
@@ -3607,6 +3996,7 @@ STATES = {
 	s:STATE_W02_05 = {
 		create_state = {
 			country = c:QCQ
+			state_type = unincorporated
 			owned_provinces = { "x9C8B1B" "x110C3E" "x2C0305" "x193C4A" "xA7852E" "x03661E" "x2B0303" "x82037A" "x376A16" }
 		}
 		add_homeland = cu:wildlander
@@ -3614,6 +4004,7 @@ STATES = {
 	s:STATE_W02_11 = {
 		create_state = {
 			country = c:QCQ
+			state_type = unincorporated
 			owned_provinces = { "x733946" "x383403" "x138E03" "x5C860D" "x6A0E03" "x450338" "x0F4773" }
 		}
 		add_homeland = cu:wildlander
@@ -3621,6 +4012,7 @@ STATES = {
 	s:STATE_W02_14 = {
 		create_state = {
 			country = c:QCQ
+			state_type = unincorporated
 			owned_provinces = { "x8E5376" "x032903" "x7B606B" "x35137C" "x106F1C" "x436403" "x623803" }
 		}
 		add_homeland = cu:wildlander
@@ -3628,6 +4020,7 @@ STATES = {
 	s:STATE_W02_15 = {
 		create_state = {
 			country = c:QCQ
+			state_type = unincorporated
 			owned_provinces = { "x100307" "x308486" "x5E2F03" "x726803" "x03955E" "x6C152A" "x247486" }
 		}
 		add_homeland = cu:wildlander
@@ -3635,6 +4028,7 @@ STATES = {
 	s:STATE_W01_08 = {
 		create_state = {
 			country = c:QCR
+			state_type = unincorporated
 			owned_provinces = { "xD98E6A" "xCBE3FC" "x5A647F" "x296CFC" "x41B071" "x2494FC" "xB85DE0" }
 		}
 		add_homeland = cu:wildlander
@@ -3642,6 +4036,7 @@ STATES = {
 	s:STATE_W01_188 = {
 		create_state = {
 			country = c:QCR
+			state_type = unincorporated
 			owned_provinces = { "xCDD1EB" "x91BA6D" "xDC81B3" "x97CC94" "x6BCE96" "xD9DECD" }
 		}
 		add_homeland = cu:wildlander
@@ -3649,6 +4044,7 @@ STATES = {
 	s:STATE_W01_319 = {
 		create_state = {
 			country = c:QCR
+			state_type = unincorporated
 			owned_provinces = { "x9BDAFC" "x24B164" "x8845B7" "x6AADD7" "xCA8EF5" "x8C4D6C" }
 		}
 		add_homeland = cu:wildlander
@@ -3656,6 +4052,7 @@ STATES = {
 	s:STATE_W01_20 = {
 		create_state = {
 			country = c:QCS
+			state_type = unincorporated
 			owned_provinces = { "x5BEDFC" "x65DCCB" "xC3C7ED" "x72CFEE" "x765BBF" "x6169AE" "x74AFE1" "xA68363" }
 		}
 		add_homeland = cu:wildlander
@@ -3663,6 +4060,7 @@ STATES = {
 	s:STATE_W01_163 = {
 		create_state = {
 			country = c:QCS
+			state_type = unincorporated
 			owned_provinces = { "x44707B" "xBF94BC" "x5274FC" "xC58FA6" "x3D99DA" "x434362" "x395DFC" "x2EA770" }
 		}
 		add_homeland = cu:wildlander
@@ -3670,6 +4068,7 @@ STATES = {
 	s:STATE_W01_205 = {
 		create_state = {
 			country = c:QCS
+			state_type = unincorporated
 			owned_provinces = { "x6BFCFC" "x8FAFFC" "x504DE7" "x739B7F" "x3E65A9" "xDD845F" "xBB7F66" "x2E7DAF" }
 		}
 		add_homeland = cu:wildlander
@@ -3677,6 +4076,7 @@ STATES = {
 	s:STATE_W01_21 = {
 		create_state = {
 			country = c:QCT
+			state_type = unincorporated
 			owned_provinces = { "x52E370" "xBAA4FC" "x2EEF6E" "xA34CAB" "x4D9EA7" "x91A262" "x6A74E8" }
 		}
 		add_homeland = cu:wildlander
@@ -3684,6 +4084,7 @@ STATES = {
 	s:STATE_W01_38 = {
 		create_state = {
 			country = c:QCT
+			state_type = unincorporated
 			owned_provinces = { "xE0929E" "x9F57B3" "xC0B6C8" "x4850D6" "xBD5EB0" "x3CFCFC" }
 		}
 		add_homeland = cu:wildlander
@@ -3691,6 +4092,7 @@ STATES = {
 	s:STATE_W01_171 = {
 		create_state = {
 			country = c:QCT
+			state_type = unincorporated
 			owned_provinces = { "x7E8CA1" "x8FEA68" "xDA7C69" "x47D68D" "x9467FC" "x33EEA6" "xC7C595" }
 		}
 		add_homeland = cu:wildlander
@@ -3698,6 +4100,7 @@ STATES = {
 	s:STATE_W01_84 = {
 		create_state = {
 			country = c:QCU
+			state_type = unincorporated
 			owned_provinces = { "x94BBBD" "xC9DBB1" "xBC86AF" "xB55D7B" "x80B27B" "xBCA2D5" }
 		}
 		add_homeland = cu:wildlander
@@ -3705,6 +4108,7 @@ STATES = {
 	s:STATE_W01_282 = {
 		create_state = {
 			country = c:QCU
+			state_type = unincorporated
 			owned_provinces = { "x29F2E6" "xC1BF97" "xC7FCFC" "xCFD5A1" "xAA99C7" "x268784" "xD5E087" }
 		}
 		add_homeland = cu:wildlander
@@ -3712,6 +4116,7 @@ STATES = {
 	s:STATE_W01_332 = {
 		create_state = {
 			country = c:QCU
+			state_type = unincorporated
 			owned_provinces = { "x4068D7" "x81FC7A" "x7E69FC" "x46878C" "x8399DD" "x41EEE5" }
 		}
 		add_homeland = cu:wildlander
@@ -3719,6 +4124,7 @@ STATES = {
 	s:STATE_W01_96 = {
 		create_state = {
 			country = c:QCV
+			state_type = unincorporated
 			owned_provinces = { "x42F060" "x7955B5" "x3AEF65" "x3AABB0" "xB77C61" "x2FEDB1" "x446FA4" }
 		}
 		add_homeland = cu:wildlander
@@ -3726,6 +4132,7 @@ STATES = {
 	s:STATE_W01_111 = {
 		create_state = {
 			country = c:QCV
+			state_type = unincorporated
 			owned_provinces = { "x9099B6" "xC7B499" "x2A7B91" "x897FA8" "x3F5AD8" "xB989FC" "xD06463" "xDE49D4" }
 		}
 		add_homeland = cu:wildlander
@@ -3733,6 +4140,7 @@ STATES = {
 	s:STATE_W01_194 = {
 		create_state = {
 			country = c:QCV
+			state_type = unincorporated
 			owned_provinces = { "x784399" "x7FBCD1" "x5BEDDD" "x93ECF7" "xDA7E74" }
 		}
 		add_homeland = cu:wildlander
@@ -3740,6 +4148,7 @@ STATES = {
 	s:STATE_W01_222 = {
 		create_state = {
 			country = c:QCW
+			state_type = unincorporated
 			owned_provinces = { "x9D60D8" "x8581A8" "x7B6F82" "x2E84B4" "x54AA8B" "xA1D18F" }
 		}
 		add_homeland = cu:wildlander
@@ -3747,6 +4156,7 @@ STATES = {
 	s:STATE_W01_353 = {
 		create_state = {
 			country = c:QCW
+			state_type = unincorporated
 			owned_provinces = { "x8DADB1" "x82A5C8" "xBC637C" "x5BA673" "xC88EFC" "x5B6CB8" "x5DCDA7" }
 		}
 		add_homeland = cu:wildlander
@@ -3754,6 +4164,7 @@ STATES = {
 	s:STATE_W01_387 = {
 		create_state = {
 			country = c:QCW
+			state_type = unincorporated
 			owned_provinces = { "x7E78DB" "xD9DEB9" "x658386" "x94F461" "xCFA4FB" "x79B160" "xA4B299" }
 		}
 		add_homeland = cu:wildlander
@@ -3761,6 +4172,7 @@ STATES = {
 	s:STATE_W01_256 = {
 		create_state = {
 			country = c:QCX
+			state_type = unincorporated
 			owned_provinces = { "xC8BD9D" "xCC9BF1" "xDE90FC" "xC046CC" "x72E5C5" "x26D46B" "x67F9FC" }
 		}
 		add_homeland = cu:wildlander
@@ -3768,6 +4180,7 @@ STATES = {
 	s:STATE_W01_308 = {
 		create_state = {
 			country = c:QCX
+			state_type = unincorporated
 			owned_provinces = { "xC6CDA2" "x69B8EE" "x8D7295" "x81C998" }
 		}
 		add_homeland = cu:wildlander
@@ -3775,6 +4188,7 @@ STATES = {
 	s:STATE_W02_02 = {
 		create_state = {
 			country = c:QCY
+			state_type = unincorporated
 			owned_provinces = { "x8C8C03" "x3A8803" "x9C3832" "x032203" "x9A032A" "x666E3A" "x030303" "x723605" }
 		}
 		add_homeland = cu:wildlander
@@ -3782,6 +4196,7 @@ STATES = {
 	s:STATE_W02_19 = {
 		create_state = {
 			country = c:QCY
+			state_type = unincorporated
 			owned_provinces = { "x65061C" }
 		}
 		add_homeland = cu:wildlander
@@ -3789,6 +4204,7 @@ STATES = {
 	s:STATE_W02_12 = {
 		create_state = {
 			country = c:QCZ
+			state_type = unincorporated
 			owned_provinces = { "x182103" "x2B7D03" "x135569" "x59030A" "x6B7A03" "xA36572" }
 		}
 		add_homeland = cu:wildlander
@@ -3796,6 +4212,7 @@ STATES = {
 	s:STATE_W02_18 = {
 		create_state = {
 			country = c:QCZ
+			state_type = unincorporated
 			owned_provinces = { "x5C7C5F" }
 		}
 		add_homeland = cu:wildlander
@@ -3803,6 +4220,7 @@ STATES = {
 	s:STATE_W03_06 = {
 		create_state = {
 			country = c:QDA
+			state_type = unincorporated
 			owned_provinces = { "x92D417" }
 		}
 		add_homeland = cu:wildlander
@@ -3810,6 +4228,7 @@ STATES = {
 	s:STATE_W03_08 = {
 		create_state = {
 			country = c:QDA
+			state_type = unincorporated
 			owned_provinces = { "xA55E03" }
 		}
 		add_homeland = cu:wildlander
@@ -3817,6 +4236,7 @@ STATES = {
 	s:STATE_W01_223 = {
 		create_state = {
 			country = c:QDB
+			state_type = unincorporated
 			owned_provinces = { "xBFF9B7" "xA973E9" "xBB7BFC" "x6B446B" "xAEF4EE" }
 		}
 		add_homeland = cu:wildlander
@@ -3824,6 +4244,7 @@ STATES = {
 	s:STATE_W02_04 = {
 		create_state = {
 			country = c:QDC
+			state_type = unincorporated
 			owned_provinces = { "x940367" }
 		}
 		add_homeland = cu:wildlander
@@ -3831,6 +4252,7 @@ STATES = {
 	s:STATE_W02_10 = {
 		create_state = {
 			country = c:QDD
+			state_type = unincorporated
 			owned_provinces = { "x79033B" }
 		}
 		add_homeland = cu:wildlander
@@ -3838,6 +4260,7 @@ STATES = {
 	s:STATE_W02_13 = {
 		create_state = {
 			country = c:QDE
+			state_type = unincorporated
 			owned_provinces = { "x942931" }
 		}
 		add_homeland = cu:wildlander
@@ -3845,6 +4268,7 @@ STATES = {
 	s:STATE_W03 = {
 		create_state = {
 			country = c:QDF
+			state_type = unincorporated
 			owned_provinces = { "xE89A60" "xFC476D" "xFCBEBA" "xFCB5B9" "x92ECA6" "xACBE1C" "xFCA63A" "xA0B0A8" "xFC5E61" "xFC6633" "x90B147" "xCAA064" "xA1EE35" "xBD8888" "xB29484" "xFCDF2A" "xE398AA" "xD2DF3A" "xFCEA4C" "xE66285" "x927AAE" "xFC931C" }
 		}
 		add_homeland = cu:wildlander
@@ -3852,6 +4276,7 @@ STATES = {
 	s:STATE_W03_02 = {
 		create_state = {
 			country = c:QDG
+			state_type = unincorporated
 			owned_provinces = { "xFC7744" "xDCAC2C" }
 		}
 		add_homeland = cu:wildlander
@@ -3859,6 +4284,7 @@ STATES = {
 	s:STATE_W03_03 = {
 		create_state = {
 			country = c:QDH
+			state_type = unincorporated
 			owned_provinces = { "xFC3B9C" }
 		}
 		add_homeland = cu:wildlander
@@ -3866,6 +4292,7 @@ STATES = {
 	s:STATE_W03_04 = {
 		create_state = {
 			country = c:QDI
+			state_type = unincorporated
 			owned_provinces = { "xFC8A61" "xFA7571" }
 		}
 		add_homeland = cu:wildlander
@@ -3873,6 +4300,7 @@ STATES = {
 	s:STATE_W03_05 = {
 		create_state = {
 			country = c:QDJ
+			state_type = unincorporated
 			owned_provinces = { "xFCCFAC" "x89B2B6" "x9BCF30" "xFCB03E" "xFCBA0D" "xFC564C" "xFC7709" "xC8B19F" "xFC5921" "xFC7F66" "xFC6AAB" "xFB7FA3" "xAD61A1" "xA76BA6" "xFC9E0D" "xDAC245" "xA07415" "xFC6D24" "xCF3D2D" }
 		}
 		add_homeland = cu:wildlander
@@ -3880,6 +4308,7 @@ STATES = {
 	s:STATE_W03_07 = {
 		create_state = {
 			country = c:QDK
+			state_type = unincorporated
 			owned_provinces = { "x9B4325" }
 		}
 		add_homeland = cu:wildlander
@@ -3887,6 +4316,7 @@ STATES = {
 	s:STATE_W05 = {
 		create_state = {
 			country = c:QDL
+			state_type = unincorporated
 			owned_provinces = { "x8694CA" "x8685E6" "x985F83" }
 		}
 		add_homeland = cu:wildlander
