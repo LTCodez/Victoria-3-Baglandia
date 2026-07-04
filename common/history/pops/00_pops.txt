@@ -419,13 +419,7 @@ POPS = {
 		region_state:GUD = {
 			create_pop = {
 				culture = gudenish
-				size = 240000
-			}
-		}
-		region_state:JUD = {
-			create_pop = {
-				culture = judean
-				size = 140000
+				size = 380000
 			}
 		}
 	}
@@ -441,13 +435,7 @@ POPS = {
 		region_state:GUD = {
 			create_pop = {
 				culture = gudenish
-				size = 140000
-			}
-		}
-		region_state:JUD = {
-			create_pop = {
-				culture = judean
-				size = 280000
+				size = 420000
 			}
 		}
 	}
@@ -687,13 +675,7 @@ POPS = {
 		region_state:LOR = {
 			create_pop = {
 				culture = lorrevalian
-				size = 200000
-			}
-		}
-		region_state:NAU = {
-			create_pop = {
-				culture = nauerthi
-				size = 180000
+				size = 380000
 			}
 		}
 	}
@@ -853,13 +835,7 @@ POPS = {
 		region_state:NAU = {
 			create_pop = {
 				culture = nauerthi
-				size = 280000
-			}
-		}
-		region_state:LOR = {
-			create_pop = {
-				culture = lorrevalian
-				size = 80000
+				size = 360000
 			}
 		}
 	}
