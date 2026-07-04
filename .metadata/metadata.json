@@ -12,6 +12,7 @@
     "multiplayer_synchronized": true,
     "replace_paths": [
       "common/achievements",
+      "common/ai_strategies",
       "common/character_templates",
       "common/coat_of_arms/coat_of_arms",
       "common/coat_of_arms/template_lists",
