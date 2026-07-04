@@ -1,132 +1,122 @@
-# Baglandia national cultures (one per nation, templated from vanilla name lists)
-
+# Cortia national cultures + wildlander
 buenish= {
 	color= rgb{ 55 241 123 }
-	religion = catholic
-	heritage = heritage_germanic
-	language = language_germanophone
+	religion = protestant
+	heritage = heritage_nordic
+	language = language_scandinavian
 
 	obsessions = {
-		meat
+		coffee
 	}
 
 	traditions = { }
+
 	male_common_first_names = {
-		Adolf Albrecht Alexander Alfons Alois Anton Arthur Albert Arnulf
-		Bernhard Benignus
-		Christian
-		Edmund Eduard Engelbert Ernst Erwin Emil Eugen Emanuel
-		Ferdinand Franz Friedrich Felix
-		Gebhard Gerhard Gottfried Gustav Gunther Gottleib
-		Heinrich Hermann Horst Hugo
-		Jakob Joachim Johann Joseph Julius
-		Karl Konrad Kurt Kasimir Klemens
-		Leonhard Leopold Lorenz Lothar Ludwig Luitpold
-		Maximilian Michael Martin Moritz
-		Nikolaus Nepomuk
-		Otto
-		Peter Paul
-		Reinhold Rudolf Rupprecht
-		Stefan Siegmund
-		Theodor Thomas Theophil
-		Valentin Viktor Vitus Veit
-		Walter Werner Wilhelm Wolfgang Walther
-		Xaver
+		Albrecht Alexander Aron Arnold Anton August Axel Albert Anders Adolf Andreas Abraham Axel_Knut
+		Baltzar Bror Bengt Bo BjO_rn
+		Carl Christofer Charles Carl_Edvard Carl_Fredrik Carl_GO_ran Carl_Adam Carl_Axel
+		Daniel Didrik David
+		Edvard Elias Erkers Emil Erik Esaias Emanuel Eric Enar Erik_Gustaf
+		Fabian Frans Fredrik Fritz
+		Gunnar Gustav Gustaf Gustaf_Adam Gustaf_Adolf
+		Henrik Hans HA_kan Henning Herman
+		Isak
+		Jakob Jesper Johan Julius Jonas Jon JO_ns Jan Johannes Johan_Fredrik Jules
+		Karl Knut Klas
+		Lars Lorentz Ludvig Leif
+		Magnus Mikael Martin Michael Mats Mattias MA_rten
+		Nikolaus Nils Niklas Nils_Samuel Nils_August
+		Olof Oscar Ola Otto Olaus
+		Per Petter Peter Pehr
+		Rudolf
+		Sten Sven Stefan Simon Samuel Svante
+		Theodor Thomas
+		Ulf
+		Verner Viktor Vilhelm Wilhelm
+		Zacharias
 	}
 	female_common_first_names = {
-		Anna Adelgunde Alexandra Augusta
-		Charlotte
-		Dorothea Dietlinde
-		Elisabeth
-		Gundelinde
-		Helmtrude
-		Karoline
-		Ludwiga Luise Ludovika
-		Maria Maria_Anna Maria_Beatrix Mathilde
-		Notburga
-		Therese
-		Ulrike
-		Wiltrud Wilhelmine
+		Anna Agda Amalia Augusta
+		Birgitta Brita Bengta Britta
+		Carolina Christina Charlotta
+		Erika Eva Emma Elna
+		Fredrika Fenni
+		Gerda Gustafva Greta
+		Hanna Helga Helena
+		Ingrid Inga Ida
+		Johanna Josefina
+		Kristina Kajsa Klara Karin Kerstin Karolina Karna
+		Louise Lovisa
+		Margaretha Matilda Maja Maria Mathilda Matilda
+		Sofie Sanna Stina Sofia Sara
+		Ulrika
+		Wilhelmina
 	}
 	noble_last_names = {
-		d_Aspre_von_Hoobreuk von_Adelmann von_Andlaw-Birseck
-		von_Baader von_Baden von_Benedek von_Brudermann von_Bohm-Ermolli von_Bissingen-Nippenburg von_Berlichingen von_Binder von_Buss von_Bosch von_Bomhard von_Bothmer von_Brug von_Berchem von_Le_Bret-Nucourt von_Benzino von_Bibra von_Baligand
-		Cotton_von_Cottendorf von_Clam-Gallas von_Closen von_Crailsheim
-		von_Denis von_Dietrich von_Diemar von_Deroy von_DU_rckheim-Montmartin von_DU_well
-		von_Endres
-		von_Fleischmann von_Fray von_Freyen-Seyboltstorff von_Fels von_Froberg-Montjoye von_Freyberg-Eisenberg von_Fleury_auf_Hilling von_Fritsch
-		von_Gablenz von_Grunne von_Giech von_Geldern von_Greis von_Gumppenberg von_Grauvogl von_Godin von_Gonnermann von_Gebsattel von_Gravenreuth von_Gramich von_Grossschedel von_GO_riz von_Gyssling
-		von_Hartmann von_Haynau von_Helmholtz von_Hertel von_Hess von_Hohenhausen von_Hortstein von_Hotzendorf zu_Hohenlohe von_Habsburg von_Hegnenberg-Dux von_Herder von_Hafner Hofer_von_Lobenstein von_Hohenlohe-Langenburg von_Hornstein-Bussmannshausen von_Hohenlohe-O_hringen von_Hertling von_Hagens von_Helvig von_Horn von_Hartz von_Hoyos-Sprinzenstein
-		von_Itzstein
-		von_Jeetze
-		Kress_von_Kressenstein von_Kirbach von_Kobratin von_Kettner Keller_von_Schleitheim
-		Leutrum_von_Ertingen von_Lotzbeck von_Lepel von_Leonrod von_Lindheimer von_Lossow
-		von_Maffei von_Mayersbach von_Montgelas von_Mohl von_Massenbach von_Meldegg von_MalaisE_ von_Madroux von_Maillinger von_Menz
-		von_Neipperg von_Nesselrode-Hugenpoet von_Neubeck von_Nagel_zu_Aichberg von_Mieg
-		von_Oettigen-Wallerstein
-		Poschinger_von_Frauenau von_Pauli von_Pfeufer von_Pranckh von_Parseval von_Pechmann von_Pfetten-Arnbach von_Preysing-Moos zu_Pappenheim von_Pillement
-		von_Quadt-Wykradt-Isny
-		von_Rotenhan von_Zu_Rhein von_Rinecker von_RO_mer von_Rechberg von_La_Roche-Starkenfels Rinck_von_Baldenstein von_Rochau RU_dt_von_Collenberg von_Ruckteschell von_Reichlin-Meldegg von_Reysing
-		Schnorr_von_Carolsfeld von_Schonburg von_Scherer von_Struve von_sch_Onborn-Wiesentheid von_Seutter von_Sternenfels von_Soiron von_Stockhorner-Starein von_StO_sser von_Speti von_Stockum-Sternfels von_SchO_nprunn von_Seyssel_d_Aix von_Safferling von_Schuh von_Le_Suire von_Saporta
-		von_Tegetthoff von_der_Tann von_Thurnberg von_TA_uffenbach von_der_Tann-Rathsamhausen
-		von_Uchatius
-		Vogt_von_Hunoltstein von_VarnBU_ler von_Vallade
-		von_Weigert von_Wittelsbach von_Wurttemberg von_Wrede von_WA_chter von_Waechter-Spittler von_WO_llwarth von_Waldburg-Zeil von_Wirthmann von_WalderstO_tten von_Wallbrunn von_Welsch von_Winneberger
-		von_Xylander
-		von_Zahringen von_Zandt von_Zwanziger
+		Almqvist
+		af_Ugglas af_Klint af_RosenschO_ld
+		Beck-Friis Berlin Brummer Brahe Brakenhielm Bremer Breitholtz Bildt
+		Casparsson CederstrO_m Crusebjorn
+		De_Geer Dickson de_Laval
+		Ehrengranat EhrensvA_rd Ehnemark Ehrenstam
+		Faxe Funck Fleetwood
+		Gyldenstolpe Gyllenstierna Gyllengranat
+		Hamilton Hermelin Hallenborg
+		Koskull Kuylenstjerna
+		Lagersvank Lagerbjelke Leijonhufvud
+		Morner Meijer
+		Nordenfalk Nordenfeldt Nordenskiold
+		Odelberg
+		Palmstierna Piper Palanger_af_Vega Palmstierna
+		Raab Reuterskiold Rappe Rosensvard
+		Sprengtporten Stiernblad SilfverschiO_ld Storckenfeldt Sprengtportem  Schartau
+		Trolle TornE_rhjelm Tawast Thulstrup Tingsten
+		von_Essen von_Ehrenheim von_Fersen von_Hohenhausen von_Otter von_Platen von_Schwerin von_Gegerfelt von_Koch von_Geijer von_Holstein von_MO_ller von_Hofsten
+		Weidenhielm Wallenberg Wachtmeister Windahl
 	}
 	common_last_names = {
-		Auerbach Aldinger
-		Bachmann Beck-Rzikowsky Blos Barchet Bantlin Bech Bassermann Baum Bissing Bleidorn Beckmund Bedall
-		Christmann CarovE_ Correck Cella
-		Dankl Dauer Dollmann Depre Doll Deusch Dennig Deuringer Denzler Deppert
-		Eisner Eppelsheimer Exter Eppelsheim Eisenmann Edel Ermarth Ehrensberger Eder
-		Foerderreuther Frauendorfer Friedel Frommknecht Federer Fetzer Frueth Fallenstein Frech Fasbender
-		Geiss Gerber Goering Gollwitzer Graff Groeschel Groth Grohe Gervinus GA_tschenberger Gloss_ Gruny
-		Hainisch Haus Held Hellpach Helmerich Hoffmann Homberger Hummel Hepp HA_gelin Hagen HA_usser Hecker Helbing Helmreich Hoff HO_genstaller Horadam Hinzler Hitzen Hopffer Hebberling
-		Ipfelkofer
-		Junghannss
-		Kessler Kohler Kolb Keil KO_lliker Kapp KlU_ber Kemmer Killermann Kiessling Krazeisen
-		Lakner Lehmkuhl LanghA_user
-		Mergenthaler Miklas MO_gling Mohl Murschel Mack Mathy Mez Mittermaier Margreither
-		Nebenius Neumann Neuffer
-		Olbers Orff Obermair
-		Platner Prang Press Platner Pfaff Pauer Prand Pfluegl Pesenecker
-		Quitzmann
-		Rahl Remmele Rosenhaupt Riedl RO_dinger Reyscher Ruoff Rau Richter Reisterer
-		Schmitt Schobber Seitz Steeb Stolzer Strauss Sailer Spatz Schott Seeger Stierlen Schweickhardt SchU_bler Sachs Schaaff Scheffold Seltzam Siegler Speyerer Solger Seekirchner Schmauss Schmidtler
-		Trient Trunk Teutsch Titus Tafel
-		Unglaub Uhland Ullrich Usselmann
-		Voelcker Veiel
-		Wagner Wittmann Willich Wolf Wiedmann Walchner Welcker Weller Welte Werner Winter Weiss-Jonak
-		Zeller Zenger Zink Zentner Zittel Zerreiss
+		Andersson Arenius Adlersparre Almquist Abelin Axelsson Arvidsson Andreasson
+		Bergstedt Berggren Borg Bjornstjerna BillstrO_m BjO_rck Brusewitz BjO_rkenstam Beckman Bennich Bergman Bernardotte Blomqvist Bengtsson Berg BergstrO_m Berglund BjO_rk Berggren Blom
+		Casparsson Caspersson Christerson Carlberg Croneborg Cassel Cronstedt Carlsson
+		Dahlberg Dyrssen Danielsson Dahl
+		Ekman Ekenman Eriksson Eklund EngstrO_m Eliasson Ek
+		FA_hrAE_us FrO_man Fredriksson Forsberg Fransson
+		Gyllenram Gustafsson Gustavsson Gunnarsson
+		Hammar Holmgren Haeggman Holmberg Hasselrot Herlenius Hammarhjelm HeijkenskjO_ld Hansson Henriksson Holm HA_kansson Hermansson Holmgren Hedlund HellstrO_m
+		Ingelman Isaksson
+		Johansson Jons Jonsson Jansson JO_nsson Jakobsson Johnsson Jonasson
+		Karlsson
+		Larsson Lindman Lundell Lindberson Lohmander LilliehO_O_k Lagerberg LagerstrA_le Landgren Lagercrantz Lindberg Lindgren LindstrO_m Lundberg Lundgren Lindqvist Lundin Lind Lundqvist
+		Meyer Munthe Malmsten Magnusson Mattsson MA_rtensson Martinsson Abrahamsson
+		Nordenfelt Nisser NordstrO_m Nilsson Nyberg NystrO_m
+		Oltner Olsson Olofsson
+		Peyron Petre Persson Pettersson	Petersson
+		Rosengren Rettig Ros Rydin Ryding
+		Samuelsson StA_lhammar Sparre Sahlin Selggren Selander Svensson Sandberg SjO_berg Strom SO_derberg 	Sundberg
+		Tiger Tulldahl Thorburn Troilius Tersmeden Taube Thornell
+		Ulner Uggla
+		Virgin
+		Wadensten Westman WAE_rn Wallin
 	}
 	male_regal_first_names = {
-		Albert
-		Ernst
-		Franz Felix
-		Karl Karl_Ludwig
-		Ludwig
-		Maximilian
-		Otto
-		Rudolf
+		Carl Carl_Johan
+		Gustaf Gustaf_Adolf
+		Johan
+		Oscar
+		Sigismund
 	}
 	female_regal_first_names = {
-		Amalie Adelheid
-		Charlotte
-		Eugenie Elisabeth
-		Gisela
-		Maria_Theresia Maria_Josepha
-		Theresia
-		Sophie
+		Kristina
+		Louise
+		Sofia
+		Ulrika_Eleonora
+		Victoria
 	}
 	regal_last_names = {
-		von_Habsburg von_Hohenberg
-		von_Meran
+		von_Hesse
+		von_Holstein_Gottorp
 		von_Wittelsbach
-		von_Zahringen
 	}
-
 	graphics = european
 	ethnicities = {
 		1 = caucasian
@@ -2270,6 +2260,202 @@ shinigawan= {
 	graphics = east_asian
 	seal_and_signature_texture = "gfx/interface/diplomatic_treaties/seal_and_signature_cultures/diplomatic_treaties_seal_and_signature_japanese.dds"
 }
+kawamuran= {
+	color= rgb{ 93 88 204 }
+	religion = mahayana
+	heritage = heritage_japanese
+	language = language_japanese
+	traditions = { }
+	name_format = last_first
+
+	obsessions = {
+		tea
+	}
+
+	taboos = {
+		meat
+	}
+
+	male_common_first_names = {
+		Aritomo
+		Gentaro
+		Gonnohyoe
+		Goro
+		Hayao
+		Heihachiro
+		Hikonojo
+		Hiroshi
+		Hyoe
+		Iwao
+		Jinzaburo
+		Jiro
+		Kageaki
+		Kagenori
+		Kantaro
+		Kazushige
+		Keisuke
+		Kenkichi
+		Kiyotaka
+		Koichiro
+		Kotohito
+		Kozo
+		Kuranosuke
+		Maresuke
+		Masatake
+		Masujiro
+		Michitsura
+		Mineo
+		Mitsue
+		Mitsuomi
+		Nariaki
+		Nobuyoshi
+		Rokuro
+		Sadao
+		Samata
+		Shichiro
+		Shigeru
+		Shigeto
+		Shinsaku
+		Shoin
+		Soroku
+		Sotokichi
+		Sukenori
+		Sukeyuki
+		Sumiyoshi
+		Tadakuni
+		Takamori
+		Takayoshi
+		Takeaki
+		Tamemoto
+		Taro
+		Taruhito
+		Tetsutaro
+		Tomasaburo
+		Tomonosuke
+		Toshimichi
+		Toshiyoshi
+		Tsugumichi
+		Yahachi
+		Yasukata
+		Yasuyoshi
+		Yoshida
+		Yoshifuru
+		Yoshika
+		Yoshimichi
+		Yoshinobu
+		Yoshinori
+		Yusaku
+	}
+	female_common_first_names = {
+		Asako
+		Chikako
+		Ginko
+		Gyokuran
+		Kaho
+		Keiko
+		Kin
+		Kumehachi
+		Masako
+		Miki
+		Natsu
+		Nobu
+		Oi
+		Rengetsu
+		Sayoko
+		Teru
+		Toyoko
+		Tsuneko
+	}
+	noble_last_names = {
+		Hayashi
+		Ito
+		Jutoku
+		Kujo
+		Matsudaira
+		Mitsune
+		Nabeshima
+		Togo
+		Tokugawa
+		Narimasa # Satsuma
+		Matsumae # Matsumae
+		Ii # Hikone
+		Mori # Choshu
+		Hachisuka # Tokushima
+		Maeda # Kaga
+		Date # Sendai
+		Hotta # Sakura
+	}
+	common_last_names = {
+		Akiyama
+		Araki
+		Arichi
+		Arisugawa
+		Dewa
+		Enomoto
+		Hasegawa
+		Honjo
+		Ichinohe
+		Inoue
+		Itagaki
+		Kabayama
+		Kamimura
+		Kamio
+		Kanin
+		Kataoka
+		Kato
+		Katsu
+		Katsura
+		Kawakami
+		Kawamura
+		Kido
+		Kodama
+		Kuroda
+		Kuroki
+		Makino
+		Masaki
+		Minami
+		Muto
+		Nakamuta
+		Nire
+		Nogi
+		Nozu
+		Okada
+		Oku
+		Okubo
+		Omura
+		Osumi
+		Oyama
+		Saigo
+		Sakura
+		Sato
+		Shibayama
+		Shimamura
+		Shirakawa
+		Suzuki
+		Tachibana
+		Takashima
+		Takasugi
+		Tamon
+		Terauchi
+		Tsuboi
+		Ueda
+		Uehara
+		Ugaki
+		Uryu
+		Yamagata
+		Yamakawa
+		Yamamoto
+		Yamashita
+		Yamaya
+		Yashiro
+		Yui
+	}
+	ethnicities = {
+		1 = asian
+	}
+	graphics = east_asian
+	seal_and_signature_texture = "gfx/interface/diplomatic_treaties/seal_and_signature_cultures/diplomatic_treaties_seal_and_signature_japanese.dds"
+}
 rikujan= {
 	color= rgb{ 26 195 198 }
 	religion = mahayana
@@ -2837,123 +3023,148 @@ berhambian= {
 		1 = caucasian
 	}
 }
-huhnish= {
+pickish= { # "English" in localization
 	color= rgb{ 28 188 205 }
-	religion = orthodox
-	heritage = heritage_east_slavic
-	language = language_east_slavic
+	religion = protestant
+	heritage = heritage_british
+	language = language_anglophone
+	traditions = { }
 
 	obsessions = {
-		liquor
+		tea
 	}
 
-	traditions = { tradition_russosphere }
 	male_common_first_names = {
-		Aleksandr Alexei Andrei Anton
-		Boris
-		Dmitry
-		Fyodor
-		Gennady Giorgi Grigoriy
-		Igor Ivan
-		Kirill Konstantin
-		Lavr Leonid Lev
-		Maxim Mikhail
-		Nikita Nikolai
-		Oleg
-		Pavel Pyotr
-		Roman
-		Semyon Sergei
-		Valery Vasily Viktor Vladimir Vladislav
-		Yegor Yevgeny Yuri
+		Algernon Alexander Adam Andrew Albert Alphonse Arthur Augustus Anthony Archibald Adolphus Abel Alfred Acton Aylmer Ambrose Austen Adrian Alan Arnold Auberon Allen
+		Bruce Benedict Beauchamp Benjamin Byron Bartholomew Barnaby Basil Bertram Bertrand
+		Charles Christopher Cecil Chichester Collingwood Cornelius Caleb Clarence Claude
+		David Daniel Donald Dudley
+		Ebenezer Edward Edmund Edgar Evelyn Egerton Edwin Eustace Eric
+		Francis Frederick Frederic Fairfax
+		George Gregory Garnet Guildford Gathorne Gerard Gipps Granville Geoffrey Gonville Godfrey
+		Harold Henry Hugh Horatio Hedworth Humphrey Harold Harcourt Hedley Herbert
+		Isambard Isaac
+		John James Jacob Jeremy Joseph Julian Josslyn Joshua
+		Kenelm
+		Laurence Leonard Lyon Lionel Lewis
+		Mark Michael Matthew Massey Montague Myles Murrough Maurice Martin Maxwell
+		Nigel Nicholas Nathaniel Neville
+		Oliver Octavius Oscar Oswald
+		Peter Paul Patrick Poulett Philip Percy
+		Richard Robert Roger Rudyard Redvers Rowland Reginald Roundell Rupert Rufus Ross
+		Stephen Simon Spencer Stanley Samuel Stafford Sewallis Sackville Sutherland
+		Theodore Tristan Theobald Thomas Terence Teignmouth Timothy
+		Victor Valentine_2
+		Winston Walter William Wilfred Watkin Wellwood Weston Wentworth Wilbraham Wyndham Weetman
+		Zachary
 	}
 	female_common_first_names = {
-		Aleksandra Anastasiya Anna Avdotya
-		Daria
-		Elena Elizabeta Evgenia Evlalia
-		Kira
-		Lydia Lyobov
-		Maria
-		Natalya
-		Olga
-		Sofia
-		Tatiana
-		Varvara Vera Yekaterina Yulia
-		Xenia
-		Zinaida
-	}
-	noble_last_names = {
-		Adlerberg
-		Barclay_de_Tolly Bestuzhev-Ryumin Bulatovich Buturlin
-		Dolgorukov Demidov
-		Fikelmon
-		Greig Gruzinsky Golitsyn
-		Ignatiev Ivelich
-		Kamensky Kelch Kern Kushelev-Bezborodko Kutaisov Kurakin
-		Hoyningen-Huene
-		Lopukhin Lobanov-Rostovsky
-		Matveyev von_Mohrenheim Meshchersky
-		Orlov
-		Pistohlkors Putyatin
-		Rostopchin Rumyantsev Romanov
-		Saltykov
-		Tolstoy
-		Volkonsky
-		Witte
-		Yengalychev Yusupov Yuryevsky
+		Alice Anne Ada Arabella Amelia Adelaide Agnes Alethea Augusta Adela Annot Amabel
+		Barbarina Bertha Beatrice Barbara
+		Catherine Charlotte Constance Clara Caroline Clementina Cecilia Christabel Camilla Christina
+		Dorothea Diana
+		Edith Emma Elizabeth Eleanor Eliza Emmeline Esther Euphemia Ella
+		Frances Flora Florence Favell Felicia
+		Georgia Gertrude Georgiana Geraldine Grace Grisell
+		Hannah Harriette Harriet Henrietta
+		Isabella Ivy
+		Jane Josephine Joanna Julia Jeanette Janet
+		Lucy Lydia Louisa Laura Laetitia Lillian
+		Mary Marianne Mathilde Margaret May Marian Madeleine Menella Mariana
+		Nona Nora
+		Olivia
+		Phoebe Pauline
+		Rachel Rhoda Rosina Rosaline Regina Ruth
+		Sarah Sophia Selina Sibella Susan
+		Theodora
+		Victoria Violet Virginia
+		Wilhelmine
 	}
 	common_last_names = {
-		Alexseyev Antonov Azarov
-		Badanov Brusilov Budyonny Bolkhovitinov
-		Chibisov
-		Denikin Dragomirov
-		Frolov
-		Golovin Grishin Gurko
-		Ivanov
-		Kasso Kolchak Konev Konstantinov Kornilov Kuropatkin
-		Lazarev
-		Makarov Menshikov
-		Nakhimov Nebogatov Nikolaevich
-		Ostrovsky
-		Pavlov Putyatin
-		Rozhestvensky
-		Shuvalov Skobelev Surkov Sorokin
-		Tukhachevsky
-		Vorontsov Voroshilov
-		Yegorov Yudenich
-		Zavoyko
-	}
-	male_regal_first_names = {
-		Aleksandr Alexei
-		Ivan
-		Kirill Konstantin
-		Mikhail
-		Nikolai
-		Pavel Pyotr
-	}
-	female_regal_first_names = {
-		Anastasiya Anna
-		Elena Elizabeta Evgenia
-		Kira
-		Maria
-		Olga
-		Xenia
-		Yekaterina
-	}
-	regal_last_names = {
-		Belevsky-Zhukovsky
-		Konstantinovich
-		Mikhailovich
-		Nikolaevich
-		Pavlovich Paley
-		Romanov
-		Vladimirovich
+		Allenby Anstruther Abercromby Annesley Assheton Arkwright Acland Armistead Archdale Anderson Akroyd Adair Aytoun Amcotts Allen Amherst Ashton Aytoun
+		Brown Buller Barrie Bright Benyon Brinckman Bathurst Bagwell Brewer Bruce Backhouse Bass Bateson Bowring Bourne Barrington Blennerhassett Bourke Beach Beaumont Brassey Bailey Biddulph Brand Baring Baines Brocklehurst Bentall Bazley Birley Bingham Bolckow Baxter Bagge Barttelot Beevor Barbauld Balfour Baillie Barnard Bayly Beerbohm Bellairs Bewick Bloomfield Blagden Borthwick Booth Bousfield Brightwell Broderip Broughton Budden Burdon Borradaile Buxton Beauclerk Bosanquet Bromhead Brightwen Brander
+		Cory Chard Courtney Coward Cowell Craufurd Cave Collins Cadogan Chambers Conolly Callan Coleridge Cole Carnegie Cholmeley Clive Croft Cowper Cameron Castlerosse Clay Cogan Colthurst Colebrooke Cross Chaplin Cowen Cartwright Cardwell Corrance Cochrane Conroy Cotton Calthorpe
+		Duff Dalrymple Dixon Dalway Dilke Downing Dickson Davison Dalglish Dimsdale Dyott Dowse Dawson Dease Denison Dillwyn Dow Dunnell Despard Day Darter Selkirk
+		Edge Ennis Edwards Eaton Elliot Elcho Eastwick Eddowes
+		Fortescue Finnie Fordyce Feilden Forster Fowler Fagan Fletcher Fellowes Fothergill Fetherstonhaugh Fanshawe Flowerdew Fullteron Fleming Follows
+		Gresley Gooch Grenfell Glass Gilpin Gilbert Grosvenor Goldney Graham Grieve Goschen Gimbert Gardener Grimstead Greenwell
+		Howard Hornby Hick Hughes Hardcastle Hope Hibbert Hoare Hodgson Henderson Hanmer Hughes Hutt Holford Holms Hurst Holmesdale Holt Harris Heygate Hodgkinson Headlam Hutton Haig
+		Illingworth Ivatt Irby Inchbald Ingelow Inglis
+		Jones Johnston Jessel Jardine Jackson Jolliffe
+		Kennard Kavanagh Kekewich Keown Knox Kingscote Knightley Kinnaird Kinglake Kempthorne
+		Lovelace Laird Lambert Lawson Legh Lennox Lowther Lopes Lefroy Lusk Leatham Lowe Leslie Lane Letby Larwood
+		Moore Macfarlane Mellor McClure Muntz Murphy Maguire Matthews Miller Merry Moncreiff Monk Marling Mackintosh McArthur Manners Macfie McLagan Moore McEvoy Mitford McMahon Matheson Moynihan Majendie Mansfield Marindin Markham Maxse McBean McCorrie McDermond McMurdo McWheeney Mouat
+		Northcote North Nicol Norwood Nightall Notcott Newdegate Napier
+		Otway Ogilvy Onslow Ord Owens
+		Primrose Plunket Potter Plimsoll Pakington Pim Pease Playfair Price Pell Pelham Palmer Ponsonby Peppercorn Pennefather Plumptre Pitblado Pardoe Palliser Pardon
+		Rawlinson Robertson Ripley Richards Raikes Rebow Round Reed Ramsden Pennington Ross Rumbold Raines Ramage Ridley Rowlands Russell Reddish Ridding
+		Stephenson Stanhope Seymour Stronge Sullivan Shaftoe Samuelson Shaw Stapleton Sartoris Saunderson Staveley Strutt Sheridan Stacpoole Scargill Salomons Stansfeld Smith Starkie Synan Seely Shirley Sidebottom Scratchley Sargent Shields Shute Sandbach Sellon Squire Snodgrass Stanger Sibthorp Sparks
+		Tite Traill Torrens Tollemache Trehawke Taylor Talbot Tomline Tolman Trevelyan Temple Thornycroft Troubridge Templeton Teesdale Tottenhame Tremayne Titmus Tyldesley
+		Upton Underdown
+		Veitch Vance Verner Vandeleur Vivian Vicars
+		Woollcombe Wedderburn Whitbread Whitmore Willyams Whitworth Waterlow Williamson Wethered Wyllie Wheelhouse Whatman Waterhouse Walsh Winterbotham Weguelin Wedgwood Whitelaw Wheatley Wingate Willan Waugh Wisden
+		Young Younghusband
 	}
 
-	ethnicities = {
-		1 = slavic
+	male_noble_first_names = {
+		# populate with names here
 	}
+	female_noble_first_names = {
+		# populate with names here
+	}
+	noble_last_names = {
+		Agar-Ellis Althorp
+		Baden-Powell Brudenell-Bruce Bolingbroke Bridport Butler-Henderson Bowes-Lyon Bulwer-Lytton Bertie
+		Churchill Cromwell Cavendish Crichton-Stuart Cowell-Stepney Cowper-Temple Crum-Ewing Campbell-Bannerman Cobham Courtenay Caversham
+		Dawson-Damer Dalrymple-Hay
+		Enfield
+		FitzGerald FitzMaurice Ferguson-Davie Falmouth Fane Foley
+		Grey Gordon-Lennox Greville-Nugent Graham-Montgomery Goldsmid Green-Price Gathorne-Hardy Glencorse
+		Hamilton Haviland-Burke Hill-Trevor Hanbury-Tracy Henley Hampden Hume-Campbell
+		Jones-Parry Jervis-White-Jervis
+		Keppel
+		Loyd-Lindsay Leveson-Gower Launceston Lane
+		Maynard Manningham-Buller Meynell-Ingram Montgomery-Cuninghame Mure-Campbell
+		Newport Newark
+		Orr-Ewing Ormsby-Gore
+		Pleydell-Bouverie Pelham-Clinton Prothero
+		Rosebery Ruggles-Brise Ramsay-Gibson-Maitland Rawdon-Hastings
+		Salisbury Salusbury-Trelawny Smith-Barry Selwin-Ibeetson Sclater-Booth Somerset Stopford-Sackville Shaw-Lefevre Spencer-Churchill
+		Thoroton-Hildyard Torrington Trevor Tadcaster Trematon Townsend
+		Walpole Williams-Wynn Wingfield-Baker Wilson-Patten Welby-Gregory Windsor-Clive Wentworth-FitzWilliam Waldegrave Withers-Lancashire
+	}
+
+	male_regal_first_names = {
+		Alexander Albert Augustus
+		Edward Edmund
+		Frederick
+		George
+		Henry
+		Leopold
+		William
+	}
+	female_regal_first_names = {
+		Alexandrina Alice Augusta
+		Beatrice
+		Elizabeth
+		Helena
+		Louise
+		Margaret Maud Mary
+		Sophia
+		Victoria
+	}
+	regal_last_names = {
+		Brydges Brudenell-Bruce
+		Child_Villiers Conroy
+		FitzClarence
+		Rawdon-Hastings
+		Seymour
+	}
+
 	graphics = european
-	seal_and_signature_texture = "gfx/interface/diplomatic_treaties/seal_and_signature_cultures/diplomatic_treaties_seal_and_signature_russian.dds"
+	ethnicities = {
+		1 = caucasian
+	}
 }
 mackingian= { # "English" in localization
 	color= rgb{ 210 202 52 }
@@ -3216,124 +3427,135 @@ aberesi= {
 	graphics = european
 	seal_and_signature_texture = "gfx/interface/diplomatic_treaties/seal_and_signature_cultures/diplomatic_treaties_seal_and_signature_russian.dds"
 }
-alsemian= {
-	color= rgb{ 43 101 236 }
-	religion = catholic
-	heritage = heritage_gallic
-	language = language_francophone
-	traditions = { }
+wildlander= {
+	color= rgb{ 150 140 110 } # Sky Blue
+	religion = protestant
+	heritage = heritage_north_american_settler
+	language = language_anglophone
 
 	obsessions = {
-		wine
+		coffee
+		small_arms
 	}
 
+	traditions = { }
 	male_common_first_names = {
-		Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand Auguste Augustin Alcide Andre Alexandre Athanase Abel Ambroise Aristide AlbE_ric Archambaud Alexis
-		Bertrand Bernardin Bernard Barthelemy
-		Charles Constant Camille Claude CE_lestin Christophe Cyprien
-		Daniel Denis Donat Dominique
-		Elie Eugene Edouard E_tienne Emile Emmanuel E_vrard ElzE_ar
-		Fernand Francois Frederic Felicien Felix Firmin Ferdinand
-		Georges Guillaume Gustave Gaston Guy Germain
-		Henri Hippolyte Hubert Hugo Hercule Hugues Hyacinthe
-		Jacques Jean Joseph Jules Julien Jeremie JE_rO_me Just
-		Lazare Louis Lucien Leopold_2 Leon Laurent Lazare LE_onide LE_once
-		Matthieu Michel Marcel Maximilien Maxime Maurice MoI_se
-		Napoleon Nicolas
-		Olivier Oscar Octave Odilon
-		Patrice Paul Philippe Pierre Prosper Pascal
-		Quentin
-		Robert Roland Rodolphe Raymond RenE_ RE_my
-		Sebastien Simon
-		Thibaut Thierry Thomas Theophile ThE_odore ThE_obald
-		Ulysse
-		Vincent Victor
-		Xavier
-		Yves
+		Albert Alexander Aeneas Andrew Aaron Alton Atlee Asa Ambrose Abner Alvin August Abraham Abel Abijah Alonzo Ansel Amos Absalom
+		Benjamin Bartholomew Byron Benedict Barnabas Bildad
+		Charles Cyrus Chester Cassius Calvin Cornelius Conrad Caleb Cephas Clarence Colcord
+		Daniel David Dwight
+		Ezekiel Enoch Elihu Edward Eugene_2 Eustace Edwin Elam Ezra Ebenezer Elijah Emory Ephraim Erasmus Elton Erastus Emerick
+		Franklin Francis Frederick
+		Grenville George Gregory Grover Gabriel Gorham Gordon
+		Henry Hannibal Hugh Horatio Horace Hiram Harold Hazen Hector
+		Isaac Isaiah Irving Ichabod
+		Joshua Joseph John James Jacob Jesse Joel Jeremiah Jeffrey Judah Jonas Jedediah Jonathan Josiah
+		Kermit Kenner
+		Lemuel Lysander Lawrence Lewis Lorenzo Leland Levi Leonard Lucius
+		Micah Marcellus Mark Michael Millard Matthew Matthias Montgomery Maxwell Milton
+		Nicholas Noah Nathaniel Newton Nelson
+		Obadiah Othniel Oswald Orson Orville Oscar Otis Oliver Orrin Owen Ormsby
+		Peter Paul Patrick Philip Phineas Philemon Purley Palmetus Philetus
+		Quentin Quincy
+		Rutherford Richard Robert Rufus Roger
+		Stephen Silas Samuel Seth Simon Sidney Sylvester Shubael
+		Thomas Theodore Thaddeus
+		Ulysses Upton
+		Victor Valentine_2
+		William Walter Winfield Wesley Wilbur Wendell
+		Zebulon Zachary Zalmon Zadok
+
 	}
 	female_common_first_names = {
-		Adelaide_2 Adele_2 Alexandrine Amelie_2 Angelique Anne Antoinette Athenais Augustine
-		Beatrice Blanche
-		Camille Caroline Catherine Charlotte Claire Clemence Clotilde
-		Delphine Diane DesirE_e
-		Eleonore_2 Ernestine Eugenie Eulalie
-		Francoise
-		Gabrielle
-		Henriette Hortense
-		Jeanne Julie Juliette Justine
-		LE_ontine Leopoldine Louise Louise-Victorine
-		Marcelle Marguerite Marie Marie-Anne Marie-Felix Marthe Mathilde Melanie
-		Pauline Paule
-		SE_raphine Sibylle Sophie Stephanie Suzanne
-		Therese_2
-		Victoire Victorine Virginie
+		Amanda Anna Alice Adaline Adelaide Augusta Antoinette Alida Addie Ariel Ada Agnes Agatha Almira Arlevia Azubah
+		Catharine Charlotte Clara Cynthia Charity Cordelia Cornelia
+		Delia Deborah Delima
+		Elizabeth Evelina Emily Esther Eliza Ellen Eunice Emma Estelle Eudora Eleanor Ella Eleura Elnora Edith Ethel Ethelinda Euphemia Eva Elida
+		Frances Florence Faith Florena
+		Gertrude Geraldine Grace Graceanna Glathia
+		Hannah Henriette Helen Harriette Hephzibah Huldah
+		Isabella Ida
+		Jane Julia Judith Josephine
+		Lucy Louisa Lavilla Lydia Lilian Lucretia Luetta Leonora
+		Mabel Mary Mildred Melissa Minerva Martha Matilda Marjorie Malvina Mahala
+		Nancy Nellie
+		Olive
+		Phoebe Pamela Puella
+		Roxana Ruth Rebecca Rosa Rachel
+		Susannah Satronia Sylvia
+		Ursula
+		Winifred
+		Yda
+		Zara Zeruviah
 	}
 	noble_last_names = {
-		d_Aumont
-		Baraguey_d_Hilliers Bergeret de_Beauharnais de_Bussiere de_Broglie de_Boisdeffre
-		de_Chastellux de_Chodron_de_Courcel de_CambacE_rE_s de_Croy de_Castelnau de_Cools
-		Decazes de_Durfort
-		d_Essling
-		Fesch
-		Gros de_Gramont de_Guerin de_Gueydon de_Goyon
-		Kellermann
-		Lagrange de_Lamartine de_La_Luzerne de_Leuchtenberg de_Langle_de_Cary
-		Marbot de_MacMahon de_Montmorency-Laval Maret de_Morny MassE_na
-		de_Noailles Ney_d_Elchingen
-		Oudinot
-		Pasquier de_Pourtales de_Polignac de_Persigny PalE_ologue
-		de_La_Rochefoucauld de_Rochebouet de_Rohan-Chabot
-		Suchet de_Sabran de_Saulx de_SE_rent
-		de_Talleyrand-PE_rigord
+		Adams Appleton
+		Boylston Bradlee
+		Cabot Choate Chaffee Crowninshield Cushing
+		Dana Delano Dudley
+		Emerson Endicott Emmet
+		Forbes
+		Gillett Goelet Glazier
+		Hallowell Holmes
+		Lodge Lowell
+		Minot McKune McCallum
+		Norcross
+		Otis
+		Peabody Putnam
+		Quincy
+		Roosevelt
+		Saltonstall Sears Sedgwick Schuyler
+		Tarbox Thayer Thorndike
+		Wigglesworth Winthrop Winslow
 	}
 	common_last_names = {
-		Anthoine Archinard Augereau Aucouturier Alavoine Achard Astouin Astaix Avond
-		Baraguey Bazaine Billot Bosquet Boulanger Bourbaki Boue_de_Lapeyrere Bouet-Willaumez Bugeaud Beaugendre Bronchard Baudet Bodinier Bouillet BiE_re Beslay Bac Bavoux Bezanson Bidard Bonnin Bougueret Boussingault Bouzique Buvignier
-		Caillard Canrobert Courbet Cousin-Mountauban de_Castellane Combes ClouE_ Cornet Colas Chauvet Carrere Chartier Combelles Chaude Colin Cruchon Cauvry ChaudE_ Collet Cottrel Charron Caudrelier Courcelles Cibiel Coquerel Coutenceau
-		Davout Depre Dubail Dubois Duchene Dupetit-Thouars Desbordes DelcassE_ Dortignacq Dargassies Desgrange Daumain Decaup Dozol Duboc Darche Deloffre Dutiron Denizot Dufour Devilly Dhers Dartigue Degy Delpech Daime Delaire DE_gousE_e Daix Delespaul Debrotonne Demortreux Denissel Desaincthorent Ducluzeau Dudouyt
-		Exelmans Emmery Esquirou
-		Foch Forey Franchet_d_Esperey Freycinet Faidherbe Fily Fleury Forestier Figuet Farconnet Ferrouillat Foucqueteau Favart Favand Freslon Fresneau
-		Gallieni Gouraud Guillaumat de_Gaulle Gain Georget Gabory Guillarme Garrigou Genin GE_raud Godivier Germain Gardent Goujon Gonnor Guyon
-		Hamelin Harispe Hoche Humbert d_Hilliers Habierre Herbelin Harquet
-		Jamais Jaures Joffre JaurE_guiberry Jousselin
-		Lebouef Lyautey Leygoute Lignon Lallement Lacroix Lafourcade Le_Bars Lachaise Leman Lorillon Lecointe Langlade Leblanc Lagagner Leroy Lapize Lannelongue Lebon Lebelleguy Lubbert Luminais Luneau Lherbette Lortet
-		Marmontel Murat de_Montaignac Mazel Maitron ME_nager Meili Mathonat Marrast Madesclaire Malbois Mispoulet Milhoux Moutou
-		Niboyet Nivelle Nancy Neboux Nempon Nadaud Nourry Nachet Normant
-		Oudin Ory Osmont
-		Petain Pellissier Pothier Pasquier Pautrat Payan Passerieu Paulmier Ponson PiE_trois Pardon Paullian Perrenet Pigeon Pleignard Plocq
-		Quenon Quinet
-		Ringeval Roux Rabot Riviere Roche Riou Ricaux Roquebert Rottie Royannez Radoing Regembal Reibell Repellin Rouher Royol
-		Saget de_Saint_Arnaud SouliE_ Sobrier StE_venot Soubigou StoecklE_ Simiot Signard Saint-Beuve Saint-Romme
-		Trebutien Trousselier Tuvache Taschereau Tanchard Tassel Teulon Tixier Totain Trinchan
-		Vaillant Ventresque Villette Vivier Vaidis Vilette Voilquin Vilain Vignerte Vinoy Valladier Vavin Vendois Vergnes Vernhette Viox
-		Wattelier Winant Warnet Walferdin
+		Arthur Abbot Abercrombie Allen Andrews Ayres Armstrong Agassiz Akerman Aldrich Atherton Alger
+		Brown Buchanan Buford Black Baldwin Butler Blair Bogy Bryan Blaine Barker Belknap Bell Bennett Barnum Boyle Briggs Buckingham Burling Burnside Brinsmade Brodhead Ballou Brushwiller Blinn Beeman Boyce Berger Burleigh Blodgett Bitgood
+		Cooper Carpenter Clay Cass Chamberlain Clark Colfax Cleveland Clarkson Chandler Cortelyou Claflin Cameron Campbell Coffey Carr Catlin Casey Cobb Coburn Cook Cox Craig Crittenden Crocker Custer Chetwood Cambreleng Coffinberry Childs Croman Coyle Culver Conk Corbin Crouch Claggett Clevenger
+		Daniels Dayton Dumont Douglas Depre Davies Dana Doolittle Doubleday Dyer Dunn Draper Dodge Doty Dornblaser Dewel Dussean
+		Everett English Eaton Egan Elliott Ewing
+		Fillmore Floyd Frelinghuysen Fairbanks Fess Fletcher Fairchild Farnsworth Fraser Foster Fry Fuller French Fowler Fiske Fitts Foss Fesler Faxon Fifield
+		Grant Green Garrison Granger Greeley Garfield Garcelon Gilbert Gibbs Griffin Gurney Goldsborough Glascock Grannis Grinstead Gould Goldrick Goodwin Grimes Gooding
+		Halleck Hall Hancock Harrison Hendricks Hobart Hanna Hitchcock Hooker Hackleman Harris Hawkins Hawley Heckman Humphreys Hunt Hunter Hayes Hollingsworth Hammatt Hoag Hammerslough Hodgeman Hutling Hammer Hagaman Holden Heffernan Huldy Hamblen Herrick Hurlbutt Hazeltine
+		Ingalls Irion Isbell
+		Johnson Jewell Jackson Jones Judkins
+		King Kern Kearny Kelley Kane Kilpatrick Kiddoo Keyes Kimball Kinnard Kirk Kennon Knowlton Kneeland Kittredge
+		Lightner Logan Lacey Lane Leggett Lightburn Littlejohn Lockwood Lytle Long Lasaliere Livermore Leavitt Loverin
+		McClellan Merritt Miller Marsh Mansfield Manson Martindale McArthur McCall McClernand McIntosh McPherson Meade Meigs Meredith Miles Morris Morton Murray McKinley McKeon McLaren McMahon Macomber Mattingly Meloon Meacham
+		Norris Nagle Naglee Negley Neill Nickerson Noyes Nugen Newkirk Napire Nowlin Niquette Nudd
+		Oglesby Orme Osborn Owen Olds Oglevee Ochiltree
+		Pierce Peterson Prince Pendleton Pershing Parker Pomerene Payne Pingree Palmer Parsons Pearson Peck Pennypacker Pile Porter Potter Prentiss Price Phillips Prindle Philbrick Penhallow Pettengill
+		Quay Quinby Quiner
+		Reid Rosewater Ransom Rawlins Ramsay Reynolds Rice Richardson Ricketts Ripley Ross Russell Raiser Rafferty Rix
+		Sherman Sheridan Stanton Stanford Stevens Stevenson Sewall Sabin Sinclair Sanborn Scammon Saxton Sedgwick Seward Shackelford Shepard Shields Sickles Slocum Stannard Sturgis Sykes Stanley Shepley Schenck Shinn Semple Sadler Suddaby Seaver Seitz Snodgrass Sissons Stolworthy
+		Troucey Thompson Tilden Turner Taylor Todd Thruston Torbert Totten Tuttle Turchin Tyndale Tallmadge Thatcher Tubbs Thorndike Truesdale Tandy
+		Ullman
+		Vanderveer Van_Buren Viele Vandever Vincent Vogdes Vogel
+		Whitman Webster Woodward Wheeler Weaver Wood Ward Willcox Wad Wadsworth Walker Wallace Washburn Webb Weber Weed Wells West Wheaton Whipple Winkler Woodbury Woodbridge Whittlesey Wingate Walley Wenk Whitcomb Wibird
+		Young
+		Zook
 	}
 	male_regal_first_names = {
-		Antoine
+		Alexander
+		Benjamin
 		Charles
-		Ferdinand-Philippe Francois
-		Henri
-		Louis
-		Napoleon
+		Franklin
+		George
+		Henry Hamilton
+		James Jefferson
+		Thomas
+		William Washington
 	}
 	female_regal_first_names = {
-		Anne
-		ClE_mentine
-		Francoise
-		HE_lE_ne
-		Isabelle
-		Louise
-		Marie Marie_ThE_rE_se
-	}
-	regal_last_names = {
-		d_Artois
-		Bonaparte de_Bourbon de_Bourbon-CondE_
-		d_Orleans
+		Caroline
+		Flora
+		Georgia
+		Martha Mary
+		Virginia
 	}
 
-	graphics = french
+	graphics = european
 	ethnicities = {
 		1 = caucasian
 	}
-	seal_and_signature_texture = "gfx/interface/diplomatic_treaties/seal_and_signature_cultures/diplomatic_treaties_seal_and_signature_french.dds"
 }

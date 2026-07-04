@@ -1,50 +1,14 @@
-region_abe = {
-	graphical_culture = "european"
-	capital_province = xFF464F
-	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_ABE STATE_ABE_02 STATE_ABE_03 STATE_ABE_04 STATE_ABE_05 }
-}
-region_als = {
-	graphical_culture = "european"
-	capital_province = x2B65EC
-	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_ALS }
-}
-region_ber = {
-	graphical_culture = "european"
-	capital_province = xFF8D37
-	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_BER STATE_BER_02 STATE_BER_03 }
-}
-region_bre = {
-	graphical_culture = "european"
-	capital_province = xFF823E
-	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_BRE STATE_BRE_02 STATE_BRE_03 STATE_BRE_04 STATE_BRE_05 STATE_BRE_06 }
-}
 region_bue = {
 	graphical_culture = "european"
 	capital_province = x37F17B
 	map_color = { 0.5 0.3 0.1 }
 	states = { STATE_BUE STATE_BUE_02 STATE_BUE_03 STATE_BUE_04 STATE_BUE_05 STATE_BUE_06 STATE_BUE_07 }
 }
-region_car = {
+region_zad = {
 	graphical_culture = "european"
-	capital_province = xF99932
+	capital_province = xE3B62E
 	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_CAR STATE_CAR_02 }
-}
-region_cha = {
-	graphical_culture = "european"
-	capital_province = xB1EE58
-	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_CHA STATE_CHA_02 STATE_CHA_03 STATE_CHA_04 STATE_CHA_05 STATE_CHA_06 STATE_CHA_07 STATE_CHA_08 STATE_CHA_09 STATE_CHA_10 }
-}
-region_dur = {
-	graphical_culture = "european"
-	capital_province = x1EE0A0
-	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_DUR STATE_DUR_02 STATE_DUR_03 STATE_DUR_04 STATE_DUR_05 STATE_DUR_06 STATE_DUR_07 }
+	states = { STATE_ZAD STATE_ZAD_02 STATE_ZAD_03 STATE_ZAD_04 STATE_ZAD_05 STATE_ZAD_06 }
 }
 region_gab = {
 	graphical_culture = "european"
@@ -52,59 +16,23 @@ region_gab = {
 	map_color = { 0.5 0.3 0.1 }
 	states = { STATE_GAB STATE_GAB_02 STATE_GAB_03 STATE_GAB_04 }
 }
+region_bre = {
+	graphical_culture = "european"
+	capital_province = xFF823E
+	map_color = { 0.5 0.3 0.1 }
+	states = { STATE_BRE STATE_BRE_02 STATE_BRE_03 STATE_BRE_04 STATE_BRE_05 STATE_BRE_06 }
+}
+region_dur = {
+	graphical_culture = "european"
+	capital_province = x1EE0A0
+	map_color = { 0.5 0.3 0.1 }
+	states = { STATE_DUR STATE_DUR_02 STATE_DUR_03 STATE_DUR_04 STATE_DUR_05 STATE_DUR_06 STATE_DUR_07 }
+}
 region_gol = {
 	graphical_culture = "european"
 	capital_province = xE8B02E
 	map_color = { 0.5 0.3 0.1 }
 	states = { STATE_GOL STATE_GOL_02 STATE_GOL_03 STATE_GOL_04 }
-}
-region_gud = {
-	graphical_culture = "european"
-	capital_province = x3292E1
-	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_GUD STATE_GUD_02 STATE_GUD_03 STATE_GUD_04 STATE_GUD_05 STATE_GUD_06 STATE_GUD_07 STATE_GUD_08 STATE_GUD_09 }
-}
-region_huh = {
-	graphical_culture = "european"
-	capital_province = x1CBCCD
-	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_HUH STATE_HUH_02 STATE_HUH_03 STATE_HUH_04 STATE_HUH_05 STATE_HUH_06 STATE_HUH_07 STATE_HUH_08 STATE_HUH_09 STATE_HUH_10 STATE_HUH_11 STATE_HUH_12 STATE_HUH_13 STATE_HUH_14 }
-}
-region_jud = {
-	graphical_culture = "european"
-	capital_province = x41F472
-	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_JUD STATE_JUD_02 STATE_JUD_03 STATE_JUD_04 }
-}
-region_kai = {
-	graphical_culture = "european"
-	capital_province = x6253C6
-	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_KAI STATE_KAI_02 }
-}
-region_lor = {
-	graphical_culture = "european"
-	capital_province = xFF586C
-	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_LOR STATE_LOR_02 STATE_LOR_03 STATE_LOR_04 STATE_LOR_05 STATE_LOR_06 STATE_LOR_07 STATE_LOR_08 STATE_LOR_09 STATE_LOR_10 STATE_LOR_11 }
-}
-region_mac = {
-	graphical_culture = "european"
-	capital_province = xD2CA34
-	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_MAC STATE_MAC_02 STATE_MAC_03 STATE_MAC_04 STATE_MAC_05 }
-}
-region_mas = {
-	graphical_culture = "european"
-	capital_province = x1AD6B0
-	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_MAS STATE_MAS_02 STATE_MAS_03 }
-}
-region_nau = {
-	graphical_culture = "european"
-	capital_province = x7B19CD
-	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_NAU STATE_NAU_02 STATE_NAU_03 STATE_NAU_04 STATE_NAU_05 STATE_NAU_06 STATE_NAU_07 STATE_NAU_08 STATE_NAU_09 STATE_NAU_10 STATE_NAU_11 STATE_NAU_12 STATE_NAU_13 }
 }
 region_pin = {
 	graphical_culture = "european"
@@ -112,17 +40,23 @@ region_pin = {
 	map_color = { 0.5 0.3 0.1 }
 	states = { STATE_PIN STATE_PIN_02 STATE_PIN_03 }
 }
-region_rik = {
+region_jud = {
 	graphical_culture = "european"
-	capital_province = x1AC3C6
+	capital_province = x41F472
 	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_RIK }
+	states = { STATE_JUD STATE_JUD_02 STATE_JUD_03 STATE_JUD_04 STATE_JUD_05 }
 }
-region_shi = {
+region_cha = {
 	graphical_culture = "european"
-	capital_province = xDD3FA2
+	capital_province = xB1EE58
 	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_SHI STATE_SHI_02 STATE_SHI_03 STATE_SHI_04 }
+	states = { STATE_CHA STATE_CHA_02 STATE_CHA_03 STATE_CHA_04 STATE_CHA_05 STATE_CHA_06 STATE_CHA_07 STATE_CHA_08 STATE_CHA_09 }
+}
+region_gud = {
+	graphical_culture = "european"
+	capital_province = x3292E1
+	map_color = { 0.5 0.3 0.1 }
+	states = { STATE_GUD STATE_GUD_02 STATE_GUD_03 STATE_GUD_04 STATE_GUD_05 STATE_GUD_06 STATE_GUD_07 }
 }
 region_skj = {
 	graphical_culture = "european"
@@ -130,11 +64,53 @@ region_skj = {
 	map_color = { 0.5 0.3 0.1 }
 	states = { STATE_SKJ STATE_SKJ_02 STATE_SKJ_03 }
 }
+region_lor = {
+	graphical_culture = "european"
+	capital_province = xFF586C
+	map_color = { 0.5 0.3 0.1 }
+	states = { STATE_LOR STATE_LOR_02 STATE_LOR_03 STATE_LOR_04 STATE_LOR_05 STATE_LOR_06 STATE_LOR_07 STATE_LOR_08 STATE_LOR_09 STATE_LOR_10 STATE_LOR_11 }
+}
+region_nau = {
+	graphical_culture = "european"
+	capital_province = x7B19CD
+	map_color = { 0.5 0.3 0.1 }
+	states = { STATE_NAU STATE_NAU_02 STATE_NAU_03 STATE_NAU_04 STATE_NAU_05 STATE_NAU_06 STATE_NAU_07 STATE_NAU_08 STATE_NAU_09 STATE_NAU_10 STATE_NAU_11 STATE_NAU_12 STATE_NAU_13 }
+}
+region_kai = {
+	graphical_culture = "european"
+	capital_province = x6253C6
+	map_color = { 0.5 0.3 0.1 }
+	states = { STATE_KAI STATE_KAI_02 }
+}
+region_mas = {
+	graphical_culture = "european"
+	capital_province = x1AD6B0
+	map_color = { 0.5 0.3 0.1 }
+	states = { STATE_MAS STATE_MAS_02 STATE_MAS_03 }
+}
 region_tak = {
 	graphical_culture = "european"
 	capital_province = x6A46B5
 	map_color = { 0.5 0.3 0.1 }
 	states = { STATE_TAK }
+}
+region_shi = {
+	graphical_culture = "european"
+	capital_province = xDD3FA2
+	map_color = { 0.5 0.3 0.1 }
+	states = { STATE_SHI STATE_SHI_02 }
+}
+region_kaw = {
+	graphical_culture = "european"
+	capital_province = x5D58CC
+	map_color = { 0.5 0.3 0.1 }
+	states = { STATE_KAW STATE_KAW_02 }
+}
+region_rik = {
+	graphical_culture = "european"
+	capital_province = x1AC3C6
+	map_color = { 0.5 0.3 0.1 }
+	states = { STATE_RIK }
 }
 region_ves = {
 	graphical_culture = "european"
@@ -142,9 +118,81 @@ region_ves = {
 	map_color = { 0.5 0.3 0.1 }
 	states = { STATE_VES }
 }
-region_zad = {
+region_car = {
 	graphical_culture = "european"
-	capital_province = xE3B62E
+	capital_province = xF99932
 	map_color = { 0.5 0.3 0.1 }
-	states = { STATE_ZAD STATE_ZAD_02 STATE_ZAD_03 STATE_ZAD_04 STATE_ZAD_05 STATE_ZAD_06 }
+	states = { STATE_CAR STATE_CAR_02 }
+}
+region_ber = {
+	graphical_culture = "european"
+	capital_province = xFF8D37
+	map_color = { 0.5 0.3 0.1 }
+	states = { STATE_BER STATE_BER_02 STATE_BER_03 }
+}
+region_pic = {
+	graphical_culture = "european"
+	capital_province = x1CBCCD
+	map_color = { 0.5 0.3 0.1 }
+	states = { STATE_PIC STATE_PIC_02 STATE_PIC_03 STATE_PIC_04 STATE_PIC_05 STATE_PIC_06 STATE_PIC_07 STATE_PIC_08 STATE_PIC_09 STATE_PIC_10 STATE_PIC_11 STATE_PIC_12 STATE_PIC_13 STATE_PIC_14 }
+}
+region_mac = {
+	graphical_culture = "european"
+	capital_province = xD2CA34
+	map_color = { 0.5 0.3 0.1 }
+	states = { STATE_MAC STATE_MAC_02 STATE_MAC_03 STATE_MAC_04 STATE_MAC_05 }
+}
+region_abe = {
+	graphical_culture = "european"
+	capital_province = xFF464F
+	map_color = { 0.5 0.3 0.1 }
+	states = { STATE_ABE STATE_ABE_02 STATE_ABE_03 STATE_ABE_04 STATE_ABE_05 }
+}
+region_wildlands_0 = {
+	graphical_culture = "european"
+	capital_province = xC95EF1
+	map_color = { 0.4 0.4 0.3 }
+	states = { STATE_W01_02 STATE_W01_17 STATE_W01_153 STATE_W01_232 STATE_W01_240 STATE_W01_242 STATE_W01_321 STATE_W01_375 STATE_W01_395 STATE_W02 STATE_W02_03 STATE_W02_06 STATE_W02_07 STATE_W02_08 STATE_W02_09 STATE_W02_16 STATE_W02_17 STATE_W01_116 STATE_W01_154 STATE_W01_198 STATE_W01_246 STATE_W01_270 STATE_W01_291 STATE_W01_370 STATE_W01_26 STATE_W01_126 STATE_W01_300 STATE_W01_324 STATE_W01_337 STATE_W01_355 STATE_W01_93 STATE_W01_107 STATE_W01_208 STATE_W01_247 STATE_W01_311 STATE_W01_325 STATE_W01_30 STATE_W01_53 STATE_W01_206 STATE_W01_249 STATE_W01_294 STATE_W01_74 STATE_W01_92 STATE_W01_238 STATE_W01_272 STATE_W01_340 STATE_W01_44 STATE_W01_147 STATE_W01_155 STATE_W01_372 STATE_W01_129 STATE_W01_165 STATE_W01_221 STATE_W01_260 STATE_W01_84 STATE_W01_282 STATE_W01_332 STATE_W02_04 STATE_W03_07 }
+}
+region_wildlands_1 = {
+	graphical_culture = "european"
+	capital_province = x989196
+	map_color = { 0.4 0.4 0.3 }
+	states = { STATE_W01_04 STATE_W01_42 STATE_W01_112 STATE_W01_121 STATE_W01_141 STATE_W01_176 STATE_W01_274 STATE_W01_301 STATE_W01_389 STATE_W01_05 STATE_W01_79 STATE_W01_100 STATE_W01_122 STATE_W01_145 STATE_W01_322 STATE_W01_349 STATE_W01_120 STATE_W01_138 STATE_W01_211 STATE_W01_228 STATE_W01_316 STATE_W01_331 STATE_W01_385 STATE_W01_32 STATE_W01_55 STATE_W01_102 STATE_W01_239 STATE_W01_261 STATE_W01_285 STATE_W01_99 STATE_W01_108 STATE_W01_203 STATE_W01_288 STATE_W01_290 STATE_W01_292 STATE_W01_31 STATE_W01_168 STATE_W01_184 STATE_W01_235 STATE_W01_255 STATE_W01_91 STATE_W01_130 STATE_W01_169 STATE_W01_287 STATE_W01_397 STATE_W01_45 STATE_W01_302 STATE_W01_354 STATE_W01_384 STATE_W01_148 STATE_W01_156 STATE_W01_186 STATE_W01_297 STATE_W01_96 STATE_W01_111 STATE_W01_194 STATE_W02_10 STATE_W05 }
+}
+region_wildlands_2 = {
+	graphical_culture = "european"
+	capital_province = xD75C5F
+	map_color = { 0.4 0.4 0.3 }
+	states = { STATE_W01_41 STATE_W01_83 STATE_W01_106 STATE_W01_172 STATE_W01_251 STATE_W01_280 STATE_W01_286 STATE_W01_299 STATE_W01_335 STATE_W01_09 STATE_W01_133 STATE_W01_162 STATE_W01_243 STATE_W01_281 STATE_W01_310 STATE_W01_371 STATE_W01_03 STATE_W01_181 STATE_W01_234 STATE_W01_236 STATE_W01_309 STATE_W01_382 STATE_W01_48 STATE_W01_66 STATE_W01_68 STATE_W01_131 STATE_W01_339 STATE_W01_369 STATE_W01_137 STATE_W01_160 STATE_W01_215 STATE_W01_295 STATE_W01_366 STATE_W01_386 STATE_W01_34 STATE_W01_82 STATE_W01_216 STATE_W01_217 STATE_W01_398 STATE_W01_94 STATE_W01_125 STATE_W01_315 STATE_W01_351 STATE_W01_374 STATE_W01_47 STATE_W01_50 STATE_W01_166 STATE_W01_352 STATE_W01_150 STATE_W01_199 STATE_W01_219 STATE_W01_224 STATE_W01_222 STATE_W01_353 STATE_W01_387 STATE_W02_13 }
+}
+region_wildlands_3 = {
+	graphical_culture = "european"
+	capital_province = x32C9C0
+	map_color = { 0.4 0.4 0.3 }
+	states = { STATE_W01_07 STATE_W01_88 STATE_W01_110 STATE_W01_127 STATE_W01_175 STATE_W01_200 STATE_W01_207 STATE_W01_262 STATE_W01_35 STATE_W01_143 STATE_W01_144 STATE_W01_220 STATE_W01_273 STATE_W01_298 STATE_W01_313 STATE_W01_06 STATE_W01_23 STATE_W01_61 STATE_W01_303 STATE_W01_320 STATE_W01_380 STATE_W01_49 STATE_W01_75 STATE_W01_257 STATE_W01_305 STATE_W01_378 STATE_W01_393 STATE_W01_11 STATE_W01_24 STATE_W01_71 STATE_W01_170 STATE_W01_183 STATE_W01_36 STATE_W01_201 STATE_W01_264 STATE_W01_323 STATE_W01_343 STATE_W01_192 STATE_W01_196 STATE_W01_218 STATE_W01_276 STATE_W01_357 STATE_W01_51 STATE_W01_64 STATE_W01_113 STATE_W01_363 STATE_W01_177 STATE_W01_254 STATE_W01_271 STATE_W01_279 STATE_W01_256 STATE_W01_308 STATE_W03 }
+}
+region_wildlands_4 = {
+	graphical_culture = "european"
+	capital_province = xCE557E
+	map_color = { 0.4 0.4 0.3 }
+	states = { STATE_W01_14 STATE_W01_89 STATE_W01_187 STATE_W01_259 STATE_W01_265 STATE_W01_329 STATE_W01_373 STATE_W01_388 STATE_W01_43 STATE_W01_56 STATE_W01_86 STATE_W01_95 STATE_W01_103 STATE_W01_209 STATE_W01_314 STATE_W01_10 STATE_W01_139 STATE_W01_152 STATE_W01_334 STATE_W01_358 STATE_W01_396 STATE_W01_57 STATE_W01_158 STATE_W01_268 STATE_W01_336 STATE_W01_359 STATE_W01_376 STATE_W01_13 STATE_W01_37 STATE_W01_117 STATE_W01_227 STATE_W01_347 STATE_W01_40 STATE_W01_46 STATE_W01_124 STATE_W01_277 STATE_W01_278 STATE_W01 STATE_W01_132 STATE_W01_248 STATE_W01_392 STATE_W01_52 STATE_W01_142 STATE_W01_161 STATE_W01_174 STATE_W02_05 STATE_W02_11 STATE_W02_14 STATE_W02_15 STATE_W02_02 STATE_W02_19 STATE_W03_02 }
+}
+region_wildlands_5 = {
+	graphical_culture = "european"
+	capital_province = xD452E7
+	map_color = { 0.4 0.4 0.3 }
+	states = { STATE_W01_19 STATE_W01_54 STATE_W01_78 STATE_W01_98 STATE_W01_293 STATE_W01_330 STATE_W01_364 STATE_W01_391 STATE_W01_59 STATE_W01_114 STATE_W01_134 STATE_W01_157 STATE_W01_229 STATE_W01_230 STATE_W01_360 STATE_W01_12 STATE_W01_128 STATE_W01_167 STATE_W01_189 STATE_W01_345 STATE_W01_368 STATE_W01_67 STATE_W01_87 STATE_W01_149 STATE_W01_284 STATE_W01_312 STATE_W01_381 STATE_W01_18 STATE_W01_76 STATE_W01_90 STATE_W01_346 STATE_W01_350 STATE_W01_58 STATE_W01_179 STATE_W01_180 STATE_W01_226 STATE_W01_394 STATE_W01_22 STATE_W01_159 STATE_W01_178 STATE_W01_233 STATE_W01_62 STATE_W01_105 STATE_W01_214 STATE_W01_275 STATE_W01_08 STATE_W01_188 STATE_W01_319 STATE_W02_12 STATE_W02_18 STATE_W03_03 }
+}
+region_wildlands_6 = {
+	graphical_culture = "european"
+	capital_province = xA889DE
+	map_color = { 0.4 0.4 0.3 }
+	states = { STATE_W01_28 STATE_W01_140 STATE_W01_185 STATE_W01_191 STATE_W01_197 STATE_W01_269 STATE_W01_304 STATE_W01_338 STATE_W01_60 STATE_W01_77 STATE_W01_135 STATE_W01_213 STATE_W01_244 STATE_W01_361 STATE_W01_400 STATE_W01_15 STATE_W01_151 STATE_W01_296 STATE_W01_318 STATE_W01_326 STATE_W01_344 STATE_W01_72 STATE_W01_81 STATE_W01_195 STATE_W01_225 STATE_W01_327 STATE_W01_362 STATE_W01_25 STATE_W01_80 STATE_W01_173 STATE_W01_289 STATE_W01_306 STATE_W01_69 STATE_W01_136 STATE_W01_210 STATE_W01_212 STATE_W01_342 STATE_W01_29 STATE_W01_250 STATE_W01_341 STATE_W01_367 STATE_W01_73 STATE_W01_109 STATE_W01_146 STATE_W01_202 STATE_W01_20 STATE_W01_163 STATE_W01_205 STATE_W03_06 STATE_W03_08 STATE_W03_04 }
+}
+region_wildlands_7 = {
+	graphical_culture = "european"
+	capital_province = x647695
+	map_color = { 0.4 0.4 0.3 }
+	states = { STATE_W01_63 STATE_W01_119 STATE_W01_193 STATE_W01_252 STATE_W01_253 STATE_W01_307 STATE_W01_365 STATE_W01_390 STATE_W01_115 STATE_W01_164 STATE_W01_231 STATE_W01_245 STATE_W01_317 STATE_W04 STATE_W06 STATE_W01_16 STATE_W01_39 STATE_W01_104 STATE_W01_267 STATE_W01_377 STATE_W01_383 STATE_W01_85 STATE_W01_97 STATE_W01_237 STATE_W01_266 STATE_W01_328 STATE_W01_399 STATE_W01_27 STATE_W01_65 STATE_W01_123 STATE_W01_241 STATE_W01_333 STATE_W01_70 STATE_W01_118 STATE_W01_190 STATE_W01_263 STATE_W01_348 STATE_W01_33 STATE_W01_182 STATE_W01_283 STATE_W01_356 STATE_W01_101 STATE_W01_204 STATE_W01_258 STATE_W01_379 STATE_W01_21 STATE_W01_38 STATE_W01_171 STATE_W01_223 STATE_W03_05 }
 }

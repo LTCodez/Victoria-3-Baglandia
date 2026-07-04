@@ -1,1989 +1,124 @@
-﻿STATE_ABE = {
-    id = 10
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "xFF464F" "xC45348" "xFC7327" "xFC0A03" "xFC6539" "xD1800D" "xFC3E0B" "xFC3A45" "xFC7174" "xFC9303" "xFC0803" "xFC031C" "xCAA350" "xFC9019" "xA60350" "xFC1811" "xFC3284" "xFCA28B" "xFC9404" "xFC7E03" "xFC6D20" "xA93745" "xFC5FA0" "xB35622" }
-    city = "xFF464F"
-    port = "xFC9019"
-    farm = "xFC6539"
-    mine = "xFC3284"
-    wood = "xFC7E03"
-    arable_land = 44
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 24
-        building_iron_mine = 33
-        building_coal_mine = 22
-        building_lead_mine = 12
-    }
-    naval_exit_id = 3013
-}
-STATE_ABE_02 = {
-    id = 11
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "xCF1E91" "xC69905" "xC62453" "xFC8096" "xFC0330" "xAA1D91" "xAA9D95" "xCC8F5A" "xFC9C08" "xF25A0F" "xB1A578" "xD90303" "xE89480" }
-    city = "xCF1E91"
-    port = "xC62453"
-    farm = "xCC8F5A"
-    mine = "xFC8096"
-    wood = "xD90303"
-    arable_land = 32
-    arable_resources = { "building_livestock_ranch" "building_rice_farm" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 12
-        building_iron_mine = 6
-        building_coal_mine = 4
-    }
-    naval_exit_id = 3027
-}
-STATE_ABE_03 = {
-    id = 12
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "xF43065" "xCB3506" "xEA7A0E" "xD4036B" "xFC2943" "xDA590C" "xCD7803" "xFC7325" "xF20303" "xFC1403" "xF41C8B" "xFC1988" "xFC3603" "xFC03A4" "xB8888C" "xFCA434" "xE34B9F" "xFC4D17" "xFCA557" "xFC8BA7" "xFC9C98" "xEE7482" "xFC6348" }
-    city = "xF43065"
-    port = "xFC9C98"
-    farm = "xF20303"
-    mine = "xF41C8B"
-    wood = "xEE7482"
-    arable_land = 57
-    arable_resources = { "building_livestock_ranch" "building_rice_farm" "building_sugar_plantation" }
-    capped_resources = {
-        building_iron_mine = 18
-        building_coal_mine = 12
-    }
-    naval_exit_id = 3009
-}
-STATE_ABE_04 = {
-    id = 13
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "xFC054E" "xB48D36" "xD90360" "xC58018" "xFC6A11" "xFC9D9E" "xA6371C" "xFC3503" "xBE2492" "xFC7903" "xFC4B72" "xFC0764" "xF19963" "xFC03A1" "xFC630C" "xFB0A85" "xD4741B" "xFC7995" "xDF3F54" "xC49021" "xF80378" "xFC3265" "xAF958C" }
-    city = "xFC054E"
-    port = "xFC0764"
-    farm = "xFC6A11"
-    mine = "xD4741B"
-    wood = "xA6371C"
-    arable_land = 45
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 40
-        building_iron_mine = 21
-        building_coal_mine = 14
-        building_lead_mine = 4
-    }
-    naval_exit_id = 3013
-}
-STATE_ABE_05 = {
-    id = 14
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "xFC1903" "xF00336" "xBCA203" "xFC9348" "xD14D14" "xCB6403" "xD59677" "xFC7397" "xFC715B" "xFC466F" "xFC807C" "xA50B55" "xAC0362" "xFC4124" "xFC0318" "xFC0314" "xCC719F" "xB61F4D" "xFC6D35" "xDE835C" "xB4030F" "xD45503" }
-    city = "xFC1903"
-    port = "xFC4124"
-    farm = "xFC715B"
-    mine = "xD14D14"
-    wood = "xFC0314"
-    arable_land = 44
-    arable_resources = { "building_livestock_ranch" "building_rice_farm" "building_sugar_plantation" }
-    capped_resources = {
-        building_iron_mine = 33
-        building_coal_mine = 22
-        building_lead_mine = 10
-    }
-    naval_exit_id = 3013
-}
-STATE_ALS = {
-    id = 15
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x2B65EC" "x20B6A3" "x03A8FC" "x0332D4" "x4573FC" "x04ABFC" "x0312DA" "x7D9E9E" "x6D55FC" "x122AFC" "x037EE1" }
-    city = "x2B65EC"
-    port = "x0332D4"
-    farm = "x6D55FC"
-    mine = "x122AFC"
-    wood = "x03A8FC"
-    arable_land = 17
-    arable_resources = { "building_livestock_ranch" "building_rye_farm" }
-    capped_resources = {
-        building_logging_camp = 24
-    }
-    naval_exit_id = 3026
-}
-STATE_BER = {
-    id = 16
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "xFF8D37" "xA3606A" "xFC7C46" "xFC5D85" "xE5843D" "xFCB590" "xC76B03" "xFC7A25" "xCA394E" "xFC4066" "xA37310" "xC1BA2B" "xFC4F03" "xFCDC12" "xCC6803" "xFCBF94" "xFCA684" }
-    city = "xFF8D37"
-    farm = "xFCDC12"
-    mine = "xFCBF94"
-    wood = "xCA394E"
-    arable_land = 45
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
-    capped_resources = {
-        building_logging_camp = 24
-    }
-}
-STATE_BER_02 = {
-    id = 17
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "xFC828E" "xD4764E" "xFCDD08" "xE0C682" "xD96903" "xD8BF57" "xAC3203" "xFC6E5E" "xD8A533" "xFC583D" "xFC4503" "xFC8603" "xA5EA50" "xBA906B" "xFC324B" "xFC981D" "xFC788A" "xFC9F1B" "xFCE945" "xFC5531" "xE34B24" "xBB6C03" "xFCE82D" "xE18F25" "xAB4503" "xB83A03" "xFC9503" "xFC5B03" "xFCE784" }
-    city = "xFC828E"
-    port = "xAC3203"
-    farm = "xFC583D"
-    mine = "xD96903"
-    wood = "xD8A533"
-    arable_land = 73
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
-    capped_resources = {
-        building_logging_camp = 48
-        building_iron_mine = 5
-        building_coal_mine = 4
-    }
-    naval_exit_id = 3012
-}
-STATE_BER_03 = {
-    id = 18
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "xE07740" "xFCE93B" "xFC987B" "xFCA442" "xFC7586" "xEFCB64" "xFC6E6B" "xFC9876" "xFC3A04" "xFCC603" "xFCB44F" "xD03503" "xB2A177" "xFCB062" "xD5AD31" "xFC694C" "xCD3872" "xFCA021" "xFC4003" "xFCAF03" "xFC8292" "xEDB903" }
-    city = "xE07740"
-    port = "xFC3A04"
-    farm = "xFC6E6B"
-    mine = "xFCC603"
-    wood = "xEFCB64"
-    arable_land = 66
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
-    naval_exit_id = 3012
-}
-STATE_BRE = {
-    id = 19
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "xFF823E" "xCF708A" "xFCAC75" "xFC4D24" "xA97963" "xFC6013" "xFC4E64" "xFC6C79" "xFC9598" "xFC8A03" "xFCCE88" "xD6CD4D" "xFC5A43" "xFCE019" "xDA7103" "xFC7C93" "xE8D81A" "xFC8832" "xFCCF56" }
-    city = "xFF823E"
-    farm = "xFC8832"
-    mine = "xFC8A03"
-    wood = "xFC9598"
-    arable_land = 45
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
-    capped_resources = {
-        building_logging_camp = 32
-        building_iron_mine = 6
-        building_coal_mine = 4
-    }
-}
-STATE_BRE_02 = {
-    id = 20
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "xCCB675" "xF7A81C" "xC4483B" "xFC4663" "xBF6403" "xFC6084" "xCEE156" "xFC4520" "xFCE063" "xB24633" "xFCDB2E" "xFC4A03" "xFC7B54" "xFC7168" "xFC4D4A" "xFCAC1F" "xFC2781" "xFC5E0B" "xE73719" "xFCC534" "xF7D503" "xFC2396" "xBD9698" }
-    city = "xCCB675"
-    port = "xBD9698"
-    farm = "xF7D503"
-    mine = "xFC2396"
-    wood = "xFCE063"
-    arable_land = 55
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
-    capped_resources = {
-        building_logging_camp = 32
-        building_iron_mine = 9
-        building_coal_mine = 6
-    }
-    naval_exit_id = 3017
-}
-STATE_BRE_03 = {
-    id = 21
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xABD37F" "xFC886B" "xFCDD65" "xD2A48C" "xE8244D" "xF26D03" "xFCBA7C" "xFC2C44" "xFC5F30" "xB1CD12" "xE08938" "xDDB763" "xEB5203" "xC76E44" "xE84A10" "xE99F35" "xFC3220" "xFC6503" "xFC5303" "xCD9B03" }
-    city = "xABD37F"
-    port = "xFC6503"
-    farm = "xFCDD65"
-    mine = "xFC2C44"
-    wood = "xEB5203"
-    arable_land = 39
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-        building_iron_mine = 5
-        building_coal_mine = 4
-    }
-    naval_exit_id = 3014
-}
-STATE_BRE_04 = {
-    id = 22
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xFC7A03" "xD86135" "xFC5D03" "xFCD949" "xFCA711" "xC4A703" "xFCA403" "xB02407" "xFCC903" "xBD7A21" "xFC6F7F" "xDECB91" "xFC9C03" "xFCD684" "xFCD556" "xC8BB6C" "xFCCF03" "xFCA12E" "xE32319" "xFC495F" "xBB5C69" "xD1B003" }
-    city = "xFC7A03"
-    port = "xBD7A21"
-    farm = "xFCC903"
-    mine = "xE32319"
-    wood = "xD86135"
-    arable_land = 42
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-        building_iron_mine = 12
-        building_coal_mine = 8
-    }
-    naval_exit_id = 3017
-}
-STATE_BRE_05 = {
-    id = 23
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xF7D088" "xE6AA03" "xFC6E03" "xE29303" "xFCA647" "xF13E51" "xFC6203" "xFC6937" "xF08933" "xFCC00E" "xFC8E1B" "xFCBE4B" "xBBC61A" "xF95A59" "xC9D503" "xB8C503" "xFCDE0A" "xF4505D" "xE35387" "xFC2C31" }
-    city = "xF7D088"
-    farm = "xE6AA03"
-    mine = "xFCBE4B"
-    wood = "xFC6E03"
-    arable_land = 40
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-}
-STATE_BRE_06 = {
-    id = 24
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "xFC856A" "xFB9E26" "xE24630" "xFCC46B" "xFC3A08" "xED6F7E" "xFC4E03" "xFCD286" "xBD7F22" "xD75465" "xFC7D36" "xD6337E" "xCA6703" "xFC7104" "xB6329C" "xEA7895" "xFC9803" "xFB8D1C" "xA8A66D" "xFCBC0F" "xC3B408" "xFC5C5C" "xFC9003" }
-    city = "xFC856A"
-    farm = "xD6337E"
-    mine = "xFC4E03"
-    wood = "xFCBC0F"
-    arable_land = 53
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
-    capped_resources = {
-        building_iron_mine = 24
-        building_coal_mine = 16
-    }
-}
 STATE_BUE = {
-    id = 25
+    id = 10
     subsistence_building = "building_subsistence_orchard"
-    provinces = { "x37F17B" "x50FC65" "x94FC56" "x03FC4E" "x17DFD6" "x64FC4D" "x1DFC93" "x03FCDA" "x07FCAF" "x03FC7F" "x77FCC8" "x18FCB7" "x16FCC2" "x90A33D" "x03EABB" "x1CFC9D" }
+    provinces = { "x37F17B" "x03A9BD" "x7EDD1F" "x08C73C" "x03FCA1" "x15FCC6" "x66CB1E" "x0CEDDA" "x03B85D" "x89FC9A" "x039E30" "x3DA62F" "x39F79D" "x5BFBD0" "x25FC6C" "x8BA076" "x5CD7C9" "x179D3A" "x44F33F" "x50FC22" "x039FD8" "x03F9C8" "x72FC89" "x1BA493" }
     city = "x37F17B"
-    port = "x03FC4E"
-    farm = "x16FCC2"
-    mine = "x64FC4D"
-    wood = "x1DFC93"
-    arable_land = 32
+    port = "x0CEDDA"
+    farm = "x179D3A"
+    mine = "x08C73C"
+    wood = "x039E30"
+    arable_land = 55
     arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3013
+    naval_exit_id = 3005
 }
 STATE_BUE_02 = {
-    id = 26
+    id = 11
     subsistence_building = "building_subsistence_orchard"
-    provinces = { "x03D175" "x92FCAA" "x7BFC2D" "x03B77B" "x60A588" "x95F4B0" "x03FCA5" "x5DFC3F" "x66FC61" "x84B95B" "x2295A5" "x35DC79" "x65FC77" "x67FC45" "x64FC2E" }
-    city = "x03D175"
-    port = "x67FC45"
-    farm = "x60A588"
-    mine = "x92FCAA"
-    wood = "x65FC77"
+    provinces = { "x73964D" "x1BFCD8" "x23FCB5" "x4BFC5A" "x0CFC35" "x03F980" "x03DA40" "x03FC6C" "x40FCA0" "x7CBB5C" "x5ABD88" "x45A663" "x03FC5A" "x1C98B0" "x4BF82D" }
+    city = "x73964D"
+    port = "x4BFC5A"
+    farm = "x45A663"
+    mine = "x23FCB5"
+    wood = "x40FCA0"
     arable_land = 30
     arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3016
+    naval_exit_id = 3010
 }
 STATE_BUE_03 = {
-    id = 27
+    id = 12
     subsistence_building = "building_subsistence_orchard"
-    provinces = { "x03FC20" "x7EFC96" "x3FA57B" "x27FC44" "x81A12D" "x63FC72" "x1FB48E" "x77FC2F" "x85FC62" "x03FC7C" "x03E0D7" "x52FC60" "x69FC4E" "x78A688" "x78FCB9" "x03F457" "x03FC6A" "x03FCAC" "x70FC8D" "x7FFC42" "x31B278" "x52FC54" "x15AE5F" }
-    city = "x03FC20"
-    port = "x03FC7C"
-    farm = "x1FB48E"
-    mine = "x03F457"
-    wood = "x52FC54"
-    arable_land = 46
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3013
-}
-STATE_BUE_04 = {
-    id = 28
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x57CF49" "x63FCAC" "x4CB5C3" "x38FC35" "x03E03C" "x63FC1F" "x03A62F" "x569E5F" "x03D03B" "x0EDC99" "x699DAA" "x3DFC6D" "x2EC8D7" "x57BA79" "x4F9932" "x03FC87" "x03C69E" "x14D1BC" "x03FC86" "x03FCD1" "x58FCC8" "x19FC41" "x6CB033" }
-    city = "x57CF49"
-    port = "x38FC35"
-    farm = "x63FCAC"
-    mine = "x3DFC6D"
-    wood = "x63FC1F"
-    arable_land = 48
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3018
-}
-STATE_BUE_05 = {
-    id = 29
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x2BFC3B" "x95FC52" "x449F34" "x06F03C" "x7597A3" "x87B83F" "x13ED23" "x93F46B" "x23AAA3" "x2B9E9A" "x84E1AE" "x59A155" "x38EBC7" "x19FCC5" "x1FA6A2" "x269F5A" "x3BFC37" "x03A520" "x2DBF51" "x7CE6D5" "x6A9CD9" "x03FC7D" "x33DA54" "x72D435" }
-    city = "x2BFC3B"
-    port = "x23AAA3"
-    farm = "x7597A3"
-    mine = "x38EBC7"
-    wood = "x1FA6A2"
-    arable_land = 48
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3013
-}
-STATE_BUE_06 = {
-    id = 30
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x03FC79" "x42D345" "x03FC50" "x55FC84" "x8FFC34" "x3FFC6E" "x1AFCA5" "x8AFCA3" "x8BCF4A" "x03FCB6" "x03FCC2" "x03FC72" "x03FC90" "x04FC43" "x03FC29" "x03FCBF" "x1FF8D3" "x759DD2" "x03B6CE" "x61DE50" "x8DFCAB" "x03AB6C" "x53B756" "x48C1B2" }
-    city = "x03FC79"
-    port = "x42D345"
-    farm = "x8BCF4A"
-    mine = "x03FCBF"
-    wood = "x03FC90"
-    arable_land = 56
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3013
-}
-STATE_BUE_07 = {
-    id = 31
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x1FD4BF" "x7DD0A3" "x03FC96" "x24FC7F" "x72FC72" "x03D04B" "x91FC7F" "x78FC94" "x53FC64" "x03FC28" "x4EAD1E" "x1FFC27" "x7FB4A5" "x049C79" "x57BB59" "x26FC43" "x62FC74" "x86CC22" "x03DD38" "x65FCCF" "x8CFC3E" "x96FC7D" "x20C473" "x7FFC35" }
-    city = "x1FD4BF"
-    port = "x03D04B"
-    farm = "x7DD0A3"
-    mine = "x049C79"
-    wood = "x24FC7F"
-    arable_land = 48
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3018
-}
-STATE_CAR = {
-    id = 32
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xF99932" "xAC4209" "xFC8745" "xC44003" "xFCAD2C" "xCEF746" "xB8E246" "xFC4A8B" "xFC5184" "xAA6503" "xBE7E69" "xFCD285" "xA6F003" "xFC5A17" "xFC868D" "x9B6073" "xE94203" "xFC4665" }
-    city = "xF99932"
-    port = "xAC4209"
-    farm = "xFC868D"
-    mine = "xAA6503"
-    wood = "x9B6073"
-    arable_land = 39
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3017
-}
-STATE_CAR_02 = {
-    id = 33
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "xCADD73" "xDF5A03" "xFCA54A" "x9B9C42" "xD7C86B" "xC7917D" "xFC9060" "xECAF57" "xFCC92D" "xFCE903" "xFCE13D" "xFCF710" "xFC7E86" "xFCE969" "xA0C86B" "x9FD503" "xDE981B" "xAB4B66" "xFCDC63" "xB89019" "xA8F071" "xA65E3A" "xFC6E4A" "xFC897F" "xA68528" "xFC407B" }
-    city = "xCADD73"
-    port = "xFCE13D"
-    farm = "xFCE903"
-    mine = "xFCC92D"
-    wood = "xFCF710"
-    arable_land = 63
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3017
-}
-STATE_CHA = {
-    id = 34
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "xB1EE58" "x54FC66" "x73FC0E" "x82CEB4" "xBCFC97" "x7FE85C" "x76A653" "xFCFC2D" "x78FC47" "xA0CE62" "xFCFC9F" "xC2FC8C" "xC4FC91" "x98E86B" "x61C10B" "x77FC90" "xBFC037" "xFCE587" "xFCD360" "xFCD227" "xD7FC92" "x599E7E" }
-    city = "xB1EE58"
-    farm = "xFCFC9F"
-    mine = "x54FC66"
-    wood = "x82CEB4"
-    arable_land = 28
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_iron_mine = 50
-        building_coal_mine = 38
-        building_lead_mine = 6
-    }
-}
-STATE_CHA_02 = {
-    id = 35
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "xC8FC78" "xC5C80E" "xFAFC1A" "xAEFCAC" "xFCFC6F" "xF9FC9E" "xD5CB3F" "xF7FC88" "xF2903C" "x80B63E" "xE2FC8D" "xBEFC29" "xFC972B" "x5AE204" "xC3AB83" "x798F83" "xFCFC03" "xFCA912" "x97FC03" "xFCF3A2" "x989F15" "xBAFC8A" "xEFEE15" }
-    city = "xC8FC78"
-    farm = "xFCFC6F"
-    mine = "xF7FC88"
-    wood = "xFCFC03"
-    arable_land = 36
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 52
-        building_iron_mine = 30
-        building_coal_mine = 20
-    }
-}
-STATE_CHA_03 = {
-    id = 36
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "xFCBC80" "xF2FC4B" "xE1FC2E" "xB6FC80" "xC3F20F" "xB1AF4E" "xFCA69D" "xFCFC8A" "xCDFC03" "xC2E79D" "x71FC29" "xFADE20" "xFC9819" "xD1B962" "xC0FC8E" "xF3D492" "xABFC50" "x529B3D" "xF1FC54" "xD2A98D" "x7DFC0D" }
-    city = "xFCBC80"
-    farm = "xB1AF4E"
-    mine = "xF3D492"
-    wood = "xABFC50"
-    arable_land = 63
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
-}
-STATE_CHA_04 = {
-    id = 37
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "xFCA9A9" "xFBFC8D" "xB6FC99" "xCCB607" "xEAA419" "xD3FC12" "xEBE712" "x8496AC" "xE1982E" "xFCFC85" "xD5CBAF" "xE2FC0F" "xA9D844" "x6FFC91" "xB7B57E" "xA9F960" "x97A27F" "xF0FC7F" "x8FC970" "x98BA81" "xDEA003" }
-    city = "xFCA9A9"
-    farm = "xE1982E"
-    mine = "xCCB607"
-    wood = "xB7B57E"
-    arable_land = 25
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 16
-        building_iron_mine = 50
-        building_coal_mine = 34
-    }
-}
-STATE_CHA_05 = {
-    id = 38
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "xC5FC9E" "xF7AC51" "xD7D782" "x67FC2B" "x71F98D" "xE8A20F" "x9CAAB2" "xD6FC6B" "xF2FCA8" "x97FC4C" "xABD094" "x82FC85" "x72FC9D" "x8EEF95" "x8BFC37" "xEBF55C" "xBDFCAF" "x7FA847" "xFBFC24" "x8FFC99" }
-    city = "xC5FC9E"
-    farm = "xD6FC6B"
-    mine = "xABD094"
-    wood = "xD7D782"
-    arable_land = 44
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-}
-STATE_CHA_06 = {
-    id = 39
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "xDDBD57" "x75FC03" "x76C72D" "x939425" "x6E9003" "xB3F04A" "xB7FC95" "x7FFC5B" "xFC9206" "xFCB41C" "x84FC03" "xFCFC2B" "x76FAA2" "x64D886" "x86BF5A" "xA9BF03" }
-    city = "xDDBD57"
-    farm = "x6E9003"
-    mine = "x64D886"
-    wood = "xB7FC95"
-    arable_land = 32
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-}
-STATE_CHA_07 = {
-    id = 40
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "x7FFC9B" "xFCD447" "xB7FCB0" "xFCF147" "xFCFC7D" "x8F9655" "xE1FCB6" "x5FFC55" "x5EFC8C" "xA3A64B" "xD3FC93" "xFCFC8D" "x52FC1D" "x80CB2E" "xCBD83F" "xDAE37C" "x8DFC93" "x83FCAA" }
-    city = "x7FFC9B"
-    farm = "xCBD83F"
-    mine = "x8DFC93"
-    wood = "xFCD447"
-    arable_land = 18
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_iron_mine = 50
-        building_coal_mine = 36
-    }
-}
-STATE_CHA_08 = {
-    id = 41
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "xD1B69D" "xCCDC5D" "x7FD64B" "x9E9382" "x86FC8D" "xB9E242" "xC0D988" "xC6FC84" "xF3AB61" "xFCC363" "xFCD7B3" "x79E603" "x6FD089" "x5E9C97" "x6BFC6F" "x538FB3" "xFCFC32" "xC19455" "xC1FC92" "xCFB22C" }
-    city = "xD1B69D"
-    farm = "xC0D988"
-    mine = "xF3AB61"
-    wood = "x6FD089"
-    arable_land = 42
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-}
-STATE_CHA_09 = {
-    id = 42
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "xE79C8B" "xACFC62" "xA7FCB0" "xF9BA45" "xADA71F" "x9CE9B3" "x72FCA2" "xD8F709" "x93A6AC" "xEAD645" "xC09B46" "xB8923C" "xEFCF37" "xDBA8B2" "xDEAF1F" "x56FC93" }
-    city = "xE79C8B"
-    farm = "xDEAF1F"
-    mine = "xF9BA45"
-    wood = "xD8F709"
-    arable_land = 46
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
-    capped_resources = {
-        building_iron_mine = 5
-        building_coal_mine = 4
-    }
-}
-STATE_CHA_10 = {
-    id = 43
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "xF3FC0D" "xFCAC8F" "x84FC8F" "xB0FC50" "x7EA028" "x54F332" "x5CFC03" "x60B782" "x8AFC44" "x81B593" "x91FC96" "xDDA94A" "x64FC30" "xDAFC03" "xD8EF43" "xB9FC7B" "xFCA35D" "x60FC14" "x57DC66" "x8BD307" "xEDFC14" "xAFFCAF" }
-    city = "xF3FC0D"
-    farm = "x84FC8F"
-    mine = "x8BD307"
-    wood = "x81B593"
-    arable_land = 56
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
-    capped_resources = {
-        building_iron_mine = 15
-        building_coal_mine = 10
-    }
-}
-STATE_DUR = {
-    id = 44
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "x1EE0A0" "x40C451" "x4AA1DE" "x7A86C6" "x1DFCDA" "x15D1FB" "x03E677" "x03FCE7" "x04FCEB" "x4E8D88" "x0EFC58" "x03E26A" "x28C046" "x67FC43" "x66D764" "x0C814F" "x539A60" "x03FC45" "x03E571" "x1FB67A" "x32E995" "x07A36A" "x529BC9" "x1AFC7A" }
-    city = "x1EE0A0"
-    port = "x529BC9"
-    farm = "x07A36A"
-    mine = "x03E26A"
-    wood = "x15D1FB"
-    arable_land = 45
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
-    capped_resources = {
-        building_logging_camp = 12
-        building_iron_mine = 36
-        building_coal_mine = 24
-    }
-    naval_exit_id = 3017
-}
-STATE_DUR_02 = {
-    id = 45
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "x7CE1C6" "x48FC45" "x03FCE3" "x72D9CF" "x0EFC97" "x1DFC77" "x3E8A78" "x03FCD6" "x24FCEE" "x4DFCC0" "x039A66" "x069D87" "x0CE8A1" "x439C9E" "x71F9F0" "x29FCE1" "x03FC8B" }
-    city = "x7CE1C6"
-    farm = "x0EFC97"
-    mine = "x72D9CF"
-    wood = "x439C9E"
-    arable_land = 17
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_iron_mine = 50
-        building_coal_mine = 34
-    }
-}
-STATE_DUR_03 = {
-    id = 46
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "x49FC4D" "x5CFC58" "x75B5F5" "x03AF6E" "x2E924F" "x668BBE" "x76A3C3" "x03A5AD" "x59FCCE" "x3B9086" "x7DCA41" "x29F0D5" "x34C47C" "x15A7CD" "x5FBFE8" }
-    city = "x49FC4D"
-    farm = "x3B9086"
-    mine = "x75B5F5"
-    wood = "x34C47C"
-    arable_land = 45
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
-}
-STATE_DUR_04 = {
-    id = 47
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "x038992" "x03FC5D" "x63FC97" "x30FC9D" "x77FCB2" "x5DB84B" "x45FC43" "x03CF8E" "x03FC6B" "x039855" "x5CFC51" "x59C8DF" "x60DE8D" "x03FCB9" "x18F8A7" "x30FC8D" "x53EA64" "x7A9997" "x6EBA80" "x6AFC41" "x73FCD9" }
-    city = "x038992"
-    port = "x039855"
-    farm = "x18F8A7"
-    mine = "x59C8DF"
-    wood = "x73FCD9"
-    arable_land = 42
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
-    capped_resources = {
-        building_logging_camp = 12
-        building_iron_mine = 27
-        building_coal_mine = 18
-    }
-    naval_exit_id = 3017
-}
-STATE_DUR_05 = {
-    id = 48
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "x60B445" "x30FC44" "x4BA4F7" "x36D858" "x4CFC86" "x03FC5E" "x03FCC4" "x03FCC8" "x03F458" "x03FCE4" "x5BFC65" "x2B9453" "x33B1A0" "x71EB79" "x15E45C" "x70FCF3" "x03FCD9" "x03FCB3" }
-    city = "x60B445"
-    farm = "x15E45C"
-    mine = "x30FC44"
-    wood = "x4CFC86"
-    arable_land = 24
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 24
-        building_iron_mine = 36
-        building_coal_mine = 24
-    }
-}
-STATE_DUR_06 = {
-    id = 49
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "x54B1C1" "x519C87" "x6FC1C5" "x14B0F3" "x3EAEE3" "x12FCC0" "x1F8D51" "x09FC4C" "x03B5C2" "x03DAFC" "x24CFDB" "x4EFC56" "x4398E4" "x58FCF7" "x03F6C0" "x03B1D0" "x4BE7B7" "x03A76D" "x03D3C5" "x03AFD6" "x03FC62" }
-    city = "x54B1C1"
-    farm = "x3EAEE3"
-    mine = "x24CFDB"
-    wood = "x4BE7B7"
-    arable_land = 43
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
-    capped_resources = {
-        building_iron_mine = 30
-        building_coal_mine = 20
-    }
-}
-STATE_DUR_07 = {
-    id = 50
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "x26FCB1" "x03F9AF" "x03FC8A" "x50F38D" "x23CC62" "x05FC94" "x03FCDC" "x27EDA2" "x13915E" "x038BBF" "x21FB4A" "x03F677" "x0CFCDB" "x45FCE6" "x5BFC49" "x57D66E" "x76FC5D" "x0CA663" "x03B6EF" "x38DA87" "x54A297" "x03F358" }
-    city = "x26FCB1"
-    port = "x5BFC49"
-    farm = "x03FCDC"
-    mine = "x38DA87"
-    wood = "x45FCE6"
-    arable_land = 41
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
-    capped_resources = {
-        building_logging_camp = 44
-        building_iron_mine = 21
-        building_coal_mine = 14
-    }
-    naval_exit_id = 3017
-}
-STATE_GAB = {
-    id = 51
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x5761D4" "xB2B8C9" "x2708D5" "x3B1CFC" "x0BA0FC" "x5361FC" "x7862F3" "x24A6FC" "xA3638A" "x5C66B2" "x38AD9B" "x350979" "x3355FC" "x6725FC" "x2F52DD" "x5150FC" }
-    city = "x5761D4"
-    port = "xB2B8C9"
-    farm = "x3B1CFC"
-    mine = "xA3638A"
-    wood = "x3355FC"
-    arable_land = 39
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 36
-    }
-    naval_exit_id = 3013
-}
-STATE_GAB_02 = {
-    id = 52
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x81B4FC" "xAD9ED2" "x6CAAFC" "x0E1DD9" "x75888D" "x087FCF" "x996A98" "x5C77FC" "x21B0B9" "x87B190" "xB54087" "x5C71CD" "x204C89" "x8B507B" "x7C30B8" "x23A4FC" "xAA25FC" "x9C5AA5" "x21BC7A" "x8218FC" }
-    city = "x81B4FC"
-    port = "x21B0B9"
-    farm = "x996A98"
-    mine = "x87B190"
-    wood = "x8B507B"
-    arable_land = 38
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 48
-        building_iron_mine = 15
-        building_coal_mine = 10
-    }
-    naval_exit_id = 3014
-}
-STATE_GAB_03 = {
-    id = 53
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x68ACE9" "x51BAFC" "x2BB8DB" "xA8AC8B" "x18ACFC" "x8B94FC" "x686C86" "x092C76" "x6587CF" "x2D2698" "x0C2DFC" "x3081AC" "x3D94FC" "x9134BA" "x0D8593" "x43A0EF" "x6687FC" "x0331FA" "x4E64FC" "x290993" }
-    city = "x68ACE9"
-    port = "x0D8593"
-    farm = "x51BAFC"
-    mine = "x4E64FC"
-    wood = "x9134BA"
-    arable_land = 40
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3013
-}
-STATE_GAB_04 = {
-    id = 54
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xB09892" "x524CCB" "x5E6DFC" "x6F88FC" "x8187FC" "xB5929F" "xAC4BEA" "xA352FC" "x9F139D" "x7E16B0" "x03BA9E" "x85BBFC" "x1772DA" "x6A70FC" "x479DFC" "x285097" }
-    city = "xB09892"
-    farm = "x285097"
-    mine = "xB5929F"
-    wood = "x03BA9E"
-    arable_land = 39
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 36
-    }
-}
-STATE_GOL = {
-    id = 55
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "xE8B02E" "xBFA317" "xB19827" "xFC8B03" "xE8B52E" "xEBDA56" "xCADB6D" "xFCFC52" "xFCB36F" "xFCA10C" "xABE054" "xB0FC03" "xB7E12B" "x958165" "xFC7F12" "xFC8503" "xFCC503" "xFC5220" "xCDA95C" "xB1F28D" "xFC9343" }
-    city = "xE8B02E"
-    farm = "xCDA95C"
-    mine = "xFCFC52"
-    wood = "xCADB6D"
-    arable_land = 31
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_iron_mine = 48
-        building_coal_mine = 32
-    }
-}
-STATE_GOL_02 = {
-    id = 56
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "xBEA87C" "xFCCE49" "x8BBA31" "xFC9203" "x9BAC7F" "xDB9303" "x97B611" "xC8BC3A" "xFC8820" "xFC9027" "x89FC14" "xFC7A69" "xFC6F03" "xD2F603" "xFC742F" "xFC5D7C" "xDEFC53" "xFCDF4A" "xE5B92B" "xFCA049" "xA26E23" }
-    city = "xBEA87C"
-    port = "xFC9203"
-    farm = "x8BBA31"
-    mine = "xDB9303"
-    wood = "x89FC14"
-    arable_land = 30
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 36
-        building_iron_mine = 36
-        building_coal_mine = 24
-    }
-    naval_exit_id = 3017
-}
-STATE_GOL_03 = {
-    id = 57
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "xFC5633" "x8B915A" "xB09803" "xCEC674" "xE28646" "xEA980E" "xEEEC83" "xFCAD27" "xBB798D" "xFCAB58" "x9FF261" "x9B9E61" "xBD723D" "xFCC324" "xF85809" }
-    city = "xFC5633"
-    port = "x8B915A"
-    farm = "xFCAD27"
-    mine = "x9FF261"
-    wood = "xCEC674"
-    arable_land = 34
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 44
-    }
-    naval_exit_id = 3017
-}
-STATE_GOL_04 = {
-    id = 58
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "x94C278" "xFCFC83" "x98BF7B" "xEB5303" "xBBEB03" "xAFF903" "xE5EA4F" "xCCAF8A" "xB7E709" "x9A5872" "xE0D186" "xFCC703" "xA15603" "xFC9573" "xE38A03" "xB2FC03" "xFCBF82" "x925628" "xABFC03" "xF8FC1B" "xFCDD84" "xFC5403" "xD2DC5C" }
-    city = "x94C278"
-    farm = "xBBEB03"
-    mine = "xA15603"
-    wood = "xABFC03"
-    arable_land = 23
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_iron_mine = 50
-        building_coal_mine = 45
-        building_lead_mine = 16
-    }
-}
-STATE_GUD = {
-    id = 59
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "x3292E1" "x654E90" "x77A3FC" "x03D4FC" "x5588FC" "x0367FC" "x139CFC" "x03D8ED" "x03BADA" "x034DFC" "x03B5FC" "x1046F1" "x03C1FC" "x03E0E4" "x038890" "x6A82F1" "x03A7AB" "x6E8ED4" "x46E7EE" }
-    city = "x3292E1"
-    farm = "x03D4FC"
-    mine = "x6A82F1"
-    wood = "x03D8ED"
-    arable_land = 30
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 44
-        building_iron_mine = 24
-        building_coal_mine = 16
-        building_lead_mine = 4
-    }
-}
-STATE_GUD_02 = {
-    id = 60
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "x8A4BB2" "x12C095" "x099AA4" "x4EAFA3" "x37A5D6" "x0335FC" "x1AA5BB" "x095084" "x0545C6" "x0334FC" "x03ECFC" "x39EA95" "x46C1B7" "x0B8ECC" "x039BFC" "x03BFD7" "x3655F1" "x3491EA" "x75B992" "x52BAEF" "x03D2D8" "x36CBFC" "x36D9FC" "x63E3AD" "x735989" "x0394FC" "x65ADE8" "x03CAB9" }
-    city = "x8A4BB2"
-    port = "x735989"
-    farm = "x0334FC"
-    mine = "x37A5D6"
-    wood = "x0335FC"
-    arable_land = 84
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
-    naval_exit_id = 3027
-}
-STATE_GUD_03 = {
-    id = 61
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "x695086" "x8E66FC" "x03ACF6" "x86D68D" "x2B47D6" "x03E7FC" "x53D9EB" "x03ADFC" "x5EB2D7" "x03E8B5" "x0371A2" }
-    city = "x695086"
-    port = "x8E66FC"
-    farm = "x86D68D"
-    mine = "x03E7FC"
-    wood = "x03E8B5"
-    arable_land = 30
-    arable_resources = { "building_livestock_ranch" "building_rice_farm" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 12
-    }
-    naval_exit_id = 3013
-}
-STATE_GUD_04 = {
-    id = 62
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "x78E9E7" "x4A82DE" "x51BEAC" "x5BAEE3" "x57C78E" "x7ABDFC" "x7ED29B" "x0369B8" "x5B9895" "x2C6BC3" "x7CCFFC" "x6C3AF2" "x2852FC" "x8CD784" "x4FE5FC" "x73EAFC" "x8B6BF3" "x8276BC" "x3DC6E6" }
-    city = "x78E9E7"
-    farm = "x51BEAC"
-    mine = "x7ED29B"
-    wood = "x5BAEE3"
-    arable_land = 21
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 8
-        building_iron_mine = 50
-        building_coal_mine = 34
-        building_lead_mine = 14
-    }
-}
-STATE_GUD_05 = {
-    id = 63
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "x2C6EFC" "x6B70D9" "x674EFC" "x3FA498" "x2742CF" "x23A0FC" "x879DAA" "x594CE2" "x039FFC" "x037CD6" "x8C59FC" "x0AB2DC" "x7388E4" "x035084" "x5A88FC" "x6565E8" "x50EC87" "x4984EB" "x03A9FC" "x03ABD3" "x5FA3FC" }
-    city = "x2C6EFC"
-    port = "x5FA3FC"
-    farm = "x8C59FC"
-    mine = "x879DAA"
-    wood = "x03ABD3"
-    arable_land = 45
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3013
-}
-STATE_GUD_06 = {
-    id = 64
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "x0B35FC" "x426295" "x649AEC" "x047BB4" "x2FCFF8" "x036CF7" "x03CD8D" "x29CEB3" "x3E9A9F" "x1381D1" "x0C3CFC" "x557CFC" "x56A8FC" "x8633FC" "x70ADCC" "x177291" "x06C6FC" "x5277EF" "x4FB9DB" "x5FC9FC" "x908FEB" }
-    city = "x0B35FC"
-    farm = "x426295"
-    mine = "x03CD8D"
-    wood = "x8633FC"
-    arable_land = 21
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_iron_mine = 50
-        building_coal_mine = 42
-    }
-}
-STATE_GUD_07 = {
-    id = 65
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "x03A3FC" "x7FE287" "x495F91" "x6752D5" "x4996BB" "x8789FC" "x4CF0FC" "x326BFC" "x03B58B" "x793C84" "x1B59FC" "x053CAA" "x463595" "x035AE4" "x1CE0B7" }
-    city = "x03A3FC"
-    farm = "x1B59FC"
-    mine = "x326BFC"
-    wood = "x03B58B"
-    arable_land = 31
-    arable_resources = { "building_livestock_ranch" "building_rice_farm" "building_sugar_plantation" }
-    capped_resources = {
-        building_iron_mine = 21
-        building_coal_mine = 14
-        building_lead_mine = 4
-    }
-}
-STATE_GUD_08 = {
-    id = 66
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "x2E5CB3" "x8759FC" "x64B7C1" "x5F73B1" "x888BCA" "x909890" "x16C2D7" "x0391FC" "x14B7FC" "x6FD5FC" "x1BD3B3" "x3070B7" "x156DF4" "x7450FC" "x0353DC" "x29DEFC" "x5250B7" "x1E95FC" "x8CBCFC" "x53AEFC" "x0F6BB2" "x4F53A4" }
-    city = "x2E5CB3"
-    port = "x16C2D7"
-    farm = "x64B7C1"
-    mine = "x29DEFC"
-    wood = "x8759FC"
-    arable_land = 44
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3013
-}
-STATE_GUD_09 = {
-    id = 67
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "x8878FC" "x03F0CE" "x66A9E9" "x629DFC" "x0351B2" "x867DFC" "x03D0FC" "x4D69D8" "x039CBC" "x03F0FC" "x8592FC" "x603897" "x8A61FC" "x03B3FC" "x19D6FC" "x224DC0" "x03A6A7" "x70B1B2" "x1CF0F6" "x5779FC" "x29BBFC" }
-    city = "x8878FC"
-    farm = "x03A6A7"
-    mine = "x629DFC"
-    wood = "x8A61FC"
-    arable_land = 42
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-}
-STATE_HUH = {
-    id = 68
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x1CBCCD" "x03B387" "x0367A1" "x33B47D" "x1BB2FC" "x1FFC71" "x19B2FC" "x03EBDE" "x13737B" "x03FC81" "x0DFCD9" "x5E5FFC" "x40ACE4" "x0B61C9" "x03F4FC" "x5AA3FC" "x039DC2" "x1CE570" }
-    city = "x1CBCCD"
-    port = "x5E5FFC"
-    farm = "x0367A1"
-    mine = "x0DFCD9"
-    wood = "x03F4FC"
-    arable_land = 28
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 40
-        building_iron_mine = 24
-        building_coal_mine = 16
-    }
-    naval_exit_id = 3014
-}
-STATE_HUH_02 = {
-    id = 69
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "x09FCCD" "x09C2FC" "x03FCFC" "x107F78" "x4AF9A2" "x03FCE9" "x33B1BC" "x03E4C4" "x03B390" "x036CB7" "x5782C9" "x6CF3A2" "x60BCFC" "x0366E3" "x1497FC" "x15FC82" "x52608C" "x036FCA" }
-    city = "x09FCCD"
-    farm = "x52608C"
-    mine = "x4AF9A2"
-    wood = "x6CF3A2"
-    arable_land = 30
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_iron_mine = 36
-        building_coal_mine = 24
-    }
-}
-STATE_HUH_03 = {
-    id = 70
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x509FCD" "x73A69F" "x03FCB4" "x5061BC" "x03E5E9" "x38FCAC" "x03E1FC" "x03B595" "x036BB6" "x03BAFC" "x5BB488" "x23EDEB" "x5C5E8D" "x0FE69C" "x249CC5" "x0DB4FC" "x03CB8F" "x0AEED1" "x03FCC5" "x24A9FC" "x0A76E3" }
-    city = "x509FCD"
-    port = "x03FCC5"
-    farm = "x0A76E3"
-    mine = "x0DB4FC"
-    wood = "x03FCB4"
-    arable_land = 42
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3005
-}
-STATE_HUH_04 = {
-    id = 71
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x5AB3FC" "x4AFC71" "x7271B1" "x58B5EC" "x6BE0FC" "x709FD9" "x79A4E0" "x057AFC" "x566EC3" "x037ABE" "x03A8B2" "x12CE76" "x6987FC" "x558CFC" "x539FFC" "x41FCF4" "x0374AB" "x649DEA" }
-    city = "x5AB3FC"
-    port = "x6987FC"
-    farm = "x4AFC71"
-    mine = "x7271B1"
-    wood = "x0374AB"
-    arable_land = 37
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3005
-}
-STATE_HUH_05 = {
-    id = 72
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "x03FCA9" "x0CFCFC" "x4786FC" "x42FBFC" "x1AD2FC" "x03CAD0" "x036CDD" "x0BA2DA" "x647B73" "x03A0FC" "x5DB99A" "x038088" "x70FBC4" "x0F69AD" "x0369F6" "x03EECB" }
-    city = "x03FCA9"
-    port = "x4786FC"
-    farm = "x1AD2FC"
-    mine = "x0CFCFC"
-    wood = "x03A0FC"
-    arable_land = 41
-    arable_resources = { "building_livestock_ranch" "building_rice_farm" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 28
-    }
-    naval_exit_id = 3014
-}
-STATE_HUH_06 = {
-    id = 73
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "x626AA7" "x51D397" "x3C9D80" "x03FCF3" "x67DF7E" "x0EDA9E" "x03FCE2" "x03FCA4" "x2FC19B" "x03F2A0" "x03BCE2" "x03A3E7" "x03F975" "x0379FC" "x52E2FC" "x2576A2" "x03ECDC" "x1B7FFC" }
-    city = "x626AA7"
-    port = "x0EDA9E"
-    farm = "x03F2A0"
-    mine = "x03FCF3"
-    wood = "x2576A2"
-    arable_land = 54
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    naval_exit_id = 3017
-}
-STATE_HUH_07 = {
-    id = 74
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x1B79B1" "x03C3FC" "x03FCF2" "x2FA4FC" "x19C0FC" "x13FC78" "x03C1A0" "x73EC78" "x0381EB" "x03C6DD" "x05BFC8" "x03F17F" "x03DAAF" "x3DA5A8" "x06BCFC" "x76AD90" "x036BF9" "x759D7B" "x03FCA2" "x03FCEB" "x03AEF6" }
-    city = "x1B79B1"
-    port = "x03DAAF"
-    farm = "x13FC78"
-    mine = "x03FCF2"
-    wood = "x03FCEB"
-    arable_land = 47
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3017
-}
-STATE_HUH_08 = {
-    id = 75
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "x1399CA" "x3589DF" "x0370D1" "x51FCFC" "x6BCE99" "x55CB8E" "x03E77A" "x0387FC" "x6DFCE9" "x11A8BD" "x69F3C2" "x03D4C6" "x037DFC" "x2F9AFC" "x1ABBF9" "x3DAEC0" "x74C38E" "x12B7CB" "x69FCA7" "x57EBFC" }
-    city = "x1399CA"
-    farm = "x55CB8E"
-    mine = "x03E77A"
-    wood = "x6DFCE9"
-    arable_land = 30
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 24
-        building_iron_mine = 36
-        building_coal_mine = 24
-    }
-}
-STATE_HUH_09 = {
-    id = 76
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x03DAE4" "x03C6A4" "x04C3C9" "x03D67A" "x137EB4" "x16D98D" "x0CA87F" "x62B5DD" "x64FCD5" "x2BED6E" "x6FDCCD" "x0386FC" "x1E96DC" "x038EFC" "x03ABCD" "x3E5FD4" "x63B2FC" "x738AFC" "x69ABC7" "x037B86" "x3770A0" "x6EE4FA" "x29FCDB" }
-    city = "x03DAE4"
-    port = "x29FCDB"
-    farm = "x04C3C9"
-    mine = "x037B86"
-    wood = "x137EB4"
-    arable_land = 44
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-        building_iron_mine = 12
-        building_coal_mine = 8
-    }
-    naval_exit_id = 3005
-}
-STATE_HUH_10 = {
-    id = 77
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "x3171FC" "x03AB9E" "x3CE8A5" "x28A8DD" "x3BFC7C" "x5AF06F" "x5C91F3" "x039FCD" "x60FC9A" "x4AFCFC" "x4EFCFC" "x5FC7FC" "x69C992" "x42D290" "x5AFC82" "x34C4FC" "x5EFCFC" "x55ACAE" "x6399D2" "x067AFC" }
-    city = "x3171FC"
-    port = "x55ACAE"
-    farm = "x60FC9A"
-    mine = "x5AFC82"
-    wood = "x69C992"
+    provinces = { "x20CAA3" "x8BC329" "x78E34D" "x03FB3F" "x4CFCAE" "x55F81D" "x8FFA2A" "x90ED75" "x03FB5C" "x7AEF4D" "x14FC42" "x08A223" "x13FCD8" "x03C6B4" "x05D0B1" "x85D3A7" "x29FC6E" "x3CFCA7" "x49FC99" "x03A59A" "x039787" "x2EF9AA" "x03FCB9" "x92FC60" "x71DB9C" "x03FCC2" "x37F1D2" "x7DE922" "x03FC72" "x96FCB8" }
+    city = "x20CAA3"
+    port = "x3CFCA7"
+    farm = "x14FC42"
+    mine = "x03C6B4"
+    wood = "x8FFA2A"
     arable_land = 60
     arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    naval_exit_id = 3017
-}
-STATE_HUH_11 = {
-    id = 78
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "x0FD0E8" "x68EEEE" "x41A179" "x0395D8" "x5DF2BF" "x7BF1FC" "x718CCD" "x03F5C9" "x417981" "x03B7E7" "x03A6BC" "x409799" "x47CDD5" "x03CDD7" "x52997B" "x03F4FB" "x03B2AF" "x4AC9FA" "x65B074" }
-    city = "x0FD0E8"
-    farm = "x7BF1FC"
-    mine = "x68EEEE"
-    wood = "x409799"
-    arable_land = 56
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 5
-    }
-}
-STATE_HUH_12 = {
-    id = 79
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "x13EBE8" "x036577" "x277678" "x03FC6E" "x03ACFC" "x0BB58D" "x0362F8" "x1C83BF" "x03FC94" "x05EC9A" "x5D9981" "x166CAE" "x576B6F" "x0376E2" "x14FCDB" "x546D93" "x316ACA" "x03C0BB" "x036DE9" "x5CAED5" }
-    city = "x13EBE8"
-    port = "x5D9981"
-    farm = "x316ACA"
-    mine = "x5CAED5"
-    wood = "x277678"
-    arable_land = 50
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 40
-    }
-    naval_exit_id = 3014
-}
-STATE_HUH_13 = {
-    id = 80
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x2DB6FC" "x70B6E4" "x7480D0" "x22F7A8" "x2FD4A2" "x03FCA0" "x0ABDFC" "x09B8CF" "x6EF5FC" "x48F0FC" "x57F3DC" "x4391FC" "x29EA97" "x03709B" "x036A96" "x44E2BB" "x709EE5" "x0F66FC" "x03AA8D" }
-    city = "x2DB6FC"
-    port = "x7480D0"
-    farm = "x70B6E4"
-    mine = "x2FD4A2"
-    wood = "x57F3DC"
-    arable_land = 38
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
     capped_resources = {
         building_logging_camp = 60
     }
     naval_exit_id = 3005
 }
-STATE_HUH_14 = {
-    id = 81
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "x58FCE1" "x377ED7" "x37E58C" "x0CB2AE" "x038AFC" "x56FCFC" "x75FCE1" "x03EDFC" "x0370BB" "x61CAE7" "x1AEEFC" "x038FFC" "x0377D6" "x03BAB9" "x4FE0FC" "x66B6FC" "x27EBC2" "x65FCDF" "x03C97C" "x03AFE4" "x038FDA" "x03F0F6" "x0370FC" }
-    city = "x58FCE1"
-    farm = "x03AFE4"
-    mine = "x03F0F6"
-    wood = "x03EDFC"
-    arable_land = 58
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 36
-        building_iron_mine = 5
-        building_coal_mine = 4
-    }
-}
-STATE_JUD = {
-    id = 82
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "x41F472" "x13FC6F" "x2CFC7C" "x8EA638" "x03FC7E" "x20A466" "x28A740" "x25A4C7" "x03FC2E" "x5AFC3A" "x91FA3F" "x48C11C" "x03B592" "x25FC57" "x3FFCA5" "x07FC69" "x7EAF6C" "x6DFC89" "x57D635" "x6BA871" }
-    city = "x41F472"
-    farm = "x5AFC3A"
-    mine = "x48C11C"
-    wood = "x03FC7E"
-    arable_land = 20
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_iron_mine = 50
-        building_coal_mine = 40
-        building_lead_mine = 20
-    }
-}
-STATE_JUD_02 = {
-    id = 83
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "x6CA751" "x03D3D0" "x03AA66" "x6C9A7F" "x41FC56" "x949898" "x29CB87" "x03FC91" "x5BC668" "x1CA4B0" "x0CFCA2" "x61ED3B" "x11DDA1" "x8AFC97" "x3ED1CE" "x60A428" "x99FC65" "x03F6A8" }
-    city = "x6CA751"
-    farm = "x99FC65"
-    mine = "x6C9A7F"
-    wood = "x1CA4B0"
-    arable_land = 18
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_iron_mine = 50
-        building_coal_mine = 36
-        building_lead_mine = 25
-    }
-}
-STATE_JUD_03 = {
-    id = 84
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "x60BFCD" "x91FC99" "x11AD1F" "x51C631" "x36AB6B" "x16ED8D" "x8FFC6F" "x96BE28" "x3F9F2A" "x16FC9A" "x09D5A8" "x39B859" "x1FFC8D" "x78F37F" "x27C02B" "x2CFC8B" "x03FC58" "x03FC31" "x519928" "x3ECAA5" "x0397B7" }
-    city = "x60BFCD"
-    farm = "x1FFC8D"
-    mine = "x39B859"
-    wood = "x2CFC8B"
-    arable_land = 21
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_iron_mine = 50
-        building_coal_mine = 42
-        building_lead_mine = 18
-    }
-}
-STATE_JUD_04 = {
-    id = 85
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "x34FC9C" "x5DFCB0" "x03F0AB" "x4FFCB0" "x1CFCBF" "x7AFC83" "x84CC53" "x17CCA5" "x8ADA7D" "x0EFCBF" "x1ACA82" "x13C339" "x03C721" "x76B622" "x7BFC1F" "x03A4BA" "x45D3AA" "x80FC17" "x76FCC0" "x7AFC18" "x71B824" "x3CDA4E" "x2EF922" "x80FCB4" }
-    city = "x34FC9C"
-    farm = "x03A4BA"
-    mine = "x7BFC1F"
-    wood = "x7AFC83"
-    arable_land = 24
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_iron_mine = 50
-        building_coal_mine = 45
-        building_lead_mine = 18
-    }
-}
-STATE_KAI = {
-    id = 86
+STATE_BUE_04 = {
+    id = 13
     subsistence_building = "building_subsistence_orchard"
-    provinces = { "x6253C6" "x155FA1" "x8D07AB" "x684382" "x060DB9" "xB5A8C9" "x3D3DFC" "xAF037B" "x3F3AEC" "x7A688E" "x2555D6" "x954FC6" "x4A76FC" "x7BA6D3" "x1318E2" "xA38BE6" }
-    city = "x6253C6"
-    port = "x3F3AEC"
-    farm = "x3D3DFC"
-    mine = "x1318E2"
-    wood = "x060DB9"
-    arable_land = 33
+    provinces = { "x03A36E" "x24F832" "x55B052" "x7293B0" "x03CA1E" "x2AC987" "x03E5BE" "x62FC2F" "x04E549" "x84A03C" "x0DFCBC" "x3E9AB4" "x4CFCA9" "x2DFC81" "x719978" "x75B1BB" "x68FCCE" "x1FFCC6" "x3CFC7C" "x03FC22" "x86AB5C" "x5BB170" "x56FC49" "x39FCC8" "x1CCFA6" "x03FC55" "x6BC62D" "x93FC32" "x5BDC32" }
+    city = "x03A36E"
+    port = "x04E549"
+    farm = "x3CFC7C"
+    mine = "x6BC62D"
+    wood = "x24F832"
+    arable_land = 61
     arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3017
+    naval_exit_id = 3014
 }
-STATE_KAI_02 = {
-    id = 87
+STATE_BUE_05 = {
+    id = 14
     subsistence_building = "building_subsistence_orchard"
-    provinces = { "x659073" "x31A184" "x3B93FC" "x7144E2" "xBC33B6" "x44A8DC" "xAA1CFC" "x2C18E1" "x90B06A" "x5B37F7" "xB22D84" "x520377" "x720BD9" "xBA7FFC" "x44177D" "x057B95" "x2D83F4" }
-    city = "x659073"
-    port = "x3B93FC"
-    farm = "x520377"
-    mine = "x90B06A"
-    wood = "x2C18E1"
-    arable_land = 34
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3017
-}
-STATE_LOR = {
-    id = 88
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xFF586C" "xFCACC8" "xFC047B" "xE7245A" "xCB3CB0" "xFCB456" "xD4038F" "xF48DAA" "xD57F7E" "xD4376D" "xFC1342" "xFC46A7" "xD8420E" "xFC654B" "xFCB513" "xB6788A" "xFC96C4" "xFC5A12" }
-    city = "xFF586C"
-    port = "xFCB456"
-    farm = "xD4376D"
-    mine = "xD4038F"
-    wood = "xD8420E"
-    arable_land = 35
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-        building_iron_mine = 6
-        building_coal_mine = 4
-    }
-    naval_exit_id = 3022
-}
-STATE_LOR_02 = {
-    id = 89
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "xB2B18A" "xB003B8" "xFCA560" "xCD6C15" "xBE8D40" "xFC4429" "xFC9B96" "xE45FC8" "xFC8115" "xFCA469" "xED0326" "xBA8B7C" "xB16599" "xFCAE15" "xFCAB19" "xFC247B" "xDC3DC8" "xFC9B13" }
-    city = "xB2B18A"
-    farm = "xFC4429"
-    mine = "xCD6C15"
-    wood = "xFC8115"
-    arable_land = 32
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 32
-        building_iron_mine = 21
-        building_coal_mine = 14
-    }
-}
-STATE_LOR_03 = {
-    id = 90
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xFC4780" "xEFB359" "xBD5D12" "xC06755" "xF925B7" "xF0B038" "xFC5428" "xF31D84" "xFC18C9" "xE682C3" "xFC7DB8" "xFC99AC" "xF034B4" "xFC1C4A" "xFC264F" "xC1ADB5" "xC0A776" "xFC20A9" "xFC8326" "xFCA22F" }
-    city = "xFC4780"
-    port = "xFC264F"
-    farm = "xF0B038"
-    mine = "xF31D84"
-    wood = "xFC20A9"
-    arable_land = 33
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 52
-        building_iron_mine = 21
-        building_coal_mine = 14
-        building_lead_mine = 10
-    }
-    naval_exit_id = 3006
-}
-STATE_LOR_04 = {
-    id = 91
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xD3055F" "xEB7D3A" "xAB84C2" "xFC8038" "xF17C41" "xA4409E" "xFC39B2" "xEF32B2" "xA59CB7" "xFC03AC" "xFC6771" "xFC1656" "xFC5553" "xFCB44D" "xFC5EAC" "xB32631" "xFC3417" "xA68667" "xFC038D" "xC626C3" }
-    city = "xD3055F"
-    port = "xFC5553"
-    farm = "xFC03AC"
-    mine = "xEF32B2"
-    wood = "xA4409E"
-    arable_land = 40
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3022
-}
-STATE_LOR_05 = {
-    id = 92
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "xFC4E83" "xA9581F" "xFCAD13" "xFC25B1" "xBC03BD" "xFC3FC7" "xA75DCB" "xFC4619" "xFC450D" "xB71EAD" "xFC998B" "xFC3411" "xF58053" "xFA4169" "xBE9B95" "xFCB21D" "xD61BAB" "xFB4853" "xFC9B8D" "xC16EA5" "xDAB23A" "xFCAC6D" "xB4750F" "xF0608E" "xBA2C0E" }
-    city = "xFC4E83"
-    farm = "xF0608E"
-    mine = "xC16EA5"
-    wood = "xDAB23A"
-    arable_land = 25
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_iron_mine = 50
-        building_coal_mine = 45
-        building_lead_mine = 25
-    }
-}
-STATE_LOR_06 = {
-    id = 93
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xB33D92" "xFC3984" "xEB9498" "xFC2C90" "xCE9D3B" "xFC4B69" "xFC5074" "xDFA436" "xFC036C" "xAC813F" "xFCA2C3" "xD722A7" "xFCAD39" "xFC467A" "xFCA58A" "xB38594" "xFC8EBC" }
-    city = "xB33D92"
-    farm = "xFC5074"
-    mine = "xFC3984"
-    wood = "xFC4B69"
-    arable_land = 34
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-}
-STATE_LOR_07 = {
-    id = 94
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "xFCA88A" "xAD6CB1" "xFC5921" "xDDA460" "xA21133" "xFC2087" "xFC7E63" "xFC7455" "xFC6E83" "xB41AB4" "xE109C1" "xC42BC0" "xFCB612" "xFC9D26" "xA8238B" "xFC27BC" "xFC5419" "xFC5530" "xFC3E6B" }
-    city = "xFCA88A"
-    farm = "xFC3E6B"
-    mine = "xFC27BC"
-    wood = "xFC7E63"
-    arable_land = 26
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 28
-        building_iron_mine = 36
-        building_coal_mine = 24
-        building_lead_mine = 12
-    }
-}
-STATE_LOR_08 = {
-    id = 95
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "xFC2410" "xFC1911" "xDC6976" "xFC2A9B" "xF680BD" "xD9A47B" "xC00F96" "xFC327B" "xCEB39F" "xFC6319" "xFC7564" "xFC6F69" "xFC056B" "xFC6A2C" "xC462B2" "xC9ABC0" "xF94725" "xF88173" }
-    city = "xFC2410"
-    farm = "xFC7564"
-    mine = "xC462B2"
-    wood = "xFC2A9B"
-    arable_land = 18
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_iron_mine = 50
-        building_coal_mine = 36
-        building_lead_mine = 22
-    }
-}
-STATE_LOR_09 = {
-    id = 96
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xFC84AC" "xCB031E" "xFC147F" "xE9AE47" "xA00331" "xD31EA4" "xF7A66E" "xFC41C7" "xF28C41" "xF2A743" "xF5B2B6" "xFC81BA" "xFC523C" "xA85B9B" "xA54815" "xFC07AF" "xF90370" "xDE9A57" "xFC6468" "xFC7BBD" "xFC407E" "xB9034A" }
-    city = "xFC84AC"
-    port = "xA00331"
-    farm = "xA54815"
-    mine = "xFC6468"
-    wood = "xB9034A"
-    arable_land = 44
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3022
-}
-STATE_LOR_10 = {
-    id = 97
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "xDF329C" "xC03214" "xFC8DA3" "xFC5A69" "xFC894B" "xFCAFAD" "xC94A9B" "xFCAD8A" "xFC4131" "xE3556A" "xFC03CA" "xFC9496" "xFC221F" "xFC0D56" "xE46C23" "xFC917B" "xFC27A7" "xFC3273" "xE52585" "xFCAC87" }
-    city = "xDF329C"
-    farm = "xFCAFAD"
-    mine = "xFCAC87"
-    wood = "xFC8DA3"
-    arable_land = 27
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 20
-        building_iron_mine = 42
-        building_coal_mine = 28
-        building_lead_mine = 10
-    }
-}
-STATE_LOR_11 = {
-    id = 98
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "xFC385C" "xFC4C8A" "xE8A6A1" "xEE2B30" "xABA85C" "xFC1625" "xB1207E" "xFC2655" "xFCB282" "xA10CCA" "xFC2F64" "xFC0310" "xFCA561" "xCD7B5B" "xFC9B45" "xA4193F" "xDB9764" "xAA030D" "xCF9C9D" }
-    city = "xFC385C"
-    farm = "xFC0310"
-    mine = "xFC4C8A"
-    wood = "xFC2F64"
-    arable_land = 19
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_iron_mine = 50
-        building_coal_mine = 38
-        building_lead_mine = 20
-    }
-}
-STATE_MAC = {
-    id = 99
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xD2CA34" "xE6B65D" "xFCFC61" "xFCFC77" "xB9FC1C" "xF48021" "x839D74" "xFCA281" "xDDFC85" "xFCBD08" "xE1FC05" "xE39710" "xB6A30D" "x97D455" "xFCCB03" "xFCBA18" "xFC841B" "xFCC20D" "x90C41E" "xBFE427" "x9AD96F" "xD5B02C" "xEDFC21" "xFCD81D" }
-    city = "xD2CA34"
-    port = "xFCBD08"
-    farm = "xB9FC1C"
-    mine = "xD5B02C"
-    wood = "x9AD96F"
-    arable_land = 48
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3012
-}
-STATE_MAC_02 = {
-    id = 100
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xC6F70A" "xC7FC79" "xFCF892" "xA7F03C" "xFCF779" "x95A803" "x8BCB55" "x7DFC03" "x737E86" "xFCFC04" "x80FC31" "xFCFC46" "x9EA769" "x9B9676" "xFCD282" "xABB003" "xBC6F03" "x8F7B57" "xF9C591" "xFCAF41" "xFCE30C" }
-    city = "xC6F70A"
-    port = "x8BCB55"
-    farm = "x80FC31"
-    mine = "xBC6F03"
-    wood = "xF9C591"
-    arable_land = 42
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3012
-}
-STATE_MAC_03 = {
-    id = 101
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xFCE65F" "xB0BF0C" "x8ACD03" "xFB9303" "xFCFC54" "xD4FC71" "x75B303" "xE1FC72" "x8C6D6C" "xFCFC53" "x7CB650" "xBDB95F" "x92AF6D" "xFCB003" "x8F7F03" "xFCFC65" "xE0A410" "xFCBD06" "xFCA003" }
-    city = "xFCE65F"
-    port = "xFCA003"
-    farm = "x92AF6D"
-    mine = "xBDB95F"
-    wood = "x7CB650"
-    arable_land = 45
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 48
-    }
-    naval_exit_id = 3012
-}
-STATE_MAC_04 = {
-    id = 102
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "xACCF6F" "xD8FC6E" "xF9FC70" "xF9E03B" "xE7FB3B" "xFC7754" "xFCA422" "xBECE09" "xFC748C" "xFB6C53" "xD19283" "xFC820A" "xDEFC85" "xE2A303" "xD1F323" "xD0DA03" }
-    city = "xACCF6F"
-    port = "xBECE09"
-    farm = "xFCA422"
-    mine = "xE2A303"
-    wood = "xD19283"
-    arable_land = 42
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 8
-        building_iron_mine = 6
-        building_coal_mine = 4
-    }
-    naval_exit_id = 3012
-}
-STATE_MAC_05 = {
-    id = 103
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xFCA067" "xFC8766" "xC4AC8C" "xDBBE03" "xFC8E68" "xB66E67" "xFCFC29" "xBEFC5A" "xDE8636" "xFCD98F" "xFCFC7E" "xFC818B" "x94FA21" "xC5FC84" "xF47F8B" "xFC987C" "xEBE754" "xBFFC92" "xEF7744" "xD3FC03" "xFC8049" "xF2FC32" "x7DEA0F" }
-    city = "xFCA067"
-    farm = "xFCFC7E"
-    mine = "xDBBE03"
-    wood = "xFCFC29"
-    arable_land = 57
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 48
-    }
-}
-STATE_MAS = {
-    id = 104
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x1AD6B0" "x03FC67" "x099693" "x669471" "x10ADA7" "x71BFCB" "x2C8C6F" "x2DDA8D" "x05FC7D" "x73F2B4" "x03D1FC" "x03CCF4" "x45B0E1" "x2782FC" "x4F8DD3" "x53A5D2" "x03FC74" "x1CCE8A" }
-    city = "x1AD6B0"
-    port = "x05FC7D"
-    farm = "x03FC67"
-    mine = "x53A5D2"
-    wood = "x2DDA8D"
-    arable_land = 36
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3017
-}
-STATE_MAS_02 = {
-    id = 105
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x03B581" "x4AFC5A" "x13D9AB" "x0387F8" "x17FCFC" "x37C95B" "x52FC86" "x03C7C8" "x03D3E2" "x45FC67" "x6DFCBD" "x35FCE6" "x03979F" "x5BFCB5" "x5A8587" "x03F6DF" "x1CFCB9" "x59B1A5" "x03FABC" }
-    city = "x03B581"
-    port = "x03979F"
-    farm = "x52FC86"
-    mine = "x0387F8"
-    wood = "x6DFCBD"
-    arable_land = 38
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3024
-}
-STATE_MAS_03 = {
-    id = 106
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x03B297" "x03FC68" "x17E6FC" "x3EB575" "x03F8D0" "x3F9BAC" "x0381B1" "x3FB1B7" "x03FCC3" "x03FC6D" "x03F0D2" "x6AFCDC" "x03FC55" "x03B7EF" "x79AE8E" "x44C3D1" "x03D39B" "x0BFCB2" "x03F59C" "x40C791" }
-    city = "x03B297"
-    port = "x40C791"
-    farm = "x03F0D2"
-    mine = "x3FB1B7"
-    wood = "x03F59C"
-    arable_land = 40
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3024
-}
-STATE_NAU = {
-    id = 107
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x7B19CD" "x8003FC" "x6F03FC" "xB403EE" "x486890" "xC703F6" "x3A03F9" "x916EF9" "x3631FC" "x5A55FC" "x2864CD" }
-    city = "x7B19CD"
-    port = "x8003FC"
-    farm = "x5A55FC"
-    mine = "xB403EE"
-    wood = "x486890"
+    provinces = { "x6CB66A" "x03E670" "x03FA61" "x70F8D2" "x86FC3A" "x1ECCD8" "x96FC5E" "x22B04A" "x03FC89" "x03FC2E" "x0EFC31" }
+    city = "x6CB66A"
+    port = "x86FC3A"
+    farm = "x03FC89"
+    mine = "x03FC2E"
+    wood = "x03FA61"
     arable_land = 22
     arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
     capped_resources = {
         building_logging_camp = 44
     }
-    naval_exit_id = 3025
+    naval_exit_id = 3005
 }
-STATE_NAU_02 = {
-    id = 108
+STATE_BUE_06 = {
+    id = 15
     subsistence_building = "building_subsistence_orchard"
-    provinces = { "x9B03A1" "xA703AC" "x866D92" "xD003FC" "xAE57FC" "x6C03FC" "x97388A" "xB84AC3" "x710CAC" "x5721E2" "x753CC9" "xBE73BE" "xB807C9" "xA518A9" "x750395" "x980386" "x4671E6" "x473A9D" "x7803ED" "x72389C" "xB17172" "xC94AFC" "xAE1AFC" "x4103B3" "x9003DB" "xAC17FC" }
-    city = "x9B03A1"
-    port = "x7803ED"
-    farm = "x710CAC"
-    mine = "x6C03FC"
-    wood = "xAE1AFC"
-    arable_land = 48
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-        building_iron_mine = 12
-        building_coal_mine = 8
-    }
-    naval_exit_id = 3006
-}
-STATE_NAU_03 = {
-    id = 109
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "x8D20FC" "xCE73FC" "xBF64DE" "x8E03C2" "x786FEF" "xD121E2" "x3B3CDA" "x5C32FC" "x931799" "x2D1F7B" "xC90998" "x6F03DA" "x3103CA" "x2307D7" "x7203D7" "x7903FC" "x9F61FC" "x7569FC" "xCD1383" "x8453F0" "x2545EC" "x5A03C9" "x2703EA" "x7F549D" "xB43186" "x880376" }
-    city = "x8D20FC"
-    port = "xBF64DE"
-    farm = "x5C32FC"
-    mine = "x3B3CDA"
-    wood = "x7F549D"
-    arable_land = 39
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 52
-        building_iron_mine = 39
-        building_coal_mine = 26
-        building_lead_mine = 6
-    }
-    naval_exit_id = 3006
-}
-STATE_NAU_04 = {
-    id = 110
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x8F3B8F" "x7303FC" "x8A18FC" "x2A03DB" "x2C039A" "x2A1ADA" "xD203D8" "xB874F7" "x5703D0" "x5B03FC" "x445EBD" "x880680" "xA251FC" "x9B2FD7" "xC4039C" "x643187" "x4903F0" "x7735FC" "x513BC4" "x7169FC" "x2303FC" "xD303C5" "x4005FC" "x5370FC" }
-    city = "x8F3B8F"
-    port = "x7303FC"
-    farm = "x5703D0"
-    mine = "x2303FC"
-    wood = "x9B2FD7"
-    arable_land = 41
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-        building_iron_mine = 21
-        building_coal_mine = 14
-    }
-    naval_exit_id = 3009
-}
-STATE_NAU_05 = {
-    id = 111
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xA650FC" "x822774" "x1E188A" "x263998" "x3D03C3" "x1E57AE" "xD4037C" "x2603F1" "x210682" "xB33EFC" "xC20ED2" "xC104FC" "xCE03F2" "x950385" "x8E03A1" "x91117F" "xCF03F7" "x7005FC" "x4F0379" }
-    city = "xA650FC"
-    farm = "x822774"
-    mine = "xD4037C"
-    wood = "x8E03A1"
-    arable_land = 43
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 40
-        building_iron_mine = 6
-        building_coal_mine = 4
-    }
-}
-STATE_NAU_06 = {
-    id = 112
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x5C03F2" "x364EB7" "x2061A5" "xDA03F9" "x33038C" "x850392" "xCB50FC" "x9151FC" "xAE0BFC" "xCE219C" "x72038D" "x7C478D" "x6770EA" "x5660F3" "x4820A7" "xD90381" "x504187" "x5426E9" "x4F519E" "x6703FC" "x582BFC" "x4A039E" "x9A03AA" "x6903FC" }
-    city = "x5C03F2"
-    port = "xD90381"
-    farm = "x9A03AA"
-    mine = "x72038D"
-    wood = "x4A039E"
-    arable_land = 46
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-        building_iron_mine = 12
-        building_coal_mine = 8
-    }
-    naval_exit_id = 3009
-}
-STATE_NAU_07 = {
-    id = 113
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x693C7B" "xD903E6" "xAD32A5" "x4303F3" "xCA03E4" "x9703B8" "x3A3BFC" "x6B1BFC" "x40039A" "x506782" "x4103FC" "x40767F" "x5803FC" "x2C03A3" "x97037A" "x45039E" "x5031E2" "xB331BF" "x1E0EAB" "x5615CA" }
-    city = "x693C7B"
-    port = "x2C03A3"
-    farm = "x1E0EAB"
-    mine = "x6B1BFC"
-    wood = "x506782"
-    arable_land = 41
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3009
-}
-STATE_NAU_08 = {
-    id = 114
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x710386" "x5403D5" "x552BB7" "x656AE1" "x6F0FE5" "x2F25FC" "x881CAD" "x9336FC" "x930398" "x6259FC" "x7026FC" "x34037B" "x650386" "x3C1EDA" "x2D226F" "x6203FC" "x9F0394" "xBC037A" }
-    city = "x710386"
-    port = "x2D226F"
-    farm = "x881CAD"
-    mine = "x9336FC"
-    wood = "x552BB7"
-    arable_land = 29
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 44
-        building_iron_mine = 21
-        building_coal_mine = 14
-    }
-    naval_exit_id = 3006
-}
-STATE_NAU_09 = {
-    id = 115
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x9A527E" "xCC03FC" "x2D1FC3" "xD50ADE" "x3603FC" "x9E2BA0" "xD147FC" "xBD0385" "x5703B7" "x7F30E9" "x4534CB" "x3159E8" "x6B5AC3" "x8D03FC" "x6403D0" "x6E2E8D" "xA20EAE" "xD8099C" "x2803FA" "x6664FC" "xA461E9" "xC673A3" "x9C0388" "x4F09F5" }
-    city = "x9A527E"
-    port = "x9E2BA0"
-    farm = "xCC03FC"
-    mine = "xBD0385"
-    wood = "x6E2E8D"
-    arable_land = 52
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3009
-}
-STATE_NAU_10 = {
-    id = 116
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x2C03E6" "x670F8D" "x8703FB" "xA859D4" "x602499" "xB023FC" "x3303E0" "x8A6798" "x8003E9" "xBA03DC" "xDA70FC" "x9803F3" "x9D30FC" "xD803BE" "x7C1CD1" "xA427FC" "x9549FC" "xD003F0" "xD503F9" "xAE36C5" "x7A1078" "xAC3A75" "x1C03FC" "x9C03FC" "x5A52D9" }
-    city = "x2C03E6"
-    port = "xD803BE"
-    farm = "x9803F3"
-    mine = "x670F8D"
-    wood = "x9D30FC"
-    arable_land = 43
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-        building_iron_mine = 21
-        building_coal_mine = 14
-    }
-    naval_exit_id = 3006
-}
-STATE_NAU_11 = {
-    id = 117
-    subsistence_building = "building_subsistence_farm"
-    provinces = { "x8F0377" "x573AFC" "x7B03E8" "x6E66AB" "x725288" "xA828B9" "xC01DDB" "x3103FC" "x724DFC" "x3A537E" "xA00370" "x4E769F" "x2A10CD" "x5204C5" }
-    city = "x8F0377"
-    port = "x3103FC"
-    farm = "x725288"
-    mine = "xC01DDB"
-    wood = "x5204C5"
-    arable_land = 37
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
-    capped_resources = {
-        building_logging_camp = 20
-    }
-    naval_exit_id = 3025
-}
-STATE_NAU_12 = {
-    id = 118
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x270394" "x8C3DC6" "x5207CA" "x940379" "x2868EC" "xC111FC" "x364BFC" "xB97694" "xD773FC" "x7E58BB" "xA903BD" "x6574CA" "xA867B9" "x33088E" "xA93083" "x8E16A9" "x980379" "x6C4FC7" "x9B03B7" "xDA03F2" "x8E038B" "x8250FC" "x6A13FC" }
-    city = "x270394"
-    port = "x940379"
-    farm = "x364BFC"
-    mine = "x7E58BB"
-    wood = "x5207CA"
-    arable_land = 40
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-        building_iron_mine = 18
-        building_coal_mine = 12
-    }
-    naval_exit_id = 3009
-}
-STATE_NAU_13 = {
-    id = 119
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "x6B3BFB" "x7A036E" "x5D0EBA" "x682EE7" "x6C59C4" "x9F7189" "x4372FC" "xDA2985" "x721FAB" "x9C68FC" "x5C03EC" "x2156AE" }
-    city = "x6B3BFB"
-    port = "x4372FC"
-    farm = "x721FAB"
-    mine = "x6C59C4"
-    wood = "x9F7189"
-    arable_land = 29
-    arable_resources = { "building_livestock_ranch" "building_rice_farm" }
-    capped_resources = {
-        building_logging_camp = 28
-    }
-    naval_exit_id = 3009
-}
-STATE_PIN = {
-    id = 120
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xD03EA8" "xFC19B3" "x834895" "xFC4AFC" "xF764CE" "xFC03C1" "x9123BC" "x8B03B1" "xF342D0" "xE903D0" "xE853B7" "xFC21F5" "xFC037D" "xFC66D9" "xE63257" "xB003DA" "xF89AFC" "xFC749F" "xB668C1" "xC5964D" }
-    city = "xD03EA8"
-    port = "xB003DA"
-    farm = "xE903D0"
-    mine = "xF764CE"
-    wood = "xFC037D"
-    arable_land = 40
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3022
-}
-STATE_PIN_02 = {
-    id = 121
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "xDC77DB" "xB4037E" "xB283F3" "xFC774B" "xFC39E8" "xA403D5" "x770C9C" "x8384B0" "x78039A" "xFC8199" "xCE908E" "xE459DD" "x9903DA" "xFC7CFC" "xCC5F8A" "xE8039E" "xFC9381" "x740CFC" "xFC7DC9" "xFC689A" "xFC2162" "xC951BE" "xD93CB1" "x9140A6" "x805EB2" }
-    city = "xDC77DB"
-    farm = "xE459DD"
-    mine = "xFC8199"
-    wood = "x9140A6"
-    arable_land = 34
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 12
-        building_iron_mine = 50
-        building_coal_mine = 38
-    }
-}
-STATE_PIN_03 = {
-    id = 122
-    subsistence_building = "building_subsistence_pasture"
-    provinces = { "xF30ED0" "xDA51BA" "x9903E7" "x9B3D57" "xFC03A9" "xB6786A" "xDB58BC" "xFC9C75" "xFC9C97" "xFC277D" "xE56182" "xA245E4" "xFC0368" "xFC94FC" "xEF16BC" "xAD3659" "xBF84F8" "xEF28AD" "xF8809E" "x757E57" "xC4039B" "xD588FC" "xFC41EE" "xD27DB8" }
-    city = "xF30ED0"
-    port = "x757E57"
-    farm = "xFC9C75"
-    mine = "xF8809E"
-    wood = "xFC0368"
-    arable_land = 34
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 40
-        building_iron_mine = 42
-        building_coal_mine = 28
-    }
-    naval_exit_id = 3022
-}
-STATE_RIK = {
-    id = 123
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x1AC3C6" "x03AEFC" "x6A7880" "x0AD76E" "x036567" "x097D8D" "x06FCD7" "x6D82FC" }
-    city = "x1AC3C6"
-    port = "x036567"
-    farm = "x6A7880"
-    mine = "x06FCD7"
-    wood = "x097D8D"
-    arable_land = 16
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 32
-    }
-    naval_exit_id = 3022
-}
-STATE_SHI = {
-    id = 124
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xDD3FA2" "x8E3A97" "x84216E" "x9803EF" "xF084AC" "xB25899" "xFC1D97" "xDF7192" "xC366FC" "xFC5385" "xF233EF" "xB12E7F" "xFC307F" "xDD6E97" "xE07E9A" "xDA3D4A" "x98685C" "xD7506E" "xFC71F8" "xFC368D" "x952BC6" "xCE27ED" }
-    city = "xDD3FA2"
-    port = "xCE27ED"
-    farm = "xFC1D97"
-    mine = "xFC71F8"
-    wood = "xFC5385"
-    arable_land = 44
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3022
-}
-STATE_SHI_02 = {
-    id = 125
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xA76F5E" "xAC0B58" "xFC0381" "xA85F8C" "x8E334D" "xEE806C" "xFC6BCB" "x9928DC" "xCF6673" "xFC5E67" "x918449" "x9F4891" "xFC03C6" "xED0345" "xEF5CB6" "xAF59E5" "xFC7449" "xE503C8" }
-    city = "xA76F5E"
-    port = "xED0345"
-    farm = "xFC5E67"
-    mine = "xA85F8C"
-    wood = "xE503C8"
-    arable_land = 36
+    provinces = { "x03F426" "x09C9B1" "x1AFCB5" "x03FC38" "x03FCA4" "x4DFCBA" "x92BE3E" "x82FCD9" "x90FC86" "x03A520" "x5BFC95" "x03922F" "x039B99" "x67F61F" "x13FC6D" "x2DEBA1" }
+    city = "x03F426"
+    port = "x90FC86"
+    farm = "x13FC6D"
+    mine = "x2DEBA1"
+    wood = "x5BFC95"
+    arable_land = 32
     arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
     capped_resources = {
         building_logging_camp = 60
     }
     naval_exit_id = 3024
 }
-STATE_SHI_03 = {
-    id = 126
+STATE_BUE_07 = {
+    id = 16
     subsistence_building = "building_subsistence_orchard"
-    provinces = { "x9803B4" "xFC5BA1" "xED03D9" "xFC50E2" "x8F7E4B" "xEA03A6" "xBF1D65" "xD555EE" "xA10374" "xFC27FA" "xA04697" "xDD03BA" "xA53F4D" "xB80392" "xE88C44" "xD76AEB" "xF397AD" "xE44B62" "xB453B2" "xDF098E" "xEA7AB7" "x857AF6" }
-    city = "x9803B4"
-    port = "xDF098E"
-    farm = "xB453B2"
-    mine = "xFC50E2"
-    wood = "xD76AEB"
-    arable_land = 44
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3022
-}
-STATE_SHI_04 = {
-    id = 127
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xFC629D" "xBB42F2" "xD46DF8" "xA73E80" "xFC6A53" "x86446E" "xFC5659" "x8D03B5" "x9703EB" "xFC327A" "xEC7CAA" "xA426F4" "xEA68F5" "xFC9CBF" "x8512C6" "xFC3697" "xFC4DD0" "xFC3B76" "xC3307A" "xB10DDE" "xDD1881" "xFC7181" "xFC4AAA" "x9337A1" }
-    city = "xFC629D"
-    port = "xEC7CAA"
-    farm = "xA73E80"
-    mine = "x8D03B5"
-    wood = "xFC9CBF"
-    arable_land = 48
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3024
-}
-STATE_SKJ = {
-    id = 128
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "x35F0A5" "x12D3C4" "x0591F6" "x03E365" "x39B875" "x4BFCCE" "x17FCBB" "x6BFBF5" "x03FCD5" "x49E183" "x03FCAD" "x4CFC6C" "x4ECC52" "x76FC8A" "x11F7C4" "x67FC55" "x41FCCA" "x03F0ED" "x52FCF7" "x63FC71" "x35FC72" "x199291" "x1BFCC9" }
-    city = "x35F0A5"
-    farm = "x03F0ED"
-    mine = "x4CFC6C"
-    wood = "x4ECC52"
-    arable_land = 46
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-}
-STATE_SKJ_02 = {
-    id = 129
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "x29FCAF" "x2AFCDE" "x05FC4E" "x39F288" "x29E2E9" "x05A1D5" "x2B9BD6" "x03A09F" "x15BA91" "x1CE258" "x7BC77E" "x09E8E9" "x289A4C" "x6FFC4A" "x0CAF53" "x8FFC94" "x0398D5" "x0BFCE0" "x61AABC" "x5CFCC3" "x57E8B2" "x24BF97" "x49CCFC" "x0CFC6E" }
-    city = "x29FCAF"
-    port = "x1CE258"
-    farm = "x05FC4E"
-    mine = "x2B9BD6"
-    wood = "x7BC77E"
+    provinces = { "x34E8DA" "x4D9997" "x66FC79" "x0AFCD7" "x1EAE94" "x03A64F" "x25FC56" "x70C864" "x65FC9E" "x4AFC42" "x03FCCA" "x03FC43" "x42EF40" "x03F6BE" "x17FC91" "x27FC4D" "x27FCB9" "x31FC9F" "x519AC2" "x07984A" "x34FC2C" "x15AB86" "x03FCCD" "x4BA26C" "x8AFCB1" }
+    city = "x34E8DA"
+    port = "x03FCCD"
+    farm = "x03F6BE"
+    mine = "x66FC79"
+    wood = "x07984A"
     arable_land = 50
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3013
-}
-STATE_SKJ_03 = {
-    id = 130
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "x7BCA96" "x4BFC4B" "x8AFCAE" "x51C7D6" "x69D9A6" "x5EF583" "x03C847" "x86B5C8" "x03C85C" "x81B38D" "x03FCAB" "x90D85C" "x28B8D4" "x08FCA4" "x71FC97" "x14FCF0" "x0DFCC8" }
-    city = "x7BCA96"
-    port = "x8AFCAE"
-    farm = "x5EF583"
-    mine = "x03C847"
-    wood = "x71FC97"
-    arable_land = 34
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 60
-    }
-    naval_exit_id = 3013
-}
-STATE_TAK = {
-    id = 131
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "x6A46B5" "xC97EE6" "x7A0D77" "xA50BF6" "x7803FC" "x3303BD" "x3C10FB" "x4441E6" "x386CF8" "x65746D" "x8753F5" "xBD71E5" "x4921FC" "x1A03C7" "x9F2D9E" "xC3906C" "xA08171" "xB2035C" "x6B585B" "x14A478" "x944E59" "x3854F2" "x741B7E" "x3158A3" }
-    city = "x6A46B5"
-    port = "x65746D"
-    farm = "x3C10FB"
-    mine = "x741B7E"
-    wood = "xBD71E5"
-    arable_land = 48
     arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3017
-}
-STATE_VES = {
-    id = 132
-    subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "x5662D4" "x6121A3" "x4B41FC" "x31A37E" "x8C9CC7" "x1766FC" "x324EB2" "x5B83E7" "x184ED9" "x4099C9" "x3148FB" "x6F34FC" "x4D89EC" "x1A7E96" "x668CB6" "x7964FC" "xA214E7" "x5F37FC" "x4233FC" "x54AEFC" "x5917FC" }
-    city = "x5662D4"
-    port = "x5B83E7"
-    farm = "x54AEFC"
-    mine = "x324EB2"
-    wood = "x668CB6"
-    arable_land = 41
-    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
-    capped_resources = {
-        building_logging_camp = 60
-        building_iron_mine = 6
-        building_coal_mine = 4
-    }
-    naval_exit_id = 3017
+    naval_exit_id = 3024
 }
 STATE_ZAD = {
-    id = 133
+    id = 17
     subsistence_building = "building_subsistence_orchard"
-    provinces = { "xE3B62E" "xCFFC12" "xFCD37D" "xE3E54B" "xA1A447" "xF1FB78" "xFC6652" "xA7FC03" "xA05789" "xB5B903" "xFC6445" "xDACA24" "xF7ED27" "xFCFC57" "xA37D27" "xF0F352" "xC5CB03" "xFC8721" "xC28574" "xDBBE56" "x975703" "xC85786" "xAE6312" "xC2E803" }
+    provinces = { "xE3B62E" "xE2FC4B" "xFCFA03" "xDBBD03" "xFCFC68" "xF6E703" "x997959" "xFC5B6E" "x89AF03" "xFCDB80" "xF7FC03" "xFCB666" "xBFC53A" "xFCEF4B" "xDCD875" "x8EE319" "xB16C30" "xFC7703" "xD3D803" "xFCF103" "xFC7531" "xFB8903" "xD7D055" "xAABB03" }
     city = "xE3B62E"
-    farm = "xE3E54B"
-    mine = "xA7FC03"
-    wood = "xFCFC57"
+    port = "xFCFC68"
+    farm = "xDBBD03"
+    mine = "xF7FC03"
+    wood = "xFCB666"
     arable_land = 46
     arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
     capped_resources = {
@@ -1991,17 +126,18 @@ STATE_ZAD = {
         building_iron_mine = 9
         building_coal_mine = 6
     }
+    naval_exit_id = 3100
 }
 STATE_ZAD_02 = {
-    id = 134
+    id = 18
     subsistence_building = "building_subsistence_orchard"
-    provinces = { "xEDBC66" "xDCDA78" "x9CFC4A" "xFCC860" "xC1FC14" "xFCFC5D" "xC1DD88" "x999B41" "xEF8533" "x8CF358" "x8BC103" "xFCBE61" "xFCD181" "x916F03" "xF5F403" "xFCC635" "x9DC908" "x9CFC03" "x91E732" "xDBC084" "xBEB903" "xFCDC68" }
-    city = "xEDBC66"
-    port = "xF5F403"
-    farm = "xEF8533"
-    mine = "x91E732"
-    wood = "x999B41"
-    arable_land = 43
+    provinces = { "xF6BB78" "xE2AD03" "xFA783C" "xFCA283" "xFC9514" "xFA6D03" "xFCD60A" "xDEDE7F" "xFC9B03" "x9BF80A" "xFC7139" "xBA7C15" "xFCBF28" "xFBFA47" "xB09603" "xB57C03" "xFCCC84" "xCA6D03" "xD7A52E" "xFCA71D" }
+    city = "xF6BB78"
+    port = "xDEDE7F"
+    farm = "xFC9514"
+    mine = "xB57C03"
+    wood = "xFC9B03"
+    arable_land = 41
     arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
     capped_resources = {
         building_logging_camp = 60
@@ -2011,64 +147,14 @@ STATE_ZAD_02 = {
     naval_exit_id = 3014
 }
 STATE_ZAD_03 = {
-    id = 135
+    id = 19
     subsistence_building = "building_subsistence_orchard"
-    provinces = { "xC0A00F" "xACB90E" "xD46004" "x99F451" "xFCD325" "xD56504" "xFC6E74" "xFCD624" "x94A903" "x9DFC72" "xFCB726" "xC2992E" "xBEFC0B" "xC19C47" "xFCBB68" "xFCFC0D" "xD7744A" "xFCBA14" "xE28A03" "xD3CC03" "xB4AB7B" "xFCBB7A" "xAC6073" "x84D520" }
-    city = "xC0A00F"
-    port = "x94A903"
-    farm = "x84D520"
-    mine = "xFCBA14"
-    wood = "xFC6E74"
-    arable_land = 49
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 60
-        building_iron_mine = 6
-        building_coal_mine = 4
-    }
-    naval_exit_id = 3014
-}
-STATE_ZAD_04 = {
-    id = 136
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xFCF860" "xFC5E36" "xCFC711" "xC9AC1E" "xFA7A2B" "xB3AE10" "xD5FA6C" "xFCE132" "xDCD56B" "xFC8C7D" "xFC607D" "xCF7D3E" "xFCA327" "xDEC71C" "x89FC05" "xFCFC36" "xC75970" "xBAFB25" }
-    city = "xFCF860"
-    port = "xFCE132"
-    farm = "xFCFC36"
-    mine = "xFC5E36"
-    wood = "xCF7D3E"
-    arable_land = 43
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 44
-    }
-    naval_exit_id = 3100
-}
-STATE_ZAD_05 = {
-    id = 137
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xCBA83F" "xCA5B1D" "xFC8103" "xAACE04" "xF19803" "x855B70" "xFCD803" "xB9A119" "x92F203" "xA7AC5F" "xCAFC81" "x90FC0C" "xFCD203" "xBFCA72" "xFC7163" "xB4E64B" "xD4A650" "xFCD446" }
-    city = "xCBA83F"
-    port = "xFCD803"
-    farm = "xCA5B1D"
-    mine = "xFC8103"
-    wood = "xA7AC5F"
-    arable_land = 41
-    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    capped_resources = {
-        building_logging_camp = 52
-    }
-    naval_exit_id = 3014
-}
-STATE_ZAD_06 = {
-    id = 138
-    subsistence_building = "building_subsistence_orchard"
-    provinces = { "xE5B703" "xF4886A" "xEF9959" "x84A803" "xECFC22" "xA8D93B" "xFC5703" "x8DFC28" "xDED203" "xFCFC82" "x8F6742" "xFCCA0B" "xFC9154" "xFCAD71" "x9B7D5B" "xF25803" "xC06B03" "xD07C81" "x8F6E03" "xFC6C03" }
-    city = "xE5B703"
-    port = "xFCCA0B"
-    farm = "xFC5703"
-    mine = "xECFC22"
-    wood = "xFC9154"
+    provinces = { "x877C0D" "x90AA03" "xAF5A36" "xFC7E03" "xFCFC2A" "xFC7403" "x9C8470" "xBA741B" "x91EB03" "x8B8B48" "xF79D88" "xFCDB8D" "x967D73" "xA7BE03" "x91FC16" "xFCF515" "xFCE624" "xDD8A4D" "xD1DD03" "x8EDA58" "xFC9D03" }
+    city = "x877C0D"
+    port = "xFC7E03"
+    farm = "xA7BE03"
+    mine = "xBA741B"
+    wood = "xFCF515"
     arable_land = 41
     arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
     capped_resources = {
@@ -2076,5 +162,1903 @@ STATE_ZAD_06 = {
         building_iron_mine = 5
         building_coal_mine = 4
     }
+    naval_exit_id = 3003
+}
+STATE_ZAD_04 = {
+    id = 20
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x89826F" "xCDAB03" "x94A52A" "x988166" "xC7FC4D" "xF3690D" "x97F77F" "xFC6203" "xB88503" "xB4DC15" "xFCB752" "xDFE703" "x9BE475" "xFCC004" "xC99D03" "x97FC03" "xFC7303" "xC5FC03" "xCBFA03" }
+    city = "x89826F"
+    port = "xB4DC15"
+    farm = "xC7FC4D"
+    mine = "xFCB752"
+    wood = "xFC6203"
+    arable_land = 42
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3003
+}
+STATE_ZAD_05 = {
+    id = 21
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xBDAA7D" "xFCC30A" "xC0FC52" "x9FCC56" "xCA985B" "x9DFC3A" "xFCFC79" "xFC5840" "xFC7F89" "xEFFC0F" "xFCE167" "x8DBC6C" "xFCFC2C" "xFCD62A" "x85ED8A" "xBEF225" "x97B168" "xFC7C22" "xA4C403" }
+    city = "xBDAA7D"
+    port = "x85ED8A"
+    farm = "xFC5840"
+    mine = "x9DFC3A"
+    wood = "xBEF225"
+    arable_land = 46
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 44
+    }
+    naval_exit_id = 3100
+}
+STATE_ZAD_06 = {
+    id = 22
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xA85B65" "xFC8D0D" "xD18403" "xFC6E78" "xFC6F14" "xFCC36D" "xFCA503" "xA2DF0E" "x9A9003" "xF47C03" "x8EE303" "xFC6B53" "xD0F003" "xFCFC44" "xACA103" "xF0F265" "xFCAE41" "xB3947B" "xFCFC15" "xF2DA55" "xFCEC3B" "xFCF571" }
+    city = "xA85B65"
+    port = "xA2DF0E"
+    farm = "xFCC36D"
+    mine = "xD18403"
+    wood = "xF47C03"
+    arable_land = 46
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
     naval_exit_id = 3014
+}
+STATE_GAB = {
+    id = 23
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x5761D4" "x2468C8" "x2145C0" "x81A5CF" "xA735FC" "x627077" "x1F9DFC" "xA6268A" "x0A65FC" "x876DC8" "x346AFC" "x0974D0" "x7467A9" "x49B9D3" "x661A7F" "x752EFC" "x3686FC" "xA08FFC" }
+    city = "x5761D4"
+    port = "x0A65FC"
+    farm = "xA08FFC"
+    mine = "x2145C0"
+    wood = "x2468C8"
+    arable_land = 45
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 36
+    }
+    naval_exit_id = 3100
+}
+STATE_GAB_02 = {
+    id = 24
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x9A8FFA" "x9E93FC" "xAE32DC" "x7B5485" "x5A84BA" "x177BEC" "x030BFC" "x5C12A2" "x3597A7" "xA1BDE5" "x1034ED" "x9B9CFC" "x33179B" "xA44AFC" "x1769FC" "x504487" "x4710D1" }
+    city = "x9A8FFA"
+    port = "x177BEC"
+    farm = "x7B5485"
+    mine = "x3597A7"
+    wood = "x9B9CFC"
+    arable_land = 34
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3005
+}
+STATE_GAB_03 = {
+    id = 25
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x2F10EB" "x5C2389" "x063FFC" "xAF8DFC" "x0A1689" "xA672C3" "x79ABD1" "x7B6CBE" "x6CA3FC" "x542D7B" "x821381" "x5C3981" "x03A8EF" "xB5A1FC" "x1DB9FC" "x2351BE" "x1C75FC" "x039FE1" "x155BB2" }
+    city = "x2F10EB"
+    port = "x542D7B"
+    farm = "x5C2389"
+    mine = "x063FFC"
+    wood = "x6CA3FC"
+    arable_land = 36
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 44
+        building_iron_mine = 15
+        building_coal_mine = 10
+    }
+    naval_exit_id = 3014
+}
+STATE_GAB_04 = {
+    id = 26
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x435F91" "x4A6CFC" "x3974FC" "x4024EE" "x6F03BA" "x2B04FC" "x033ECD" "x4A5D77" "x84AEAF" "x21608A" "x0BA1FC" "x05BCE2" "x21437E" "x0320FC" "x4C11CE" "x2058FC" "xA565FC" "x9A76D3" }
+    city = "x435F91"
+    port = "xA565FC"
+    farm = "x033ECD"
+    mine = "x84AEAF"
+    wood = "x0BA1FC"
+    arable_land = 40
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 56
+    }
+    naval_exit_id = 3005
+}
+STATE_BRE = {
+    id = 27
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "xFF823E" "xFC3703" "xFC5407" "xB48848" "xFC4F3F" "xFC663E" "xA93E7F" "xFCBD9B" "xA13A3B" "xA44920" "xFC4D5B" "xF32B2D" "xFC989C" "xFC2B1C" "xFC7A53" "xAF6677" "xBC8129" "xA44561" "xFC3161" "xFCC555" "xECB473" "xE5B303" "xDB6F58" "xE2D503" }
+    city = "xFF823E"
+    farm = "xFC3161"
+    mine = "xFC4F3F"
+    wood = "xA13A3B"
+    arable_land = 58
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
+    capped_resources = {
+        building_iron_mine = 21
+        building_coal_mine = 14
+    }
+}
+STATE_BRE_02 = {
+    id = 28
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xFC3F7A" "xF68257" "xFCD703" "xE86F03" "xFC6F3C" "xA2D603" "xFC7D03" "xFC7834" "xE89E0F" "xFCDC89" "xFCD33A" "xFC2403" "xFAD528" "xE38E03" "xD1B203" "xB7788B" "xFC2728" "xFC6403" "xFCBD52" "xB6DA1F" "xC0D514" "xF16012" }
+    city = "xFC3F7A"
+    port = "xE38E03"
+    farm = "xFC7D03"
+    mine = "xFCD703"
+    wood = "xFCDC89"
+    arable_land = 44
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+        building_iron_mine = 6
+        building_coal_mine = 4
+    }
+    naval_exit_id = 3003
+}
+STATE_BRE_03 = {
+    id = 29
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xC1AE03" "xFCDE2D" "xFC7B03" "xCAD15A" "xC54C30" "xFA2403" "xFC8403" "xFC516B" "xCF5D5F" "xFC4F13" "xFCC540" "xFC2617" "xFC759D" "xFC8623" "xFC838A" "xFC5230" "xFC672B" "xBB5676" "xFCA491" "xFC2653" "xFCDB05" "xB9DF05" }
+    city = "xC1AE03"
+    farm = "xFC516B"
+    mine = "xBB5676"
+    wood = "xFA2403"
+    arable_land = 38
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+        building_iron_mine = 18
+        building_coal_mine = 12
+    }
+}
+STATE_BRE_04 = {
+    id = 30
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "xC07403" "xF03B03" "xC94857" "xFC4F72" "xFC4B21" "xE5E164" "xFC5D03" "xCB302B" "xEE4B03" "xD25D1D" "xFCA127" "xFCDE6C" "xFCD812" "xFC390B" "xC29E07" "xFCA103" "xFCD677" "xECAC1B" "xBED13D" "xFC6C40" "xC68D03" "xB0C093" "xFC2348" "xFC9D7C" "xDB3D50" "xFC2D5E" "xCC9798" }
+    city = "xC07403"
+    port = "xE5E164"
+    farm = "xEE4B03"
+    mine = "xB0C093"
+    wood = "xC94857"
+    arable_land = 64
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
+    capped_resources = {
+        building_logging_camp = 36
+        building_iron_mine = 12
+        building_coal_mine = 8
+    }
+    naval_exit_id = 3008
+}
+STATE_BRE_05 = {
+    id = 31
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xFC9E1E" "xFC9A03" "xFCB851" "xE0AA77" "xC88B3B" "xCA6816" "xDBD735" "xFC6757" "xFCB703" "xFCDD6A" "xCD7415" "xFC3062" "xFC6703" "xC44B38" "xFC495D" "xA96659" }
+    city = "xFC9E1E"
+    port = "xE0AA77"
+    farm = "xFCB703"
+    mine = "xFC6703"
+    wood = "xFCB851"
+    arable_land = 32
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3100
+}
+STATE_BRE_06 = {
+    id = 32
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "xFC2A0B" "xFC4003" "xB6B220" "xBB6358" "xFCC157" "xB1A788" "xC48D68" "xFCD375" "xFC7A62" "xFCAA1F" "xA63D38" "xBC9547" "xDF2B61" "xF69703" "xB15731" "xFC4B93" "xFC487F" }
+    city = "xFC2A0B"
+    port = "xB15731"
+    farm = "xFCC157"
+    mine = "xF69703"
+    wood = "xDF2B61"
+    arable_land = 39
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 48
+    }
+    naval_exit_id = 3100
+}
+STATE_DUR = {
+    id = 33
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x1EE0A0" "x38E95B" "x03F269" "x03937A" "x328AC7" "x30D0CC" "x03FC73" "x73FCE5" "x52FCC0" "x03EC90" "x03A874" "x05AAC4" "x03FC7B" "x03FCCF" "x4CCBC6" "x03DCCB" "x7AFCBC" "x0391AA" "x03ECF0" "x6E9A87" }
+    city = "x1EE0A0"
+    port = "x03FCCF"
+    farm = "x03937A"
+    mine = "x30D0CC"
+    wood = "x6E9A87"
+    arable_land = 37
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 44
+        building_iron_mine = 18
+        building_coal_mine = 12
+    }
+    naval_exit_id = 3008
+}
+STATE_DUR_02 = {
+    id = 34
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x12FCB3" "x03EA86" "x039155" "x57FC44" "x03EEFC" "x04F5A5" "x3D9D84" "x03A265" "x148AB3" "x4BE77F" "x778CD3" "x03A771" "x03EFC7" "x38E374" "x4EF6D2" "x15B3DE" "x1AFCCF" "x03A862" "x03E195" "x04FC9C" }
+    city = "x12FCB3"
+    farm = "x039155"
+    mine = "x03EA86"
+    wood = "x15B3DE"
+    arable_land = 50
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
+    capped_resources = {
+        building_iron_mine = 15
+        building_coal_mine = 10
+    }
+}
+STATE_DUR_03 = {
+    id = 35
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x068785" "x038D6F" "x03FC9C" "x61FC6F" "x2EFCE3" "x24896D" "x13D397" "x57FC7F" "x1CB1F9" "x43F49A" "x50FCCE" "x749A6B" "x59D641" "x5DFC7A" "x07FCE3" "x64C091" "x038D9F" "x34E1C8" "x29FCEE" }
+    city = "x068785"
+    farm = "x03FC9C"
+    mine = "x24896D"
+    wood = "x1CB1F9"
+    arable_land = 26
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 28
+        building_iron_mine = 36
+        building_coal_mine = 24
+    }
+}
+STATE_DUR_04 = {
+    id = 36
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x588DF0" "x03FC88" "x1F9EBA" "x0389DC" "x03FC7F" "x73A2BE" "x039049" "x03A7FC" "x4FC7F4" "x0FD3F8" "x4FDAEB" "x03FCA3" "x19F4E9" "x7BC6BE" "x7ADA5A" "x039761" "x63FCFC" "x03D391" "x5FFCB1" }
+    city = "x588DF0"
+    farm = "x7BC6BE"
+    mine = "x03FCA3"
+    wood = "x4FDAEB"
+    arable_land = 19
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_iron_mine = 50
+        building_coal_mine = 38
+    }
+}
+STATE_DUR_05 = {
+    id = 37
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x15FC97" "x5CFCF7" "x70B2D4" "x03D970" "x25BA73" "x03FCCE" "x03ED50" "x66EB9F" "x2BB89D" "x29FC7F" "x03AA58" "x1CFCAF" "x03C0FC" "x4EFCC3" "x50A1A4" "x76D0D0" "x03FCAD" "x03FC42" "x32DBBC" "x03FCE1" "x038C88" "x42FC7A" "x03A2AB" "x269883" }
+    city = "x15FC97"
+    port = "x42FC7A"
+    farm = "x03FCCE"
+    mine = "x70B2D4"
+    wood = "x03ED50"
+    arable_land = 64
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
+    capped_resources = {
+        building_logging_camp = 8
+        building_iron_mine = 9
+        building_coal_mine = 6
+    }
+    naval_exit_id = 3008
+}
+STATE_DUR_06 = {
+    id = 38
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x6789AE" "x03E992" "x0392B7" "x55F7F7" "x6FA1D2" "x03E6A6" "x03FCAF" "x59B4F9" "x03FCB1" "x09D187" "x59C5C2" "x1FB6E8" "x03FC67" "x038AB8" "x4BCF6A" "x03E6CE" "x76AE58" "x0384A2" "x03AFA0" }
+    city = "x6789AE"
+    port = "x59B4F9"
+    farm = "x03E992"
+    mine = "x03AFA0"
+    wood = "x4BCF6A"
+    arable_land = 32
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
+    capped_resources = {
+        building_logging_camp = 5
+        building_iron_mine = 36
+        building_coal_mine = 24
+    }
+    naval_exit_id = 3008
+}
+STATE_DUR_07 = {
+    id = 39
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x03FC97" "x0BFCB7" "x03FCFC" "x1ADF7E" "x03FCE9" "x6CAEF6" "x03FCC5" "x5AB8FC" "x7688EA" "x79FC7B" "x79F366" "x7B9778" "x79A3FC" "x458270" "x3BFCDC" "x03836D" "x65EAD5" "x11FCEC" "x12D595" }
+    city = "x03FC97"
+    port = "x5AB8FC"
+    farm = "x79FC7B"
+    mine = "x03FCC5"
+    wood = "x0BFCB7"
+    arable_land = 34
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
+    capped_resources = {
+        building_logging_camp = 12
+        building_iron_mine = 30
+        building_coal_mine = 20
+    }
+    naval_exit_id = 3008
+}
+STATE_GOL = {
+    id = 40
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "xE8B02E" "xE8D253" "x926D08" "xB0CC6E" "xD65753" "x9EC41B" "xFCFC03" "xFCCB86" "xECD703" "xFC8576" "xC0FC72" "xCF6803" "xFCD269" "xF38203" "xA9A60D" "xDBFC29" "xA1BE84" "xFC9A76" "xFCE568" "xD36532" "xFC815B" "xB77E2B" "x975A03" "xFC9982" }
+    city = "xE8B02E"
+    port = "xB0CC6E"
+    farm = "xFCFC03"
+    mine = "xD36532"
+    wood = "xFC8576"
+    arable_land = 34
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 40
+        building_iron_mine = 42
+        building_coal_mine = 28
+    }
+    naval_exit_id = 3023
+}
+STATE_GOL_02 = {
+    id = 41
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "xFCD720" "x965903" "xED5F3C" "xC9A76B" "x8B5603" "xFCC524" "xFCDD37" "xBEA403" "xECC944" "xFCB003" "xFCE103" "xFCA76F" "xFC7C51" "xF5C403" "xFCE043" }
+    city = "xFCD720"
+    port = "xECC944"
+    farm = "xF5C403"
+    mine = "xBEA403"
+    wood = "xC9A76B"
+    arable_land = 34
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 44
+    }
+    naval_exit_id = 3023
+}
+STATE_GOL_03 = {
+    id = 42
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "xE56A03" "xFCFC17" "xFCED62" "xAFB703" "xFCA628" "xC27B4B" "xC66C10" "xFCB281" "xFCC103" "xFCED56" "xF0F403" "xEAD781" "xFC5E03" "xFCE34D" "xB8787F" "xFCE803" "xDF605C" "xFC572D" "xEF804D" "xFCE503" "xFBCE1A" "xFC525D" }
+    city = "xE56A03"
+    farm = "xFC525D"
+    mine = "xFCE803"
+    wood = "xFCED62"
+    arable_land = 30
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_iron_mine = 50
+        building_coal_mine = 36
+    }
+}
+STATE_GOL_04 = {
+    id = 43
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x8EFC04" "xACFC7E" "xD0C903" "xFCDA03" "xF7B118" "xF09232" "xFC5A1D" "x9B7F03" "xFC6781" "x9CDD3E" "x8C9A03" "xFCE40C" "xFCB263" "xD05303" "xD86965" "xEDFC10" "xEAFC14" "xFCC003" "xFC6F32" "x8EEA03" }
+    city = "x8EFC04"
+    farm = "xFCB263"
+    mine = "x8EEA03"
+    wood = "xD0C903"
+    arable_land = 20
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_iron_mine = 50
+        building_coal_mine = 40
+        building_lead_mine = 18
+    }
+}
+STATE_PIN = {
+    id = 44
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xD03EA8" "xE56DB7" "xAF03F9" "xFC75E4" "xFC9C7D" "xD694B8" "xDB6EA8" "xFC1DD6" "xF58667" "xCB78F9" "xA133F5" "x8F3DAF" "xA27391" "x8E03EE" "x833DAF" "xB01D49" "xA6335B" "xE5035F" "xFC8D80" "xEE6A89" }
+    city = "xD03EA8"
+    port = "xF58667"
+    farm = "xCB78F9"
+    mine = "xE56DB7"
+    wood = "xD694B8"
+    arable_land = 40
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3023
+}
+STATE_PIN_02 = {
+    id = 45
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x9710BA" "xF021AA" "xC727CD" "xA684F5" "xCB03C0" "xFC21AC" "xFC3CD1" "xD26268" "xEB5891" "xAB4EC0" "xC835BF" "xFC0380" "xFC048F" "xC17076" "xE00364" "xDF035F" "xFC8AB9" "xAC7D7F" "xEC1FC2" "x8403AD" "xC041F1" "xAD29F8" "xFC07B6" "xFC9285" }
+    city = "x9710BA"
+    port = "xFC07B6"
+    farm = "xEB5891"
+    mine = "xA684F5"
+    wood = "x8403AD"
+    arable_land = 34
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 40
+        building_iron_mine = 42
+        building_coal_mine = 28
+    }
+    naval_exit_id = 3023
+}
+STATE_PIN_03 = {
+    id = 46
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "xFC3BF5" "x847690" "x8503BE" "x773A7B" "xFC8BF5" "xA75981" "xFC03E3" "x826C98" "xFC889C" "xFC0394" "xEA23F6" "xFC0C9C" "xFC8D92" "xFC83CC" "xB33D95" "xBF30DF" "xFC68E5" "xA42D5E" "xAA53DF" "xC62059" "xF79070" "x8870AA" "xE80375" "x7303D4" "xFC92F8" }
+    city = "xFC3BF5"
+    farm = "xBF30DF"
+    mine = "xFC83CC"
+    wood = "xA75981"
+    arable_land = 34
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 12
+        building_iron_mine = 50
+        building_coal_mine = 38
+    }
+}
+STATE_JUD = {
+    id = 47
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x41F472" "x41FC34" "x21FCAC" "x1FECC2" "x67FC3B" "x839E2A" "x389668" "x0EEB3F" "x51FC34" "x21FC19" "x6BFC26" "x23FC35" "x14FC38" "x2FB9AA" "x4DCB54" "x52FCCC" "x1AD691" "x9FB199" "x03FC48" "x73FCCE" }
+    city = "x41F472"
+    farm = "x839E2A"
+    mine = "x4DCB54"
+    wood = "x51FC34"
+    arable_land = 20
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_iron_mine = 50
+        building_coal_mine = 40
+        building_lead_mine = 14
+    }
+}
+STATE_JUD_02 = {
+    id = 48
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x6DB298" "x12FC99" "x92E462" "x87FC9D" "x0CA751" "x5D9877" "x94FC3A" "x03FC21" "x03FC1B" "x9BDD6B" "x83A1B5" "x3D9C38" "x58D776" "x3DA133" "x10FC34" "x77C7BB" "x83FC3E" "x65FC27" "x1EFC5F" }
+    city = "x6DB298"
+    farm = "x03FC21"
+    mine = "x94FC3A"
+    wood = "x1EFC5F"
+    arable_land = 20
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 5
+        building_iron_mine = 50
+        building_coal_mine = 36
+        building_lead_mine = 20
+    }
+}
+STATE_JUD_03 = {
+    id = 49
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x03FC31" "x30CAAD" "x52C429" "x8AFC7F" "x34FC52" "x03FC51" "x03FC23" "x12D9CD" "x03BE2B" "x19A98A" "x3BE63B" "x20B934" "x7DFC8F" "x6EDBCF" "x55FC2E" "x7AC721" "x89FC1B" "x62FC54" "x72A331" "x20A542" "x85FC5A" "x64FC84" "x90A642" "x2BFCB8" }
+    city = "x03FC31"
+    farm = "x55FC2E"
+    mine = "x20B934"
+    wood = "x34FC52"
+    arable_land = 24
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_iron_mine = 50
+        building_coal_mine = 45
+        building_lead_mine = 4
+    }
+}
+STATE_JUD_04 = {
+    id = 50
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x92FC32" "x42E18A" "x29FC40" "x6CFC1A" "x58FCA4" "x48A64B" "x5BFC4E" "x12CE15" "x79FC4E" "x24E94B" "x31BDCD" "x97FCC1" "x6FFC69" "x18FC1D" "x81D35A" "x0BC267" "x77FCB0" "x1EFC25" "x03B6C2" }
+    city = "x92FC32"
+    farm = "x77FCB0"
+    mine = "x5BFC4E"
+    wood = "x1EFC25"
+    arable_land = 19
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_iron_mine = 50
+        building_coal_mine = 38
+        building_lead_mine = 25
+    }
+}
+STATE_JUD_05 = {
+    id = 51
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x59ED28" "x2EC946" "x10D59C" "x03F699" "x89FC3F" "x5B9E69" "x03FC9A" "x2AFCAD" "x48FCC7" "x0FFCBC" "x03D2C4" "x15B461" "x9F9CD1" "x47FC93" "x03B47A" "x30FC9A" "x88FC81" "x7BFCA8" "x23FC5E" }
+    city = "x59ED28"
+    farm = "x5B9E69"
+    mine = "x10D59C"
+    wood = "x2AFCAD"
+    arable_land = 19
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_iron_mine = 50
+        building_coal_mine = 38
+        building_lead_mine = 25
+    }
+}
+STATE_CHA = {
+    id = 52
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "xB1EE58" "xACFC09" "xE4CA5B" "xF9FC03" "x5EFC6E" "x7FFC03" "xC5FC77" "xA2FCB5" "xE3E9B5" "xEDFC8D" "xD89E0C" "xC2FCA5" "xE6FC2A" "x59FC7D" "x68FC25" "xFCB8B0" "x64C467" "x618F7E" "xFC9481" "x6FFC35" "x80BA80" }
+    city = "xB1EE58"
+    farm = "xACFC09"
+    mine = "xD89E0C"
+    wood = "xC5FC77"
+    arable_land = 21
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_iron_mine = 50
+        building_coal_mine = 42
+        building_lead_mine = 6
+    }
+}
+STATE_CHA_02 = {
+    id = 53
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x85CB32" "x9FD05E" "x5AA303" "xE5D1B1" "xEEFC73" "xEFFC87" "xCDD754" "x56A694" "xFCFC5D" "x7EA040" "xE1FC43" "xEAFC8A" "xD7BEA5" "xB7A191" "xD5FB51" "xFC973C" "xECFC8B" "x94DA82" "xCAFC9A" }
+    city = "x85CB32"
+    port = "xE1FC43"
+    farm = "xCDD754"
+    mine = "x56A694"
+    wood = "xB7A191"
+    arable_land = 47
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 40
+    }
+    naval_exit_id = 3100
+}
+STATE_CHA_03 = {
+    id = 54
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "xEA9550" "x88C35D" "xFCFC66" "x67FC39" "xA6FC12" "x54C17C" "xE5D6B2" "x7CFC8E" "xAAFC19" "xFCAB2D" "xB1DA6F" "xD9D5A4" "xC2FC93" "x85FC2E" "xB6B298" "xFCFC90" "xBDFC5D" "x92C129" "xF6FC47" "xE0FC5C" "x5BFC83" "xD4F60B" "x86FC2C" }
+    city = "xEA9550"
+    port = "xF6FC47"
+    farm = "xFCAB2D"
+    mine = "xB6B298"
+    wood = "x7CFC8E"
+    arable_land = 49
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3100
+}
+STATE_CHA_04 = {
+    id = 55
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x7BEEB5" "xE2B652" "xB8A93E" "xCF9459" "xE6FC03" "x9DBA3E" "xFCFC37" "xD4F149" "xFCFC5B" "x5FE4A8" "xD7FC3B" "xFC9B0D" "xBE9D8B" "x94E0AD" "x93DB03" "xD5AF5E" "xE0FC97" "x619494" "xEBD980" "x6AA23C" "x65FC35" }
+    city = "x7BEEB5"
+    farm = "xE6FC03"
+    mine = "x94E0AD"
+    wood = "x9DBA3E"
+    arable_land = 38
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 60
+        building_iron_mine = 12
+        building_coal_mine = 8
+    }
+}
+STATE_CHA_05 = {
+    id = 56
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x78FC6A" "x52FC53" "xF6FC60" "x7AFC03" "xF7D61F" "xC0FC7B" "x8CC8AB" "xFBC758" "xA2F62A" "x6CD603" "x7FFC7B" "xF7E836" "xA1FC98" "x73FC65" "x79E454" "x52FC78" "x68B092" "xFCDC9B" "xE6BB03" "x879C56" "xBBFCA4" "xD3C5AB" "xA2FC95" }
+    city = "x78FC6A"
+    farm = "x6CD603"
+    mine = "xE6BB03"
+    wood = "xA2F62A"
+    arable_land = 59
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
+    capped_resources = {
+        building_iron_mine = 15
+        building_coal_mine = 10
+    }
+}
+STATE_CHA_06 = {
+    id = 57
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "xFCDC8F" "xFCD24D" "x98F09A" "x85FC37" "x5699A1" "xD8F808" "xFCAD6A" "x8DFB06" "x64FCB0" "x87AFA4" "xCEAC1B" "x93FC31" "x81FC9E" "xD8C976" "xDEF13E" "x5BBF1F" "xFCA02D" }
+    city = "xFCDC8F"
+    farm = "xFCA02D"
+    mine = "x5699A1"
+    wood = "xD8F808"
+    arable_land = 17
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_iron_mine = 50
+        building_coal_mine = 34
+    }
+}
+STATE_CHA_07 = {
+    id = 58
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "xEFB6A9" "xBAAF3A" "xAAE952" "xF2DF77" "xA2FC3E" "xA4DAA1" "xFCEB4D" "xAEFCAB" "xFC9803" "x9C93A3" "xFCF498" "xC8E978" "xFCFC70" "x5CFC6E" "xC69B3D" "x56901A" "xC7FC1A" "x5FFC4F" "xCCFC81" "xFCFC10" "xB1FCA4" }
+    city = "xEFB6A9"
+    farm = "xFC9803"
+    mine = "xC7FC1A"
+    wood = "x56901A"
+    arable_land = 61
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
+    capped_resources = {
+        building_iron_mine = 5
+        building_coal_mine = 4
+    }
+}
+STATE_CHA_08 = {
+    id = 59
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "xF9E5AF" "xB9FC8F" "x52FC23" "xAFFC4F" "x54AA5C" "xA4DA0D" "xB1A9B6" "xC7FC92" "x8DDB42" "xA6BF19" "xFCFCA8" "xEFBF19" "xEDFC31" "x99A095" "xABFC69" "xFCFC1B" "x9CFC9B" "x94FC4B" "xEBFC10" "x89D642" }
+    city = "xF9E5AF"
+    farm = "xFCFCA8"
+    mine = "xC7FC92"
+    wood = "x94FC4B"
+    arable_land = 20
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_iron_mine = 50
+        building_coal_mine = 40
+    }
+}
+STATE_CHA_09 = {
+    id = 60
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x6BE383" "xB2FC9D" "x90931E" "xC3FC8D" "xFCFC3B" "xC1DC03" "x91CE66" "xD8D61C" "xE4B895" "xDADE9A" "xF2E842" "xFCFCA9" "x99FC95" "xA8EA37" "x58D407" "x61C34A" "x93BB9D" "xF0FC10" }
+    city = "x6BE383"
+    farm = "xFCFC3B"
+    mine = "x58D407"
+    wood = "x61C34A"
+    arable_land = 50
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
+    capped_resources = {
+        building_iron_mine = 6
+        building_coal_mine = 4
+    }
+}
+STATE_GUD = {
+    id = 61
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x3292E1" "x83A1A3" "x393CFC" "x1D81A9" "x6DB3CE" "x1F3AD6" "x2094FC" "x7589FC" "x39DEFC" "x3163FC" "x3793C1" "x4ED5FC" "x03A6FC" "x267F93" "x0E7FFC" "x7475D7" "x527498" "x037FA1" "x03CEFC" "x1980FC" "x03BFFC" "x71D08F" }
+    city = "x3292E1"
+    farm = "x1D81A9"
+    mine = "x7475D7"
+    wood = "x1980FC"
+    arable_land = 40
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 60
+        building_iron_mine = 15
+        building_coal_mine = 10
+    }
+}
+STATE_GUD_02 = {
+    id = 62
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x7F6ABF" "x1BC9C6" "x3261FC" "x79E3BD" "x0345A1" "x849BFC" "x6A6CBD" "x0359D7" "x706CF9" "x0376FC" "x7398D1" "x6CB6DC" "x339798" "x038BFC" "x12BAE6" "x4B62FC" "x0644D7" "x4357D2" "x039BFC" }
+    city = "x7F6ABF"
+    port = "x4B62FC"
+    farm = "x6CB6DC"
+    mine = "x706CF9"
+    wood = "x0345A1"
+    arable_land = 41
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3005
+}
+STATE_GUD_03 = {
+    id = 63
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x7A6DA3" "x7BD4EE" "x1237C1" "x78E18A" "x06B1E4" "x03DAF4" "x48E1FB" "x0996FC" "x8D5CF7" "x0D74FC" "x03C8FC" "x036598" "x0342FC" "x1C9599" "x74A7FC" "x348CFC" "x1DAAEC" "x31A8E9" "x8983D8" }
+    city = "x7A6DA3"
+    farm = "x78E18A"
+    mine = "x03C8FC"
+    wood = "x036598"
+    arable_land = 37
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 60
+        building_iron_mine = 5
+        building_coal_mine = 4
+    }
+}
+STATE_GUD_04 = {
+    id = 64
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x03A5F6" "x6E66BD" "x0A8FFC" "x91EAD9" "x3191FC" "x56AFB9" "x433CFC" "x03D3FC" "x5F538C" "x53D5D3" "x03D9A5" "x1ECC83" "x0A57D7" "x25A59B" "x5DCB8E" "x03E5FC" "x914DFC" "x9147FC" "x5689F5" "x3C3BCA" "x4A97FA" "x2E779A" "x6AB4FC" "x8B6BF9" "x64ABFC" "x70C2A7" }
+    city = "x03A5F6"
+    port = "x91EAD9"
+    farm = "x0A57D7"
+    mine = "x56AFB9"
+    wood = "x03D3FC"
+    arable_land = 52
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3005
+}
+STATE_GUD_05 = {
+    id = 65
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x8D7698" "x7FEAA1" "x033EB4" "x03E4F4" "x4491FC" "x7F3FE6" "x03E08B" "x0EEDF2" "x289AE7" "x2ABE97" "x1F7AEB" "x4753BB" "x599AD0" "x6847C3" "x5A4892" "x0375FC" "x0BCB99" "x7DD287" "x54CF9C" "x48DDF4" "x8BC3E6" }
+    city = "x8D7698"
+    port = "x0BCB99"
+    farm = "x289AE7"
+    mine = "x03E08B"
+    wood = "x599AD0"
+    arable_land = 47
+    arable_resources = { "building_livestock_ranch" "building_rice_farm" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 16
+        building_iron_mine = 18
+        building_coal_mine = 12
+        building_lead_mine = 4
+    }
+    naval_exit_id = 3005
+}
+STATE_GUD_06 = {
+    id = 66
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x2398E4" "x2B9FD3" "x4C4783" "x1199B9" "x127ABB" "x438BA7" "x0377A1" "x70A2AB" "x03ABFC" "x03B7FC" "x77B482" "x2E989C" "x6CB997" "x0398E4" "x586A8A" "x496E92" "x4F6C92" "x3096FC" "x0345FC" "x4FA4B7" "x543F9B" "x7F45FC" "x59CAFB" }
+    city = "x2398E4"
+    farm = "x0377A1"
+    mine = "x70A2AB"
+    wood = "x59CAFB"
+    arable_land = 39
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 60
+        building_iron_mine = 21
+        building_coal_mine = 14
+    }
+}
+STATE_GUD_07 = {
+    id = 67
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x236A95" "x4D71FC" "x033EA3" "x5DBCCA" "x03B2FC" "x1540ED" "x8E3EBD" "x17B89D" "x7CB6E1" "x5E43FC" "x0396A8" "x06E6F9" "x8BCE90" "x4A4AC5" "x03E7D8" "x6969CE" "x315693" }
+    city = "x236A95"
+    farm = "x1540ED"
+    mine = "x06E6F9"
+    wood = "x5DBCCA"
+    arable_land = 18
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 5
+        building_iron_mine = 48
+        building_coal_mine = 32
+        building_lead_mine = 12
+    }
+}
+STATE_SKJ = {
+    id = 68
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x35F0A5" "x51FCAB" "x70A4BB" "x039399" "x2EFCCE" "x039D60" "x1BFCDD" "x57FCEE" "x7FA0B8" "x1695AF" "x8CFC8A" "x91DDBB" "x16FCD7" "x38FC7B" "x74F14E" "x03B647" "x4CFC60" "x69FCF6" "x17FCFC" }
+    city = "x35F0A5"
+    port = "x57FCEE"
+    farm = "x039399"
+    mine = "x51FCAB"
+    wood = "x91DDBB"
+    arable_land = 38
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3005
+}
+STATE_SKJ_02 = {
+    id = 69
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x27FCF8" "x03EB8B" "x03A84E" "x5D94F3" "x7CD2E6" "x09FC55" "x85B89B" "x8AE64D" "x50FC98" "x2CB057" "x61CE4B" "x68FCF9" "x03D89A" "x36FCFC" "x03BE7B" "x039861" "x2AF0C3" "x8BA0CE" "x61FC9D" "x7EFCAB" "x03DBF9" "x77D6F2" "x1DDFC2" "x48DD83" }
+    city = "x27FCF8"
+    farm = "x039861"
+    mine = "x61CE4B"
+    wood = "x36FCFC"
+    arable_land = 50
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+}
+STATE_SKJ_03 = {
+    id = 70
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x6A9F82" "x85FCD7" "x80F3F9" "x19E5BE" "x03FC65" "x8FF293" "x77FCA5" "x8EFC73" "x03CDF9" "x73F891" "x03FCB3" "x1AFCC6" "x4BFBAE" "x69FCA5" "x5094B2" "x0FFCB8" "x2DBEF3" "x57AEFA" "x03B157" "x52FC58" "x7DF7C6" }
+    city = "x6A9F82"
+    port = "x03FCB3"
+    farm = "x19E5BE"
+    mine = "x03CDF9"
+    wood = "x03B157"
+    arable_land = 42
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3005
+}
+STATE_LOR = {
+    id = 71
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "xFF586C" "xFC8FAE" "xC75519" "xFCA7A1" "xFCB58A" "xE2082B" "xFC299B" "xFC249F" "xC7208B" "xAF9E95" "xFCA7B3" "xF2B490" "xFC1EAB" "xFCB035" "xAE965F" "xFC0D17" "xFB4C0D" "xE0A736" "xFC95C3" "xFC8931" "xC32323" "xA80D9D" "xFCB30D" "xFC8542" "xCDA6B9" }
+    city = "xFF586C"
+    farm = "xFC95C3"
+    mine = "xAF9E95"
+    wood = "xE2082B"
+    arable_land = 27
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_iron_mine = 50
+        building_coal_mine = 45
+        building_lead_mine = 25
+    }
+}
+STATE_LOR_02 = {
+    id = 72
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "xFC03C4" "xFC0443" "xE0A825" "xB77F62" "xFC58AC" "xFC6FA3" "xFC7551" "xDA5CC9" "xA14C99" "xDF03BE" "xA46ABE" "xFC5169" "xFC6F4F" "xFC0B26" "xCA5220" "xDA2A68" "xFCA67F" "xFC8786" "xAF687C" "xFCA355" "xBA1FBB" "xFC9B53" }
+    city = "xFC03C4"
+    farm = "xFC0B26"
+    mine = "xA14C99"
+    wood = "xDA2A68"
+    arable_land = 25
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 12
+        building_iron_mine = 50
+        building_coal_mine = 38
+        building_lead_mine = 24
+    }
+}
+STATE_LOR_03 = {
+    id = 73
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xFCB48B" "xFC4178" "xC0AD2F" "xFC0F31" "xFC42C5" "xFC522B" "xFC9972" "xFC0C0E" "xE83F35" "xB9B451" "xFC4857" "xFC0390" "xFC6358" "xFC6D84" "xFC5717" }
+    city = "xFCB48B"
+    port = "xB9B451"
+    farm = "xFC6D84"
+    mine = "xE83F35"
+    wood = "xFC0F31"
+    arable_land = 30
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3023
+}
+STATE_LOR_04 = {
+    id = 74
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xD5031B" "xFC6739" "xFC425D" "xFC03AE" "xFCB243" "xA4819E" "xD4033B" "xFC448F" "xF39E22" "xFC5C6D" "xFC35A1" "xAFB0CA" "xFC41BB" "xC65133" "xFC4D21" }
+    city = "xD5031B"
+    port = "xAFB0CA"
+    farm = "xFC35A1"
+    mine = "xFC03AE"
+    wood = "xD4033B"
+    arable_land = 30
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3020
+}
+STATE_LOR_05 = {
+    id = 75
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xFC6DC0" "xFC0364" "xB12693" "xFC944C" "xFC8F59" "xE1589A" "xFC1E6C" "xA47276" "xFCA170" "xE78036" "xFC4B9E" "xEB6D57" "xB9B134" "xEE8130" "xE68115" "xFC3E92" "xFC4831" "xDC4E8C" "xAB1050" "xFC1141" "xFC6011" "xFC29C3" "xC99A8F" }
+    city = "xFC6DC0"
+    port = "xFC4831"
+    farm = "xFC3E92"
+    mine = "xAB1050"
+    wood = "xFC944C"
+    arable_land = 47
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+        building_iron_mine = 6
+        building_coal_mine = 4
+    }
+    naval_exit_id = 3020
+}
+STATE_LOR_06 = {
+    id = 76
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "xC8931A" "xC26479" "xF48A59" "xFCB70F" "xFC5292" "xCE030D" "xB90365" "xA34EC6" "xFC1828" "xB52C91" "xFC2740" "xFCB50F" "xBE353D" "xE83A14" "xA948A6" "xEBB463" }
+    city = "xC8931A"
+    farm = "xFCB70F"
+    mine = "xBE353D"
+    wood = "xF48A59"
+    arable_land = 23
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 28
+        building_iron_mine = 27
+        building_coal_mine = 18
+        building_lead_mine = 4
+    }
+}
+STATE_LOR_07 = {
+    id = 77
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xFC6D89" "xFC7750" "xFC0590" "xB56D58" "xB5836D" "xFC8315" "xFC257C" "xFC661D" "xB68CC3" "xB62288" "xFC4D50" "xD67119" "xC20821" "xFC7733" "xFC18BC" "xFCB2AE" "xA22B8F" "xFC0B10" "xA17C4D" "xAB52AE" }
+    city = "xFC6D89"
+    port = "xFC7750"
+    farm = "xFC0590"
+    mine = "xFC7733"
+    wood = "xFC4D50"
+    arable_land = 35
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+        building_iron_mine = 15
+        building_coal_mine = 10
+        building_lead_mine = 4
+    }
+    naval_exit_id = 3020
+}
+STATE_LOR_08 = {
+    id = 78
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xFCB643" "xB7753D" "xB3273E" "xDE8D85" "xB33A48" "xFCB21F" "xE87D8E" "xFCA7C3" "xFC3D33" "xFC034F" "xBF9B84" "xFC412D" "xEC4DBE" "xD0A6B8" "xFC26A0" "xDD08C8" }
+    city = "xFCB643"
+    farm = "xBF9B84"
+    mine = "xD0A6B8"
+    wood = "xB3273E"
+    arable_land = 32
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+}
+STATE_LOR_09 = {
+    id = 79
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "xFA6C46" "xFC87A9" "xFC242D" "xFC3E2B" "xFC9D87" "xB99896" "xFC0382" "xDF675A" "xFC5B2F" "xCE8F73" "xFC0EBB" "xFC987A" "xFC862B" "xFC7A3C" "xAA0386" "xEF9B2C" "xFC6A57" "xFC985E" "xFC0C27" "xFC687F" "xF36D70" "xFC26A2" "xE3AC27" "xFCA380" }
+    city = "xFA6C46"
+    farm = "xFCA380"
+    mine = "xFC242D"
+    wood = "xFC3E2B"
+    arable_land = 24
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_iron_mine = 50
+        building_coal_mine = 45
+        building_lead_mine = 25
+    }
+}
+STATE_LOR_10 = {
+    id = 80
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "xFC7E3B" "xE33C4E" "xFC5125" "xFC0BA9" "xFC9540" "xFC1134" "xFC12B0" "xC86E55" "xFC6937" "xA493B8" "xFC9794" "xEC231A" "xF5AE0E" "xFC7922" "xD54899" "xFC03C7" "xFC8CBC" "xFC231C" "xDC9933" "xD79B9E" "xD84E6D" }
+    city = "xFC7E3B"
+    farm = "xFC8CBC"
+    mine = "xE33C4E"
+    wood = "xFC5125"
+    arable_land = 23
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_iron_mine = 50
+        building_coal_mine = 40
+        building_lead_mine = 8
+    }
+}
+STATE_LOR_11 = {
+    id = 81
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xFC839C" "xB26A37" "xFC7E94" "xFC7998" "xFCB68F" "xBD508D" "xB25C99" "xFC9E35" "xC71E2F" "xFCB012" "xFC3D25" "xFC567D" "xA5986D" "xFC975E" "xE20A1B" }
+    city = "xFC839C"
+    port = "xB25C99"
+    farm = "xFC9E35"
+    mine = "xFC7998"
+    wood = "xFC975E"
+    arable_land = 30
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3020
+}
+STATE_NAU = {
+    id = 82
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x7B19CD" "xA72F9B" "xC65D9D" "xBF039B" "x5413ED" "x5D2BB7" "x6003FC" "x4E03F6" "x6641FC" "x99036F" "xB63AFC" "x5509FC" "xCA03F2" "x480AF2" "xAF03FC" "x616384" "xCF0597" "x2313CF" }
+    city = "x7B19CD"
+    port = "x4E03F6"
+    farm = "x616384"
+    mine = "x5D2BB7"
+    wood = "xBF039B"
+    arable_land = 28
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 40
+        building_iron_mine = 24
+        building_coal_mine = 16
+    }
+    naval_exit_id = 3020
+}
+STATE_NAU_02 = {
+    id = 83
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xCB03FC" "xA60FFC" "x876D98" "x5769B4" "x9F03BB" "x8E4EB9" "x760379" "x1E5AC2" "x2803F6" "x6C47B5" "xAF5676" "xA544A7" "x2674D6" "xB01EA8" "x9752C1" "x1E6CFC" "x9149A6" "xCD03A1" }
+    city = "xCB03FC"
+    port = "xA60FFC"
+    farm = "x5769B4"
+    mine = "x9752C1"
+    wood = "x9149A6"
+    arable_land = 36
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3005
+}
+STATE_NAU_03 = {
+    id = 84
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xD812E3" "x8F6C9C" "x937688" "xC71E74" "x352D88" "x4C2A7F" "xB0037A" "x8603FC" "x8B5FED" }
+    city = "xD812E3"
+    port = "x4C2A7F"
+    farm = "x937688"
+    mine = "xC71E74"
+    wood = "x8B5FED"
+    arable_land = 22
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
+    capped_resources = {
+        building_logging_camp = 20
+    }
+    naval_exit_id = 3000
+}
+STATE_NAU_04 = {
+    id = 85
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x4B0385" "x2C0370" "xC32585" "x890376" "x1D51F2" "xC910EB" "x2873FC" "xDA1F81" "x9E78B2" "x4003FC" "x8903FC" "x1D0F7A" "x4303FC" "x9D03FC" "x4F03FC" "x4F52D1" "x9D75D7" "x7A1F76" "x85618C" "x6248A3" "x68036E" "x4F5BFC" "xAD0377" }
+    city = "x4B0385"
+    port = "x4303FC"
+    farm = "xC910EB"
+    mine = "x4003FC"
+    wood = "xC32585"
+    arable_land = 43
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+        building_iron_mine = 15
+        building_coal_mine = 10
+    }
+    naval_exit_id = 3026
+}
+STATE_NAU_05 = {
+    id = 86
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x541AFA" "x3A0D9F" "x8A08FC" "xD8039C" "x751CFC" "x4C038F" "x2271FC" "x3C31FC" "xCD6F85" "xC703E1" "x8C03FC" "xC503FC" "x84039B" "x6F1F7B" "xCA0EF8" "x2E2786" "xA7037E" "x2D42FC" "xC51A90" "x2B0386" }
+    city = "x541AFA"
+    port = "x3A0D9F"
+    farm = "xCA0EF8"
+    mine = "xCD6F85"
+    wood = "xC503FC"
+    arable_land = 35
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+        building_iron_mine = 15
+        building_coal_mine = 10
+    }
+    naval_exit_id = 3019
+}
+STATE_NAU_06 = {
+    id = 87
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x5410FC" "x7D03AA" "x7763F7" "x7557F2" "xA003FC" "x800371" "xBC5C88" "x6F03A8" "x5103A9" "xBD0AAF" "xBD56AD" "xC703BD" "x715C9C" "xD00382" "x8203C8" "x4E1FAF" "x6940FC" "xCC03B2" "xAA0371" "x1C1F7C" "xC30373" "x8003FC" "x2D03DB" "xB903FC" "xBC03EC" }
+    city = "x5410FC"
+    port = "x7557F2"
+    farm = "x1C1F7C"
+    mine = "x2D03DB"
+    wood = "x5103A9"
+    arable_land = 49
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+        building_iron_mine = 5
+        building_coal_mine = 4
+    }
+    naval_exit_id = 3019
+}
+STATE_NAU_07 = {
+    id = 88
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x6B0EEF" "x5F03FC" "x556FCC" "x6E52B9" "x3015E5" "xD503FC" "x35327C" "x3D13A1" "x5B03FC" "x5F03C6" "xC603FC" "x903DFC" "x1C1D7C" "x5703FC" "x7A76B8" "x97698D" "xCB1283" "xA403D8" "x420394" "x397683" "x97199F" "x6203FC" }
+    city = "x6B0EEF"
+    port = "xD503FC"
+    farm = "xCB1283"
+    mine = "x3D13A1"
+    wood = "x3015E5"
+    arable_land = 40
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+        building_iron_mine = 12
+        building_coal_mine = 8
+    }
+    naval_exit_id = 3005
+}
+STATE_NAU_08 = {
+    id = 89
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "xD115A5" "x2D03FC" "xA37882" "x736CB1" "x3912FC" "x66188E" "x740392" "xD708F3" "xB703AE" "xD81A89" "xB703FC" "x1E40FC" "x2853AA" "x62039C" "x2307F3" "x9403F4" "xC16EC3" "x9F03D7" }
+    city = "xD115A5"
+    farm = "x2853AA"
+    mine = "x2D03FC"
+    wood = "xB703FC"
+    arable_land = 31
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 28
+        building_iron_mine = 24
+        building_coal_mine = 16
+    }
+}
+STATE_NAU_09 = {
+    id = 90
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x5362B4" "x3B177A" "x7903FC" "xD91FFC" "x6603F4" "x8A0386" "x7F09FC" "x5625C7" "x3F43D2" "x4F41DD" "xA80388" "x500370" "xB676A1" "x674AFC" "x6777BC" }
+    city = "x5362B4"
+    farm = "x7903FC"
+    mine = "x3B177A"
+    wood = "x500370"
+    arable_land = 24
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 36
+        building_iron_mine = 18
+        building_coal_mine = 12
+    }
+}
+STATE_NAU_10 = {
+    id = 91
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x2704DD" "x4207FC" "xB603AD" "xBA0CC5" "x9A03CF" "x7303AE" "xBC2787" "x2159FC" "x664F93" "x90039F" "xB603FC" "xD368FC" "xA10CBA" "x2C44CF" "x7352D9" "xA42F88" "x4C03B1" "xCE04AC" }
+    city = "x2704DD"
+    port = "x4207FC"
+    farm = "x7352D9"
+    mine = "xB603FC"
+    wood = "x2C44CF"
+    arable_land = 41
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 52
+    }
+    naval_exit_id = 3026
+}
+STATE_NAU_11 = {
+    id = 92
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x9A43CF" "xB30386" "x8011FC" "x670383" "x56039B" "x513A71" "xC558E0" "x2503EC" "x1F03F5" "x5603FC" "x2C0397" "xAF67FC" "x2D388F" "xD065E8" "xB603BC" "x952670" "x3F24FC" "xAD09BD" "xD948C9" "xAE51CF" "x2603FC" }
+    city = "x9A43CF"
+    port = "xB30386"
+    farm = "x2503EC"
+    mine = "x56039B"
+    wood = "xAF67FC"
+    arable_land = 46
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+        building_iron_mine = 5
+        building_coal_mine = 4
+    }
+    naval_exit_id = 3005
+}
+STATE_NAU_12 = {
+    id = 93
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xC903D2" "x254C80" "x3B2EFC" "x6213BC" "xAC4BA8" "xBC387A" "x54527A" "xCB547D" "x4E58B8" "xB15FFC" "x9803A6" "x7203BB" "xC603DA" "xC105B1" "xBE0397" "x8503E2" "xC4059D" "x611798" "x9303C5" "x4503C7" "x4A03FC" "x77039B" "x3953F5" "x7E18B3" }
+    city = "xC903D2"
+    port = "x7203BB"
+    farm = "x4E58B8"
+    mine = "xBE0397"
+    wood = "x3B2EFC"
+    arable_land = 42
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+        building_iron_mine = 18
+        building_coal_mine = 12
+    }
+    naval_exit_id = 3026
+}
+STATE_NAU_13 = {
+    id = 94
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "x6B4AFC" "x543BE4" "x4627FC" "xB50383" "xA3208E" "x8969AA" "xBD3E76" "xA315B8" "x3303FC" "x940897" "x6E16A1" "x3A3AFC" "x2A1AC4" "x7A43BC" "x5B4097" "x8037CD" "x1F77D4" "x203783" "x2B036E" "x5803C4" "x6F03FC" "x5F77FC" "xAA03C2" "x827386" }
+    city = "x6B4AFC"
+    port = "x5B4097"
+    farm = "x1F77D4"
+    mine = "x5F77FC"
+    wood = "x2B036E"
+    arable_land = 35
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 44
+        building_iron_mine = 39
+        building_coal_mine = 26
+        building_lead_mine = 6
+    }
+    naval_exit_id = 3005
+}
+STATE_KAI = {
+    id = 95
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x6253C6" "x5712C0" "x6F4880" "x791EF1" "x842EAE" "x97A0FC" "x984890" "x7047FC" "x8F61B5" "x234AC9" "x5F9AFC" "x9D8EA8" "x5B1BC0" "xBD4FDD" "x9E03A5" "xB45BD9" "xBB56FC" }
+    city = "x6253C6"
+    port = "x234AC9"
+    farm = "x5712C0"
+    mine = "x9E03A5"
+    wood = "x9D8EA8"
+    arable_land = 34
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3008
+}
+STATE_KAI_02 = {
+    id = 96
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x72347A" "x5E9873" "x4C87F9" "xAC9FFC" "x709FD2" "x949C96" "xAE92A2" "xA7827F" "x19176A" "xBE5BD5" "x8284FC" "x971CB6" "x082481" "xBD6EFC" "x2F42FC" "x670BFC" }
+    city = "x72347A"
+    port = "x5E9873"
+    farm = "x670BFC"
+    mine = "xA7827F"
+    wood = "xAE92A2"
+    arable_land = 33
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3002
+}
+STATE_MAS = {
+    id = 97
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x1AD6B0" "x33A8B0" "x1DFCA4" "x388BFC" "x03FC58" "x03BAA2" "x0EF7C2" "x52FCC9" "x1B8E7E" "x789092" "x41DC80" "x3FFCA8" "x3ECEC2" "x038ACB" "x6BFCD4" "x34FC7E" "x46FC7C" "x4585F9" }
+    city = "x1AD6B0"
+    port = "x6BFCD4"
+    farm = "x388BFC"
+    mine = "x1B8E7E"
+    wood = "x4585F9"
+    arable_land = 36
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3023
+}
+STATE_MAS_02 = {
+    id = 98
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x03895F" "x03D96C" "x6AFCFC" "x2BFCB0" "x03F4CF" "x37C8DE" "x03B473" "x58FC52" "x159DF5" "x03E6FC" "x2BC9E8" "x03FBA6" "x03BDFA" "x039574" "x03FC8B" "x0DFCFC" "x06E1DA" }
+    city = "x03895F"
+    port = "x03BDFA"
+    farm = "x039574"
+    mine = "x37C8DE"
+    wood = "x03B473"
+    arable_land = 34
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3023
+}
+STATE_MAS_03 = {
+    id = 99
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x20FCED" "x58FCA7" "x35A7C2" "x03FCE8" "x66FCFC" "x4E7FA0" "x0986D5" "x03FC6F" "x10FC94" "x75C871" "x75D99F" "x0EFCFC" "x6BFC86" "x03FCB4" "x6793FC" "x03CB9B" "x3BFC51" "x40A5AE" "x617AE3" "x47A2A2" "x588AE8" "x10E9DC" }
+    city = "x20FCED"
+    port = "x03FCB4"
+    farm = "x03FCE8"
+    mine = "x47A2A2"
+    wood = "x03FC6F"
+    arable_land = 44
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3002
+}
+STATE_TAK = {
+    id = 100
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x6A46B5" "xB417CB" "x1404E8" "x7759E7" "x518399" "xC72D68" "x4755DC" "x58178E" "x556AD8" "x2F1BDE" "x453866" "x1C17D3" "xC52060" "x7C16E5" "x7B3299" "x4FA3FB" "x6F8FEC" "x42036D" "x8C5565" "xA50357" "xB0035C" "x665F59" "x466CB5" "x986E96" }
+    city = "x6A46B5"
+    port = "xA50357"
+    farm = "x7B3299"
+    mine = "x466CB5"
+    wood = "xC72D68"
+    arable_land = 48
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3023
+}
+STATE_SHI = {
+    id = 101
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xDD3FA2" "xBB3990" "xFC5FC8" "xA44B53" "x906395" "xB80F8D" "xFC9165" "xCF03CE" "xFC4BC3" "xFC32B2" "xA8035B" "xFC5EBD" "xFC75AB" "xB30378" "xCE1ACF" "xFC0348" "xEC3FFC" "x9203A9" "xAB03E8" "xD05253" "xFC0354" "x9C64DE" "x8F3B71" "xFC0384" }
+    city = "xDD3FA2"
+    port = "xFC4BC3"
+    farm = "xFC75AB"
+    mine = "xFC9165"
+    wood = "xA8035B"
+    arable_land = 48
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3023
+}
+STATE_SHI_02 = {
+    id = 102
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xC703B0" "xFC5965" "xBD5C54" "xFC907C" "xE103D0" "xFC89EF" "xFC03AD" "xFC5A57" "xAD3CD3" "xCE096F" "xFC6857" "xF80E9F" "xF40C5E" "x9218BD" "xFC6092" "xB778C0" "xAB8B78" "xFC824F" "xFC9667" "xCC4472" "xD54D79" "x8463D7" "xFC555A" "xFC8B4B" }
+    city = "xC703B0"
+    port = "xFC5A57"
+    farm = "x9218BD"
+    mine = "xAB8B78"
+    wood = "xAD3CD3"
+    arable_land = 48
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3023
+}
+STATE_KAW = {
+    id = 103
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x5D58CC" "x030397" "x439AF6" "x749CB7" "x9D088B" "xB699FC" "x82679D" "x7078E4" "x826CB1" "x0A4890" "x644F71" "x805792" "x18456D" "x562DFC" "x417172" "x2F9AFC" "x9282ED" "x495DA2" "xB85DC1" "x5B5D84" }
+    city = "x5D58CC"
+    port = "x5B5D84"
+    farm = "x562DFC"
+    mine = "x644F71"
+    wood = "x7078E4"
+    arable_land = 40
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3023
+}
+STATE_KAW_02 = {
+    id = 104
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x08169D" "x7E03AF" "xA860F3" "x2C14CA" "x5975FC" "x6759FC" "x9E1CAC" "xB27FFC" "xAC03FC" "x325B7E" "x3051DA" "xB381BC" "xB558B2" "x1D29E2" "xA029FC" "x336D8F" "x7056AC" "x5249A4" }
+    city = "x08169D"
+    port = "xB558B2"
+    farm = "xA860F3"
+    mine = "x325B7E"
+    wood = "x3051DA"
+    arable_land = 36
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3023
+}
+STATE_RIK = {
+    id = 105
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x1AC3C6" "x3ECFFC" "x2F87FC" "x1BA6AC" "x03D5E9" "x10E28E" "x0368EF" "x44F5B8" }
+    city = "x1AC3C6"
+    port = "x03D5E9"
+    farm = "x3ECFFC"
+    mine = "x1BA6AC"
+    wood = "x44F5B8"
+    arable_land = 16
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 32
+    }
+    naval_exit_id = 3023
+}
+STATE_VES = {
+    id = 106
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x5662D4" "x9F35FC" "x175CA3" "x8A0EB3" "x6A6595" "x0340BA" "x259C8F" "x4D7BF9" "xB120D1" "x7960FC" "x03BAB2" "x3079B0" "x61498E" "x762E78" "x3152AC" "x7F0787" "x7F1284" "x836B9D" "xAB618D" "x401D88" "x03BA9E" }
+    city = "x5662D4"
+    port = "x8A0EB3"
+    farm = "x03BAB2"
+    mine = "xAB618D"
+    wood = "x836B9D"
+    arable_land = 41
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 60
+        building_iron_mine = 5
+        building_coal_mine = 4
+    }
+    naval_exit_id = 3008
+}
+STATE_CAR = {
+    id = 107
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "xF99932" "xFCD838" "xFCCF65" "xE67F6C" "xB1535E" "xB87905" "xFC5978" "xFCC829" "xEEA163" "xFC5A79" "xA93F03" "xEB4588" "xA8A803" "xFCE563" "xFCE003" "xC25703" "xFC5463" "xFC4503" "xFC774A" "x9A6F2E" "xFC4903" "xF24E7C" "xFCD637" "xFCEC56" "xFC6751" "xFCB372" }
+    city = "xF99932"
+    port = "xB1535E"
+    farm = "xE67F6C"
+    mine = "xF24E7C"
+    wood = "x9A6F2E"
+    arable_land = 62
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3008
+}
+STATE_CAR_02 = {
+    id = 108
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xFCA511" "xFCCA77" "xFC3A87" "xFC8F88" "xEE5D37" "xE1F82E" "xFCEE79" "xC76C03" "xFC6D17" "xEDE770" "xFCE187" "xE25A23" "xA6B939" "xDDD025" "xDBDD03" "xFC5C03" "xFC5503" "xFCF868" }
+    city = "xFCA511"
+    port = "xE1F82E"
+    farm = "xFCE187"
+    mine = "xFCEE79"
+    wood = "xEE5D37"
+    arable_land = 39
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3008
+}
+STATE_BER = {
+    id = 109
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "xFF8D37" "xB06781" "xFC9643" "xD6AA21" "xFC9303" "xFCCD56" "xA07089" "xFCCF03" "xD7BC81" "xF06882" "xD4454C" "xAB455A" "xE73412" "xB26F1C" "xFC885C" "xEC7737" "xFCAC32" "xE17003" "xE28A06" "xC8B363" "xF73023" "xE26B88" "xFC957C" "xFCA53D" "xFC692B" "xFC892B" "xDD5115" "xFC464B" }
+    city = "xFF8D37"
+    port = "xFC957C"
+    farm = "xE73412"
+    mine = "xFC9303"
+    wood = "xFC464B"
+    arable_land = 72
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
+    capped_resources = {
+        building_logging_camp = 40
+        building_iron_mine = 5
+        building_coal_mine = 4
+    }
+    naval_exit_id = 3008
+}
+STATE_BER_02 = {
+    id = 110
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "xA8BD58" "xFCD06F" "xFA664D" "xFC6903" "xCFAF48" "xFCE703" "xFC8A0B" "xF3E959" "xE0748E" "xFCD912" "xFC6503" "xCF3B05" "xA29C3E" "xFC7949" "xFC6303" "xC7B803" "xB9C32B" "xFC8152" "xD6E803" "xFC8237" "xDA8887" "xC66E65" }
+    city = "xA8BD58"
+    port = "xFCD06F"
+    farm = "xC7B803"
+    mine = "xCF3B05"
+    wood = "xFA664D"
+    arable_land = 66
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
+    naval_exit_id = 3008
+}
+STATE_BER_03 = {
+    id = 111
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "xA2DD54" "xADAD22" "xFCC128" "xFCD725" "xFCA31E" "xBC7603" "xFCCF73" "xDE9603" "xFCD859" "xFC616D" "xE1CD03" "xD3310B" "xF99696" "xE74865" "xFA9796" "xFC6880" "xFC470C" }
+    city = "xA2DD54"
+    farm = "xE74865"
+    mine = "xFCD859"
+    wood = "xADAD22"
+    arable_land = 44
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" }
+    capped_resources = {
+        building_logging_camp = 28
+    }
+}
+STATE_PIC = {
+    id = 112
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x1CBCCD" "x3676E1" "x21EAFC" "x037AFC" "x66ABAB" "x0A71FC" "x03FC83" "x03B2F4" "x32FCFC" "x417DB6" "x205DE0" "x038CFC" "x4E93BA" "x0F667F" "x0391E7" "x3495FC" "x03909D" "x2FF2FC" "x3298EC" }
+    city = "x1CBCCD"
+    port = "x038CFC"
+    farm = "x4E93BA"
+    mine = "x03FC83"
+    wood = "x3495FC"
+    arable_land = 52
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 20
+    }
+    naval_exit_id = 3003
+}
+STATE_PIC_02 = {
+    id = 113
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x2FD2C0" "x06FCD5" "x716F85" "x03FCA8" "x5E6D77" "x6997FC" "x038EF4" "x39CFF7" "x03FC85" "x039895" "x03EA9D" "x76FCA1" "x03DA7B" "x16E8FC" "x759DFC" "x03A4C5" "x3EB8ED" "x03B3FB" "x0368FC" }
+    city = "x2FD2C0"
+    farm = "x76FCA1"
+    mine = "x03A4C5"
+    wood = "x03DA7B"
+    arable_land = 51
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_iron_mine = 9
+        building_coal_mine = 6
+    }
+}
+STATE_PIC_03 = {
+    id = 114
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x4695CF" "x49FC94" "x3BB6E2" "x6CC3F5" "x03BFB4" "x61FCFC" "x03D69C" "x0F837D" "x03F794" "x56FBED" "x1FFCFC" "x34EA8D" "x16FC90" "x037A8D" "x64A985" "x088AC4" "x0384F1" "x10EDD3" }
+    city = "x4695CF"
+    port = "x03D69C"
+    farm = "x34EA8D"
+    mine = "x037A8D"
+    wood = "x10EDD3"
+    arable_land = 36
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3018
+}
+STATE_PIC_04 = {
+    id = 115
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x1ABDFC" "x036779" "x7B73AA" "x036792" "x17A8CA" "x38DA9B" "x03D9FC" "x1D60B4" "x33FCB8" "x3066DE" "x33E0C9" "x03E390" "x60A6C1" "x2162B5" "x7B88AA" "x387DF2" "x3B609A" "x0E8495" }
+    city = "x1ABDFC"
+    port = "x38DA9B"
+    farm = "x7B73AA"
+    mine = "x03E390"
+    wood = "x60A6C1"
+    arable_land = 36
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 40
+        building_iron_mine = 12
+        building_coal_mine = 8
+    }
+    naval_exit_id = 3003
+}
+STATE_PIC_05 = {
+    id = 116
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x3DCD83" "x039FBE" "x03F8C8" "x66FCF3" "x126082" "x78C6FC" "x6B62FC" "x1BFCBD" "x3DFCE3" "x11F5FC" "x03F9B7" "x03CCFC" "x169FB6" "x03EDFC" "x73FCFC" "x6B90FC" "x03C57B" "x6D7CFA" "x73B474" "x15936F" }
+    city = "x3DCD83"
+    port = "x15936F"
+    farm = "x03CCFC"
+    mine = "x126082"
+    wood = "x73B474"
+    arable_land = 60
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    naval_exit_id = 3003
+}
+STATE_PIC_06 = {
+    id = 117
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x5AB9EE" "x41B7A3" "x0393FC" "x50EAFC" "x6F8AFC" "x037FF8" "x4C77EE" "x2CF8FC" "x03ADB6" "x0371B8" "x08FCC9" "x538272" "x3A60FC" "x31ACFC" "x647CFC" "x07F5C5" "x57E5AC" "x7BA4FC" }
+    city = "x5AB9EE"
+    farm = "x57E5AC"
+    mine = "x0393FC"
+    wood = "x31ACFC"
+    arable_land = 41
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 20
+        building_iron_mine = 12
+        building_coal_mine = 8
+    }
+}
+STATE_PIC_07 = {
+    id = 118
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x546C9B" "x487370" "x03ABB4" "x53C283" "x7A7AA3" "x53F3DC" "x74C3A7" "x62B2E4" "x03908D" "x48C2E1" "x5EFCBB" "x6BFC7A" "x036AD4" "x03C7FC" "x20FCE5" "x03FC79" "x03FCEE" "x3EF4DF" "x6FB37A" "x03E7B1" "x26F2AD" "x03C1AB" "x0E64C9" "x37EBE2" "x0381FC" "x27FC7E" }
+    city = "x546C9B"
+    port = "x0E64C9"
+    farm = "x6BFC7A"
+    mine = "x5EFCBB"
+    wood = "x0381FC"
+    arable_land = 61
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3003
+}
+STATE_PIC_08 = {
+    id = 119
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x29FCBA" "x6A73FC" "x03AD96" "x65B5FC" "x11DFBD" "x03F4FC" "x11C6F8" "x68E180" "x38D2E1" "x03DFFC" "x337DB8" "x03ADFC" "x7864FC" "x2483FC" "x03FC81" "x516EAF" "x3E9E7E" "x408B94" "x0360CE" "x1C5DDE" "x05ABF7" "x49EB75" "x03D998" "x039EEE" "x5EE4FC" }
+    city = "x29FCBA"
+    port = "x03AD96"
+    farm = "x516EAF"
+    mine = "x65B5FC"
+    wood = "x1C5DDE"
+    arable_land = 57
+    arable_resources = { "building_livestock_ranch" "building_rice_farm" }
+    capped_resources = {
+        building_logging_camp = 56
+        building_iron_mine = 6
+        building_coal_mine = 4
+    }
+    naval_exit_id = 3003
+}
+STATE_PIC_09 = {
+    id = 120
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x49D6C2" "x297FFC" "x038CE4" "x3DBDFC" "x26FC82" "x0397DB" "x03B5FC" "x03D68C" "x66A2A1" "x54FCB3" "x03B1FC" "x1E99FC" "x7BD378" "x54846E" "x1D7A9F" }
+    city = "x49D6C2"
+    port = "x66A2A1"
+    farm = "x7BD378"
+    mine = "x3DBDFC"
+    wood = "x26FC82"
+    arable_land = 34
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 44
+    }
+    naval_exit_id = 3003
+}
+STATE_PIC_10 = {
+    id = 121
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x03A5B8" "x03BB82" "x03FB70" "x65DD6E" "x03DDFC" "x55DFFC" "x04FCEC" "x35957E" "x207AC1" "x07FCC2" "x03FCDD" "x03D4D8" "x1AA187" "x3CA0CE" "x1EB1AD" "x37F480" "x17D5A7" "x45BAC0" "x037BF5" }
+    city = "x03A5B8"
+    farm = "x35957E"
+    mine = "x17D5A7"
+    wood = "x1EB1AD"
+    arable_land = 37
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 24
+        building_iron_mine = 21
+        building_coal_mine = 14
+    }
+}
+STATE_PIC_11 = {
+    id = 122
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x0367C8" "x56FC6F" "x03C2DD" "x0BF5A8" "x5686C9" "x37A37D" "x40A87D" "x1ACE6E" "x03E2C8" "x0396FC" "x038F97" "x5F5EE4" "x69BCC9" "x6B6EFC" "x33F299" "x73736F" "x038AD4" "x3CE1FC" "x03C2FC" }
+    city = "x0367C8"
+    farm = "x1ACE6E"
+    mine = "x0BF5A8"
+    wood = "x03C2FC"
+    arable_land = 41
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_iron_mine = 24
+        building_coal_mine = 16
+    }
+}
+STATE_PIC_12 = {
+    id = 123
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x65B7C9" "x159A92" "x0363F1" "x03C67E" "x03B4FC" "x127A96" "x0392DD" "x6BCAEE" "x4DFC73" "x03D29F" "x419C74" "x2C8AFC" "x1374FC" "x6F91AE" "x55D4FC" "x44D6C6" "x03F5FC" "x37E5FC" "x1FA9F6" "x03FC92" }
+    city = "x65B7C9"
+    farm = "x03D29F"
+    mine = "x03FC92"
+    wood = "x03C67E"
+    arable_land = 31
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 44
+        building_iron_mine = 27
+        building_coal_mine = 18
+    }
+}
+STATE_PIC_13 = {
+    id = 124
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x31FC7C" "x37FBD5" "x275DFC" "x038B95" "x71D3BB" "x03B4F7" "x0387A4" "x03B6C9" "x65CBFC" "x03C9E0" "x19CB9E" "x21A2F5" "x53FCBC" "x366BFC" "x29C77B" "x41FCFC" "x03F87E" "x4E61FC" "x035E98" "x5DAB9F" }
+    city = "x31FC7C"
+    port = "x37FBD5"
+    farm = "x0387A4"
+    mine = "x035E98"
+    wood = "x65CBFC"
+    arable_land = 40
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3003
+}
+STATE_PIC_14 = {
+    id = 125
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "x03BEFA" "x2F94AB" "x03F687" "x1EFCFC" "x298DEE" "x1BC0A5" "x03AEFC" "x706F71" "x346274" "x2AB0BD" "x0382A5" "x6CCDFC" "x57EED1" "x617EB4" "x0F6E83" "x12987A" }
+    city = "x03BEFA"
+    port = "x03AEFC"
+    farm = "x346274"
+    mine = "x706F71"
+    wood = "x2AB0BD"
+    arable_land = 32
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3003
+}
+STATE_MAC = {
+    id = 126
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "xD2CA34" "xFCD403" "x9DD303" "xB6FC7E" "xF27A11" "xB4FC1D" "xDAE891" "xFB933C" "xFAFC7D" "xFBEB4D" "x9CFC85" "xC5EC54" "xFCE120" "xA2CB03" "x97F103" "xD6920C" "xA0CC42" "xB0AA03" "x927203" "x7DFC7C" "x86FC5E" "xFCFC5C" }
+    city = "xD2CA34"
+    port = "xFBEB4D"
+    farm = "xFCD403"
+    mine = "xB4FC1D"
+    wood = "xD6920C"
+    arable_land = 58
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 32
+    }
+    naval_exit_id = 3008
+}
+STATE_MAC_02 = {
+    id = 127
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xCDDC03" "xCDAB4A" "xB37360" "xF6FC4E" "xD26C77" "xA1F32F" "xBAE403" "xE1C26E" "xFCC76B" "xFCA05B" "xDE8103" "xFCF47A" "x9A7783" "xE4C903" "xF0FC66" "xFCEC62" "x80EA25" "x989686" "x878413" "x8D9405" }
+    city = "xCDDC03"
+    port = "xFCEC62"
+    farm = "xE1C26E"
+    mine = "x8D9405"
+    wood = "xD26C77"
+    arable_land = 40
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3018
+}
+STATE_MAC_03 = {
+    id = 128
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xFBD055" "xC2B127" "xA0A17D" "xC7FC8D" "xE6F235" "xEAC307" "xEE7633" "xC28791" "xFC8122" "xFCCD3A" "xEB9103" "x89B603" "xFCA91E" "xFCFC69" "xC87559" "xA28A60" "xFCA60E" "x758B21" "x8E720B" }
+    city = "xFBD055"
+    port = "xEB9103"
+    farm = "xC7FC8D"
+    mine = "xFCCD3A"
+    wood = "xFCA91E"
+    arable_land = 38
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3018
+}
+STATE_MAC_04 = {
+    id = 129
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "xAACF46" "xFCA867" "x958B89" "xFC723C" "xD4B672" "xFCD705" "xCEFC03" "xA6E22F" "x7F9E6C" "xE0D708" "x78AA18" "xBAFC2C" "xFC7D7E" "x927F03" "xD1F538" "x8FA761" "xFCB352" "xB37C03" "xF9816D" "xE6A103" "x9E8B03" }
+    city = "xAACF46"
+    farm = "xCEFC03"
+    mine = "xD1F538"
+    wood = "x958B89"
+    arable_land = 51
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 24
+        building_iron_mine = 9
+        building_coal_mine = 6
+    }
+}
+STATE_MAC_05 = {
+    id = 130
+    subsistence_building = "building_subsistence_orchard"
+    provinces = { "xDDF00C" "xDCB870" "xCAFC7F" "xDBFC3C" "xFC8803" "xD7FC6C" "xA0FC03" "xFCFC41" "xD6FC15" "x8A7752" "xDC6F74" "x88E72D" "xFCAB80" "xC9B920" "xFCE653" "x8EB251" "xBEFC65" "xFCE242" "x88FC5B" "xFCB12C" }
+    city = "xDDF00C"
+    port = "xFC8803"
+    farm = "xDCB870"
+    mine = "x88FC5B"
+    wood = "x8EB251"
+    arable_land = 42
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 60
+    }
+    naval_exit_id = 3018
+}
+STATE_ABE = {
+    id = 131
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "xFF464F" "xFC4703" "xFC386B" "xFC7A03" "xF50383" "xE18787" "xFC6C25" "xFC5E58" "xFC3935" "xBF7315" "xFC6475" "xFC3C1B" "xF707A8" "xFC1578" "xFC0303" "xEC4910" "xDD03A9" }
+    city = "xFF464F"
+    port = "xEC4910"
+    farm = "xE18787"
+    mine = "xFC6475"
+    wood = "xFC4703"
+    arable_land = 38
+    arable_resources = { "building_livestock_ranch" "building_rice_farm" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 12
+        building_iron_mine = 15
+        building_coal_mine = 10
+    }
+    naval_exit_id = 3005
+}
+STATE_ABE_02 = {
+    id = 132
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "xFC4019" "xAD1303" "xFC8928" "xE72C1B" "xAB1A08" "xAA43A1" "xFC8B30" "xDBA30A" "xFC8560" "xDE7275" "xFC857D" "xF8032A" "xFC9838" "xDE034C" "xF24269" "xFCA066" "xFC4492" "xC11249" "xE72903" }
+    city = "xFC4019"
+    port = "xFC8560"
+    farm = "xFC8B30"
+    mine = "xDE7275"
+    wood = "xFC4492"
+    arable_land = 40
+    arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" "building_coffee_plantation" "building_sugar_plantation" }
+    capped_resources = {
+        building_logging_camp = 36
+        building_iron_mine = 12
+        building_coal_mine = 8
+    }
+    naval_exit_id = 3005
+}
+STATE_ABE_03 = {
+    id = 133
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "xFC9655" "xFC936B" "xCC5847" "xE42489" "xFC8384" "xC180A3" "xF50335" "xFC0372" "xE36698" "xFCA155" "xCA269E" "xE51E1F" "xF46C08" "xB7553E" "xFC741B" "xFC062C" "xD28B27" "xFC2807" }
+    city = "xFC9655"
+    port = "xC180A3"
+    farm = "xE51E1F"
+    mine = "xFC8384"
+    wood = "xE36698"
+    arable_land = 38
+    arable_resources = { "building_livestock_ranch" "building_rice_farm" "building_sugar_plantation" }
+    capped_resources = {
+        building_iron_mine = 24
+        building_coal_mine = 16
+        building_lead_mine = 8
+    }
+    naval_exit_id = 3005
+}
+STATE_ABE_04 = {
+    id = 134
+    subsistence_building = "building_subsistence_pasture"
+    provinces = { "xFC3453" "xFC6B58" "xFC575E" "xE37627" "xFA1948" "xA96F80" "xFC0332" "xFC0322" "xE35003" "xFC3DA0" "xFC9478" "xE00640" "xFC8154" "xFC4256" "xFC3D9E" "xB26B08" "xFC73A0" "xD97357" }
+    city = "xFC3453"
+    port = "xFC8154"
+    farm = "xE37627"
+    mine = "xFC0332"
+    wood = "xFC3D9E"
+    arable_land = 30
+    arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
+    capped_resources = {
+        building_logging_camp = 16
+        building_iron_mine = 30
+        building_coal_mine = 20
+        building_lead_mine = 6
+    }
+    naval_exit_id = 3005
+}
+STATE_ABE_05 = {
+    id = 135
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "xBD147D" "xFC769C" "xFC7232" "xFC746E" "xA57010" "xFC1357" "xEFA280" "xFC828C" "xFC5655" "xFC5E3E" "xFC1807" "xFC0347" "xFC107B" "xFC0304" "xED1504" "xFC3A90" "xFC800B" "xDF7F8D" "xE60303" "xFC7003" }
+    city = "xBD147D"
+    port = "xEFA280"
+    farm = "xFC769C"
+    mine = "xFC5E3E"
+    wood = "xFC3A90"
+    arable_land = 46
+    arable_resources = { "building_livestock_ranch" "building_rice_farm" "building_sugar_plantation" }
+    capped_resources = {
+        building_iron_mine = 21
+        building_coal_mine = 14
+    }
+    naval_exit_id = 3005
 }

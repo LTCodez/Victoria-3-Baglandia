@@ -1,3 +1,4 @@
+# Cortia countries
 BUE = {
 	color = { 55 241 123 }
 
@@ -6,22 +7,20 @@ BUE = {
 	tier = kingdom
 
 	cultures = { buenish }
-	religion = catholic
+	religion = protestant
 	capital = STATE_BUE
 }
-
 ZAD = {
 	color = { 227 182 46 }
 
 	country_type = recognized
 
-	tier = empire
+	tier = kingdom
 
 	cultures = { zadarine }
 	religion = protestant
 	capital = STATE_ZAD
 }
-
 GAB = {
 	color = { 87 97 212 }
 
@@ -33,7 +32,6 @@ GAB = {
 	religion = orthodox
 	capital = STATE_GAB
 }
-
 BRE = {
 	color = { 255 130 62 }
 
@@ -45,7 +43,6 @@ BRE = {
 	religion = catholic
 	capital = STATE_BRE
 }
-
 DUR = {
 	color = { 30 224 160 }
 
@@ -57,7 +54,6 @@ DUR = {
 	religion = catholic
 	capital = STATE_DUR
 }
-
 GOL = {
 	color = { 232 176 46 }
 
@@ -69,19 +65,17 @@ GOL = {
 	religion = protestant
 	capital = STATE_GOL
 }
-
 PIN = {
 	color = { 208 62 168 }
 
 	country_type = recognized
 
-	tier = duchy
+	tier = kingdom
 
 	cultures = { pinker }
 	religion = protestant
 	capital = STATE_PIN
 }
-
 JUD = {
 	color = { 65 244 114 }
 
@@ -93,7 +87,6 @@ JUD = {
 	religion = jewish
 	capital = STATE_JUD
 }
-
 CHA = {
 	color = { 177 238 88 }
 
@@ -105,7 +98,6 @@ CHA = {
 	religion = catholic
 	capital = STATE_CHA
 }
-
 GUD = {
 	color = { 50 146 225 }
 
@@ -117,7 +109,6 @@ GUD = {
 	religion = catholic
 	capital = STATE_GUD
 }
-
 SKJ = {
 	color = { 53 240 165 }
 
@@ -129,7 +120,6 @@ SKJ = {
 	religion = protestant
 	capital = STATE_SKJ
 }
-
 LOR = {
 	color = { 255 88 108 }
 
@@ -141,7 +131,6 @@ LOR = {
 	religion = catholic
 	capital = STATE_LOR
 }
-
 NAU = {
 	color = { 123 25 205 }
 
@@ -153,7 +142,6 @@ NAU = {
 	religion = catholic
 	capital = STATE_NAU
 }
-
 KAI = {
 	color = { 98 83 198 }
 
@@ -165,7 +153,6 @@ KAI = {
 	religion = mahayana
 	capital = STATE_KAI
 }
-
 MAS = {
 	color = { 26 214 176 }
 
@@ -177,7 +164,6 @@ MAS = {
 	religion = mahayana
 	capital = STATE_MAS
 }
-
 TAK = {
 	color = { 106 70 181 }
 
@@ -189,7 +175,6 @@ TAK = {
 	religion = mahayana
 	capital = STATE_TAK
 }
-
 SHI = {
 	color = { 221 63 162 }
 
@@ -201,7 +186,17 @@ SHI = {
 	religion = mahayana
 	capital = STATE_SHI
 }
+KAW = {
+	color = { 93 88 204 }
 
+	country_type = recognized
+
+	tier = kingdom
+
+	cultures = { kawamuran }
+	religion = mahayana
+	capital = STATE_KAW
+}
 RIK = {
 	color = { 26 195 198 }
 
@@ -213,7 +208,6 @@ RIK = {
 	religion = mahayana
 	capital = STATE_RIK
 }
-
 VES = {
 	color = { 86 98 212 }
 
@@ -225,55 +219,50 @@ VES = {
 	religion = orthodox
 	capital = STATE_VES
 }
-
 CAR = {
 	color = { 249 153 50 }
 
 	country_type = recognized
 
-	tier = duchy
+	tier = kingdom
 
 	cultures = { carian }
 	religion = catholic
 	capital = STATE_CAR
 }
-
 BER = {
 	color = { 255 141 55 }
 
 	country_type = recognized
 
-	tier = duchy
+	tier = kingdom
 
 	cultures = { berhambian }
 	religion = catholic
 	capital = STATE_BER
 }
-
-HUH = {
+PIC = {
 	color = { 28 188 205 }
 
 	country_type = recognized
 
 	tier = kingdom
 
-	cultures = { huhnish }
-	religion = orthodox
-	capital = STATE_HUH
+	cultures = { pickish }
+	religion = protestant
+	capital = STATE_PIC
 }
-
 MAC = {
 	color = { 210 202 52 }
 
 	country_type = recognized
 
-	tier = duchy
+	tier = kingdom
 
 	cultures = { mackingian }
 	religion = protestant
 	capital = STATE_MAC
 }
-
 ABE = {
 	color = { 255 70 79 }
 
@@ -285,81 +274,903 @@ ABE = {
 	religion = orthodox
 	capital = STATE_ABE
 }
-
-ALS = {
-	color = { 43 101 236 }
-
-	country_type = recognized
-
-	tier = empire
-
-	cultures = { alsemian }
-	religion = catholic
-	capital = STATE_ALS
-}
-
-W01 = {
+QAA = {
 	color = { 150 140 110 }
 
-	country_type = unrecognized
+	country_type = decentralized
 
 	tier = principality
 
-	cultures = { yankee }
-	capital = STATE_WILDLANDS_01
+	cultures = { wildlander }
+	capital = STATE_W01_02
 }
-
-W02 = {
+QAB = {
 	color = { 120 150 120 }
 
-	country_type = unrecognized
+	country_type = decentralized
 
 	tier = principality
 
-	cultures = { yankee }
-	capital = STATE_WILDLANDS_02
+	cultures = { wildlander }
+	capital = STATE_W01_04
 }
-
-W03 = {
+QAC = {
 	color = { 140 120 150 }
 
-	country_type = unrecognized
+	country_type = decentralized
 
 	tier = principality
 
-	cultures = { yankee }
-	capital = STATE_WILDLANDS_03
+	cultures = { wildlander }
+	capital = STATE_W01_41
 }
+QAD = {
+	color = { 130 130 130 }
 
-W04 = {
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_07
+}
+QAE = {
 	color = { 150 130 110 }
 
-	country_type = unrecognized
+	country_type = decentralized
 
 	tier = principality
 
-	cultures = { yankee }
-	capital = STATE_WILDLANDS_04
+	cultures = { wildlander }
+	capital = STATE_W01_14
 }
-
-W05 = {
+QAF = {
 	color = { 120 140 150 }
 
-	country_type = unrecognized
+	country_type = decentralized
 
 	tier = principality
 
-	cultures = { yankee }
-	capital = STATE_WILDLANDS_05
+	cultures = { wildlander }
+	capital = STATE_W01_19
 }
-
-W06 = {
+QAG = {
 	color = { 140 150 120 }
 
-	country_type = unrecognized
+	country_type = decentralized
 
 	tier = principality
 
-	cultures = { yankee }
-	capital = STATE_WILDLANDS_06
+	cultures = { wildlander }
+	capital = STATE_W01_28
+}
+QAH = {
+	color = { 150 140 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_63
+}
+QAI = {
+	color = { 120 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W02
+}
+QAJ = {
+	color = { 140 120 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_05
+}
+QAK = {
+	color = { 130 130 130 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_09
+}
+QAL = {
+	color = { 150 130 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_35
+}
+QAM = {
+	color = { 120 140 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_43
+}
+QAN = {
+	color = { 140 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_59
+}
+QAO = {
+	color = { 150 140 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_60
+}
+QAP = {
+	color = { 120 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_115
+}
+QAQ = {
+	color = { 140 120 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_116
+}
+QAR = {
+	color = { 130 130 130 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_120
+}
+QAS = {
+	color = { 150 130 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_03
+}
+QAT = {
+	color = { 120 140 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_06
+}
+QAU = {
+	color = { 140 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_10
+}
+QAV = {
+	color = { 150 140 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_12
+}
+QAW = {
+	color = { 120 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_15
+}
+QAX = {
+	color = { 140 120 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_16
+}
+QAY = {
+	color = { 130 130 130 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_26
+}
+QAZ = {
+	color = { 150 130 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_32
+}
+QBA = {
+	color = { 120 140 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_48
+}
+QBB = {
+	color = { 140 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_49
+}
+QBC = {
+	color = { 150 140 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_57
+}
+QBD = {
+	color = { 120 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_67
+}
+QBE = {
+	color = { 140 120 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_72
+}
+QBF = {
+	color = { 130 130 130 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_85
+}
+QBG = {
+	color = { 150 130 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_93
+}
+QBH = {
+	color = { 120 140 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_99
+}
+QBI = {
+	color = { 140 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_137
+}
+QBJ = {
+	color = { 150 140 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_11
+}
+QBK = {
+	color = { 120 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_13
+}
+QBL = {
+	color = { 140 120 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_18
+}
+QBM = {
+	color = { 130 130 130 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_25
+}
+QBN = {
+	color = { 150 130 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_27
+}
+QBO = {
+	color = { 120 140 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_30
+}
+QBP = {
+	color = { 140 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_31
+}
+QBQ = {
+	color = { 150 140 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_34
+}
+QBR = {
+	color = { 120 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_36
+}
+QBS = {
+	color = { 140 120 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_40
+}
+QBT = {
+	color = { 130 130 130 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_58
+}
+QBU = {
+	color = { 150 130 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_69
+}
+QBV = {
+	color = { 120 140 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_70
+}
+QBW = {
+	color = { 140 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_74
+}
+QBX = {
+	color = { 150 140 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_91
+}
+QBY = {
+	color = { 120 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_94
+}
+QBZ = {
+	color = { 140 120 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_192
+}
+QCA = {
+	color = { 130 130 130 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01
+}
+QCB = {
+	color = { 150 130 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_22
+}
+QCC = {
+	color = { 120 140 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_29
+}
+QCD = {
+	color = { 140 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_33
+}
+QCE = {
+	color = { 150 140 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_44
+}
+QCF = {
+	color = { 120 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_45
+}
+QCG = {
+	color = { 140 120 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_47
+}
+QCH = {
+	color = { 130 130 130 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_51
+}
+QCI = {
+	color = { 150 130 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_52
+}
+QCJ = {
+	color = { 120 140 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_62
+}
+QCK = {
+	color = { 140 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_73
+}
+QCL = {
+	color = { 150 140 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_101
+}
+QCM = {
+	color = { 120 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_129
+}
+QCN = {
+	color = { 140 120 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_148
+}
+QCO = {
+	color = { 130 130 130 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_150
+}
+QCP = {
+	color = { 150 130 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_177
+}
+QCQ = {
+	color = { 120 140 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W02_05
+}
+QCR = {
+	color = { 140 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_08
+}
+QCS = {
+	color = { 150 140 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_20
+}
+QCT = {
+	color = { 120 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_21
+}
+QCU = {
+	color = { 140 120 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_84
+}
+QCV = {
+	color = { 130 130 130 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_96
+}
+QCW = {
+	color = { 150 130 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_222
+}
+QCX = {
+	color = { 120 140 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_256
+}
+QCY = {
+	color = { 140 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W02_02
+}
+QCZ = {
+	color = { 150 140 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W02_12
+}
+QDA = {
+	color = { 120 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W03_06
+}
+QDB = {
+	color = { 140 120 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W01_223
+}
+QDC = {
+	color = { 130 130 130 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W02_04
+}
+QDD = {
+	color = { 150 130 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W02_10
+}
+QDE = {
+	color = { 120 140 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W02_13
+}
+QDF = {
+	color = { 140 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W03
+}
+QDG = {
+	color = { 150 140 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W03_02
+}
+QDH = {
+	color = { 120 150 120 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W03_03
+}
+QDI = {
+	color = { 140 120 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W03_04
+}
+QDJ = {
+	color = { 130 130 130 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W03_05
+}
+QDK = {
+	color = { 150 130 110 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W03_07
+}
+QDL = {
+	color = { 120 140 150 }
+
+	country_type = decentralized
+
+	tier = principality
+
+	cultures = { wildlander }
+	capital = STATE_W05
 }

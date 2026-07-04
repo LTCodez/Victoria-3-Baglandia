@@ -1,129 +1,9 @@
 POPS = {
-	s:STATE_ABE = {
-		region_state:ABE = {
-			create_pop = {
-				culture = aberesi
-				size = 480000
-			}
-		}
-	}
-	s:STATE_ABE_02 = {
-		region_state:ABE = {
-			create_pop = {
-				culture = aberesi
-				size = 260000
-			}
-		}
-	}
-	s:STATE_ABE_03 = {
-		region_state:ABE = {
-			create_pop = {
-				culture = aberesi
-				size = 460000
-			}
-		}
-	}
-	s:STATE_ABE_04 = {
-		region_state:ABE = {
-			create_pop = {
-				culture = aberesi
-				size = 460000
-			}
-		}
-	}
-	s:STATE_ABE_05 = {
-		region_state:ABE = {
-			create_pop = {
-				culture = aberesi
-				size = 440000
-			}
-		}
-	}
-	s:STATE_ALS = {
-		region_state:ALS = {
-			create_pop = {
-				culture = alsemian
-				size = 220000
-			}
-		}
-	}
-	s:STATE_BER = {
-		region_state:BER = {
-			create_pop = {
-				culture = berhambian
-				size = 340000
-			}
-		}
-	}
-	s:STATE_BER_02 = {
-		region_state:BER = {
-			create_pop = {
-				culture = berhambian
-				size = 580000
-			}
-		}
-	}
-	s:STATE_BER_03 = {
-		region_state:BER = {
-			create_pop = {
-				culture = berhambian
-				size = 440000
-			}
-		}
-	}
-	s:STATE_BRE = {
-		region_state:BRE = {
-			create_pop = {
-				culture = brevantian
-				size = 380000
-			}
-		}
-	}
-	s:STATE_BRE_02 = {
-		region_state:BRE = {
-			create_pop = {
-				culture = brevantian
-				size = 460000
-			}
-		}
-	}
-	s:STATE_BRE_03 = {
-		region_state:BRE = {
-			create_pop = {
-				culture = brevantian
-				size = 400000
-			}
-		}
-	}
-	s:STATE_BRE_04 = {
-		region_state:BRE = {
-			create_pop = {
-				culture = brevantian
-				size = 440000
-			}
-		}
-	}
-	s:STATE_BRE_05 = {
-		region_state:BRE = {
-			create_pop = {
-				culture = brevantian
-				size = 400000
-			}
-		}
-	}
-	s:STATE_BRE_06 = {
-		region_state:BRE = {
-			create_pop = {
-				culture = brevantian
-				size = 460000
-			}
-		}
-	}
 	s:STATE_BUE = {
 		region_state:BUE = {
 			create_pop = {
 				culture = buenish
-				size = 320000
+				size = 480000
 			}
 		}
 	}
@@ -139,7 +19,7 @@ POPS = {
 		region_state:BUE = {
 			create_pop = {
 				culture = buenish
-				size = 460000
+				size = 600000
 			}
 		}
 	}
@@ -147,7 +27,7 @@ POPS = {
 		region_state:BUE = {
 			create_pop = {
 				culture = buenish
-				size = 460000
+				size = 580000
 			}
 		}
 	}
@@ -155,7 +35,7 @@ POPS = {
 		region_state:BUE = {
 			create_pop = {
 				culture = buenish
-				size = 480000
+				size = 220000
 			}
 		}
 	}
@@ -163,7 +43,7 @@ POPS = {
 		region_state:BUE = {
 			create_pop = {
 				culture = buenish
-				size = 480000
+				size = 320000
 			}
 		}
 	}
@@ -171,815 +51,7 @@ POPS = {
 		region_state:BUE = {
 			create_pop = {
 				culture = buenish
-				size = 480000
-			}
-		}
-	}
-	s:STATE_CAR = {
-		region_state:CAR = {
-			create_pop = {
-				culture = carian
-				size = 360000
-			}
-		}
-	}
-	s:STATE_CAR_02 = {
-		region_state:CAR = {
-			create_pop = {
-				culture = carian
-				size = 520000
-			}
-		}
-	}
-	s:STATE_CHA = {
-		region_state:CHA = {
-			create_pop = {
-				culture = charsian
-				size = 440000
-			}
-		}
-	}
-	s:STATE_CHA_02 = {
-		region_state:CHA = {
-			create_pop = {
-				culture = charsian
-				size = 460000
-			}
-		}
-	}
-	s:STATE_CHA_03 = {
-		region_state:CHA = {
-			create_pop = {
-				culture = charsian
-				size = 420000
-			}
-		}
-	}
-	s:STATE_CHA_04 = {
-		region_state:CHA = {
-			create_pop = {
-				culture = charsian
-				size = 420000
-			}
-		}
-	}
-	s:STATE_CHA_05 = {
-		region_state:CHA = {
-			create_pop = {
-				culture = charsian
-				size = 400000
-			}
-		}
-	}
-	s:STATE_CHA_06 = {
-		region_state:CHA = {
-			create_pop = {
-				culture = charsian
-				size = 320000
-			}
-		}
-	}
-	s:STATE_CHA_07 = {
-		region_state:CHA = {
-			create_pop = {
-				culture = charsian
-				size = 360000
-			}
-		}
-	}
-	s:STATE_CHA_08 = {
-		region_state:CHA = {
-			create_pop = {
-				culture = charsian
-				size = 400000
-			}
-		}
-	}
-	s:STATE_CHA_09 = {
-		region_state:CHA = {
-			create_pop = {
-				culture = charsian
-				size = 320000
-			}
-		}
-	}
-	s:STATE_CHA_10 = {
-		region_state:CHA = {
-			create_pop = {
-				culture = charsian
-				size = 440000
-			}
-		}
-	}
-	s:STATE_DUR = {
-		region_state:DUR = {
-			create_pop = {
-				culture = durmaran
-				size = 480000
-			}
-		}
-	}
-	s:STATE_DUR_02 = {
-		region_state:DUR = {
-			create_pop = {
-				culture = durmaran
-				size = 340000
-			}
-		}
-	}
-	s:STATE_DUR_03 = {
-		region_state:DUR = {
-			create_pop = {
-				culture = durmaran
-				size = 300000
-			}
-		}
-	}
-	s:STATE_DUR_04 = {
-		region_state:DUR = {
-			create_pop = {
-				culture = durmaran
-				size = 420000
-			}
-		}
-	}
-	s:STATE_DUR_05 = {
-		region_state:DUR = {
-			create_pop = {
-				culture = durmaran
-				size = 360000
-			}
-		}
-	}
-	s:STATE_DUR_06 = {
-		region_state:DUR = {
-			create_pop = {
-				culture = durmaran
-				size = 420000
-			}
-		}
-	}
-	s:STATE_DUR_07 = {
-		region_state:DUR = {
-			create_pop = {
-				culture = durmaran
-				size = 440000
-			}
-		}
-	}
-	s:STATE_GAB = {
-		region_state:GAB = {
-			create_pop = {
-				culture = gabijan
-				size = 320000
-			}
-		}
-	}
-	s:STATE_GAB_02 = {
-		region_state:GAB = {
-			create_pop = {
-				culture = gabijan
-				size = 400000
-			}
-		}
-	}
-	s:STATE_GAB_03 = {
-		region_state:GAB = {
-			create_pop = {
-				culture = gabijan
-				size = 400000
-			}
-		}
-	}
-	s:STATE_GAB_04 = {
-		region_state:GAB = {
-			create_pop = {
-				culture = gabijan
-				size = 320000
-			}
-		}
-	}
-	s:STATE_GOL = {
-		region_state:GOL = {
-			create_pop = {
-				culture = goldish
-				size = 420000
-			}
-		}
-	}
-	s:STATE_GOL_02 = {
-		region_state:GOL = {
-			create_pop = {
-				culture = goldish
-				size = 420000
-			}
-		}
-	}
-	s:STATE_GOL_03 = {
-		region_state:GOL = {
-			create_pop = {
-				culture = goldish
-				size = 300000
-			}
-		}
-	}
-	s:STATE_GOL_04 = {
-		region_state:GOL = {
-			create_pop = {
-				culture = goldish
-				size = 460000
-			}
-		}
-	}
-	s:STATE_GUD = {
-		region_state:GUD = {
-			create_pop = {
-				culture = gudenish
-				size = 380000
-			}
-		}
-	}
-	s:STATE_GUD_02 = {
-		region_state:GUD = {
-			create_pop = {
-				culture = gudenish
-				size = 560000
-			}
-		}
-	}
-	s:STATE_GUD_03 = {
-		region_state:GUD = {
-			create_pop = {
-				culture = gudenish
-				size = 220000
-			}
-		}
-	}
-	s:STATE_GUD_04 = {
-		region_state:GUD = {
-			create_pop = {
-				culture = gudenish
-				size = 380000
-			}
-		}
-	}
-	s:STATE_GUD_05 = {
-		region_state:GUD = {
-			create_pop = {
-				culture = gudenish
-				size = 420000
-			}
-		}
-	}
-	s:STATE_GUD_06 = {
-		region_state:GUD = {
-			create_pop = {
-				culture = gudenish
-				size = 420000
-			}
-		}
-	}
-	s:STATE_GUD_07 = {
-		region_state:GUD = {
-			create_pop = {
-				culture = gudenish
-				size = 300000
-			}
-		}
-	}
-	s:STATE_GUD_08 = {
-		region_state:GUD = {
-			create_pop = {
-				culture = gudenish
-				size = 440000
-			}
-		}
-	}
-	s:STATE_GUD_09 = {
-		region_state:GUD = {
-			create_pop = {
-				culture = gudenish
-				size = 420000
-			}
-		}
-	}
-	s:STATE_HUH = {
-		region_state:HUH = {
-			create_pop = {
-				culture = huhnish
-				size = 360000
-			}
-		}
-	}
-	s:STATE_HUH_02 = {
-		region_state:HUH = {
-			create_pop = {
-				culture = huhnish
-				size = 360000
-			}
-		}
-	}
-	s:STATE_HUH_03 = {
-		region_state:HUH = {
-			create_pop = {
-				culture = huhnish
-				size = 420000
-			}
-		}
-	}
-	s:STATE_HUH_04 = {
-		region_state:HUH = {
-			create_pop = {
-				culture = huhnish
-				size = 360000
-			}
-		}
-	}
-	s:STATE_HUH_05 = {
-		region_state:HUH = {
-			create_pop = {
-				culture = huhnish
-				size = 320000
-			}
-		}
-	}
-	s:STATE_HUH_06 = {
-		region_state:HUH = {
-			create_pop = {
-				culture = huhnish
-				size = 360000
-			}
-		}
-	}
-	s:STATE_HUH_07 = {
-		region_state:HUH = {
-			create_pop = {
-				culture = huhnish
-				size = 420000
-			}
-		}
-	}
-	s:STATE_HUH_08 = {
-		region_state:HUH = {
-			create_pop = {
-				culture = huhnish
-				size = 400000
-			}
-		}
-	}
-	s:STATE_HUH_09 = {
-		region_state:HUH = {
-			create_pop = {
-				culture = huhnish
-				size = 460000
-			}
-		}
-	}
-	s:STATE_HUH_10 = {
-		region_state:HUH = {
-			create_pop = {
-				culture = huhnish
-				size = 400000
-			}
-		}
-	}
-	s:STATE_HUH_11 = {
-		region_state:HUH = {
-			create_pop = {
-				culture = huhnish
-				size = 380000
-			}
-		}
-	}
-	s:STATE_HUH_12 = {
-		region_state:HUH = {
-			create_pop = {
-				culture = huhnish
-				size = 400000
-			}
-		}
-	}
-	s:STATE_HUH_13 = {
-		region_state:HUH = {
-			create_pop = {
-				culture = huhnish
-				size = 380000
-			}
-		}
-	}
-	s:STATE_HUH_14 = {
-		region_state:HUH = {
-			create_pop = {
-				culture = huhnish
-				size = 460000
-			}
-		}
-	}
-	s:STATE_JUD = {
-		region_state:JUD = {
-			create_pop = {
-				culture = judean
-				size = 400000
-			}
-		}
-	}
-	s:STATE_JUD_02 = {
-		region_state:JUD = {
-			create_pop = {
-				culture = judean
-				size = 360000
-			}
-		}
-	}
-	s:STATE_JUD_03 = {
-		region_state:JUD = {
-			create_pop = {
-				culture = judean
-				size = 420000
-			}
-		}
-	}
-	s:STATE_JUD_04 = {
-		region_state:JUD = {
-			create_pop = {
-				culture = judean
-				size = 480000
-			}
-		}
-	}
-	s:STATE_KAI = {
-		region_state:KAI = {
-			create_pop = {
-				culture = kaikoshi
-				size = 320000
-			}
-		}
-	}
-	s:STATE_KAI_02 = {
-		region_state:KAI = {
-			create_pop = {
-				culture = kaikoshi
-				size = 340000
-			}
-		}
-	}
-	s:STATE_LOR = {
-		region_state:LOR = {
-			create_pop = {
-				culture = lorrevalian
-				size = 360000
-			}
-		}
-	}
-	s:STATE_LOR_02 = {
-		region_state:LOR = {
-			create_pop = {
-				culture = lorrevalian
-				size = 360000
-			}
-		}
-	}
-	s:STATE_LOR_03 = {
-		region_state:LOR = {
-			create_pop = {
-				culture = lorrevalian
-				size = 400000
-			}
-		}
-	}
-	s:STATE_LOR_04 = {
-		region_state:LOR = {
-			create_pop = {
-				culture = lorrevalian
-				size = 400000
-			}
-		}
-	}
-	s:STATE_LOR_05 = {
-		region_state:LOR = {
-			create_pop = {
-				culture = lorrevalian
 				size = 500000
-			}
-		}
-	}
-	s:STATE_LOR_06 = {
-		region_state:LOR = {
-			create_pop = {
-				culture = lorrevalian
-				size = 340000
-			}
-		}
-	}
-	s:STATE_LOR_07 = {
-		region_state:LOR = {
-			create_pop = {
-				culture = lorrevalian
-				size = 380000
-			}
-		}
-	}
-	s:STATE_LOR_08 = {
-		region_state:LOR = {
-			create_pop = {
-				culture = lorrevalian
-				size = 360000
-			}
-		}
-	}
-	s:STATE_LOR_09 = {
-		region_state:LOR = {
-			create_pop = {
-				culture = lorrevalian
-				size = 440000
-			}
-		}
-	}
-	s:STATE_LOR_10 = {
-		region_state:LOR = {
-			create_pop = {
-				culture = lorrevalian
-				size = 400000
-			}
-		}
-	}
-	s:STATE_LOR_11 = {
-		region_state:LOR = {
-			create_pop = {
-				culture = lorrevalian
-				size = 380000
-			}
-		}
-	}
-	s:STATE_MAC = {
-		region_state:MAC = {
-			create_pop = {
-				culture = mackingian
-				size = 480000
-			}
-		}
-	}
-	s:STATE_MAC_02 = {
-		region_state:MAC = {
-			create_pop = {
-				culture = mackingian
-				size = 420000
-			}
-		}
-	}
-	s:STATE_MAC_03 = {
-		region_state:MAC = {
-			create_pop = {
-				culture = mackingian
-				size = 380000
-			}
-		}
-	}
-	s:STATE_MAC_04 = {
-		region_state:MAC = {
-			create_pop = {
-				culture = mackingian
-				size = 320000
-			}
-		}
-	}
-	s:STATE_MAC_05 = {
-		region_state:MAC = {
-			create_pop = {
-				culture = mackingian
-				size = 460000
-			}
-		}
-	}
-	s:STATE_MAS = {
-		region_state:MAS = {
-			create_pop = {
-				culture = masayoshan
-				size = 360000
-			}
-		}
-	}
-	s:STATE_MAS_02 = {
-		region_state:MAS = {
-			create_pop = {
-				culture = masayoshan
-				size = 380000
-			}
-		}
-	}
-	s:STATE_MAS_03 = {
-		region_state:MAS = {
-			create_pop = {
-				culture = masayoshan
-				size = 400000
-			}
-		}
-	}
-	s:STATE_NAU = {
-		region_state:NAU = {
-			create_pop = {
-				culture = nauerthi
-				size = 220000
-			}
-		}
-	}
-	s:STATE_NAU_02 = {
-		region_state:NAU = {
-			create_pop = {
-				culture = nauerthi
-				size = 520000
-			}
-		}
-	}
-	s:STATE_NAU_03 = {
-		region_state:NAU = {
-			create_pop = {
-				culture = nauerthi
-				size = 520000
-			}
-		}
-	}
-	s:STATE_NAU_04 = {
-		region_state:NAU = {
-			create_pop = {
-				culture = nauerthi
-				size = 480000
-			}
-		}
-	}
-	s:STATE_NAU_05 = {
-		region_state:NAU = {
-			create_pop = {
-				culture = nauerthi
-				size = 380000
-			}
-		}
-	}
-	s:STATE_NAU_06 = {
-		region_state:NAU = {
-			create_pop = {
-				culture = nauerthi
-				size = 480000
-			}
-		}
-	}
-	s:STATE_NAU_07 = {
-		region_state:NAU = {
-			create_pop = {
-				culture = nauerthi
-				size = 400000
-			}
-		}
-	}
-	s:STATE_NAU_08 = {
-		region_state:NAU = {
-			create_pop = {
-				culture = nauerthi
-				size = 360000
-			}
-		}
-	}
-	s:STATE_NAU_09 = {
-		region_state:NAU = {
-			create_pop = {
-				culture = nauerthi
-				size = 480000
-			}
-		}
-	}
-	s:STATE_NAU_10 = {
-		region_state:NAU = {
-			create_pop = {
-				culture = nauerthi
-				size = 500000
-			}
-		}
-	}
-	s:STATE_NAU_11 = {
-		region_state:NAU = {
-			create_pop = {
-				culture = nauerthi
-				size = 280000
-			}
-		}
-	}
-	s:STATE_NAU_12 = {
-		region_state:NAU = {
-			create_pop = {
-				culture = nauerthi
-				size = 460000
-			}
-		}
-	}
-	s:STATE_NAU_13 = {
-		region_state:NAU = {
-			create_pop = {
-				culture = nauerthi
-				size = 240000
-			}
-		}
-	}
-	s:STATE_PIN = {
-		region_state:PIN = {
-			create_pop = {
-				culture = pinker
-				size = 400000
-			}
-		}
-	}
-	s:STATE_PIN_02 = {
-		region_state:PIN = {
-			create_pop = {
-				culture = pinker
-				size = 500000
-			}
-		}
-	}
-	s:STATE_PIN_03 = {
-		region_state:PIN = {
-			create_pop = {
-				culture = pinker
-				size = 480000
-			}
-		}
-	}
-	s:STATE_RIK = {
-		region_state:RIK = {
-			create_pop = {
-				culture = rikujan
-				size = 160000
-			}
-		}
-	}
-	s:STATE_SHI = {
-		region_state:SHI = {
-			create_pop = {
-				culture = shinigawan
-				size = 440000
-			}
-		}
-	}
-	s:STATE_SHI_02 = {
-		region_state:SHI = {
-			create_pop = {
-				culture = shinigawan
-				size = 360000
-			}
-		}
-	}
-	s:STATE_SHI_03 = {
-		region_state:SHI = {
-			create_pop = {
-				culture = shinigawan
-				size = 440000
-			}
-		}
-	}
-	s:STATE_SHI_04 = {
-		region_state:SHI = {
-			create_pop = {
-				culture = shinigawan
-				size = 480000
-			}
-		}
-	}
-	s:STATE_SKJ = {
-		region_state:SKJ = {
-			create_pop = {
-				culture = skjoldish
-				size = 460000
-			}
-		}
-	}
-	s:STATE_SKJ_02 = {
-		region_state:SKJ = {
-			create_pop = {
-				culture = skjoldish
-				size = 480000
-			}
-		}
-	}
-	s:STATE_SKJ_03 = {
-		region_state:SKJ = {
-			create_pop = {
-				culture = skjoldish
-				size = 340000
-			}
-		}
-	}
-	s:STATE_TAK = {
-		region_state:TAK = {
-			create_pop = {
-				culture = takaichan
-				size = 480000
-			}
-		}
-	}
-	s:STATE_VES = {
-		region_state:VES = {
-			create_pop = {
-				culture = veselian
-				size = 420000
 			}
 		}
 	}
@@ -995,7 +67,7 @@ POPS = {
 		region_state:ZAD = {
 			create_pop = {
 				culture = zadarine
-				size = 440000
+				size = 400000
 			}
 		}
 	}
@@ -1003,7 +75,7 @@ POPS = {
 		region_state:ZAD = {
 			create_pop = {
 				culture = zadarine
-				size = 480000
+				size = 420000
 			}
 		}
 	}
@@ -1011,7 +83,7 @@ POPS = {
 		region_state:ZAD = {
 			create_pop = {
 				culture = zadarine
-				size = 360000
+				size = 380000
 			}
 		}
 	}
@@ -1019,7 +91,7 @@ POPS = {
 		region_state:ZAD = {
 			create_pop = {
 				culture = zadarine
-				size = 360000
+				size = 380000
 			}
 		}
 	}
@@ -1027,1103 +99,4351 @@ POPS = {
 		region_state:ZAD = {
 			create_pop = {
 				culture = zadarine
+				size = 440000
+			}
+		}
+	}
+	s:STATE_GAB = {
+		region_state:GAB = {
+			create_pop = {
+				culture = gabijan
+				size = 360000
+			}
+		}
+	}
+	s:STATE_GAB_02 = {
+		region_state:GAB = {
+			create_pop = {
+				culture = gabijan
+				size = 340000
+			}
+		}
+	}
+	s:STATE_GAB_03 = {
+		region_state:GAB = {
+			create_pop = {
+				culture = gabijan
+				size = 380000
+			}
+		}
+	}
+	s:STATE_GAB_04 = {
+		region_state:GAB = {
+			create_pop = {
+				culture = gabijan
+				size = 360000
+			}
+		}
+	}
+	s:STATE_BRE = {
+		region_state:BRE = {
+			create_pop = {
+				culture = brevantian
+				size = 480000
+			}
+		}
+	}
+	s:STATE_BRE_02 = {
+		region_state:BRE = {
+			create_pop = {
+				culture = brevantian
+				size = 440000
+			}
+		}
+	}
+	s:STATE_BRE_03 = {
+		region_state:BRE = {
+			create_pop = {
+				culture = brevantian
+				size = 440000
+			}
+		}
+	}
+	s:STATE_BRE_04 = {
+		region_state:BRE = {
+			create_pop = {
+				culture = brevantian
+				size = 540000
+			}
+		}
+	}
+	s:STATE_BRE_05 = {
+		region_state:BRE = {
+			create_pop = {
+				culture = brevantian
+				size = 320000
+			}
+		}
+	}
+	s:STATE_BRE_06 = {
+		region_state:BRE = {
+			create_pop = {
+				culture = brevantian
+				size = 340000
+			}
+		}
+	}
+	s:STATE_DUR = {
+		region_state:DUR = {
+			create_pop = {
+				culture = durmaran
 				size = 400000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_01 = {
-		region_state:W01 = {
+	s:STATE_DUR_02 = {
+		region_state:DUR = {
 			create_pop = {
-				culture = yankee
+				culture = durmaran
+				size = 400000
+			}
+		}
+	}
+	s:STATE_DUR_03 = {
+		region_state:DUR = {
+			create_pop = {
+				culture = durmaran
+				size = 380000
+			}
+		}
+	}
+	s:STATE_DUR_04 = {
+		region_state:DUR = {
+			create_pop = {
+				culture = durmaran
+				size = 380000
+			}
+		}
+	}
+	s:STATE_DUR_05 = {
+		region_state:DUR = {
+			create_pop = {
+				culture = durmaran
+				size = 480000
+			}
+		}
+	}
+	s:STATE_DUR_06 = {
+		region_state:DUR = {
+			create_pop = {
+				culture = durmaran
+				size = 380000
+			}
+		}
+	}
+	s:STATE_DUR_07 = {
+		region_state:DUR = {
+			create_pop = {
+				culture = durmaran
+				size = 380000
+			}
+		}
+	}
+	s:STATE_GOL = {
+		region_state:GOL = {
+			create_pop = {
+				culture = goldish
+				size = 480000
+			}
+		}
+	}
+	s:STATE_GOL_02 = {
+		region_state:GOL = {
+			create_pop = {
+				culture = goldish
+				size = 300000
+			}
+		}
+	}
+	s:STATE_GOL_03 = {
+		region_state:GOL = {
+			create_pop = {
+				culture = goldish
+				size = 440000
+			}
+		}
+	}
+	s:STATE_GOL_04 = {
+		region_state:GOL = {
+			create_pop = {
+				culture = goldish
+				size = 400000
+			}
+		}
+	}
+	s:STATE_PIN = {
+		region_state:PIN = {
+			create_pop = {
+				culture = pinker
+				size = 400000
+			}
+		}
+	}
+	s:STATE_PIN_02 = {
+		region_state:PIN = {
+			create_pop = {
+				culture = pinker
+				size = 480000
+			}
+		}
+	}
+	s:STATE_PIN_03 = {
+		region_state:PIN = {
+			create_pop = {
+				culture = pinker
+				size = 500000
+			}
+		}
+	}
+	s:STATE_JUD = {
+		region_state:JUD = {
+			create_pop = {
+				culture = judean
+				size = 400000
+			}
+		}
+	}
+	s:STATE_JUD_02 = {
+		region_state:JUD = {
+			create_pop = {
+				culture = judean
+				size = 380000
+			}
+		}
+	}
+	s:STATE_JUD_03 = {
+		region_state:JUD = {
+			create_pop = {
+				culture = judean
+				size = 480000
+			}
+		}
+	}
+	s:STATE_JUD_04 = {
+		region_state:JUD = {
+			create_pop = {
+				culture = judean
+				size = 380000
+			}
+		}
+	}
+	s:STATE_JUD_05 = {
+		region_state:JUD = {
+			create_pop = {
+				culture = judean
+				size = 380000
+			}
+		}
+	}
+	s:STATE_CHA = {
+		region_state:CHA = {
+			create_pop = {
+				culture = charsian
+				size = 420000
+			}
+		}
+	}
+	s:STATE_CHA_02 = {
+		region_state:CHA = {
+			create_pop = {
+				culture = charsian
+				size = 380000
+			}
+		}
+	}
+	s:STATE_CHA_03 = {
+		region_state:CHA = {
+			create_pop = {
+				culture = charsian
+				size = 460000
+			}
+		}
+	}
+	s:STATE_CHA_04 = {
+		region_state:CHA = {
+			create_pop = {
+				culture = charsian
+				size = 420000
+			}
+		}
+	}
+	s:STATE_CHA_05 = {
+		region_state:CHA = {
+			create_pop = {
+				culture = charsian
+				size = 460000
+			}
+		}
+	}
+	s:STATE_CHA_06 = {
+		region_state:CHA = {
+			create_pop = {
+				culture = charsian
+				size = 340000
+			}
+		}
+	}
+	s:STATE_CHA_07 = {
+		region_state:CHA = {
+			create_pop = {
+				culture = charsian
+				size = 420000
+			}
+		}
+	}
+	s:STATE_CHA_08 = {
+		region_state:CHA = {
+			create_pop = {
+				culture = charsian
+				size = 400000
+			}
+		}
+	}
+	s:STATE_CHA_09 = {
+		region_state:CHA = {
+			create_pop = {
+				culture = charsian
+				size = 360000
+			}
+		}
+	}
+	s:STATE_GUD = {
+		region_state:GUD = {
+			create_pop = {
+				culture = gudenish
+				size = 440000
+			}
+		}
+	}
+	s:STATE_GUD_02 = {
+		region_state:GUD = {
+			create_pop = {
+				culture = gudenish
+				size = 380000
+			}
+		}
+	}
+	s:STATE_GUD_03 = {
+		region_state:GUD = {
+			create_pop = {
+				culture = gudenish
+				size = 380000
+			}
+		}
+	}
+	s:STATE_GUD_04 = {
+		region_state:GUD = {
+			create_pop = {
+				culture = gudenish
+				size = 520000
+			}
+		}
+	}
+	s:STATE_GUD_05 = {
+		region_state:GUD = {
+			create_pop = {
+				culture = gudenish
+				size = 420000
+			}
+		}
+	}
+	s:STATE_GUD_06 = {
+		region_state:GUD = {
+			create_pop = {
+				culture = gudenish
+				size = 460000
+			}
+		}
+	}
+	s:STATE_GUD_07 = {
+		region_state:GUD = {
+			create_pop = {
+				culture = gudenish
+				size = 340000
+			}
+		}
+	}
+	s:STATE_SKJ = {
+		region_state:SKJ = {
+			create_pop = {
+				culture = skjoldish
+				size = 380000
+			}
+		}
+	}
+	s:STATE_SKJ_02 = {
+		region_state:SKJ = {
+			create_pop = {
+				culture = skjoldish
+				size = 480000
+			}
+		}
+	}
+	s:STATE_SKJ_03 = {
+		region_state:SKJ = {
+			create_pop = {
+				culture = skjoldish
+				size = 420000
+			}
+		}
+	}
+	s:STATE_LOR = {
+		region_state:LOR = {
+			create_pop = {
+				culture = lorrevalian
+				size = 500000
+			}
+		}
+	}
+	s:STATE_LOR_02 = {
+		region_state:LOR = {
+			create_pop = {
+				culture = lorrevalian
+				size = 440000
+			}
+		}
+	}
+	s:STATE_LOR_03 = {
+		region_state:LOR = {
+			create_pop = {
+				culture = lorrevalian
+				size = 300000
+			}
+		}
+	}
+	s:STATE_LOR_04 = {
+		region_state:LOR = {
+			create_pop = {
+				culture = lorrevalian
+				size = 300000
+			}
+		}
+	}
+	s:STATE_LOR_05 = {
+		region_state:LOR = {
+			create_pop = {
+				culture = lorrevalian
+				size = 460000
+			}
+		}
+	}
+	s:STATE_LOR_06 = {
+		region_state:LOR = {
+			create_pop = {
+				culture = lorrevalian
+				size = 320000
+			}
+		}
+	}
+	s:STATE_LOR_07 = {
+		region_state:LOR = {
+			create_pop = {
+				culture = lorrevalian
+				size = 400000
+			}
+		}
+	}
+	s:STATE_LOR_08 = {
+		region_state:LOR = {
+			create_pop = {
+				culture = lorrevalian
+				size = 320000
+			}
+		}
+	}
+	s:STATE_LOR_09 = {
+		region_state:LOR = {
+			create_pop = {
+				culture = lorrevalian
+				size = 480000
+			}
+		}
+	}
+	s:STATE_LOR_10 = {
+		region_state:LOR = {
+			create_pop = {
+				culture = lorrevalian
+				size = 420000
+			}
+		}
+	}
+	s:STATE_LOR_11 = {
+		region_state:LOR = {
+			create_pop = {
+				culture = lorrevalian
+				size = 300000
+			}
+		}
+	}
+	s:STATE_NAU = {
+		region_state:NAU = {
+			create_pop = {
+				culture = nauerthi
+				size = 360000
+			}
+		}
+	}
+	s:STATE_NAU_02 = {
+		region_state:NAU = {
+			create_pop = {
+				culture = nauerthi
+				size = 360000
+			}
+		}
+	}
+	s:STATE_NAU_03 = {
+		region_state:NAU = {
+			create_pop = {
+				culture = nauerthi
+				size = 180000
+			}
+		}
+	}
+	s:STATE_NAU_04 = {
+		region_state:NAU = {
+			create_pop = {
+				culture = nauerthi
+				size = 460000
+			}
+		}
+	}
+	s:STATE_NAU_05 = {
+		region_state:NAU = {
+			create_pop = {
+				culture = nauerthi
+				size = 400000
+			}
+		}
+	}
+	s:STATE_NAU_06 = {
+		region_state:NAU = {
+			create_pop = {
+				culture = nauerthi
+				size = 500000
+			}
+		}
+	}
+	s:STATE_NAU_07 = {
+		region_state:NAU = {
+			create_pop = {
+				culture = nauerthi
+				size = 440000
+			}
+		}
+	}
+	s:STATE_NAU_08 = {
+		region_state:NAU = {
+			create_pop = {
+				culture = nauerthi
+				size = 360000
+			}
+		}
+	}
+	s:STATE_NAU_09 = {
+		region_state:NAU = {
+			create_pop = {
+				culture = nauerthi
+				size = 300000
+			}
+		}
+	}
+	s:STATE_NAU_10 = {
+		region_state:NAU = {
+			create_pop = {
+				culture = nauerthi
+				size = 360000
+			}
+		}
+	}
+	s:STATE_NAU_11 = {
+		region_state:NAU = {
+			create_pop = {
+				culture = nauerthi
+				size = 420000
+			}
+		}
+	}
+	s:STATE_NAU_12 = {
+		region_state:NAU = {
+			create_pop = {
+				culture = nauerthi
+				size = 480000
+			}
+		}
+	}
+	s:STATE_NAU_13 = {
+		region_state:NAU = {
+			create_pop = {
+				culture = nauerthi
+				size = 480000
+			}
+		}
+	}
+	s:STATE_KAI = {
+		region_state:KAI = {
+			create_pop = {
+				culture = kaikoshi
+				size = 340000
+			}
+		}
+	}
+	s:STATE_KAI_02 = {
+		region_state:KAI = {
+			create_pop = {
+				culture = kaikoshi
+				size = 320000
+			}
+		}
+	}
+	s:STATE_MAS = {
+		region_state:MAS = {
+			create_pop = {
+				culture = masayoshan
+				size = 360000
+			}
+		}
+	}
+	s:STATE_MAS_02 = {
+		region_state:MAS = {
+			create_pop = {
+				culture = masayoshan
+				size = 340000
+			}
+		}
+	}
+	s:STATE_MAS_03 = {
+		region_state:MAS = {
+			create_pop = {
+				culture = masayoshan
+				size = 440000
+			}
+		}
+	}
+	s:STATE_TAK = {
+		region_state:TAK = {
+			create_pop = {
+				culture = takaichan
+				size = 480000
+			}
+		}
+	}
+	s:STATE_SHI = {
+		region_state:SHI = {
+			create_pop = {
+				culture = shinigawan
+				size = 480000
+			}
+		}
+	}
+	s:STATE_SHI_02 = {
+		region_state:SHI = {
+			create_pop = {
+				culture = shinigawan
+				size = 480000
+			}
+		}
+	}
+	s:STATE_KAW = {
+		region_state:KAW = {
+			create_pop = {
+				culture = kawamuran
+				size = 400000
+			}
+		}
+	}
+	s:STATE_KAW_02 = {
+		region_state:KAW = {
+			create_pop = {
+				culture = kawamuran
+				size = 360000
+			}
+		}
+	}
+	s:STATE_RIK = {
+		region_state:RIK = {
+			create_pop = {
+				culture = rikujan
 				size = 160000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_01_02 = {
-		region_state:W01 = {
+	s:STATE_VES = {
+		region_state:VES = {
 			create_pop = {
-				culture = yankee
-				size = 16000
+				culture = veselian
+				size = 420000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_02 = {
-		region_state:W02 = {
+	s:STATE_CAR = {
+		region_state:CAR = {
 			create_pop = {
-				culture = yankee
-				size = 12000
+				culture = carian
+				size = 520000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_03 = {
-		region_state:W03 = {
+	s:STATE_CAR_02 = {
+		region_state:CAR = {
 			create_pop = {
-				culture = yankee
-				size = 8000
+				culture = carian
+				size = 360000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_03_02 = {
-		region_state:W03 = {
+	s:STATE_BER = {
+		region_state:BER = {
 			create_pop = {
-				culture = yankee
-				size = 140000
+				culture = berhambian
+				size = 560000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_03_03 = {
-		region_state:W03 = {
+	s:STATE_BER_02 = {
+		region_state:BER = {
 			create_pop = {
-				culture = yankee
-				size = 120000
+				culture = berhambian
+				size = 440000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_03_04 = {
-		region_state:W03 = {
+	s:STATE_BER_03 = {
+		region_state:BER = {
 			create_pop = {
-				culture = yankee
-				size = 8000
+				culture = berhambian
+				size = 340000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_03_05 = {
-		region_state:W03 = {
+	s:STATE_PIC = {
+		region_state:PIC = {
 			create_pop = {
-				culture = yankee
-				size = 132000
+				culture = pickish
+				size = 380000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_04 = {
-		region_state:W04 = {
+	s:STATE_PIC_02 = {
+		region_state:PIC = {
 			create_pop = {
-				culture = yankee
-				size = 12000
+				culture = pickish
+				size = 380000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05 = {
-		region_state:W05 = {
+	s:STATE_PIC_03 = {
+		region_state:PIC = {
 			create_pop = {
-				culture = yankee
-				size = 76000
+				culture = pickish
+				size = 360000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_02 = {
-		region_state:W05 = {
+	s:STATE_PIC_04 = {
+		region_state:PIC = {
 			create_pop = {
-				culture = yankee
-				size = 88000
+				culture = pickish
+				size = 360000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_03 = {
-		region_state:W05 = {
+	s:STATE_PIC_05 = {
+		region_state:PIC = {
 			create_pop = {
-				culture = yankee
-				size = 56000
+				culture = pickish
+				size = 400000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_04 = {
-		region_state:W05 = {
+	s:STATE_PIC_06 = {
+		region_state:PIC = {
 			create_pop = {
-				culture = yankee
-				size = 72000
+				culture = pickish
+				size = 360000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_05 = {
-		region_state:W05 = {
+	s:STATE_PIC_07 = {
+		region_state:PIC = {
 			create_pop = {
-				culture = yankee
-				size = 80000
+				culture = pickish
+				size = 520000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_06 = {
-		region_state:W05 = {
+	s:STATE_PIC_08 = {
+		region_state:PIC = {
 			create_pop = {
-				culture = yankee
-				size = 80000
+				culture = pickish
+				size = 500000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_07 = {
-		region_state:W05 = {
+	s:STATE_PIC_09 = {
+		region_state:PIC = {
 			create_pop = {
-				culture = yankee
-				size = 84000
+				culture = pickish
+				size = 300000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_08 = {
-		region_state:W05 = {
+	s:STATE_PIC_10 = {
+		region_state:PIC = {
 			create_pop = {
-				culture = yankee
-				size = 88000
+				culture = pickish
+				size = 380000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_09 = {
-		region_state:W05 = {
+	s:STATE_PIC_11 = {
+		region_state:PIC = {
 			create_pop = {
-				culture = yankee
-				size = 92000
+				culture = pickish
+				size = 380000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_10 = {
-		region_state:W05 = {
+	s:STATE_PIC_12 = {
+		region_state:PIC = {
 			create_pop = {
-				culture = yankee
-				size = 80000
+				culture = pickish
+				size = 400000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_11 = {
-		region_state:W05 = {
+	s:STATE_PIC_13 = {
+		region_state:PIC = {
 			create_pop = {
-				culture = yankee
-				size = 92000
+				culture = pickish
+				size = 400000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_12 = {
-		region_state:W05 = {
+	s:STATE_PIC_14 = {
+		region_state:PIC = {
 			create_pop = {
-				culture = yankee
-				size = 72000
+				culture = pickish
+				size = 320000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_13 = {
-		region_state:W05 = {
+	s:STATE_MAC = {
+		region_state:MAC = {
 			create_pop = {
-				culture = yankee
-				size = 84000
+				culture = mackingian
+				size = 440000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_14 = {
-		region_state:W05 = {
+	s:STATE_MAC_02 = {
+		region_state:MAC = {
 			create_pop = {
-				culture = yankee
-				size = 88000
+				culture = mackingian
+				size = 400000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_15 = {
-		region_state:W05 = {
+	s:STATE_MAC_03 = {
+		region_state:MAC = {
 			create_pop = {
-				culture = yankee
-				size = 76000
+				culture = mackingian
+				size = 380000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_16 = {
-		region_state:W05 = {
+	s:STATE_MAC_04 = {
+		region_state:MAC = {
 			create_pop = {
-				culture = yankee
-				size = 88000
+				culture = mackingian
+				size = 420000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_17 = {
-		region_state:W05 = {
+	s:STATE_MAC_05 = {
+		region_state:MAC = {
 			create_pop = {
-				culture = yankee
-				size = 80000
+				culture = mackingian
+				size = 400000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_18 = {
-		region_state:W05 = {
+	s:STATE_ABE = {
+		region_state:ABE = {
 			create_pop = {
-				culture = yankee
-				size = 80000
+				culture = aberesi
+				size = 340000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_19 = {
-		region_state:W05 = {
+	s:STATE_ABE_02 = {
+		region_state:ABE = {
 			create_pop = {
-				culture = yankee
-				size = 92000
+				culture = aberesi
+				size = 380000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_20 = {
-		region_state:W05 = {
+	s:STATE_ABE_03 = {
+		region_state:ABE = {
 			create_pop = {
-				culture = yankee
-				size = 84000
+				culture = aberesi
+				size = 360000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_21 = {
-		region_state:W05 = {
+	s:STATE_ABE_04 = {
+		region_state:ABE = {
 			create_pop = {
-				culture = yankee
-				size = 108000
+				culture = aberesi
+				size = 360000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_22 = {
-		region_state:W05 = {
+	s:STATE_ABE_05 = {
+		region_state:ABE = {
 			create_pop = {
-				culture = yankee
-				size = 80000
+				culture = aberesi
+				size = 400000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_23 = {
-		region_state:W05 = {
+	s:STATE_W01_02 = {
+		region_state:QAA = {
 			create_pop = {
-				culture = yankee
-				size = 80000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_24 = {
-		region_state:W05 = {
+	s:STATE_W01_17 = {
+		region_state:QAA = {
 			create_pop = {
-				culture = yankee
-				size = 80000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_25 = {
-		region_state:W05 = {
+	s:STATE_W01_153 = {
+		region_state:QAA = {
 			create_pop = {
-				culture = yankee
-				size = 76000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_26 = {
-		region_state:W05 = {
+	s:STATE_W01_232 = {
+		region_state:QAA = {
 			create_pop = {
-				culture = yankee
-				size = 72000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_27 = {
-		region_state:W05 = {
+	s:STATE_W01_240 = {
+		region_state:QAA = {
 			create_pop = {
-				culture = yankee
-				size = 96000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_28 = {
-		region_state:W05 = {
+	s:STATE_W01_242 = {
+		region_state:QAA = {
 			create_pop = {
-				culture = yankee
-				size = 92000
+				culture = wildlander
+				size = 25000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_29 = {
-		region_state:W05 = {
+	s:STATE_W01_321 = {
+		region_state:QAA = {
 			create_pop = {
-				culture = yankee
-				size = 80000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_30 = {
-		region_state:W05 = {
+	s:STATE_W01_375 = {
+		region_state:QAA = {
 			create_pop = {
-				culture = yankee
-				size = 88000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_31 = {
-		region_state:W05 = {
+	s:STATE_W01_395 = {
+		region_state:QAA = {
 			create_pop = {
-				culture = yankee
-				size = 88000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_32 = {
-		region_state:W05 = {
+	s:STATE_W01_04 = {
+		region_state:QAB = {
 			create_pop = {
-				culture = yankee
-				size = 60000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_33 = {
-		region_state:W05 = {
+	s:STATE_W01_42 = {
+		region_state:QAB = {
 			create_pop = {
-				culture = yankee
-				size = 76000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_34 = {
-		region_state:W05 = {
+	s:STATE_W01_112 = {
+		region_state:QAB = {
 			create_pop = {
-				culture = yankee
-				size = 84000
+				culture = wildlander
+				size = 25000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_35 = {
-		region_state:W05 = {
+	s:STATE_W01_121 = {
+		region_state:QAB = {
 			create_pop = {
-				culture = yankee
-				size = 72000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_36 = {
-		region_state:W05 = {
+	s:STATE_W01_141 = {
+		region_state:QAB = {
 			create_pop = {
-				culture = yankee
-				size = 60000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_37 = {
-		region_state:W05 = {
+	s:STATE_W01_176 = {
+		region_state:QAB = {
 			create_pop = {
-				culture = yankee
-				size = 104000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_38 = {
-		region_state:W05 = {
+	s:STATE_W01_274 = {
+		region_state:QAB = {
 			create_pop = {
-				culture = yankee
-				size = 76000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_39 = {
-		region_state:W05 = {
+	s:STATE_W01_301 = {
+		region_state:QAB = {
 			create_pop = {
-				culture = yankee
-				size = 84000
+				culture = wildlander
+				size = 25000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_40 = {
-		region_state:W05 = {
+	s:STATE_W01_389 = {
+		region_state:QAB = {
 			create_pop = {
-				culture = yankee
-				size = 64000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_41 = {
-		region_state:W05 = {
+	s:STATE_W01_41 = {
+		region_state:QAC = {
 			create_pop = {
-				culture = yankee
-				size = 84000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_42 = {
-		region_state:W05 = {
+	s:STATE_W01_83 = {
+		region_state:QAC = {
 			create_pop = {
-				culture = yankee
-				size = 68000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_43 = {
-		region_state:W05 = {
+	s:STATE_W01_106 = {
+		region_state:QAC = {
 			create_pop = {
-				culture = yankee
-				size = 80000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_44 = {
-		region_state:W05 = {
+	s:STATE_W01_172 = {
+		region_state:QAC = {
 			create_pop = {
-				culture = yankee
-				size = 96000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_45 = {
-		region_state:W05 = {
+	s:STATE_W01_251 = {
+		region_state:QAC = {
 			create_pop = {
-				culture = yankee
-				size = 64000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_46 = {
-		region_state:W05 = {
+	s:STATE_W01_280 = {
+		region_state:QAC = {
 			create_pop = {
-				culture = yankee
-				size = 80000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_47 = {
-		region_state:W05 = {
+	s:STATE_W01_286 = {
+		region_state:QAC = {
 			create_pop = {
-				culture = yankee
-				size = 76000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_48 = {
-		region_state:W05 = {
+	s:STATE_W01_299 = {
+		region_state:QAC = {
 			create_pop = {
-				culture = yankee
-				size = 92000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_49 = {
-		region_state:W05 = {
+	s:STATE_W01_335 = {
+		region_state:QAC = {
 			create_pop = {
-				culture = yankee
-				size = 84000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_50 = {
-		region_state:W05 = {
+	s:STATE_W01_07 = {
+		region_state:QAD = {
 			create_pop = {
-				culture = yankee
-				size = 72000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_51 = {
-		region_state:W05 = {
+	s:STATE_W01_88 = {
+		region_state:QAD = {
 			create_pop = {
-				culture = yankee
-				size = 76000
+				culture = wildlander
+				size = 40000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_52 = {
-		region_state:W05 = {
+	s:STATE_W01_110 = {
+		region_state:QAD = {
 			create_pop = {
-				culture = yankee
-				size = 76000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_53 = {
-		region_state:W05 = {
+	s:STATE_W01_127 = {
+		region_state:QAD = {
 			create_pop = {
-				culture = yankee
-				size = 68000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_54 = {
-		region_state:W05 = {
+	s:STATE_W01_175 = {
+		region_state:QAD = {
 			create_pop = {
-				culture = yankee
-				size = 76000
+				culture = wildlander
+				size = 40000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_55 = {
-		region_state:W05 = {
+	s:STATE_W01_200 = {
+		region_state:QAD = {
 			create_pop = {
-				culture = yankee
-				size = 72000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_56 = {
-		region_state:W05 = {
+	s:STATE_W01_207 = {
+		region_state:QAD = {
 			create_pop = {
-				culture = yankee
-				size = 80000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_57 = {
-		region_state:W05 = {
+	s:STATE_W01_262 = {
+		region_state:QAD = {
 			create_pop = {
-				culture = yankee
-				size = 92000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_58 = {
-		region_state:W05 = {
+	s:STATE_W01_14 = {
+		region_state:QAE = {
 			create_pop = {
-				culture = yankee
-				size = 92000
+				culture = wildlander
+				size = 25000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_59 = {
-		region_state:W05 = {
+	s:STATE_W01_89 = {
+		region_state:QAE = {
 			create_pop = {
-				culture = yankee
-				size = 92000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_60 = {
-		region_state:W05 = {
+	s:STATE_W01_187 = {
+		region_state:QAE = {
 			create_pop = {
-				culture = yankee
-				size = 80000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_61 = {
-		region_state:W05 = {
+	s:STATE_W01_259 = {
+		region_state:QAE = {
 			create_pop = {
-				culture = yankee
-				size = 72000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_62 = {
-		region_state:W05 = {
+	s:STATE_W01_265 = {
+		region_state:QAE = {
 			create_pop = {
-				culture = yankee
-				size = 64000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_63 = {
-		region_state:W05 = {
+	s:STATE_W01_329 = {
+		region_state:QAE = {
 			create_pop = {
-				culture = yankee
-				size = 52000
+				culture = wildlander
+				size = 15000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_64 = {
-		region_state:W05 = {
+	s:STATE_W01_373 = {
+		region_state:QAE = {
 			create_pop = {
-				culture = yankee
-				size = 92000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_65 = {
-		region_state:W05 = {
+	s:STATE_W01_388 = {
+		region_state:QAE = {
 			create_pop = {
-				culture = yankee
-				size = 72000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_66 = {
-		region_state:W05 = {
+	s:STATE_W01_19 = {
+		region_state:QAF = {
 			create_pop = {
-				culture = yankee
-				size = 84000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_67 = {
-		region_state:W05 = {
+	s:STATE_W01_54 = {
+		region_state:QAF = {
 			create_pop = {
-				culture = yankee
-				size = 76000
+				culture = wildlander
+				size = 40000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_68 = {
-		region_state:W05 = {
+	s:STATE_W01_78 = {
+		region_state:QAF = {
 			create_pop = {
-				culture = yankee
-				size = 56000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_69 = {
-		region_state:W05 = {
+	s:STATE_W01_98 = {
+		region_state:QAF = {
 			create_pop = {
-				culture = yankee
-				size = 96000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_70 = {
-		region_state:W05 = {
+	s:STATE_W01_293 = {
+		region_state:QAF = {
 			create_pop = {
-				culture = yankee
-				size = 72000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_71 = {
-		region_state:W05 = {
+	s:STATE_W01_330 = {
+		region_state:QAF = {
 			create_pop = {
-				culture = yankee
-				size = 92000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_72 = {
-		region_state:W05 = {
+	s:STATE_W01_364 = {
+		region_state:QAF = {
 			create_pop = {
-				culture = yankee
-				size = 80000
+				culture = wildlander
+				size = 30000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_73 = {
-		region_state:W05 = {
+	s:STATE_W01_391 = {
+		region_state:QAF = {
 			create_pop = {
-				culture = yankee
-				size = 100000
+				culture = wildlander
+				size = 35000
 			}
 		}
 	}
-	s:STATE_WILDLANDS_05_74 = {
-		region_state:W05 = {
+	s:STATE_W01_28 = {
+		region_state:QAG = {
 			create_pop = {
-				culture = yankee
-				size = 92000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_75 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 88000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_76 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 84000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_77 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 84000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_78 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 84000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_79 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 80000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_80 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 60000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_81 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 108000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_82 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 64000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_83 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 48000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_84 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 48000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_85 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 88000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_86 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 76000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_87 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 88000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_88 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 100000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_89 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 104000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_90 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 84000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_91 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 80000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_92 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 96000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_93 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 80000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_94 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 72000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_95 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 76000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_96 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 80000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_97 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 76000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_98 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 84000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_99 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 80000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_100 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 92000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_101 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 76000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_102 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 80000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_103 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 88000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_104 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 68000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_105 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 44000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_106 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 56000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_107 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 80000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_108 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 88000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_109 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 64000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_110 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 44000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_111 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 68000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_112 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 80000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_113 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 88000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_114 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 60000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_115 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 84000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_116 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 112000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_117 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 72000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_118 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 92000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_119 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 68000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_120 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 96000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_121 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 88000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_122 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 52000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_123 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 112000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_124 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 80000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_125 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 80000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_126 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 76000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_05_127 = {
-		region_state:W05 = {
-			create_pop = {
-				culture = yankee
-				size = 92000
-			}
-		}
-	}
-	s:STATE_WILDLANDS_06 = {
-		region_state:W06 = {
-			create_pop = {
-				culture = yankee
+				culture = wildlander
 				size = 20000
+			}
+		}
+	}
+	s:STATE_W01_140 = {
+		region_state:QAG = {
+			create_pop = {
+				culture = wildlander
+				size = 20000
+			}
+		}
+	}
+	s:STATE_W01_185 = {
+		region_state:QAG = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_191 = {
+		region_state:QAG = {
+			create_pop = {
+				culture = wildlander
+				size = 20000
+			}
+		}
+	}
+	s:STATE_W01_197 = {
+		region_state:QAG = {
+			create_pop = {
+				culture = wildlander
+				size = 20000
+			}
+		}
+	}
+	s:STATE_W01_269 = {
+		region_state:QAG = {
+			create_pop = {
+				culture = wildlander
+				size = 20000
+			}
+		}
+	}
+	s:STATE_W01_304 = {
+		region_state:QAG = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_338 = {
+		region_state:QAG = {
+			create_pop = {
+				culture = wildlander
+				size = 20000
+			}
+		}
+	}
+	s:STATE_W01_63 = {
+		region_state:QAH = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_119 = {
+		region_state:QAH = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_193 = {
+		region_state:QAH = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_252 = {
+		region_state:QAH = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_253 = {
+		region_state:QAH = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_307 = {
+		region_state:QAH = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_365 = {
+		region_state:QAH = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_390 = {
+		region_state:QAH = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W02 = {
+		region_state:QAI = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W02_03 = {
+		region_state:QAI = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W02_06 = {
+		region_state:QAI = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W02_07 = {
+		region_state:QAI = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W02_08 = {
+		region_state:QAI = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W02_09 = {
+		region_state:QAI = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W02_16 = {
+		region_state:QAI = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W02_17 = {
+		region_state:QAI = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_05 = {
+		region_state:QAJ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_79 = {
+		region_state:QAJ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_100 = {
+		region_state:QAJ = {
+			create_pop = {
+				culture = wildlander
+				size = 20000
+			}
+		}
+	}
+	s:STATE_W01_122 = {
+		region_state:QAJ = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_145 = {
+		region_state:QAJ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_322 = {
+		region_state:QAJ = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_349 = {
+		region_state:QAJ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_09 = {
+		region_state:QAK = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_133 = {
+		region_state:QAK = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_162 = {
+		region_state:QAK = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_243 = {
+		region_state:QAK = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_281 = {
+		region_state:QAK = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_310 = {
+		region_state:QAK = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_371 = {
+		region_state:QAK = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_35 = {
+		region_state:QAL = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_143 = {
+		region_state:QAL = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_144 = {
+		region_state:QAL = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_220 = {
+		region_state:QAL = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_273 = {
+		region_state:QAL = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_298 = {
+		region_state:QAL = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_313 = {
+		region_state:QAL = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_43 = {
+		region_state:QAM = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_56 = {
+		region_state:QAM = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_86 = {
+		region_state:QAM = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_95 = {
+		region_state:QAM = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_103 = {
+		region_state:QAM = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_209 = {
+		region_state:QAM = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_314 = {
+		region_state:QAM = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_59 = {
+		region_state:QAN = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_114 = {
+		region_state:QAN = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_134 = {
+		region_state:QAN = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_157 = {
+		region_state:QAN = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_229 = {
+		region_state:QAN = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_230 = {
+		region_state:QAN = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_360 = {
+		region_state:QAN = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_60 = {
+		region_state:QAO = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_77 = {
+		region_state:QAO = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_135 = {
+		region_state:QAO = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_213 = {
+		region_state:QAO = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_244 = {
+		region_state:QAO = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_361 = {
+		region_state:QAO = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_400 = {
+		region_state:QAO = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_115 = {
+		region_state:QAP = {
+			create_pop = {
+				culture = wildlander
+				size = 10000
+			}
+		}
+	}
+	s:STATE_W01_164 = {
+		region_state:QAP = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_231 = {
+		region_state:QAP = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_245 = {
+		region_state:QAP = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_317 = {
+		region_state:QAP = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W04 = {
+		region_state:QAP = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W06 = {
+		region_state:QAP = {
+			create_pop = {
+				culture = wildlander
+				size = 15000
+			}
+		}
+	}
+	s:STATE_W01_116 = {
+		region_state:QAQ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_154 = {
+		region_state:QAQ = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_198 = {
+		region_state:QAQ = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_246 = {
+		region_state:QAQ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_270 = {
+		region_state:QAQ = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_291 = {
+		region_state:QAQ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_370 = {
+		region_state:QAQ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_120 = {
+		region_state:QAR = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_138 = {
+		region_state:QAR = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_211 = {
+		region_state:QAR = {
+			create_pop = {
+				culture = wildlander
+				size = 20000
+			}
+		}
+	}
+	s:STATE_W01_228 = {
+		region_state:QAR = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_316 = {
+		region_state:QAR = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_331 = {
+		region_state:QAR = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_385 = {
+		region_state:QAR = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_03 = {
+		region_state:QAS = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_181 = {
+		region_state:QAS = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_234 = {
+		region_state:QAS = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_236 = {
+		region_state:QAS = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_309 = {
+		region_state:QAS = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_382 = {
+		region_state:QAS = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_06 = {
+		region_state:QAT = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_23 = {
+		region_state:QAT = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_61 = {
+		region_state:QAT = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_303 = {
+		region_state:QAT = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_320 = {
+		region_state:QAT = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_380 = {
+		region_state:QAT = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_10 = {
+		region_state:QAU = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_139 = {
+		region_state:QAU = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_152 = {
+		region_state:QAU = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_334 = {
+		region_state:QAU = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_358 = {
+		region_state:QAU = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_396 = {
+		region_state:QAU = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_12 = {
+		region_state:QAV = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_128 = {
+		region_state:QAV = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_167 = {
+		region_state:QAV = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_189 = {
+		region_state:QAV = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_345 = {
+		region_state:QAV = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_368 = {
+		region_state:QAV = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_15 = {
+		region_state:QAW = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_151 = {
+		region_state:QAW = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_296 = {
+		region_state:QAW = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_318 = {
+		region_state:QAW = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_326 = {
+		region_state:QAW = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_344 = {
+		region_state:QAW = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_16 = {
+		region_state:QAX = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_39 = {
+		region_state:QAX = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_104 = {
+		region_state:QAX = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_267 = {
+		region_state:QAX = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_377 = {
+		region_state:QAX = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_383 = {
+		region_state:QAX = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_26 = {
+		region_state:QAY = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_126 = {
+		region_state:QAY = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_300 = {
+		region_state:QAY = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_324 = {
+		region_state:QAY = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_337 = {
+		region_state:QAY = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_355 = {
+		region_state:QAY = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_32 = {
+		region_state:QAZ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_55 = {
+		region_state:QAZ = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_102 = {
+		region_state:QAZ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_239 = {
+		region_state:QAZ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_261 = {
+		region_state:QAZ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_285 = {
+		region_state:QAZ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_48 = {
+		region_state:QBA = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_66 = {
+		region_state:QBA = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_68 = {
+		region_state:QBA = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_131 = {
+		region_state:QBA = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_339 = {
+		region_state:QBA = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_369 = {
+		region_state:QBA = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_49 = {
+		region_state:QBB = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_75 = {
+		region_state:QBB = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_257 = {
+		region_state:QBB = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_305 = {
+		region_state:QBB = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_378 = {
+		region_state:QBB = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_393 = {
+		region_state:QBB = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_57 = {
+		region_state:QBC = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_158 = {
+		region_state:QBC = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_268 = {
+		region_state:QBC = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_336 = {
+		region_state:QBC = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_359 = {
+		region_state:QBC = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_376 = {
+		region_state:QBC = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_67 = {
+		region_state:QBD = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_87 = {
+		region_state:QBD = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_149 = {
+		region_state:QBD = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_284 = {
+		region_state:QBD = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_312 = {
+		region_state:QBD = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_381 = {
+		region_state:QBD = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_72 = {
+		region_state:QBE = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_81 = {
+		region_state:QBE = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_195 = {
+		region_state:QBE = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_225 = {
+		region_state:QBE = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_327 = {
+		region_state:QBE = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_362 = {
+		region_state:QBE = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_85 = {
+		region_state:QBF = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_97 = {
+		region_state:QBF = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_237 = {
+		region_state:QBF = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_266 = {
+		region_state:QBF = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_328 = {
+		region_state:QBF = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_399 = {
+		region_state:QBF = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_93 = {
+		region_state:QBG = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_107 = {
+		region_state:QBG = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_208 = {
+		region_state:QBG = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_247 = {
+		region_state:QBG = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_311 = {
+		region_state:QBG = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_325 = {
+		region_state:QBG = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_99 = {
+		region_state:QBH = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_108 = {
+		region_state:QBH = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_203 = {
+		region_state:QBH = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_288 = {
+		region_state:QBH = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_290 = {
+		region_state:QBH = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_292 = {
+		region_state:QBH = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_137 = {
+		region_state:QBI = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_160 = {
+		region_state:QBI = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_215 = {
+		region_state:QBI = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_295 = {
+		region_state:QBI = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_366 = {
+		region_state:QBI = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_386 = {
+		region_state:QBI = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_11 = {
+		region_state:QBJ = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_24 = {
+		region_state:QBJ = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_71 = {
+		region_state:QBJ = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_170 = {
+		region_state:QBJ = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_183 = {
+		region_state:QBJ = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_13 = {
+		region_state:QBK = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_37 = {
+		region_state:QBK = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_117 = {
+		region_state:QBK = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_227 = {
+		region_state:QBK = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_347 = {
+		region_state:QBK = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_18 = {
+		region_state:QBL = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_76 = {
+		region_state:QBL = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_90 = {
+		region_state:QBL = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_346 = {
+		region_state:QBL = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_350 = {
+		region_state:QBL = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_25 = {
+		region_state:QBM = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_80 = {
+		region_state:QBM = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_173 = {
+		region_state:QBM = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_289 = {
+		region_state:QBM = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_306 = {
+		region_state:QBM = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_27 = {
+		region_state:QBN = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_65 = {
+		region_state:QBN = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_123 = {
+		region_state:QBN = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_241 = {
+		region_state:QBN = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_333 = {
+		region_state:QBN = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_30 = {
+		region_state:QBO = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_53 = {
+		region_state:QBO = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_206 = {
+		region_state:QBO = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_249 = {
+		region_state:QBO = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_294 = {
+		region_state:QBO = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_31 = {
+		region_state:QBP = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_168 = {
+		region_state:QBP = {
+			create_pop = {
+				culture = wildlander
+				size = 45000
+			}
+		}
+	}
+	s:STATE_W01_184 = {
+		region_state:QBP = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_235 = {
+		region_state:QBP = {
+			create_pop = {
+				culture = wildlander
+				size = 45000
+			}
+		}
+	}
+	s:STATE_W01_255 = {
+		region_state:QBP = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_34 = {
+		region_state:QBQ = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_82 = {
+		region_state:QBQ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_216 = {
+		region_state:QBQ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_217 = {
+		region_state:QBQ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_398 = {
+		region_state:QBQ = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_36 = {
+		region_state:QBR = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_201 = {
+		region_state:QBR = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_264 = {
+		region_state:QBR = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_323 = {
+		region_state:QBR = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_343 = {
+		region_state:QBR = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_40 = {
+		region_state:QBS = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_46 = {
+		region_state:QBS = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_124 = {
+		region_state:QBS = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_277 = {
+		region_state:QBS = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_278 = {
+		region_state:QBS = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_58 = {
+		region_state:QBT = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_179 = {
+		region_state:QBT = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_180 = {
+		region_state:QBT = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_226 = {
+		region_state:QBT = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_394 = {
+		region_state:QBT = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_69 = {
+		region_state:QBU = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_136 = {
+		region_state:QBU = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_210 = {
+		region_state:QBU = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_212 = {
+		region_state:QBU = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_342 = {
+		region_state:QBU = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_70 = {
+		region_state:QBV = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_118 = {
+		region_state:QBV = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_190 = {
+		region_state:QBV = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_263 = {
+		region_state:QBV = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_348 = {
+		region_state:QBV = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_74 = {
+		region_state:QBW = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_92 = {
+		region_state:QBW = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_238 = {
+		region_state:QBW = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_272 = {
+		region_state:QBW = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_340 = {
+		region_state:QBW = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_91 = {
+		region_state:QBX = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_130 = {
+		region_state:QBX = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_169 = {
+		region_state:QBX = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_287 = {
+		region_state:QBX = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_397 = {
+		region_state:QBX = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_94 = {
+		region_state:QBY = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_125 = {
+		region_state:QBY = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_315 = {
+		region_state:QBY = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_351 = {
+		region_state:QBY = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_374 = {
+		region_state:QBY = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_192 = {
+		region_state:QBZ = {
+			create_pop = {
+				culture = wildlander
+				size = 20000
+			}
+		}
+	}
+	s:STATE_W01_196 = {
+		region_state:QBZ = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_218 = {
+		region_state:QBZ = {
+			create_pop = {
+				culture = wildlander
+				size = 20000
+			}
+		}
+	}
+	s:STATE_W01_276 = {
+		region_state:QBZ = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_357 = {
+		region_state:QBZ = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01 = {
+		region_state:QCA = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_132 = {
+		region_state:QCA = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_248 = {
+		region_state:QCA = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_392 = {
+		region_state:QCA = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_22 = {
+		region_state:QCB = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_159 = {
+		region_state:QCB = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_178 = {
+		region_state:QCB = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_233 = {
+		region_state:QCB = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_29 = {
+		region_state:QCC = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_250 = {
+		region_state:QCC = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_341 = {
+		region_state:QCC = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_367 = {
+		region_state:QCC = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_33 = {
+		region_state:QCD = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_182 = {
+		region_state:QCD = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_283 = {
+		region_state:QCD = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_356 = {
+		region_state:QCD = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_44 = {
+		region_state:QCE = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_147 = {
+		region_state:QCE = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_155 = {
+		region_state:QCE = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_372 = {
+		region_state:QCE = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_45 = {
+		region_state:QCF = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_302 = {
+		region_state:QCF = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_354 = {
+		region_state:QCF = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_384 = {
+		region_state:QCF = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_47 = {
+		region_state:QCG = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_50 = {
+		region_state:QCG = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_166 = {
+		region_state:QCG = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_352 = {
+		region_state:QCG = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_51 = {
+		region_state:QCH = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_64 = {
+		region_state:QCH = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_113 = {
+		region_state:QCH = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_363 = {
+		region_state:QCH = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_52 = {
+		region_state:QCI = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_142 = {
+		region_state:QCI = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_161 = {
+		region_state:QCI = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_174 = {
+		region_state:QCI = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_62 = {
+		region_state:QCJ = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_105 = {
+		region_state:QCJ = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_214 = {
+		region_state:QCJ = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_275 = {
+		region_state:QCJ = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_73 = {
+		region_state:QCK = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_109 = {
+		region_state:QCK = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_146 = {
+		region_state:QCK = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_202 = {
+		region_state:QCK = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_101 = {
+		region_state:QCL = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_204 = {
+		region_state:QCL = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_258 = {
+		region_state:QCL = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_379 = {
+		region_state:QCL = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_129 = {
+		region_state:QCM = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_165 = {
+		region_state:QCM = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_221 = {
+		region_state:QCM = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_260 = {
+		region_state:QCM = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_148 = {
+		region_state:QCN = {
+			create_pop = {
+				culture = wildlander
+				size = 15000
+			}
+		}
+	}
+	s:STATE_W01_156 = {
+		region_state:QCN = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_186 = {
+		region_state:QCN = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_297 = {
+		region_state:QCN = {
+			create_pop = {
+				culture = wildlander
+				size = 20000
+			}
+		}
+	}
+	s:STATE_W01_150 = {
+		region_state:QCO = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_199 = {
+		region_state:QCO = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_219 = {
+		region_state:QCO = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_224 = {
+		region_state:QCO = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_177 = {
+		region_state:QCP = {
+			create_pop = {
+				culture = wildlander
+				size = 45000
+			}
+		}
+	}
+	s:STATE_W01_254 = {
+		region_state:QCP = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_271 = {
+		region_state:QCP = {
+			create_pop = {
+				culture = wildlander
+				size = 20000
+			}
+		}
+	}
+	s:STATE_W01_279 = {
+		region_state:QCP = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W02_05 = {
+		region_state:QCQ = {
+			create_pop = {
+				culture = wildlander
+				size = 45000
+			}
+		}
+	}
+	s:STATE_W02_11 = {
+		region_state:QCQ = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W02_14 = {
+		region_state:QCQ = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W02_15 = {
+		region_state:QCQ = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_08 = {
+		region_state:QCR = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_188 = {
+		region_state:QCR = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_319 = {
+		region_state:QCR = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_20 = {
+		region_state:QCS = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_163 = {
+		region_state:QCS = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_205 = {
+		region_state:QCS = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_21 = {
+		region_state:QCT = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_38 = {
+		region_state:QCT = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_171 = {
+		region_state:QCT = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_84 = {
+		region_state:QCU = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_282 = {
+		region_state:QCU = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_332 = {
+		region_state:QCU = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_96 = {
+		region_state:QCV = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_111 = {
+		region_state:QCV = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W01_194 = {
+		region_state:QCV = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W01_222 = {
+		region_state:QCW = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W01_353 = {
+		region_state:QCW = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_387 = {
+		region_state:QCW = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_256 = {
+		region_state:QCX = {
+			create_pop = {
+				culture = wildlander
+				size = 35000
+			}
+		}
+	}
+	s:STATE_W01_308 = {
+		region_state:QCX = {
+			create_pop = {
+				culture = wildlander
+				size = 20000
+			}
+		}
+	}
+	s:STATE_W02_02 = {
+		region_state:QCY = {
+			create_pop = {
+				culture = wildlander
+				size = 40000
+			}
+		}
+	}
+	s:STATE_W02_19 = {
+		region_state:QCY = {
+			create_pop = {
+				culture = wildlander
+				size = 5000
+			}
+		}
+	}
+	s:STATE_W02_12 = {
+		region_state:QCZ = {
+			create_pop = {
+				culture = wildlander
+				size = 30000
+			}
+		}
+	}
+	s:STATE_W02_18 = {
+		region_state:QCZ = {
+			create_pop = {
+				culture = wildlander
+				size = 5000
+			}
+		}
+	}
+	s:STATE_W03_06 = {
+		region_state:QDA = {
+			create_pop = {
+				culture = wildlander
+				size = 5000
+			}
+		}
+	}
+	s:STATE_W03_08 = {
+		region_state:QDA = {
+			create_pop = {
+				culture = wildlander
+				size = 5000
+			}
+		}
+	}
+	s:STATE_W01_223 = {
+		region_state:QDB = {
+			create_pop = {
+				culture = wildlander
+				size = 25000
+			}
+		}
+	}
+	s:STATE_W02_04 = {
+		region_state:QDC = {
+			create_pop = {
+				culture = wildlander
+				size = 5000
+			}
+		}
+	}
+	s:STATE_W02_10 = {
+		region_state:QDD = {
+			create_pop = {
+				culture = wildlander
+				size = 5000
+			}
+		}
+	}
+	s:STATE_W02_13 = {
+		region_state:QDE = {
+			create_pop = {
+				culture = wildlander
+				size = 5000
+			}
+		}
+	}
+	s:STATE_W03 = {
+		region_state:QDF = {
+			create_pop = {
+				culture = wildlander
+				size = 110000
+			}
+		}
+	}
+	s:STATE_W03_02 = {
+		region_state:QDG = {
+			create_pop = {
+				culture = wildlander
+				size = 10000
+			}
+		}
+	}
+	s:STATE_W03_03 = {
+		region_state:QDH = {
+			create_pop = {
+				culture = wildlander
+				size = 5000
+			}
+		}
+	}
+	s:STATE_W03_04 = {
+		region_state:QDI = {
+			create_pop = {
+				culture = wildlander
+				size = 10000
+			}
+		}
+	}
+	s:STATE_W03_05 = {
+		region_state:QDJ = {
+			create_pop = {
+				culture = wildlander
+				size = 95000
+			}
+		}
+	}
+	s:STATE_W03_07 = {
+		region_state:QDK = {
+			create_pop = {
+				culture = wildlander
+				size = 5000
+			}
+		}
+	}
+	s:STATE_W05 = {
+		region_state:QDL = {
+			create_pop = {
+				culture = wildlander
+				size = 15000
 			}
 		}
 	}
