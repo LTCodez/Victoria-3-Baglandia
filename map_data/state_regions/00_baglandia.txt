@@ -15,7 +15,6 @@
         building_coal_mine = 22
         building_lead_mine = 12
     }
-    naval_exit_id = 3013
 }
 STATE_ABE_02 = {
     id = 11
@@ -33,7 +32,6 @@ STATE_ABE_02 = {
         building_iron_mine = 6
         building_coal_mine = 4
     }
-    naval_exit_id = 3027
 }
 STATE_ABE_03 = {
     id = 12
@@ -50,7 +48,6 @@ STATE_ABE_03 = {
         building_iron_mine = 18
         building_coal_mine = 12
     }
-    naval_exit_id = 3009
 }
 STATE_ABE_04 = {
     id = 13
@@ -69,7 +66,6 @@ STATE_ABE_04 = {
         building_coal_mine = 14
         building_lead_mine = 4
     }
-    naval_exit_id = 3013
 }
 STATE_ABE_05 = {
     id = 14
@@ -87,7 +83,6 @@ STATE_ABE_05 = {
         building_coal_mine = 22
         building_lead_mine = 10
     }
-    naval_exit_id = 3013
 }
 STATE_ALS = {
     id = 15
@@ -103,7 +98,6 @@ STATE_ALS = {
     capped_resources = {
         building_logging_camp = 24
     }
-    naval_exit_id = 3026
 }
 STATE_BER = {
     id = 16
@@ -135,7 +129,6 @@ STATE_BER_02 = {
         building_iron_mine = 5
         building_coal_mine = 4
     }
-    naval_exit_id = 3012
 }
 STATE_BER_03 = {
     id = 18
@@ -148,7 +141,6 @@ STATE_BER_03 = {
     wood = "xEFCB64"
     arable_land = 66
     arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
-    naval_exit_id = 3012
 }
 STATE_BRE = {
     id = 19
@@ -182,7 +174,6 @@ STATE_BRE_02 = {
         building_iron_mine = 9
         building_coal_mine = 6
     }
-    naval_exit_id = 3017
 }
 STATE_BRE_03 = {
     id = 21
@@ -200,7 +191,6 @@ STATE_BRE_03 = {
         building_iron_mine = 5
         building_coal_mine = 4
     }
-    naval_exit_id = 3014
 }
 STATE_BRE_04 = {
     id = 22
@@ -218,7 +208,6 @@ STATE_BRE_04 = {
         building_iron_mine = 12
         building_coal_mine = 8
     }
-    naval_exit_id = 3017
 }
 STATE_BRE_05 = {
     id = 23
@@ -263,7 +252,6 @@ STATE_BUE = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3013
 }
 STATE_BUE_02 = {
     id = 26
@@ -279,7 +267,6 @@ STATE_BUE_02 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3016
 }
 STATE_BUE_03 = {
     id = 27
@@ -295,7 +282,6 @@ STATE_BUE_03 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3013
 }
 STATE_BUE_04 = {
     id = 28
@@ -311,7 +297,6 @@ STATE_BUE_04 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3018
 }
 STATE_BUE_05 = {
     id = 29
@@ -327,7 +312,6 @@ STATE_BUE_05 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3013
 }
 STATE_BUE_06 = {
     id = 30
@@ -343,7 +327,6 @@ STATE_BUE_06 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3013
 }
 STATE_BUE_07 = {
     id = 31
@@ -359,7 +342,6 @@ STATE_BUE_07 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3018
 }
 STATE_CAR = {
     id = 32
@@ -375,7 +357,6 @@ STATE_CAR = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3017
 }
 STATE_CAR_02 = {
     id = 33
@@ -391,7 +372,6 @@ STATE_CAR_02 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3017
 }
 STATE_CHA = {
     id = 34
@@ -555,7 +535,6 @@ STATE_DUR = {
         building_iron_mine = 36
         building_coal_mine = 24
     }
-    naval_exit_id = 3017
 }
 STATE_DUR_02 = {
     id = 45
@@ -599,7 +578,6 @@ STATE_DUR_04 = {
         building_iron_mine = 27
         building_coal_mine = 18
     }
-    naval_exit_id = 3017
 }
 STATE_DUR_05 = {
     id = 48
@@ -648,7 +626,6 @@ STATE_DUR_07 = {
         building_iron_mine = 21
         building_coal_mine = 14
     }
-    naval_exit_id = 3017
 }
 STATE_GAB = {
     id = 51
@@ -664,7 +641,6 @@ STATE_GAB = {
     capped_resources = {
         building_logging_camp = 36
     }
-    naval_exit_id = 3013
 }
 STATE_GAB_02 = {
     id = 52
@@ -682,7 +658,6 @@ STATE_GAB_02 = {
         building_iron_mine = 15
         building_coal_mine = 10
     }
-    naval_exit_id = 3014
 }
 STATE_GAB_03 = {
     id = 53
@@ -698,7 +673,6 @@ STATE_GAB_03 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3013
 }
 STATE_GAB_04 = {
     id = 54
@@ -745,7 +719,6 @@ STATE_GOL_02 = {
         building_iron_mine = 36
         building_coal_mine = 24
     }
-    naval_exit_id = 3017
 }
 STATE_GOL_03 = {
     id = 57
@@ -761,7 +734,6 @@ STATE_GOL_03 = {
     capped_resources = {
         building_logging_camp = 44
     }
-    naval_exit_id = 3017
 }
 STATE_GOL_04 = {
     id = 58
@@ -807,7 +779,6 @@ STATE_GUD_02 = {
     wood = "x0335FC"
     arable_land = 84
     arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
-    naval_exit_id = 3027
 }
 STATE_GUD_03 = {
     id = 61
@@ -823,7 +794,6 @@ STATE_GUD_03 = {
     capped_resources = {
         building_logging_camp = 12
     }
-    naval_exit_id = 3013
 }
 STATE_GUD_04 = {
     id = 62
@@ -856,7 +826,6 @@ STATE_GUD_05 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3013
 }
 STATE_GUD_06 = {
     id = 64
@@ -903,7 +872,6 @@ STATE_GUD_08 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3013
 }
 STATE_GUD_09 = {
     id = 67
@@ -935,7 +903,6 @@ STATE_HUH = {
         building_iron_mine = 24
         building_coal_mine = 16
     }
-    naval_exit_id = 3014
 }
 STATE_HUH_02 = {
     id = 69
@@ -966,7 +933,6 @@ STATE_HUH_03 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3005
 }
 STATE_HUH_04 = {
     id = 71
@@ -982,7 +948,6 @@ STATE_HUH_04 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3005
 }
 STATE_HUH_05 = {
     id = 72
@@ -998,7 +963,6 @@ STATE_HUH_05 = {
     capped_resources = {
         building_logging_camp = 28
     }
-    naval_exit_id = 3014
 }
 STATE_HUH_06 = {
     id = 73
@@ -1011,7 +975,6 @@ STATE_HUH_06 = {
     wood = "x2576A2"
     arable_land = 54
     arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    naval_exit_id = 3005
 }
 STATE_HUH_07 = {
     id = 74
@@ -1027,7 +990,6 @@ STATE_HUH_07 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3017
 }
 STATE_HUH_08 = {
     id = 75
@@ -1061,7 +1023,6 @@ STATE_HUH_09 = {
         building_iron_mine = 12
         building_coal_mine = 8
     }
-    naval_exit_id = 3005
 }
 STATE_HUH_10 = {
     id = 77
@@ -1074,7 +1035,6 @@ STATE_HUH_10 = {
     wood = "x69C992"
     arable_land = 60
     arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    naval_exit_id = 3005
 }
 STATE_HUH_11 = {
     id = 78
@@ -1104,7 +1064,6 @@ STATE_HUH_12 = {
     capped_resources = {
         building_logging_camp = 40
     }
-    naval_exit_id = 3005
 }
 STATE_HUH_13 = {
     id = 80
@@ -1120,7 +1079,6 @@ STATE_HUH_13 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3005
 }
 STATE_HUH_14 = {
     id = 81
@@ -1216,7 +1174,6 @@ STATE_KAI = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3017
 }
 STATE_KAI_02 = {
     id = 87
@@ -1232,7 +1189,6 @@ STATE_KAI_02 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3017
 }
 STATE_LOR = {
     id = 88
@@ -1250,7 +1206,6 @@ STATE_LOR = {
         building_iron_mine = 6
         building_coal_mine = 4
     }
-    naval_exit_id = 3022
 }
 STATE_LOR_02 = {
     id = 89
@@ -1285,7 +1240,6 @@ STATE_LOR_03 = {
         building_coal_mine = 14
         building_lead_mine = 10
     }
-    naval_exit_id = 3006
 }
 STATE_LOR_04 = {
     id = 91
@@ -1301,7 +1255,6 @@ STATE_LOR_04 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3022
 }
 STATE_LOR_05 = {
     id = 92
@@ -1380,7 +1333,6 @@ STATE_LOR_09 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3022
 }
 STATE_LOR_10 = {
     id = 97
@@ -1429,7 +1381,6 @@ STATE_MAC = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3012
 }
 STATE_MAC_02 = {
     id = 100
@@ -1445,7 +1396,6 @@ STATE_MAC_02 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3012
 }
 STATE_MAC_03 = {
     id = 101
@@ -1461,7 +1411,6 @@ STATE_MAC_03 = {
     capped_resources = {
         building_logging_camp = 48
     }
-    naval_exit_id = 3012
 }
 STATE_MAC_04 = {
     id = 102
@@ -1479,7 +1428,6 @@ STATE_MAC_04 = {
         building_iron_mine = 6
         building_coal_mine = 4
     }
-    naval_exit_id = 3012
 }
 STATE_MAC_05 = {
     id = 103
@@ -1509,7 +1457,6 @@ STATE_MAS = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3017
 }
 STATE_MAS_02 = {
     id = 105
@@ -1525,7 +1472,6 @@ STATE_MAS_02 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3024
 }
 STATE_MAS_03 = {
     id = 106
@@ -1541,7 +1487,6 @@ STATE_MAS_03 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3024
 }
 STATE_NAU = {
     id = 107
@@ -1557,7 +1502,6 @@ STATE_NAU = {
     capped_resources = {
         building_logging_camp = 44
     }
-    naval_exit_id = 3025
 }
 STATE_NAU_02 = {
     id = 108
@@ -1575,7 +1519,6 @@ STATE_NAU_02 = {
         building_iron_mine = 12
         building_coal_mine = 8
     }
-    naval_exit_id = 3006
 }
 STATE_NAU_03 = {
     id = 109
@@ -1594,7 +1537,6 @@ STATE_NAU_03 = {
         building_coal_mine = 26
         building_lead_mine = 6
     }
-    naval_exit_id = 3006
 }
 STATE_NAU_04 = {
     id = 110
@@ -1612,7 +1554,6 @@ STATE_NAU_04 = {
         building_iron_mine = 21
         building_coal_mine = 14
     }
-    naval_exit_id = 3009
 }
 STATE_NAU_05 = {
     id = 111
@@ -1646,7 +1587,6 @@ STATE_NAU_06 = {
         building_iron_mine = 12
         building_coal_mine = 8
     }
-    naval_exit_id = 3009
 }
 STATE_NAU_07 = {
     id = 113
@@ -1662,7 +1602,6 @@ STATE_NAU_07 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3009
 }
 STATE_NAU_08 = {
     id = 114
@@ -1680,7 +1619,6 @@ STATE_NAU_08 = {
         building_iron_mine = 21
         building_coal_mine = 14
     }
-    naval_exit_id = 3006
 }
 STATE_NAU_09 = {
     id = 115
@@ -1696,7 +1634,6 @@ STATE_NAU_09 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3009
 }
 STATE_NAU_10 = {
     id = 116
@@ -1714,7 +1651,6 @@ STATE_NAU_10 = {
         building_iron_mine = 21
         building_coal_mine = 14
     }
-    naval_exit_id = 3006
 }
 STATE_NAU_11 = {
     id = 117
@@ -1730,7 +1666,6 @@ STATE_NAU_11 = {
     capped_resources = {
         building_logging_camp = 20
     }
-    naval_exit_id = 3025
 }
 STATE_NAU_12 = {
     id = 118
@@ -1748,7 +1683,6 @@ STATE_NAU_12 = {
         building_iron_mine = 18
         building_coal_mine = 12
     }
-    naval_exit_id = 3009
 }
 STATE_NAU_13 = {
     id = 119
@@ -1764,7 +1698,6 @@ STATE_NAU_13 = {
     capped_resources = {
         building_logging_camp = 28
     }
-    naval_exit_id = 3009
 }
 STATE_PIN = {
     id = 120
@@ -1780,7 +1713,6 @@ STATE_PIN = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3022
 }
 STATE_PIN_02 = {
     id = 121
@@ -1814,7 +1746,6 @@ STATE_PIN_03 = {
         building_iron_mine = 42
         building_coal_mine = 28
     }
-    naval_exit_id = 3022
 }
 STATE_RIK = {
     id = 123
@@ -1830,7 +1761,6 @@ STATE_RIK = {
     capped_resources = {
         building_logging_camp = 32
     }
-    naval_exit_id = 3022
 }
 STATE_SHI = {
     id = 124
@@ -1846,7 +1776,6 @@ STATE_SHI = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3022
 }
 STATE_SHI_02 = {
     id = 125
@@ -1862,7 +1791,6 @@ STATE_SHI_02 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3024
 }
 STATE_SHI_03 = {
     id = 126
@@ -1878,7 +1806,6 @@ STATE_SHI_03 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3022
 }
 STATE_SHI_04 = {
     id = 127
@@ -1894,7 +1821,6 @@ STATE_SHI_04 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3024
 }
 STATE_SKJ = {
     id = 128
@@ -1924,7 +1850,6 @@ STATE_SKJ_02 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3013
 }
 STATE_SKJ_03 = {
     id = 130
@@ -1940,7 +1865,6 @@ STATE_SKJ_03 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3013
 }
 STATE_TAK = {
     id = 131
@@ -1956,7 +1880,6 @@ STATE_TAK = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3017
 }
 STATE_VES = {
     id = 132
@@ -1974,7 +1897,6 @@ STATE_VES = {
         building_iron_mine = 6
         building_coal_mine = 4
     }
-    naval_exit_id = 3017
 }
 STATE_ZAD = {
     id = 133
@@ -2008,7 +1930,6 @@ STATE_ZAD_02 = {
         building_iron_mine = 5
         building_coal_mine = 4
     }
-    naval_exit_id = 3014
 }
 STATE_ZAD_03 = {
     id = 135
@@ -2026,7 +1947,6 @@ STATE_ZAD_03 = {
         building_iron_mine = 6
         building_coal_mine = 4
     }
-    naval_exit_id = 3014
 }
 STATE_ZAD_04 = {
     id = 136
@@ -2042,7 +1962,6 @@ STATE_ZAD_04 = {
     capped_resources = {
         building_logging_camp = 44
     }
-    naval_exit_id = 3014
 }
 STATE_ZAD_05 = {
     id = 137
@@ -2058,7 +1977,6 @@ STATE_ZAD_05 = {
     capped_resources = {
         building_logging_camp = 52
     }
-    naval_exit_id = 3014
 }
 STATE_ZAD_06 = {
     id = 138
@@ -2076,5 +1994,4 @@ STATE_ZAD_06 = {
         building_iron_mine = 5
         building_coal_mine = 4
     }
-    naval_exit_id = 3014
 }

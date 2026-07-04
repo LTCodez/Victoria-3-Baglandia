@@ -12,7 +12,6 @@
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3017
 }
 STATE_WILDLANDS_01_02 = {
     id = 5001
@@ -30,7 +29,6 @@ STATE_WILDLANDS_01_02 = {
         building_iron_mine = 5
         building_coal_mine = 4
     }
-    naval_exit_id = 3009
 }
 STATE_WILDLANDS_02 = {
     id = 5002
@@ -46,7 +44,6 @@ STATE_WILDLANDS_02 = {
     capped_resources = {
         building_logging_camp = 5
     }
-    naval_exit_id = 3012
 }
 STATE_WILDLANDS_03 = {
     id = 5003
@@ -62,7 +59,6 @@ STATE_WILDLANDS_03 = {
     capped_resources = {
         building_logging_camp = 8
     }
-    naval_exit_id = 3014
 }
 STATE_WILDLANDS_03_02 = {
     id = 5004
@@ -78,7 +74,6 @@ STATE_WILDLANDS_03_02 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3026
 }
 STATE_WILDLANDS_03_03 = {
     id = 5005
@@ -94,7 +89,6 @@ STATE_WILDLANDS_03_03 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3005
 }
 STATE_WILDLANDS_03_04 = {
     id = 5006
@@ -110,7 +104,6 @@ STATE_WILDLANDS_03_04 = {
     capped_resources = {
         building_logging_camp = 8
     }
-    naval_exit_id = 3013
 }
 STATE_WILDLANDS_03_05 = {
     id = 5007
@@ -126,7 +119,6 @@ STATE_WILDLANDS_03_05 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3012
 }
 STATE_WILDLANDS_04 = {
     id = 5008
@@ -139,7 +131,6 @@ STATE_WILDLANDS_04 = {
     wood = "x5C8ADE"
     arable_land = 4
     arable_resources = { "building_livestock_ranch" "building_rice_farm" "building_sugar_plantation" }
-    naval_exit_id = 3010
 }
 STATE_WILDLANDS_05 = {
     id = 5009
@@ -185,7 +176,6 @@ STATE_WILDLANDS_05_03 = {
     capped_resources = {
         building_logging_camp = 56
     }
-    naval_exit_id = 3010
 }
 STATE_WILDLANDS_05_04 = {
     id = 5012
@@ -201,7 +191,6 @@ STATE_WILDLANDS_05_04 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3010
 }
 STATE_WILDLANDS_05_05 = {
     id = 5013
@@ -236,7 +225,6 @@ STATE_WILDLANDS_05_06 = {
         building_iron_mine = 9
         building_coal_mine = 6
     }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_07 = {
     id = 5015
@@ -284,7 +272,6 @@ STATE_WILDLANDS_05_09 = {
     capped_resources = {
         building_logging_camp = 28
     }
-    naval_exit_id = 3025
 }
 STATE_WILDLANDS_05_10 = {
     id = 5018
@@ -311,7 +298,6 @@ STATE_WILDLANDS_05_11 = {
     capped_resources = {
         building_logging_camp = 24
     }
-    naval_exit_id = 3012
 }
 STATE_WILDLANDS_05_12 = {
     id = 5020
@@ -343,7 +329,6 @@ STATE_WILDLANDS_05_13 = {
         building_iron_mine = 12
         building_coal_mine = 8
     }
-    naval_exit_id = 3027
 }
 STATE_WILDLANDS_05_14 = {
     id = 5022
@@ -359,7 +344,6 @@ STATE_WILDLANDS_05_14 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_15 = {
     id = 5023
@@ -400,7 +384,6 @@ STATE_WILDLANDS_05_17 = {
     capped_resources = {
         building_logging_camp = 32
     }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_18 = {
     id = 5026
@@ -418,7 +401,6 @@ STATE_WILDLANDS_05_18 = {
         building_iron_mine = 12
         building_coal_mine = 8
     }
-    naval_exit_id = 3016
 }
 STATE_WILDLANDS_05_19 = {
     id = 5027
@@ -445,7 +427,6 @@ STATE_WILDLANDS_05_20 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_21 = {
     id = 5029
@@ -531,7 +512,6 @@ STATE_WILDLANDS_05_26 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3016
 }
 STATE_WILDLANDS_05_27 = {
     id = 5035
@@ -577,7 +557,6 @@ STATE_WILDLANDS_05_29 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3012
 }
 STATE_WILDLANDS_05_30 = {
     id = 5038
@@ -590,7 +569,6 @@ STATE_WILDLANDS_05_30 = {
     wood = "x81C157"
     arable_land = 33
     arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_31 = {
     id = 5039
@@ -603,7 +581,6 @@ STATE_WILDLANDS_05_31 = {
     wood = "xBAC242"
     arable_land = 33
     arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_32 = {
     id = 5040
@@ -619,7 +596,6 @@ STATE_WILDLANDS_05_32 = {
     capped_resources = {
         building_logging_camp = 52
     }
-    naval_exit_id = 3012
 }
 STATE_WILDLANDS_05_33 = {
     id = 5041
@@ -635,7 +611,6 @@ STATE_WILDLANDS_05_33 = {
     capped_resources = {
         building_logging_camp = 36
     }
-    naval_exit_id = 3003
 }
 STATE_WILDLANDS_05_34 = {
     id = 5042
@@ -678,7 +653,6 @@ STATE_WILDLANDS_05_36 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3002
 }
 STATE_WILDLANDS_05_37 = {
     id = 5045
@@ -710,7 +684,6 @@ STATE_WILDLANDS_05_38 = {
     capped_resources = {
         building_logging_camp = 32
     }
-    naval_exit_id = 3012
 }
 STATE_WILDLANDS_05_39 = {
     id = 5047
@@ -726,7 +699,6 @@ STATE_WILDLANDS_05_39 = {
     capped_resources = {
         building_logging_camp = 20
     }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_40 = {
     id = 5048
@@ -742,7 +714,6 @@ STATE_WILDLANDS_05_40 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3003
 }
 STATE_WILDLANDS_05_41 = {
     id = 5049
@@ -799,7 +770,6 @@ STATE_WILDLANDS_05_44 = {
     wood = "xA53C7E"
     arable_land = 36
     arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_45 = {
     id = 5053
@@ -843,7 +813,6 @@ STATE_WILDLANDS_05_47 = {
     capped_resources = {
         building_logging_camp = 20
     }
-    naval_exit_id = 3027
 }
 STATE_WILDLANDS_05_48 = {
     id = 5056
@@ -885,7 +854,6 @@ STATE_WILDLANDS_05_50 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_51 = {
     id = 5059
@@ -901,7 +869,6 @@ STATE_WILDLANDS_05_51 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3025
 }
 STATE_WILDLANDS_05_52 = {
     id = 5060
@@ -931,7 +898,6 @@ STATE_WILDLANDS_05_53 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3002
 }
 STATE_WILDLANDS_05_54 = {
     id = 5062
@@ -961,7 +927,6 @@ STATE_WILDLANDS_05_55 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3010
 }
 STATE_WILDLANDS_05_56 = {
     id = 5064
@@ -1044,7 +1009,6 @@ STATE_WILDLANDS_05_61 = {
     capped_resources = {
         building_logging_camp = 56
     }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_62 = {
     id = 5070
@@ -1060,7 +1024,6 @@ STATE_WILDLANDS_05_62 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3003
 }
 STATE_WILDLANDS_05_63 = {
     id = 5071
@@ -1076,7 +1039,6 @@ STATE_WILDLANDS_05_63 = {
     capped_resources = {
         building_logging_camp = 32
     }
-    naval_exit_id = 3010
 }
 STATE_WILDLANDS_05_64 = {
     id = 5072
@@ -1092,7 +1054,6 @@ STATE_WILDLANDS_05_64 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3016
 }
 STATE_WILDLANDS_05_65 = {
     id = 5073
@@ -1108,7 +1069,6 @@ STATE_WILDLANDS_05_65 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3003
 }
 STATE_WILDLANDS_05_66 = {
     id = 5074
@@ -1153,7 +1113,6 @@ STATE_WILDLANDS_05_68 = {
     capped_resources = {
         building_logging_camp = 44
     }
-    naval_exit_id = 3025
 }
 STATE_WILDLANDS_05_69 = {
     id = 5077
@@ -1171,7 +1130,6 @@ STATE_WILDLANDS_05_69 = {
         building_iron_mine = 12
         building_coal_mine = 8
     }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_70 = {
     id = 5078
@@ -1202,7 +1160,6 @@ STATE_WILDLANDS_05_71 = {
         building_iron_mine = 27
         building_coal_mine = 18
     }
-    naval_exit_id = 3027
 }
 STATE_WILDLANDS_05_72 = {
     id = 5080
@@ -1262,7 +1219,6 @@ STATE_WILDLANDS_05_75 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_76 = {
     id = 5084
@@ -1293,7 +1249,6 @@ STATE_WILDLANDS_05_77 = {
     capped_resources = {
         building_logging_camp = 52
     }
-    naval_exit_id = 3012
 }
 STATE_WILDLANDS_05_78 = {
     id = 5086
@@ -1309,7 +1264,6 @@ STATE_WILDLANDS_05_78 = {
     capped_resources = {
         building_logging_camp = 52
     }
-    naval_exit_id = 3012
 }
 STATE_WILDLANDS_05_79 = {
     id = 5087
@@ -1339,7 +1293,6 @@ STATE_WILDLANDS_05_80 = {
     capped_resources = {
         building_logging_camp = 16
     }
-    naval_exit_id = 3025
 }
 STATE_WILDLANDS_05_81 = {
     id = 5089
@@ -1358,7 +1311,6 @@ STATE_WILDLANDS_05_81 = {
         building_coal_mine = 20
         building_lead_mine = 6
     }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_82 = {
     id = 5090
@@ -1374,7 +1326,6 @@ STATE_WILDLANDS_05_82 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3002
 }
 STATE_WILDLANDS_05_83 = {
     id = 5091
@@ -1390,7 +1341,6 @@ STATE_WILDLANDS_05_83 = {
     capped_resources = {
         building_logging_camp = 40
     }
-    naval_exit_id = 3002
 }
 STATE_WILDLANDS_05_84 = {
     id = 5092
@@ -1406,7 +1356,6 @@ STATE_WILDLANDS_05_84 = {
     capped_resources = {
         building_logging_camp = 48
     }
-    naval_exit_id = 3026
 }
 STATE_WILDLANDS_05_85 = {
     id = 5093
@@ -1474,7 +1423,6 @@ STATE_WILDLANDS_05_89 = {
     wood = "xDB8196"
     arable_land = 39
     arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_90 = {
     id = 5098
@@ -1550,7 +1498,6 @@ STATE_WILDLANDS_05_94 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_95 = {
     id = 5103
@@ -1591,7 +1538,6 @@ STATE_WILDLANDS_05_97 = {
     wood = "x74688B"
     arable_land = 28
     arable_resources = { "building_livestock_ranch" "building_wheat_farm" }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_98 = {
     id = 5106
@@ -1610,7 +1556,6 @@ STATE_WILDLANDS_05_98 = {
         building_coal_mine = 26
         building_lead_mine = 12
     }
-    naval_exit_id = 3016
 }
 STATE_WILDLANDS_05_99 = {
     id = 5107
@@ -1657,7 +1602,6 @@ STATE_WILDLANDS_05_101 = {
     capped_resources = {
         building_logging_camp = 8
     }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_102 = {
     id = 5110
@@ -1692,7 +1636,6 @@ STATE_WILDLANDS_05_104 = {
     wood = "x7B41AF"
     arable_land = 25
     arable_resources = { "building_livestock_ranch" "building_maize_farm" "building_cotton_plantation" }
-    naval_exit_id = 3025
 }
 STATE_WILDLANDS_05_105 = {
     id = 5113
@@ -1708,7 +1651,6 @@ STATE_WILDLANDS_05_105 = {
     capped_resources = {
         building_logging_camp = 24
     }
-    naval_exit_id = 3016
 }
 STATE_WILDLANDS_05_106 = {
     id = 5114
@@ -1724,7 +1666,6 @@ STATE_WILDLANDS_05_106 = {
     capped_resources = {
         building_logging_camp = 56
     }
-    naval_exit_id = 3026
 }
 STATE_WILDLANDS_05_107 = {
     id = 5115
@@ -1754,7 +1695,6 @@ STATE_WILDLANDS_05_108 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3016
 }
 STATE_WILDLANDS_05_109 = {
     id = 5117
@@ -1770,7 +1710,6 @@ STATE_WILDLANDS_05_109 = {
     capped_resources = {
         building_logging_camp = 56
     }
-    naval_exit_id = 3016
 }
 STATE_WILDLANDS_05_110 = {
     id = 5118
@@ -1786,7 +1725,6 @@ STATE_WILDLANDS_05_110 = {
     capped_resources = {
         building_logging_camp = 40
     }
-    naval_exit_id = 3016
 }
 STATE_WILDLANDS_05_111 = {
     id = 5119
@@ -1862,7 +1800,6 @@ STATE_WILDLANDS_05_115 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3020
 }
 STATE_WILDLANDS_05_116 = {
     id = 5124
@@ -1908,7 +1845,6 @@ STATE_WILDLANDS_05_118 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3010
 }
 STATE_WILDLANDS_05_119 = {
     id = 5127
@@ -1924,7 +1860,6 @@ STATE_WILDLANDS_05_119 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3003
 }
 STATE_WILDLANDS_05_120 = {
     id = 5128
@@ -1965,7 +1900,6 @@ STATE_WILDLANDS_05_122 = {
     capped_resources = {
         building_logging_camp = 48
     }
-    naval_exit_id = 3003
 }
 STATE_WILDLANDS_05_123 = {
     id = 5131
@@ -1997,7 +1931,6 @@ STATE_WILDLANDS_05_124 = {
     capped_resources = {
         building_logging_camp = 60
     }
-    naval_exit_id = 3010
 }
 STATE_WILDLANDS_05_125 = {
     id = 5133
@@ -2060,5 +1993,4 @@ STATE_WILDLANDS_06 = {
     capped_resources = {
         building_logging_camp = 20
     }
-    naval_exit_id = 3012
 }
