@@ -68,7 +68,6 @@
       "events/soi_events",
       "events/tech_events",
       "gfx/map/front_entities",
-      "gfx/portraits/portrait_modifiers",
       "map_data",
       "map_data/state_regions",
       "tools/scripted_tests"
