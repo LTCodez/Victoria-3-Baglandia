@@ -1,0 +1,91 @@
+﻿geographic_region_africa = {
+	short_key = "africa"
+
+	strategic_regions = {
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+	}
+}
+
+geographic_region_subsaharan_africa = {
+	short_key = "subsaharan_africa"
+
+	strategic_regions = {
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+	}
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_north_africa_egypt = {
+	short_key = "north_africa_egypt"
+
+	strategic_regions = {
+		sr:region_abe
+	}
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_south_africa = {
+	short_key = "south_africa"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_angola = {
+	short_key = "angola"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_mozambique = {
+	short_key = "mozambique"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_zambezi_basin = {
+	short_key = "zambezi_basin"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}

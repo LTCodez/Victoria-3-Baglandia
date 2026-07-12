@@ -1,0 +1,70 @@
+﻿geographic_region_polar_seas = { # sea regions prone to seasonal ice
+	short_key = "polar_seas"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_tropical_seas = { # sea regions prone to tropical storms
+	short_key = "tropical_seas"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+
+		STATE_BUE
+		STATE_BUE
+
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}

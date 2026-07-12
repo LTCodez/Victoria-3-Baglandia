@@ -1,0 +1,176 @@
+﻿# Auto-generated inert AI strategy stubs.
+ai_strategy_agricultural_expansion = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = diplomatic
+	weight = { value = 0 }
+}
+ai_strategy_anti_imperialism = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = diplomatic
+	weight = { value = 0 }
+}
+ai_strategy_armed_isolationism = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = diplomatic
+	weight = { value = 0 }
+}
+ai_strategy_colonial_expansion = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = diplomatic
+	weight = { value = 0 }
+}
+ai_strategy_colonial_extraction = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_conservative_agenda = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = political
+	weight = { value = 0 }
+}
+ai_strategy_default = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_economic_imperialism = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = diplomatic
+	weight = { value = 0 }
+}
+ai_strategy_egalitarian_agenda = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = political
+	weight = { value = 0 }
+}
+ai_strategy_great_reforms = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_industrial_expansion = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = diplomatic
+	weight = { value = 0 }
+}
+ai_strategy_maintain_mandate_of_heaven = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_maintain_power_balance = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_meiji_restoration = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_montenegro_admin = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_nationalist_agenda = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = political
+	weight = { value = 0 }
+}
+ai_strategy_placate_population = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_plantation_economy = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_progressive_agenda = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = political
+	weight = { value = 0 }
+}
+ai_strategy_prussia_of_the_balkans = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_reactionary_agenda = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = political
+	weight = { value = 0 }
+}
+ai_strategy_resource_expansion = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = diplomatic
+	weight = { value = 0 }
+}
+ai_strategy_restore_natural_borders = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_socialism_in_one_country = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_subject_break_free = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_subject_maintain_autonomy = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_subject_overlord_compliance = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_subject_strengthen_self = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_tanzimat_reforms = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_territorial_expansion = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = diplomatic
+	weight = { value = 0 }
+}
+ai_strategy_unify_china = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_unify_ethiopia = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_unify_germany = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_unify_italy = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}
+ai_strategy_world_revolution = {
+	icon = "gfx/interface/icons/ai_strategy_icons/placate_population.dds"
+	type = administrative
+	weight = { value = 0 }
+}

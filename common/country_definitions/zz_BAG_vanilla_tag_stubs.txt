@@ -1,0 +1,6609 @@
+﻿# Auto-generated stubs so vanilla script references resolve. These countries never exist at runtime (no history).
+ABK = {
+	color = { 40 40 40 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ABS = {
+	color = { 47 53 69 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ABU = {
+	color = { 54 66 98 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ACE = {
+	color = { 61 79 127 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ACH = {
+	color = { 68 92 156 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ADG = {
+	color = { 75 105 185 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ADR = {
+	color = { 82 118 54 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AFG = {
+	color = { 89 131 83 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AFS = {
+	color = { 96 144 112 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AGC = {
+	color = { 103 157 141 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AGJ = {
+	color = { 110 170 170 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AHG = {
+	color = { 117 183 199 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AHU = {
+	color = { 124 196 68 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AIN = {
+	color = { 131 49 97 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AIR = {
+	color = { 138 62 126 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AIT = {
+	color = { 145 75 155 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AJJ = {
+	color = { 152 88 184 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AJR = {
+	color = { 159 101 53 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ALA = {
+	color = { 166 114 82 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ALB = {
+	color = { 173 127 111 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ALD = {
+	color = { 180 140 140 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ALI = {
+	color = { 187 153 169 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ALK = {
+	color = { 194 166 198 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ALT = {
+	color = { 41 179 67 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ALW = {
+	color = { 48 192 96 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AMZ = {
+	color = { 55 45 125 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ANH = {
+	color = { 62 58 154 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ANK = {
+	color = { 69 71 183 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ANL = {
+	color = { 76 84 52 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ANU = {
+	color = { 83 97 81 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AOT = {
+	color = { 90 110 110 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+APC = {
+	color = { 97 123 139 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ARA = {
+	color = { 104 136 168 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ARB = {
+	color = { 111 149 197 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ARG = {
+	color = { 118 162 66 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ARH = {
+	color = { 125 175 95 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ARK = {
+	color = { 132 188 124 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ARM = {
+	color = { 139 41 153 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ARN = {
+	color = { 146 54 182 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ARP = {
+	color = { 153 67 51 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ARR = {
+	color = { 160 80 80 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ARS = {
+	color = { 167 93 109 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ASA = {
+	color = { 174 106 138 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ASH = {
+	color = { 181 119 167 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ASM = {
+	color = { 188 132 196 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ASS = {
+	color = { 195 145 65 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AST = {
+	color = { 42 158 94 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ASU = {
+	color = { 49 171 123 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ATB = {
+	color = { 56 184 152 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ATL = {
+	color = { 63 197 181 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ATR = {
+	color = { 70 50 50 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AUL = {
+	color = { 77 63 79 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AUS = {
+	color = { 84 76 108 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AWA = {
+	color = { 91 89 137 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AWS = {
+	color = { 98 102 166 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AYI = {
+	color = { 105 115 195 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AYM = {
+	color = { 112 128 64 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+AZB = {
+	color = { 119 141 93 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BAD = {
+	color = { 126 154 122 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BAG = {
+	color = { 133 167 151 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BAH = {
+	color = { 140 180 180 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BAL = {
+	color = { 147 193 49 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BAS = {
+	color = { 154 46 78 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BAV = {
+	color = { 161 59 107 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BCE = {
+	color = { 168 72 136 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BEI = {
+	color = { 175 85 165 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BEL = {
+	color = { 182 98 194 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BEN = {
+	color = { 189 111 63 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BGI = {
+	color = { 196 124 92 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BGL = {
+	color = { 43 137 121 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BGM = {
+	color = { 50 150 150 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BHI = {
+	color = { 57 163 179 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BHN = {
+	color = { 64 176 48 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BHO = {
+	color = { 71 189 77 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BHT = {
+	color = { 78 42 106 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BHU = {
+	color = { 85 55 135 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BHV = {
+	color = { 92 68 164 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BHW = {
+	color = { 99 81 193 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BIC = {
+	color = { 106 94 62 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BIH = {
+	color = { 113 107 91 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BIK = {
+	color = { 120 120 120 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BJA = {
+	color = { 127 133 149 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BKR = {
+	color = { 134 146 178 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BLA = {
+	color = { 141 159 47 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BLE = {
+	color = { 148 172 76 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BLF = {
+	color = { 155 185 105 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BLG = {
+	color = { 162 198 134 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BLH = {
+	color = { 169 51 163 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BMB = {
+	color = { 176 64 192 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BMM = {
+	color = { 183 77 61 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BND = {
+	color = { 190 90 90 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BNG = {
+	color = { 197 103 119 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BNJ = {
+	color = { 44 116 148 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BNN = {
+	color = { 51 129 177 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BNT = {
+	color = { 58 142 46 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BNY = {
+	color = { 65 155 75 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BOB = {
+	color = { 72 168 104 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BOH = {
+	color = { 79 181 133 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BOL = {
+	color = { 86 194 162 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BOR = {
+	color = { 93 47 191 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BOS = {
+	color = { 100 60 60 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BRA = {
+	color = { 107 73 89 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BRD = {
+	color = { 114 86 118 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BRG = {
+	color = { 121 99 147 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BRI = {
+	color = { 128 112 176 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BRK = {
+	color = { 135 125 45 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BRN = {
+	color = { 142 138 74 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BRU = {
+	color = { 149 151 103 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BRY = {
+	color = { 156 164 132 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BRZ = {
+	color = { 163 177 161 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BSS = {
+	color = { 170 190 190 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BST = {
+	color = { 177 43 59 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BTG = {
+	color = { 184 56 88 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BTN = {
+	color = { 191 69 117 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BUG = {
+	color = { 198 82 146 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BUK = {
+	color = { 45 95 175 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BUL = {
+	color = { 52 108 44 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BUN = {
+	color = { 59 121 73 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BUR = {
+	color = { 66 134 102 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BYE = {
+	color = { 73 147 131 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+BYZ = {
+	color = { 80 160 160 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CAL = {
+	color = { 87 173 189 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CAM = {
+	color = { 94 186 58 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CAN = {
+	color = { 101 199 87 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CAS = {
+	color = { 108 52 116 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CAT = {
+	color = { 115 65 145 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CAU = {
+	color = { 122 78 174 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CAY = {
+	color = { 129 91 43 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CCM = {
+	color = { 136 104 72 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CEY = {
+	color = { 143 117 101 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CHC = {
+	color = { 150 130 130 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CHE = {
+	color = { 157 143 159 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CHI = {
+	color = { 164 156 188 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CHK = {
+	color = { 171 169 57 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CHL = {
+	color = { 178 182 86 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CHP = {
+	color = { 185 195 115 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CHT = {
+	color = { 192 48 144 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CHV = {
+	color = { 199 61 173 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CHW = {
+	color = { 46 74 42 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CIR = {
+	color = { 53 87 71 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CKC = {
+	color = { 60 100 100 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CLI = {
+	color = { 67 113 129 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CLM = {
+	color = { 74 126 158 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CMB = {
+	color = { 81 139 187 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CMI = {
+	color = { 88 152 56 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CNW = {
+	color = { 95 165 85 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+COB = {
+	color = { 102 178 114 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+COC = {
+	color = { 109 191 143 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+COL = {
+	color = { 116 44 172 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+COM = {
+	color = { 123 57 41 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CON = {
+	color = { 130 70 70 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+COO = {
+	color = { 137 83 99 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+COR = {
+	color = { 144 96 128 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+COS = {
+	color = { 151 109 157 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CRE = {
+	color = { 158 122 186 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CRI = {
+	color = { 165 135 55 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CRO = {
+	color = { 172 148 84 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CSA = {
+	color = { 179 161 113 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CSC = {
+	color = { 186 174 142 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CTF = {
+	color = { 193 187 171 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CTR = {
+	color = { 40 40 40 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CUB = {
+	color = { 47 53 69 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CYP = {
+	color = { 54 66 98 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CYR = {
+	color = { 61 79 127 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+CZH = {
+	color = { 68 92 156 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D00 = {
+	color = { 75 105 185 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D01 = {
+	color = { 82 118 54 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D02 = {
+	color = { 89 131 83 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D03 = {
+	color = { 96 144 112 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D04 = {
+	color = { 103 157 141 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D05 = {
+	color = { 110 170 170 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D06 = {
+	color = { 117 183 199 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D07 = {
+	color = { 124 196 68 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D08 = {
+	color = { 131 49 97 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D09 = {
+	color = { 138 62 126 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D10 = {
+	color = { 145 75 155 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D11 = {
+	color = { 152 88 184 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D12 = {
+	color = { 159 101 53 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D13 = {
+	color = { 166 114 82 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D14 = {
+	color = { 173 127 111 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D15 = {
+	color = { 180 140 140 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D16 = {
+	color = { 187 153 169 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D17 = {
+	color = { 194 166 198 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D18 = {
+	color = { 41 179 67 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D19 = {
+	color = { 48 192 96 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D20 = {
+	color = { 55 45 125 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D21 = {
+	color = { 62 58 154 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D22 = {
+	color = { 69 71 183 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D23 = {
+	color = { 76 84 52 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D24 = {
+	color = { 83 97 81 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D25 = {
+	color = { 90 110 110 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D26 = {
+	color = { 97 123 139 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D27 = {
+	color = { 104 136 168 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D28 = {
+	color = { 111 149 197 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D29 = {
+	color = { 118 162 66 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D30 = {
+	color = { 125 175 95 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D31 = {
+	color = { 132 188 124 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D32 = {
+	color = { 139 41 153 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D33 = {
+	color = { 146 54 182 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D34 = {
+	color = { 153 67 51 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D35 = {
+	color = { 160 80 80 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D36 = {
+	color = { 167 93 109 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D37 = {
+	color = { 174 106 138 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D38 = {
+	color = { 181 119 167 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D39 = {
+	color = { 188 132 196 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D40 = {
+	color = { 195 145 65 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D41 = {
+	color = { 42 158 94 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D42 = {
+	color = { 49 171 123 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D43 = {
+	color = { 56 184 152 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D44 = {
+	color = { 63 197 181 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D45 = {
+	color = { 70 50 50 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D46 = {
+	color = { 77 63 79 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D47 = {
+	color = { 84 76 108 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D48 = {
+	color = { 91 89 137 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D49 = {
+	color = { 98 102 166 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D50 = {
+	color = { 105 115 195 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D51 = {
+	color = { 112 128 64 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D52 = {
+	color = { 119 141 93 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D53 = {
+	color = { 126 154 122 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D54 = {
+	color = { 133 167 151 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D55 = {
+	color = { 140 180 180 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D56 = {
+	color = { 147 193 49 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D57 = {
+	color = { 154 46 78 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D58 = {
+	color = { 161 59 107 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D59 = {
+	color = { 168 72 136 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D60 = {
+	color = { 175 85 165 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D61 = {
+	color = { 182 98 194 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D62 = {
+	color = { 189 111 63 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D63 = {
+	color = { 196 124 92 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D64 = {
+	color = { 43 137 121 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D65 = {
+	color = { 50 150 150 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D66 = {
+	color = { 57 163 179 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D67 = {
+	color = { 64 176 48 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D68 = {
+	color = { 71 189 77 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D69 = {
+	color = { 78 42 106 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D70 = {
+	color = { 85 55 135 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D71 = {
+	color = { 92 68 164 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D72 = {
+	color = { 99 81 193 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D73 = {
+	color = { 106 94 62 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D74 = {
+	color = { 113 107 91 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D75 = {
+	color = { 120 120 120 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D76 = {
+	color = { 127 133 149 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D77 = {
+	color = { 134 146 178 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D78 = {
+	color = { 141 159 47 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D79 = {
+	color = { 148 172 76 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D80 = {
+	color = { 155 185 105 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D81 = {
+	color = { 162 198 134 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D82 = {
+	color = { 169 51 163 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D83 = {
+	color = { 176 64 192 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D84 = {
+	color = { 183 77 61 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D85 = {
+	color = { 190 90 90 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D86 = {
+	color = { 197 103 119 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D87 = {
+	color = { 44 116 148 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D88 = {
+	color = { 51 129 177 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D89 = {
+	color = { 58 142 46 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D90 = {
+	color = { 65 155 75 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D91 = {
+	color = { 72 168 104 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D92 = {
+	color = { 79 181 133 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D93 = {
+	color = { 86 194 162 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D94 = {
+	color = { 93 47 191 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D95 = {
+	color = { 100 60 60 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D96 = {
+	color = { 107 73 89 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D97 = {
+	color = { 114 86 118 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D98 = {
+	color = { 121 99 147 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+D99 = {
+	color = { 128 112 176 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DAG = {
+	color = { 135 125 45 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DAH = {
+	color = { 142 138 74 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DAI = {
+	color = { 149 151 103 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DAK = {
+	color = { 156 164 132 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DEI = {
+	color = { 163 177 161 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DEN = {
+	color = { 170 190 190 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DES = {
+	color = { 177 43 59 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DFR = {
+	color = { 184 56 88 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DFT = {
+	color = { 191 69 117 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DGR = {
+	color = { 198 82 146 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DHA = {
+	color = { 45 95 175 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DIN = {
+	color = { 52 108 44 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DIO = {
+	color = { 59 121 73 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DIR = {
+	color = { 66 134 102 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DKT = {
+	color = { 73 147 131 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DLA = {
+	color = { 80 160 160 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DLM = {
+	color = { 87 173 189 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DLY = {
+	color = { 94 186 58 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DNK = {
+	color = { 101 199 87 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DOM = {
+	color = { 108 52 116 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DON = {
+	color = { 115 65 145 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DRA = {
+	color = { 122 78 174 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DYB = {
+	color = { 129 91 43 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+DZG = {
+	color = { 136 104 72 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ECU = {
+	color = { 143 117 101 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+EDE = {
+	color = { 150 130 130 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+EGY = {
+	color = { 157 143 159 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ELS = {
+	color = { 164 156 188 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ENG = {
+	color = { 171 169 57 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+EOT = {
+	color = { 178 182 86 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+EQT = {
+	color = { 185 195 115 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+EQU = {
+	color = { 192 48 144 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+EST = {
+	color = { 199 61 173 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ETH = {
+	color = { 46 74 42 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+EWE = {
+	color = { 53 87 71 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+EZO = {
+	color = { 60 100 100 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+FER = {
+	color = { 67 113 129 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+FIN = {
+	color = { 74 126 158 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+FJI = {
+	color = { 81 139 187 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+FLA = {
+	color = { 88 152 56 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+FLR = {
+	color = { 95 165 85 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+FND = {
+	color = { 102 178 114 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+FNG = {
+	color = { 109 191 143 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+FRA = {
+	color = { 116 44 172 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+FRM = {
+	color = { 123 57 41 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+FRS = {
+	color = { 130 70 70 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+FSA = {
+	color = { 137 83 99 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+FTJ = {
+	color = { 144 96 128 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+FTR = {
+	color = { 151 109 157 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+FZN = {
+	color = { 158 122 186 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GAL = {
+	color = { 165 135 55 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GAO = {
+	color = { 172 148 84 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GAR = {
+	color = { 179 161 113 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GBR = {
+	color = { 186 174 142 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GCO = {
+	color = { 193 187 171 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GEO = {
+	color = { 40 40 40 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GER = {
+	color = { 47 53 69 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GGO = {
+	color = { 54 66 98 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GJM = {
+	color = { 61 79 127 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GLD = {
+	color = { 68 92 156 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GLI = {
+	color = { 75 105 185 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GML = {
+	color = { 82 118 54 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GNG = {
+	color = { 89 131 83 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GNI = {
+	color = { 96 144 112 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GRE = {
+	color = { 103 157 141 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GRG = {
+	color = { 110 170 170 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GRI = {
+	color = { 117 183 199 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GRN = {
+	color = { 124 196 68 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GRW = {
+	color = { 131 49 97 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GUA = {
+	color = { 138 62 126 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GUI = {
+	color = { 145 75 155 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GUJ = {
+	color = { 152 88 184 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GWA = {
+	color = { 159 101 53 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+GZA = {
+	color = { 166 114 82 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HAI = {
+	color = { 173 127 111 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HAM = {
+	color = { 180 140 140 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HAN = {
+	color = { 187 153 169 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HAR = {
+	color = { 194 166 198 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HAU = {
+	color = { 41 179 67 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HAW = {
+	color = { 48 192 96 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HBC = {
+	color = { 55 45 125 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HDJ = {
+	color = { 62 58 154 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HDY = {
+	color = { 69 71 183 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HEK = {
+	color = { 76 84 52 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HER = {
+	color = { 83 97 81 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HES = {
+	color = { 90 110 110 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HHE = {
+	color = { 97 123 139 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HLA = {
+	color = { 104 136 168 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HMB = {
+	color = { 111 149 197 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HNA = {
+	color = { 118 162 66 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HND = {
+	color = { 125 175 95 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HOB = {
+	color = { 132 188 124 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HOH = {
+	color = { 139 41 153 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HOL = {
+	color = { 146 54 182 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HON = {
+	color = { 153 67 51 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HRE = {
+	color = { 160 80 80 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HRO = {
+	color = { 167 93 109 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HTH = {
+	color = { 174 106 138 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HUN = {
+	color = { 181 119 167 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HYD = {
+	color = { 188 132 196 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+HZJ = {
+	color = { 195 145 65 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+IBE = {
+	color = { 42 158 94 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+IBL = {
+	color = { 49 171 123 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+IBO = {
+	color = { 56 184 152 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ICL = {
+	color = { 63 197 181 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+IDA = {
+	color = { 70 50 50 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+IDN = {
+	color = { 77 63 79 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+IDS = {
+	color = { 84 76 108 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+IND = {
+	color = { 91 89 137 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ION = {
+	color = { 98 102 166 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+IQU = {
+	color = { 105 115 195 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+IRC = {
+	color = { 112 128 64 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+IRE = {
+	color = { 119 141 93 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+IRO = {
+	color = { 126 154 122 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+IRQ = {
+	color = { 133 167 151 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ISQ = {
+	color = { 140 180 180 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ISR = {
+	color = { 147 193 49 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ITA = {
+	color = { 154 46 78 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+IUS = {
+	color = { 161 59 107 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+JAB = {
+	color = { 168 72 136 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+JAI = {
+	color = { 175 85 165 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+JAM = {
+	color = { 182 98 194 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+JAN = {
+	color = { 189 111 63 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+JAP = {
+	color = { 196 124 92 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+JAS = {
+	color = { 43 137 121 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+JAV = {
+	color = { 50 150 150 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+JEY = {
+	color = { 57 163 179 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+JHN = {
+	color = { 64 176 48 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+JLF = {
+	color = { 71 189 77 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+JMB = {
+	color = { 78 42 106 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+JOD = {
+	color = { 85 55 135 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+JOH = {
+	color = { 92 68 164 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+JRR = {
+	color = { 99 81 193 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+JUN = {
+	color = { 106 94 62 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KAB = {
+	color = { 113 107 91 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KAF = {
+	color = { 120 120 120 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KAL = {
+	color = { 127 133 149 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KAN = {
+	color = { 134 146 178 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KAS = {
+	color = { 141 159 47 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KAT = {
+	color = { 148 172 76 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KAU = {
+	color = { 155 185 105 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KAZ = {
+	color = { 162 198 134 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KBA = {
+	color = { 169 51 163 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KBD = {
+	color = { 176 64 192 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KBU = {
+	color = { 183 77 61 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KFA = {
+	color = { 190 90 90 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KHI = {
+	color = { 197 103 119 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KHM = {
+	color = { 44 116 148 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KHN = {
+	color = { 51 129 177 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KHP = {
+	color = { 58 142 46 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KHR = {
+	color = { 65 155 75 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KKI = {
+	color = { 72 168 104 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KKT = {
+	color = { 79 181 133 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KKY = {
+	color = { 86 194 162 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KLM = {
+	color = { 93 47 191 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KLN = {
+	color = { 100 60 60 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KLO = {
+	color = { 107 73 89 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KLT = {
+	color = { 114 86 118 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KMC = {
+	color = { 121 99 147 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KNC = {
+	color = { 128 112 176 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KNG = {
+	color = { 135 125 45 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KNK = {
+	color = { 142 138 74 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KNO = {
+	color = { 149 151 103 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KNT = {
+	color = { 156 164 132 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KOK = {
+	color = { 163 177 161 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KON = {
+	color = { 170 190 190 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KOR = {
+	color = { 177 43 59 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KOT = {
+	color = { 184 56 88 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KPR = {
+	color = { 191 69 117 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KRA = {
+	color = { 198 82 146 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KRG = {
+	color = { 45 95 175 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KRI = {
+	color = { 52 108 44 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KRL = {
+	color = { 59 121 73 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KRN = {
+	color = { 66 134 102 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KRT = {
+	color = { 73 147 131 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KRU = {
+	color = { 80 160 160 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KSN = {
+	color = { 87 173 189 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KSS = {
+	color = { 94 186 58 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KTI = {
+	color = { 101 199 87 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KTU = {
+	color = { 108 52 116 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KUK = {
+	color = { 115 65 145 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KUN = {
+	color = { 122 78 174 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KUR = {
+	color = { 129 91 43 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KUT = {
+	color = { 136 104 72 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KYN = {
+	color = { 143 117 101 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KYR = {
+	color = { 150 130 130 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KZH = {
+	color = { 157 143 159 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+KZM = {
+	color = { 164 156 188 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LAD = {
+	color = { 171 169 57 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LAH = {
+	color = { 178 182 86 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LAN = {
+	color = { 185 195 115 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LAO = {
+	color = { 192 48 144 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LAT = {
+	color = { 199 61 173 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LBA = {
+	color = { 46 74 42 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LBL = {
+	color = { 53 87 71 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LBY = {
+	color = { 60 100 100 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LEB = {
+	color = { 67 113 129 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LEO = {
+	color = { 74 126 158 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LGA = {
+	color = { 81 139 187 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LIB = {
+	color = { 88 152 56 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LIM = {
+	color = { 95 165 85 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LIP = {
+	color = { 102 178 114 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LIT = {
+	color = { 109 191 143 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LKT = {
+	color = { 116 44 172 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LMW = {
+	color = { 123 57 41 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LND = {
+	color = { 130 70 70 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LNG = {
+	color = { 137 83 99 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LOM = {
+	color = { 144 96 128 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LOU = {
+	color = { 151 109 157 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LRR = {
+	color = { 158 122 186 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LUA = {
+	color = { 165 135 55 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LUB = {
+	color = { 172 148 84 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LUC = {
+	color = { 179 161 113 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LUO = {
+	color = { 186 174 142 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LUR = {
+	color = { 193 187 171 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LUX = {
+	color = { 40 40 40 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+LZO = {
+	color = { 47 53 69 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MAD = {
+	color = { 54 66 98 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MAH = {
+	color = { 61 79 127 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MAI = {
+	color = { 68 92 156 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MAK = {
+	color = { 75 105 185 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MAL = {
+	color = { 82 118 54 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MAY = {
+	color = { 89 131 83 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MAZ = {
+	color = { 96 144 112 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MBS = {
+	color = { 103 157 141 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MCH = {
+	color = { 110 170 170 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MCO = {
+	color = { 117 183 199 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MCR = {
+	color = { 124 196 68 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MDI = {
+	color = { 131 49 97 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MDK = {
+	color = { 138 62 126 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MEC = {
+	color = { 145 75 155 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MEI = {
+	color = { 152 88 184 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MEW = {
+	color = { 159 101 53 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MEX = {
+	color = { 166 114 82 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MGB = {
+	color = { 173 127 111 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MGD = {
+	color = { 180 140 140 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MGH = {
+	color = { 187 153 169 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MGL = {
+	color = { 194 166 198 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MHR = {
+	color = { 41 179 67 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MJK = {
+	color = { 48 192 96 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MJT = {
+	color = { 55 45 125 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MKT = {
+	color = { 62 58 154 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MKU = {
+	color = { 69 71 183 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MLD = {
+	color = { 76 84 52 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MLT = {
+	color = { 83 97 81 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MNB = {
+	color = { 90 110 110 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MNC = {
+	color = { 97 123 139 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MND = {
+	color = { 104 136 168 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MNG = {
+	color = { 111 149 197 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MNP = {
+	color = { 118 162 66 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MOD = {
+	color = { 125 175 95 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MOL = {
+	color = { 132 188 124 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MON = {
+	color = { 139 41 153 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MOR = {
+	color = { 146 54 182 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MOS = {
+	color = { 153 67 51 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MPH = {
+	color = { 160 80 80 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MRA = {
+	color = { 167 93 109 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MRD = {
+	color = { 174 106 138 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MRI = {
+	color = { 181 119 167 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MRN = {
+	color = { 188 132 196 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MRV = {
+	color = { 195 145 65 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MSC = {
+	color = { 42 158 94 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MSH = {
+	color = { 49 171 123 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MSI = {
+	color = { 56 184 152 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MSK = {
+	color = { 63 197 181 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MSN = {
+	color = { 70 50 50 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MST = {
+	color = { 77 63 79 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MTB = {
+	color = { 84 76 108 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MTC = {
+	color = { 91 89 137 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MTP = {
+	color = { 98 102 166 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MUG = {
+	color = { 105 115 195 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MUI = {
+	color = { 112 128 64 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MYB = {
+	color = { 119 141 93 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MYI = {
+	color = { 126 154 122 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MYS = {
+	color = { 133 167 151 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+MZB = {
+	color = { 140 180 180 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NAG = {
+	color = { 147 193 49 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NAH = {
+	color = { 154 46 78 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NAL = {
+	color = { 161 59 107 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NAM = {
+	color = { 168 72 136 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NAR = {
+	color = { 175 85 165 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NAS = {
+	color = { 182 98 194 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NAV = {
+	color = { 189 111 63 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NAW = {
+	color = { 196 124 92 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NBA = {
+	color = { 43 137 121 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NBS = {
+	color = { 50 150 150 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NCA = {
+	color = { 57 163 179 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NCR = {
+	color = { 64 176 48 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NEJ = {
+	color = { 71 189 77 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NEN = {
+	color = { 78 42 106 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NEP = {
+	color = { 85 55 135 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NET = {
+	color = { 92 68 164 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NEW = {
+	color = { 99 81 193 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NGA = {
+	color = { 106 94 62 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NGF = {
+	color = { 113 107 91 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NGU = {
+	color = { 120 120 120 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NIC = {
+	color = { 127 133 149 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NNG = {
+	color = { 134 146 178 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NNV = {
+	color = { 141 159 47 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NOR = {
+	color = { 148 172 76 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NPU = {
+	color = { 155 185 105 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NRU = {
+	color = { 162 198 134 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NSW = {
+	color = { 169 51 163 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NTO = {
+	color = { 176 64 192 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NTU = {
+	color = { 183 77 61 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NUE = {
+	color = { 190 90 90 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NVJ = {
+	color = { 197 103 119 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NVL = {
+	color = { 44 116 148 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NVS = {
+	color = { 51 129 177 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NYL = {
+	color = { 58 142 46 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NYM = {
+	color = { 65 155 75 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NYP = {
+	color = { 72 168 104 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NYR = {
+	color = { 79 181 133 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NZL = {
+	color = { 86 194 162 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+NZP = {
+	color = { 93 47 191 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+OAX = {
+	color = { 100 60 60 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+OCC = {
+	color = { 107 73 89 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+OGD = {
+	color = { 114 86 118 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+OLD = {
+	color = { 121 99 147 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+OMA = {
+	color = { 128 112 176 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+OMO = {
+	color = { 135 125 45 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ONT = {
+	color = { 142 138 74 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ORA = {
+	color = { 149 151 103 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ORG = {
+	color = { 156 164 132 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ORI = {
+	color = { 163 177 161 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ORM = {
+	color = { 170 190 190 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ORN = {
+	color = { 177 43 59 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+OUA = {
+	color = { 184 56 88 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+OVB = {
+	color = { 191 69 117 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+OVM = {
+	color = { 198 82 146 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+OYO = {
+	color = { 45 95 175 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+OZH = {
+	color = { 52 108 44 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PAA = {
+	color = { 59 121 73 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PAK = {
+	color = { 66 134 102 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PAL = {
+	color = { 73 147 131 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PAN = {
+	color = { 80 160 160 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PAP = {
+	color = { 87 173 189 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PAR = {
+	color = { 94 186 58 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PAT = {
+	color = { 101 199 87 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PAU = {
+	color = { 108 52 116 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PBC = {
+	color = { 115 65 145 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PCO = {
+	color = { 122 78 174 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PDI = {
+	color = { 129 91 43 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PER = {
+	color = { 136 104 72 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PEU = {
+	color = { 143 117 101 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PHI = {
+	color = { 150 130 130 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PHL = {
+	color = { 157 143 159 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PLC = {
+	color = { 164 156 188 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PLP = {
+	color = { 171 169 57 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PLT = {
+	color = { 178 182 86 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PLY = {
+	color = { 185 195 115 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PMA = {
+	color = { 192 48 144 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PNI = {
+	color = { 199 61 173 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PNM = {
+	color = { 46 74 42 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PNS = {
+	color = { 53 87 71 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+POL = {
+	color = { 60 100 100 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+POM = {
+	color = { 67 113 129 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PON = {
+	color = { 74 126 158 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+POR = {
+	color = { 81 139 187 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PPU = {
+	color = { 88 152 56 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PRA = {
+	color = { 95 165 85 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PRC = {
+	color = { 102 178 114 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PRG = {
+	color = { 109 191 143 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PRK = {
+	color = { 116 44 172 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PRM = {
+	color = { 123 57 41 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PRU = {
+	color = { 130 70 70 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PTA = {
+	color = { 137 83 99 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PTN = {
+	color = { 144 96 128 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PUD = {
+	color = { 151 109 157 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PUE = {
+	color = { 158 122 186 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+PWN = {
+	color = { 165 135 55 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+QIA = {
+	color = { 172 148 84 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+QUE = {
+	color = { 179 161 113 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+QWR = {
+	color = { 186 174 142 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+RAJ = {
+	color = { 193 187 171 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+RGB = {
+	color = { 40 40 40 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+RHE = {
+	color = { 47 53 69 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+RHN = {
+	color = { 54 66 98 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+RIO = {
+	color = { 61 79 127 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ROM = {
+	color = { 68 92 156 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+RSM = {
+	color = { 75 105 185 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+RUS = {
+	color = { 82 118 54 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+RWD = {
+	color = { 89 131 83 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+RYU = {
+	color = { 96 144 112 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SAF = {
+	color = { 103 157 141 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SAH = {
+	color = { 110 170 170 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SAK = {
+	color = { 117 183 199 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SAN = {
+	color = { 124 196 68 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SAR = {
+	color = { 131 49 97 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SAS = {
+	color = { 138 62 126 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SAT = {
+	color = { 145 75 155 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SAV = {
+	color = { 152 88 184 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SAX = {
+	color = { 159 101 53 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SC1 = {
+	color = { 166 114 82 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SC2 = {
+	color = { 173 127 111 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SC3 = {
+	color = { 180 140 140 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SC4 = {
+	color = { 187 153 169 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SCA = {
+	color = { 194 166 198 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SCH = {
+	color = { 41 179 67 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SCM = {
+	color = { 48 192 96 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SCN = {
+	color = { 55 45 125 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SCO = {
+	color = { 62 58 154 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SCR = {
+	color = { 69 71 183 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SCT = {
+	color = { 76 84 52 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SCW = {
+	color = { 83 97 81 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SDM = {
+	color = { 90 110 110 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SEL = {
+	color = { 97 123 139 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SEQ = {
+	color = { 104 136 168 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SER = {
+	color = { 111 149 197 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SGF = {
+	color = { 118 162 66 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SGU = {
+	color = { 125 175 95 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SHA = {
+	color = { 132 188 124 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SHN = {
+	color = { 139 41 153 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SHS = {
+	color = { 146 54 182 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SHW = {
+	color = { 153 67 51 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SIA = {
+	color = { 160 80 80 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SIB = {
+	color = { 167 93 109 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SIC = {
+	color = { 174 106 138 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SIH = {
+	color = { 181 119 167 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SIK = {
+	color = { 188 132 196 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SIL = {
+	color = { 195 145 65 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SIN = {
+	color = { 42 158 94 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SKH = {
+	color = { 49 171 123 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SKM = {
+	color = { 56 184 152 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SKY = {
+	color = { 63 197 181 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SLK = {
+	color = { 70 50 50 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SLO = {
+	color = { 77 63 79 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SLS = {
+	color = { 84 76 108 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SLV = {
+	color = { 91 89 137 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SLW = {
+	color = { 98 102 166 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SMB = {
+	color = { 105 115 195 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SMI = {
+	color = { 112 128 64 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SML = {
+	color = { 119 141 93 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SNA = {
+	color = { 126 154 122 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SNG = {
+	color = { 133 167 151 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SOK = {
+	color = { 140 180 180 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SPA = {
+	color = { 147 193 49 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SPC = {
+	color = { 154 46 78 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SPU = {
+	color = { 161 59 107 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SRA = {
+	color = { 168 72 136 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SRB = {
+	color = { 175 85 165 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SRK = {
+	color = { 182 98 194 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SRR = {
+	color = { 189 111 63 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SSU = {
+	color = { 196 124 92 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+STG = {
+	color = { 43 137 121 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SUD = {
+	color = { 50 150 150 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SUL = {
+	color = { 57 163 179 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SUR = {
+	color = { 64 176 48 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SWE = {
+	color = { 71 189 77 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SWI = {
+	color = { 78 42 106 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SWT = {
+	color = { 85 55 135 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SWZ = {
+	color = { 92 68 164 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+SYR = {
+	color = { 99 81 193 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TAR = {
+	color = { 106 94 62 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TAS = {
+	color = { 113 107 91 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TBI = {
+	color = { 120 120 120 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TEK = {
+	color = { 127 133 149 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TEX = {
+	color = { 134 146 178 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TGI = {
+	color = { 141 159 47 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TGR = {
+	color = { 148 172 76 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+THL = {
+	color = { 155 185 105 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TIB = {
+	color = { 162 198 134 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TID = {
+	color = { 169 51 163 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TIP = {
+	color = { 176 64 192 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TIR = {
+	color = { 183 77 61 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TIS = {
+	color = { 190 90 90 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TIV = {
+	color = { 197 103 119 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TJI = {
+	color = { 44 116 148 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TKE = {
+	color = { 51 129 177 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TMN = {
+	color = { 58 142 46 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TNG = {
+	color = { 65 155 75 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TNS = {
+	color = { 72 168 104 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TOB = {
+	color = { 79 181 133 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TPG = {
+	color = { 86 194 162 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TPI = {
+	color = { 93 47 191 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TPS = {
+	color = { 100 60 60 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TRA = {
+	color = { 107 73 89 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TRC = {
+	color = { 114 86 118 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TRE = {
+	color = { 121 99 147 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TRH = {
+	color = { 128 112 176 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TRI = {
+	color = { 135 125 45 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TRK = {
+	color = { 142 138 74 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TRM = {
+	color = { 149 151 103 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TRN = {
+	color = { 156 164 132 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TRS = {
+	color = { 163 177 161 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TRZ = {
+	color = { 170 190 190 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TSW = {
+	color = { 177 43 59 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TUA = {
+	color = { 184 56 88 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TUG = {
+	color = { 191 69 117 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TUN = {
+	color = { 198 82 146 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TUR = {
+	color = { 45 95 175 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TUS = {
+	color = { 52 108 44 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TUV = {
+	color = { 59 121 73 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+TWT = {
+	color = { 66 134 102 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+UBD = {
+	color = { 73 147 131 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+UCA = {
+	color = { 80 160 160 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+UDM = {
+	color = { 87 173 189 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+UKR = {
+	color = { 94 186 58 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ULR = {
+	color = { 101 199 87 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ULS = {
+	color = { 108 52 116 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ULT = {
+	color = { 115 65 145 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+UNL = {
+	color = { 122 78 174 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+UNT = {
+	color = { 129 91 43 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+UOM = {
+	color = { 136 104 72 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+URL = {
+	color = { 143 117 101 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+URU = {
+	color = { 150 130 130 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+USA = {
+	color = { 157 143 159 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+UTE = {
+	color = { 164 156 188 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+UTR = {
+	color = { 171 169 57 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+UYA = {
+	color = { 178 182 86 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+UZB = {
+	color = { 185 195 115 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+UZH = {
+	color = { 192 48 144 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+VEN = {
+	color = { 199 61 173 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+VIE = {
+	color = { 46 74 42 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+VND = {
+	color = { 53 87 71 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+VNT = {
+	color = { 60 100 100 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+VNZ = {
+	color = { 67 113 129 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WAD = {
+	color = { 74 126 158 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WAL = {
+	color = { 81 139 187 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WAS = {
+	color = { 88 152 56 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WBL = {
+	color = { 95 165 85 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WDJ = {
+	color = { 102 178 114 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WEI = {
+	color = { 109 191 143 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WES = {
+	color = { 116 44 172 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WIN = {
+	color = { 123 57 41 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WKB = {
+	color = { 130 70 70 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WLD = {
+	color = { 137 83 99 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WLG = {
+	color = { 144 96 128 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WLL = {
+	color = { 151 109 157 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WLO = {
+	color = { 158 122 186 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WLS = {
+	color = { 165 135 55 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WLT = {
+	color = { 172 148 84 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WRD = {
+	color = { 179 161 113 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WRR = {
+	color = { 186 174 142 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WSG = {
+	color = { 193 187 171 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WTI = {
+	color = { 40 40 40 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WTU = {
+	color = { 47 53 69 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WUR = {
+	color = { 54 66 98 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+WYU = {
+	color = { 61 79 127 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+XHO = {
+	color = { 68 92 156 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+XIB = {
+	color = { 75 105 185 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+XIN = {
+	color = { 82 118 54 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+YAK = {
+	color = { 89 131 83 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+YEM = {
+	color = { 96 144 112 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+YGU = {
+	color = { 103 157 141 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+YKA = {
+	color = { 110 170 170 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+YOG = {
+	color = { 117 183 199 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+YUC = {
+	color = { 124 196 68 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+YUE = {
+	color = { 131 49 97 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+YUG = {
+	color = { 138 62 126 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+YUN = {
+	color = { 145 75 155 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+YUR = {
+	color = { 152 88 184 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+YUZ = {
+	color = { 159 101 53 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+YYT = {
+	color = { 166 114 82 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ZAI = {
+	color = { 173 127 111 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ZAN = {
+	color = { 180 140 140 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ZHI = {
+	color = { 187 153 169 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ZIM = {
+	color = { 194 166 198 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ZND = {
+	color = { 41 179 67 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ZUL = {
+	color = { 48 192 96 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}
+ZWY = {
+	color = { 55 45 125 }
+	country_type = decentralized
+	tier = principality
+	cultures = { wildlander }
+	religion = protestant
+	capital = STATE_BUE
+}

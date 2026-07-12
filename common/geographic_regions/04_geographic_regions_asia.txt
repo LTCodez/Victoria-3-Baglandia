@@ -1,0 +1,403 @@
+﻿geographic_region_asia = {
+	short_key = "asia"
+
+	strategic_regions = {
+		# Middle East
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+
+		# Central Asia
+		sr:region_abe
+		sr:region_abe
+
+		# India
+		sr:region_abe
+		sr:region_abe
+
+		# East Asia and Siberia
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+
+		# SEA
+		sr:region_abe
+		sr:region_abe
+
+		# OCE
+		sr:region_abe
+	}
+}
+
+geographic_region_middle_east = {
+	short_key = "middle_east"
+
+	strategic_regions = {
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+	}
+}
+
+geographic_region_india = {
+	short_key = "india"
+
+	strategic_regions = {
+		sr:region_abe
+		sr:region_abe
+	}
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_east_asia = {
+	short_key = "east_asia"
+
+	strategic_regions = {
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+	}
+}
+
+geographic_region_south_east_asia = {
+	short_key = "south_east_asia"
+
+	strategic_regions = {
+		sr:region_abe
+		sr:region_abe
+	}
+}
+
+geographic_region_china = {
+	short_key = "china"
+
+	strategic_regions = {
+		sr:region_abe
+		sr:region_abe
+		# not counting manchuria here deliberately
+	}
+}
+
+geographic_region_greater_khorasan = {
+	short_key = "greater_khorasan"
+
+	state_regions = {
+		STATE_BUE
+    	STATE_BUE
+    	STATE_BUE
+    	STATE_BUE
+    	STATE_BUE
+    	STATE_BUE
+    	STATE_BUE
+	}
+}
+
+geographic_region_chorasmia = {
+	short_key = "chorasmia"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_transoxiana = {
+	short_key = "transoxiana"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_honshu = {
+	short_key = "honshu"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+geographic_region_ezochi = { # Used purely for loc
+	short_key = "ezochi"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+	}
+}
+geographic_region_japan = {
+	short_key = "japan"
+
+	state_regions = { 
+		STATE_BUE 
+		STATE_BUE 
+		STATE_BUE 
+		STATE_BUE 
+		STATE_BUE 
+		STATE_BUE 
+		STATE_BUE 
+		STATE_BUE 
+		STATE_BUE 
+		STATE_BUE 
+		STATE_BUE 
+		STATE_BUE 
+	}
+}
+
+geographic_region_philippines = {
+	short_key = "philippines"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_home_islands = {
+	short_key = "home_islands"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_korea = {
+	short_key = "korea"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_han_homelands = {
+	short_key = "han_homelands"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_indian_frontier = {
+	short_key = "indian_frontier"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_turkestan = {
+	short_key = "turkestan"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_burma = {
+	short_key = "burma"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_afghanistan = {
+	short_key = "afghanistan"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_greater_afghanistan = {
+	short_key = "greater_afghanistan"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_great_game_region = {
+	short_key = "great_game_region"
+
+	strategic_regions = {
+		sr:region_abe
+		sr:region_abe
+	}
+}
+
+geographic_region_australia = {
+	short_key = "australia"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_new_zealand = {
+	short_key = "new_zealand"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_australasia = {
+	short_key = "australasia"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_delhi_calcutta_line = {
+	short_key = "delhi_calcutta_line"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_allahabad_bombay_line = {
+	short_key = "allahabad_bombay_line"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_bombay_madras_line = {
+	short_key = "bombay_madras_line"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_gujarat_bombay_line = {
+	short_key = "gujarat_bombay_line"
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+	}
+}

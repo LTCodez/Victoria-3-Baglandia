@@ -1,0 +1,316 @@
+﻿# Auto-generated inert hidden event stubs.
+namespace = after_revolution_technical
+after_revolution_technical.1 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = ai_expedition_simulator
+ai_expedition_simulator.1 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = diplomatic_events
+diplomatic_events.1 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = exiles_events
+exiles_events.100 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = french_pretenders
+french_pretenders.6 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+french_pretenders.7 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = historical_agitators
+historical_agitators.23 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+historical_agitators.7 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = hungary_events
+hungary_events.6 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = jail
+jail.1 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = japan_monarchy
+japan_monarchy.1 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+japan_monarchy.2 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+japan_monarchy.3 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+japan_monarchy.4 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = mon_state_formation
+mon_state_formation.16 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+mon_state_formation.17 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = plague
+plague.100 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+plague.3 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = portuguese_monarchs
+portuguese_monarchs.3 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = raj
+raj.2 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = resignation
+resignation.1 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+resignation.2 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+resignation.3 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = russia_monarchy
+russia_monarchy.10 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+russia_monarchy.11 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+russia_monarchy.3 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+russia_monarchy.4 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+russia_monarchy.5 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+russia_monarchy.9 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = sepoy_mutiny_events
+sepoy_mutiny_events.1 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+sepoy_mutiny_events.4 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = serbia
+serbia.2 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = shogunate
+shogunate.1 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+shogunate.3 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+shogunate.4 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+shogunate.6 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+shogunate.7 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = subject_interactions
+subject_interactions.1 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+subject_interactions.3 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = two_spains
+two_spains.4 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+namespace = wedding
+wedding.2 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}
+wedding.3 = {
+	type = country_event
+	placement = ROOT
+	hidden = yes
+	trigger = { always = no }
+	immediate = { }
+}

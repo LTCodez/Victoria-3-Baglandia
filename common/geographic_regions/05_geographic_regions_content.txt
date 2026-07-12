@@ -1,0 +1,95 @@
+﻿geographic_region_wet_process_coffee_region = {
+	short_key = "wet_process_region"
+
+	strategic_regions = {
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+	}
+}
+
+geographic_region_new_world = {
+	short_key = "new_world"
+
+	strategic_regions = {
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+	}
+}
+
+geographic_region_old_world = {
+	short_key = "old_world"
+
+	strategic_regions = {
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+	}
+}
+
+geographic_region_krakatoa_tsunami_zone = {
+	short_key = "krakatoa_tsunami_zone"
+
+	state_regions = {
+		# Indochina
+		STATE_BUE STATE_BUE
+
+		# Indonesia
+		STATE_BUE STATE_BUE
+
+		# South China
+		STATE_BUE STATE_BUE
+
+		# Japan
+		STATE_BUE STATE_BUE
+
+		# Oceania
+		STATE_BUE STATE_BUE
+
+		# East Africa
+		STATE_BUE STATE_BUE
+
+		# Southern Africa
+		STATE_BUE STATE_BUE
+
+		# Bengal
+		STATE_BUE STATE_BUE
+
+		# Madras
+		STATE_BUE STATE_BUE
+	}
+}

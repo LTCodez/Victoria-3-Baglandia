@@ -1,0 +1,1091 @@
+﻿# Auto-generated inert JE stubs.
+je_abolish_monarchy = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_achieve_sovereignty = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_acquire_korean_protectorate = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_acw_countdown = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_age_of_princes = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_alaska = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_american_west_migration = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_antarctica = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_atocha_railway = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_balkan_national_awakenings = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_boxer_rebellion = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_british_dictate_law = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_british_dictate_military = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_british_dictate_plantations = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_british_dictate_universities = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_canada_pacific_railway = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_caudillo = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_central_africa_expedition = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_central_america_migration = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_chinese_concessions = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_chinese_missions = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_christ_of_nations = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_codify_chinese_border = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_coffee_with_milk = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_colonize_korea = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_communal_divides = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_congo_expedition = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_conquer_oregon = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_conquest_of_algeria = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_conquest_of_central_asia = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_consolidate_afghanistan_objective = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_consolidate_british_india = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_consolidate_central_asia = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_consolidate_colonial_rule = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_consolidate_persia = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_counter_russian_pacific_influence = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_cuba_independencia = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_danubian_federation = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_devorismo = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_disrupt_russian_caucasus = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_divided_monarchists = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_eastern_frontier = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_elevate_buddhism = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_fascism_1 = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_government_petition = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_government_petition_negotiation_version = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_government_petition_negotiation_version_b = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_gran_teatro = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_great_eastern_crisis = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_great_game_control = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_great_reformer = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_great_reforms_bureaucratic = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_great_reforms_military = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_great_reforms_serfdom = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_greek_nationalism = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_grunderzeit = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_gyojo_shinwon = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_haitian_debt = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_hawaii = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_hawaiian_interest = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_hispanoamerica = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_hungarian_revolution = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_iberia = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_indian_famines = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_ip4_coup = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_iwakura_mission = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_kaiserforum = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_king_in_parliament = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_lands_of_anarchy = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_law_imposition = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_maintain_afghan_protectorate = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_manifest_destiny_mexico = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_matter_of_hungary = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_meiji_army = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_meiji_diplomacy = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_meiji_economy = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_meiji_imperial_marriage = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_meiji_main = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_meiji_restoration = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_metternich = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_montenegrin_raiding = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_negotiate_army_quest = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_negotiate_building_group = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_negotiate_buildings = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_negotiate_sol = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_negotiate_taxes = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_new_republic = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_niger_river_expedition = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_opium_wars = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_oregon = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_pacify_kazakh_steppes = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_pacify_the_steppes = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_pamir_expedition_objective = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_patagonia = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_pedro_brazil = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_pedro_republic = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_pena_palace = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_peru_bolivia = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_populist_unrest = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_portugal_regeneration = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_portugal_regeneration_agriculture = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_portugal_regeneration_institutions = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_portugal_regeneration_public_works = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_prussia_of_the_balkans = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_reconquista = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_reunify_china = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_risorgimento = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_ryukyu_rivalry = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_sagrada_familia = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_sakoku = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_schleswig_holstein_question = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_scramble_for_africa = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_secure_influence_over_persia = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_secure_persian_border = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_serbian_throne = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_shinbutsu_bunri = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_sick_man_army = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_sick_man_bureaucracy = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_sick_man_education = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_sick_man_syria = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_sikh_sovereignty = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_south_america_migration = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_south_american_national_identity = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_spa_economic_regeneration_land_reform = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_spain_provisional_government = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_spanish_anarchism = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_spoils_of_war = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_springtime_of_the_peoples = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_standestaat = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_taming_the_north = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_technocracy = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tenpo_crisis = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_the_algerian_departements = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_the_balkan_league = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_the_first_carlist_war = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_the_two_spains = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tibet_expedition = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_trans_continental_railway = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_trans_siberian_railway = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_uneasy_raj = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_unify_afghanistan = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_unify_afghanistan_objective = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_veiled_protectorate = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_vernacular_policy = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_warlord_china = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_west_america_expedition = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_zaibatsu = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_aberdeen_act = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_acw_war = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_african_colonies = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_colonization_laws = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_earn_recognition = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_egalitarian_society = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_expand_navy_and_army = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_expanding_the_market = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_exporting_profits = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_form_alliance = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_great_power = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_greater_power = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_greatest_power = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_increase_technology = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_liberate_the_slaves = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_lower_production_costs = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_objective_encourage_liberal_ideas = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_objective_expand_goods_production = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_pass_laws = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_portugal_united_kingdom = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_public_services = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_raise_exports_value = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_refining_goods = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_specialized_goods = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_specialized_inputs = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_strong_market = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_subject_liberty = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_take_subject = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_the_hegemon = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_capacity_deficit = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_change_production_method = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_colonize_state = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_convoy_raiding = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_create_formation = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_declare_an_interest = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_earn_obligation = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_enact_institution_law = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_establish_company = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_expand_basic_building = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_expand_military = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_expand_productive_building = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_fix_budget_deficit = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_fix_unproductive_building = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_foreign_investment = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_form_power_bloc = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_grow_gdp = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_improve_consumer_goods_access = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_improve_market_access_with_railways = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_improve_rank = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_improve_supply_network = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_incorporate_state = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_increase_immigration = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_increase_market_access_by_decree = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_increase_relations = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_invest_into_an_institution = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_is_play_target = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_lobbies = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_make_interest_group_happy = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_make_peace = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_mobilize_army = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_prevent_revolution = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_promote_movement = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_recover_from_default = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_recruit_promote_commander = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_reform_government = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_research_technology = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_send_general_to_front = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_tutorial_start_diplomatic_play = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_unrecognized_power = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_utilizing_our_strength = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}
+je_women_and_children = {
+	group = je_group_global_test
+	possible = { always = no }
+	complete = { always = no }
+}

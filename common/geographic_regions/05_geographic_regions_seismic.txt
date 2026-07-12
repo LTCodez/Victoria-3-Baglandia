@@ -1,0 +1,88 @@
+﻿geographic_region_ring_of_fire = { # approximation of the Ring of Fire
+	short_key = "ring_of_fire"
+
+	strategic_regions = {
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+	}
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+
+		# Japan
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+
+		# Pacific Mexico
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_alpide_belt = { # approximation of Alpide belt, Austrian geologist Eduard Suess
+	short_key = "alpide_belt"
+
+	strategic_regions = {
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+		sr:region_abe
+	}
+
+	state_regions = {
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+		STATE_BUE
+	}
+}
+
+geographic_region_great_rift_valley = { # approximation of East African Rift, or the Gregory Rift, originally called the Great Rift Valley by British geologist and explorer John Walter Gregory
+	short_key = "great_rift_valley"
+
+	strategic_regions = {
+		sr:region_abe
+		sr:region_abe
+	}
+}
